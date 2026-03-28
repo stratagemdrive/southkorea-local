@@ -1,0 +1,37 @@
+name: Fetch South Korea News
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 6 AM EST (UTC+0 = EST+5 offset; EST is UTC-5)
+    - cron: "0 23 * * *"   # 6 PM EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news fetcher
+        run: python fetch_news.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/southkorea_news.json
+          git diff --cached --quiet || git commit -m "chore: update southkorea_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
