@@ -1,0 +1,613 @@
+{
+  "country": "southkorea",
+  "generated_at": "2026-03-28T16:09:01Z",
+  "categories": [
+    "Diplomacy",
+    "Military",
+    "Energy",
+    "Economy",
+    "Local Events"
+  ],
+  "Diplomacy": [
+    {
+      "id": "f1554993feb53a373f10724c82f4e095",
+      "title": "S. Korea blanked by Ivory Coast in 1st match of World Cup year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000200315",
+      "published_date": "2026-03-28T15:57:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "40de8cadfebf7bd100a27d6bfd6c1e8e",
+      "title": "Russia's deputy FM warns of 'retaliatory measures' in event of Seoul arms aid to Kiev",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003300315",
+      "published_date": "2026-03-28T09:40:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8ea55cc7387ff71a3f3d53356f980619",
+      "title": "Wiz starter pleased with team win despite erratic day on mound",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003200315",
+      "published_date": "2026-03-28T09:28:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2c6ca6937e51dd3f7503cd82ed2bb13e",
+      "title": "Teen rookie savors 'fun' KBO debut with record-tying 3 hits",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003100315",
+      "published_date": "2026-03-28T09:19:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "33d761fd7ce7c1985626a7136a12a9d6",
+      "title": "Awkward feelings aside, new Wiz slugger hoping to beat former team on KBO Opening Day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328002100315",
+      "published_date": "2026-03-28T04:33:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d1b028006e51d01e2c5d985195ddd061",
+      "title": "S. Korea, Ukraine FMs agree to handle issue of N. Korean POWs in line with humanitarian principles",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328001200315",
+      "published_date": "2026-03-28T01:30:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "43696f8568a6a63824b1940f7f600476",
+      "title": "Coach stresses quick transitions in pre-World Cup friendly vs. Ivory Coast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328001000315",
+      "published_date": "2026-03-28T00:44:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "06b7f4f0ca5ea1bd1d324225dbb083d0",
+      "title": "N. Korea's Kim says ties with China put on 'new high stage' in message to Xi",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328000800315",
+      "published_date": "2026-03-28T00:34:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a848f4745b1b5afe6094a866a278e1e1",
+      "title": "(2nd LD) U.S. expects Iran operation to end in 'weeks,' can achieve objectives without ground troops: Rubio",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328000252315",
+      "published_date": "2026-03-27T21:52:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "efd74d57a5109e0e9258062cc8359c13",
+      "title": "(LEAD) U.S. expects Iran operation to end in 'weeks,' can achieve objectives without ground troops: Rubio",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328000251315",
+      "published_date": "2026-03-27T19:18:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "df7b4dae4cd12c156f373fb7da051530",
+      "title": "U.S. expects Iran operation to end in 'weeks,' can achieve objectives without ground troops: Rubio",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328000200315",
+      "published_date": "2026-03-27T18:34:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bbffe734dcc72d42614a181320cc9c0c",
+      "title": "Samsung Electronics partners with BTS for world tour collaboration",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327010700320",
+      "published_date": "2026-03-27T14:27:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "20cac04db46b7b32851b75e4bb7a2ede",
+      "title": "North Korea orders AI and new energy push, threatens managers who inflate results",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-orders-ai-and-new-energy-push-threatens-managers-who-inflate-results/",
+      "published_date": "2026-03-27T14:17:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6c2f61483dd2b035607972d2df71ef4e",
+      "title": "U.S. diplomat to visit S. Korea to advance partnerships to support U.S. shipbuilding workforce development",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327010600315",
+      "published_date": "2026-03-27T14:06:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "67e7f002c881542d9e253d6c65892611",
+      "title": "(LEAD) Samsung Electronics' unionized workers halt talks with management",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327010351320",
+      "published_date": "2026-03-27T13:00:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4a7ef02db73647419946b6499217b023",
+      "title": "Samsung Electronics' unionized workers halt talks with management",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327010300320",
+      "published_date": "2026-03-27T11:56:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f1f7e2063b9b990c3a47baf60655be31",
+      "title": "S. Korea, EU discuss expanding supply chain cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327010200315",
+      "published_date": "2026-03-27T11:25:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "18fd3cb309a1d618ed0edbd205460589",
+      "title": "Lukashenko orders opening of Belarusian Embassy in North Korea",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/03/lukashenko-orders-opening-of-belarusian-embassy-in-north-korea/",
+      "published_date": "2026-03-27T10:33:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4e58f6e92a407c9640d97aae40d99e04",
+      "title": "North Korea-China rail revival fuels trade surge, sanctions evasion attempts",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-china-rail-revival-fuels-trade-surge-sanctions-evasion-attempts/",
+      "published_date": "2026-03-27T10:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "870ce9ed6cefcc2300f64d6551ca53d4",
+      "title": "Lee doesn’t mention North Korea in memorial for troops killed in sea skirmishes",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/03/lee-doesnt-mention-north-korea-in-memorial-for-troops-killed-in-sea-skirmishes/",
+      "published_date": "2026-03-27T09:58:18Z",
+      "category": "Diplomacy"
+    }
+  ],
+  "Military": [
+    {
+      "id": "0027b0114f9fc32344a13a7d5a2bd134",
+      "title": "Trump says 'Cuba is next' as he highlights America's 'great' military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328000400315",
+      "published_date": "2026-03-27T23:39:26Z",
+      "category": "Military"
+    },
+    {
+      "id": "c13b527ed698d99cdcfe23126797eb75",
+      "title": "Hanwha Systems wins 86.6 bln-won military satellite system maintenance deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327007900320",
+      "published_date": "2026-03-27T07:33:51Z",
+      "category": "Military"
+    },
+    {
+      "id": "6f365c19c7d0d62b32bb6a2d83c6e59a",
+      "title": "(LEAD) Lee vows to swiftly retake wartime command from U.S., speed up military reform including selective conscription",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327006751315",
+      "published_date": "2026-03-27T07:27:05Z",
+      "category": "Military"
+    },
+    {
+      "id": "54f3302772d3a74d14c775241108baab",
+      "title": "Lee vows to swiftly retake wartime command from U.S., speed up military reform including selective conscription",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327006700315",
+      "published_date": "2026-03-27T06:52:29Z",
+      "category": "Military"
+    },
+    {
+      "id": "94dd4ed2864dd39f59072e553d58ad41",
+      "title": "(LEAD) 40 personnel deployed to onboard ship reserve service in Hormuz Strait: military manpower agency",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327006251315",
+      "published_date": "2026-03-27T06:43:08Z",
+      "category": "Military"
+    },
+    {
+      "id": "dce4765b41f226ded6a798f2470a54f1",
+      "title": "(URGENT) Lee urges military leaders to step up readiness posture to cope with 'grave' security situation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327006300315",
+      "published_date": "2026-03-27T06:15:35Z",
+      "category": "Military"
+    },
+    {
+      "id": "cc935a3338c16dae599e0d7a9746f9b5",
+      "title": "As overseas deployment fears grow, North Korean parents dread conscription season",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/as-overseas-deployment-fears-grow-north-korean-parents-dread-conscription-season/",
+      "published_date": "2026-03-27T06:01:00Z",
+      "category": "Military"
+    },
+    {
+      "id": "d8e02cdf4da8cb329d17fae78c04a0ac",
+      "title": "40 personnel deployed to onboard ship reserve service in Hormuz Strait: military manpower agency",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327006200315",
+      "published_date": "2026-03-27T06:00:39Z",
+      "category": "Military"
+    },
+    {
+      "id": "88395770e5561bc33bd31128d8b43f50",
+      "title": "S. Korea, U.S. hold joint live-fire drills involving drones",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327005500315",
+      "published_date": "2026-03-27T05:22:40Z",
+      "category": "Military"
+    },
+    {
+      "id": "3c254539ac7b1c826fc9e321bb6f5b62",
+      "title": "(LEAD) Lee honors fallen troops in Yellow Sea, vows to build peace with strong defense capabilities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327003951315",
+      "published_date": "2026-03-27T03:22:40Z",
+      "category": "Military"
+    },
+    {
+      "id": "a75702522a025e019d80de4b96278132",
+      "title": "Lee honors fallen troops in Yellow Sea, vows to build peace with strong defense capabilities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327003900315",
+      "published_date": "2026-03-27T02:36:28Z",
+      "category": "Military"
+    },
+    {
+      "id": "ad4a9e86f90565fcece8f7736aba7b01",
+      "title": "(URGENT) Lee pays respects to 55 fallen soldiers for their 'noble sacrifice' in defending the Yellow Sea against N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327004000315",
+      "published_date": "2026-03-27T02:06:47Z",
+      "category": "Military"
+    },
+    {
+      "id": "4b685a2dc4eaba3aa3348dd4b6b00863",
+      "title": "JCS chief attends France-led multinational military meeting over Hormuz Strait",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327003100315",
+      "published_date": "2026-03-27T01:10:27Z",
+      "category": "Military"
+    },
+    {
+      "id": "f73ed0181882454a8c406a6e85de3cb9",
+      "title": "ROK navy conducts large-scale drills on anniversary of North Korean attack",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/03/rok-navy-conducts-large-scale-drills-on-anniversary-of-north-korean-attack/",
+      "published_date": "2026-03-26T07:25:41Z",
+      "category": "Military"
+    },
+    {
+      "id": "9e7cad487c698f59328264da8fa09b1e",
+      "title": "US soldier, two accomplices sentenced for aiding North Korean IT schemes",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/03/us-soldier-two-accomplices-sentenced-for-aiding-north-korean-it-schemes/",
+      "published_date": "2026-03-23T07:24:22Z",
+      "category": "Military"
+    }
+  ],
+  "Energy": [
+    {
+      "id": "ca2174da3279c281eacce0d847058035",
+      "title": "KEPCO, KHNP agree to resolve legal dispute over UAE plant project at home: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327008400320",
+      "published_date": "2026-03-27T08:08:40Z",
+      "category": "Energy"
+    },
+    {
+      "id": "2972c9a83b7065c38163d84d1e7a31ac",
+      "title": "Chinese EV maker Zeekr to launch 7X SUV in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327006000320",
+      "published_date": "2026-03-27T05:26:44Z",
+      "category": "Energy"
+    }
+  ],
+  "Economy": [
+    {
+      "id": "95fd68475d9ef5f1f4ff4ff9506093a1",
+      "title": "Defending KBO champions Twins lose starter to oblique injury",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328002000315",
+      "published_date": "2026-03-28T04:43:05Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f1d28b32d9c0ae129b0eefbbd34a1be4",
+      "title": "(LEAD) Seoul stocks end tad lower amid mixed signals on Iran war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327007751320",
+      "published_date": "2026-03-27T07:43:11Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a2a3f3989c58b53203d10c2f98ae8683",
+      "title": "Seoul stocks end tad lower amid mixed signals on Iran war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327007700320",
+      "published_date": "2026-03-27T07:14:05Z",
+      "category": "Economy"
+    },
+    {
+      "id": "4a214144d3188a4d7eb2cdc48f1cf05e",
+      "title": "(LEAD) Korean won extends losses for 3rd session amid Middle East crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327002751320",
+      "published_date": "2026-03-27T06:47:32Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1da16700638e2e4732be757d848a3003",
+      "title": "Market alerts issued by KRX up in 2025 amid political upheaval",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327005700320",
+      "published_date": "2026-03-27T05:09:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ad1ff7d19f458803f61cdfd1d6261186",
+      "title": "Banks' lending rates rise for 4th consecutive month in Feb. on higher mortgage rates",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327003800320",
+      "published_date": "2026-03-27T03:00:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c9667f6afeb3eaab52a07862f6f6a4f8",
+      "title": "BOK's 2025 net income doubles on-year over higher FX gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327004200320",
+      "published_date": "2026-03-27T03:00:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6d5863b213054f26fdebfd73d4608e15",
+      "title": "Hyundai Rotem unveils Middle East variant of K2 battle tank at rollout ceremony",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327003500320",
+      "published_date": "2026-03-27T01:38:51Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8eb56e50b1d2fd16d080181948c98583",
+      "title": "U.S.-based joint battery venture of SK On, Hyundai Motor gets new name",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327002800320",
+      "published_date": "2026-03-27T00:37:59Z",
+      "category": "Economy"
+    },
+    {
+      "id": "b58a0e5fe429711e0d143fc657956a77",
+      "title": "(LEAD) Seoul stocks open sharply lower on renewed Mideast tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327002451320",
+      "published_date": "2026-03-27T00:32:23Z",
+      "category": "Economy"
+    },
+    {
+      "id": "449e2c4444fac1e667e8b44dc956707d",
+      "title": "Korean won falls further against U.S. dollar as Iran conflict persists",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327002700320",
+      "published_date": "2026-03-27T00:29:26Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5230325f99d4b08aa981805ea1658ed2",
+      "title": "Trade minister leads WTO reform talks, discusses trade issues with member states at MC-14",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327002200320",
+      "published_date": "2026-03-27T00:26:20Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a37c4806ba2ca7660a0657c7c3799037",
+      "title": "Seoul stocks open sharply lower on renewed Mideast tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327002400320",
+      "published_date": "2026-03-27T00:20:03Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e8a094035d2c4de0226557afd92a96d7",
+      "title": "Han Kang's 'We Do Not Part' wins NBCC Award",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260326010000315",
+      "published_date": "2026-03-27T00:09:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1427de29fb9e67b5c68c7c1e17b2a83e",
+      "title": "(URGENT) Seoul stocks open 2.9 pct lower on renewed Middle East concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327001800320",
+      "published_date": "2026-03-27T00:02:41Z",
+      "category": "Economy"
+    },
+    {
+      "id": "bce6d01c3e1a4bd4434b2858965c37f8",
+      "title": "S. Korea loses 1 quota place in men's singles at next figure skating worlds",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327001600315",
+      "published_date": "2026-03-27T00:00:59Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c087c3c655e14a0962b5a526631b4b20",
+      "title": "Midfielder confident he can step in for injured teammate",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327001500315",
+      "published_date": "2026-03-26T23:29:46Z",
+      "category": "Economy"
+    }
+  ],
+  "Local Events": [
+    {
+      "id": "9879bb134813bf2441a3dd872a8039c3",
+      "title": "Another victim of Japan's wartime sexual slavery dies; 5 survivors left",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003800315",
+      "published_date": "2026-03-28T14:07:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "05cf9407c64b76f560120b0abcf2ef9c",
+      "title": "Fire at Gyeongbok Palace put out after 15 mins, damages gate",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003700315",
+      "published_date": "2026-03-28T12:36:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a8f2c674540903bfd14890f9362adb1c",
+      "title": "(LEAD) S. Korea co-sponsors U.N. resolution on N.K. human rights",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003651315",
+      "published_date": "2026-03-28T12:12:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d95cb17c6c87a3013fcbf21ba3d0f7e3",
+      "title": "S. Korea co-sponsors U.N. resolution on N.K. human rights",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003600315",
+      "published_date": "2026-03-28T11:59:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "feb447e3f7d1ae718c29b682bd674c83",
+      "title": "(URGENT) S. Korea to co-sponsor U.N. resolution on N.K. human rights",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003500315",
+      "published_date": "2026-03-28T11:30:29Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c43a236845ba8a6ba3a104c1582dc00e",
+      "title": "NC Dinos sign pitcher VerHagen as short-term injury replacement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003400315",
+      "published_date": "2026-03-28T09:59:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f2885feaab0435582f52a3e0eab897ed",
+      "title": "Wiz outlast Twins to begin new KBO season",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328003000315",
+      "published_date": "2026-03-28T08:51:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "31e9c979a9a76b0f53afb98d96e1e7e3",
+      "title": "S. Korea, Japan conduct joint rescue operation for missing Indonesian crewman for 2nd day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328002900315",
+      "published_date": "2026-03-28T08:34:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bea85d78bd949e666135a9791aaadca8",
+      "title": "BTS to hold world tour shows in 5 Latin American countries in Oct.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328002400315",
+      "published_date": "2026-03-28T06:58:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "140e9a06254f4262d863cab63e99edbd",
+      "title": "All 5 games sell out to begin 2026 KBO season",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328002200315",
+      "published_date": "2026-03-28T06:40:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "de43fcbe88233e39a9b8ad570dd2a7a3",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328001300315",
+      "published_date": "2026-03-28T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a8d479b2541c14eb5900db08237bc83a",
+      "title": "Number of foreign students in S. Korea surpasses 310,000 for 1st time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328000900320",
+      "published_date": "2026-03-28T00:37:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bb41647b004e34984642ab575f7476c3",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260328000600315",
+      "published_date": "2026-03-28T00:09:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "066faa92b6a53b7efb8b870273897a6e",
+      "title": "BTS hits No. 2 on British Official Chart with 'Swim,' tops albums chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327010500315",
+      "published_date": "2026-03-27T18:15:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "48c0c9f33c52c25d80b0e39ab1c55696",
+      "title": "S. Korea likely to co-sponsor U.N. resolution on N.K. human rights: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327010800315",
+      "published_date": "2026-03-27T14:59:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fe02abdc29e159e3e2209c58127789e8",
+      "title": "(LEAD) Court grants arrest warrant for drug trafficker repatriated from Philippines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327004451315",
+      "published_date": "2026-03-27T10:26:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "44fd4e064b296499d19a814584c5dbe0",
+      "title": "Summary of inter-Korean news this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327009800315",
+      "published_date": "2026-03-27T08:34:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "067d07e151acd857e8be1459ab8eebbf",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327008600315",
+      "published_date": "2026-03-27T08:03:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f53b1196ddd9b087f186d953631d31a7",
+      "title": "Veterans to chase hitting, pitching milestones in KBO",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327007800315",
+      "published_date": "2026-03-27T07:11:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7a8c3ded6dce915bb42ab68453c83369",
+      "title": "Stabbing incident leaves woman in cardiac arrest, man injured",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260327007100315",
+      "published_date": "2026-03-27T06:50:22Z",
+      "category": "Local Events"
+    }
+  ]
+}
