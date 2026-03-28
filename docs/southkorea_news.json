@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-03-28T16:09:01Z",
+  "generated_at": "2026-03-28T23:58:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "0076606469ddd78a49435ae156dc8700",
+      "title": "(LEAD) N. Korea's Kim oversees ground test of high-thrust solid-fuel missile engine: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000751315",
+      "published_date": "2026-03-28T22:28:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4fb67543904a1ca8e817aaf965df1d31",
+      "title": "N. Korea's Kim oversees ground test of high-thrust solid-fuel missile engine: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000700315",
+      "published_date": "2026-03-28T21:46:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c73bbb706536547b19b5f56638e51ceb",
+      "title": "(URGENT) N. Korea's Kim oversees ground test of high-thrust solid-fuel missile engine: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000600315",
+      "published_date": "2026-03-28T21:15:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "88b4fafec5c629ade2a7f32ab0202fba",
+      "title": "S. Korea coach says team must grow as whole ahead of World Cup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000500315",
+      "published_date": "2026-03-28T17:15:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f1a6856ef7523468168ee3a4044977a8",
+      "title": "Son Heung-min calls on S. Korean teammates to learn from humbling loss to Ivory Coast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000400315",
+      "published_date": "2026-03-28T16:59:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "44946f445cfa61f0041220571e1a1174",
+      "title": "Overmatched S. Korea unable to contain Ivory Coast in dispiriting loss",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000300315",
+      "published_date": "2026-03-28T16:40:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fb12bf3e2959b0ffa36f8bebf7b27a61",
+      "title": "(LEAD) S. Korea blanked by Ivory Coast in 1st match of World Cup year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000251315",
+      "published_date": "2026-03-28T16:10:07Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "f1554993feb53a373f10724c82f4e095",
       "title": "S. Korea blanked by Ivory Coast in 1st match of World Cup year",
@@ -111,62 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-orders-ai-and-new-energy-push-threatens-managers-who-inflate-results/",
       "published_date": "2026-03-27T14:17:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6c2f61483dd2b035607972d2df71ef4e",
-      "title": "U.S. diplomat to visit S. Korea to advance partnerships to support U.S. shipbuilding workforce development",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327010600315",
-      "published_date": "2026-03-27T14:06:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "67e7f002c881542d9e253d6c65892611",
-      "title": "(LEAD) Samsung Electronics' unionized workers halt talks with management",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327010351320",
-      "published_date": "2026-03-27T13:00:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4a7ef02db73647419946b6499217b023",
-      "title": "Samsung Electronics' unionized workers halt talks with management",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327010300320",
-      "published_date": "2026-03-27T11:56:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f1f7e2063b9b990c3a47baf60655be31",
-      "title": "S. Korea, EU discuss expanding supply chain cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327010200315",
-      "published_date": "2026-03-27T11:25:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "18fd3cb309a1d618ed0edbd205460589",
-      "title": "Lukashenko orders opening of Belarusian Embassy in North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/lukashenko-orders-opening-of-belarusian-embassy-in-north-korea/",
-      "published_date": "2026-03-27T10:33:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4e58f6e92a407c9640d97aae40d99e04",
-      "title": "North Korea-China rail revival fuels trade surge, sanctions evasion attempts",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-china-rail-revival-fuels-trade-surge-sanctions-evasion-attempts/",
-      "published_date": "2026-03-27T10:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "870ce9ed6cefcc2300f64d6551ca53d4",
-      "title": "Lee doesn’t mention North Korea in memorial for troops killed in sea skirmishes",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/lee-doesnt-mention-north-korea-in-memorial-for-troops-killed-in-sea-skirmishes/",
-      "published_date": "2026-03-27T09:58:18Z",
       "category": "Diplomacy"
     }
   ],
