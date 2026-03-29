@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-03-28T23:58:59Z",
+  "generated_at": "2026-03-29T11:56:28Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ea97037795e6ac28b9e136fe53329a28",
+      "title": "Belarus leader orders opening of embassy in N. Korea following summit with Kim: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329002900315",
+      "published_date": "2026-03-29T07:43:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b6e85fc2a539480a63a648d71d275a88",
+      "title": "PM vows preemptive steps against potential shortage of daily necessities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329002800320",
+      "published_date": "2026-03-29T06:34:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "35116b8fb6539e5b63631deb180604ea",
+      "title": "Lee voices 'deepest condolences' over death of wartime sexual slavery victim",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329002700315",
+      "published_date": "2026-03-29T06:28:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1c1f5d3a60a45d5e780f3f9441a7c6d6",
+      "title": "Finance minister hints at expanding vehicle rotation system to private sector if oil prices further rise",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329002500320",
+      "published_date": "2026-03-29T04:48:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "16af09c43da5952e4450e2481416aed2",
+      "title": "(2nd LD) N. Korea's Kim oversees ground test of high-thrust solid-fuel missile engine: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000752315",
+      "published_date": "2026-03-29T02:09:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fe22c3698980c87ae6fab29b970a2c72",
+      "title": "FM Cho, Rubio meet briefly on sidelines of G7 meeting",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329001200315",
+      "published_date": "2026-03-29T01:37:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e89373d2501d65b4940a5a58d89b6fe0",
+      "title": "N. Korea's KCNA, Russia's TASS sign agreement on media cooperation amid expanding ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329001000315",
+      "published_date": "2026-03-29T00:30:12Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "0076606469ddd78a49435ae156dc8700",
       "title": "(LEAD) N. Korea's Kim oversees ground test of high-thrust solid-fuel missile engine: KCNA",
@@ -112,65 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260328001200315",
       "published_date": "2026-03-28T01:30:45Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "43696f8568a6a63824b1940f7f600476",
-      "title": "Coach stresses quick transitions in pre-World Cup friendly vs. Ivory Coast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328001000315",
-      "published_date": "2026-03-28T00:44:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "06b7f4f0ca5ea1bd1d324225dbb083d0",
-      "title": "N. Korea's Kim says ties with China put on 'new high stage' in message to Xi",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328000800315",
-      "published_date": "2026-03-28T00:34:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a848f4745b1b5afe6094a866a278e1e1",
-      "title": "(2nd LD) U.S. expects Iran operation to end in 'weeks,' can achieve objectives without ground troops: Rubio",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328000252315",
-      "published_date": "2026-03-27T21:52:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "efd74d57a5109e0e9258062cc8359c13",
-      "title": "(LEAD) U.S. expects Iran operation to end in 'weeks,' can achieve objectives without ground troops: Rubio",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328000251315",
-      "published_date": "2026-03-27T19:18:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "df7b4dae4cd12c156f373fb7da051530",
-      "title": "U.S. expects Iran operation to end in 'weeks,' can achieve objectives without ground troops: Rubio",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328000200315",
-      "published_date": "2026-03-27T18:34:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bbffe734dcc72d42614a181320cc9c0c",
-      "title": "Samsung Electronics partners with BTS for world tour collaboration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327010700320",
-      "published_date": "2026-03-27T14:27:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "20cac04db46b7b32851b75e4bb7a2ede",
-      "title": "North Korea orders AI and new energy push, threatens managers who inflate results",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-orders-ai-and-new-energy-push-threatens-managers-who-inflate-results/",
-      "published_date": "2026-03-27T14:17:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "58cccf487f27cdeac2360cdfe5751327",
+      "title": "North Korea conducts missile engine test, claims higher thrust",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/03/kim-jong-un-oversees-engine-test-state-media-claims-higher-thrust-capabilities/",
+      "published_date": "2026-03-29T01:04:13Z",
+      "category": "Military"
+    },
     {
       "id": "0027b0114f9fc32344a13a7d5a2bd134",
       "title": "Trump says 'Cuba is next' as he highlights America's 'great' military",
@@ -312,6 +320,22 @@
   ],
   "Economy": [
     {
+      "id": "30c324b50c52c5b573e2fadf5f6274ff",
+      "title": "Defense stocks rise, autos, shipbuilders fall amid Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329001300320",
+      "published_date": "2026-03-29T01:57:34Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2c06d8b0e2314b4b8ed0c3a1829e2eaf",
+      "title": "Korean won falls to 4th-lowest monthly level amid foreign outflows",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329001100320",
+      "published_date": "2026-03-29T01:23:24Z",
+      "category": "Economy"
+    },
+    {
       "id": "95fd68475d9ef5f1f4ff4ff9506093a1",
       "title": "Defending KBO champions Twins lose starter to oblique injury",
       "source": "Yonhap News Agency",
@@ -450,6 +474,38 @@
   ],
   "Local Events": [
     {
+      "id": "36a494182741f991f053075028202073",
+      "title": "Lee vows to hold those who commit state violence accountable in honor of 1948 Jeju massacre victims",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329002600315",
+      "published_date": "2026-03-29T06:53:50Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b6328676c6e95771bb659f45bd781e58",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329000800315",
+      "published_date": "2026-03-29T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2bd4eb5538130fc5cb07c6da532e7705",
+      "title": "Liberal ex-prime minister to declare mayoral bid in conservative stronghold",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329001600315",
+      "published_date": "2026-03-29T04:12:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "784fadd75b93d1a0eb279f95a61279e6",
+      "title": "Foreign visitors surge in major areas in Seoul on BTS concert day: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329001400320",
+      "published_date": "2026-03-29T02:46:46Z",
+      "category": "Local Events"
+    },
+    {
       "id": "9879bb134813bf2441a3dd872a8039c3",
       "title": "Another victim of Japan's wartime sexual slavery dies; 5 survivors left",
       "source": "Yonhap News Agency",
@@ -575,38 +631,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260327004451315",
       "published_date": "2026-03-27T10:26:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "44fd4e064b296499d19a814584c5dbe0",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327009800315",
-      "published_date": "2026-03-27T08:34:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "067d07e151acd857e8be1459ab8eebbf",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327008600315",
-      "published_date": "2026-03-27T08:03:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f53b1196ddd9b087f186d953631d31a7",
-      "title": "Veterans to chase hitting, pitching milestones in KBO",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327007800315",
-      "published_date": "2026-03-27T07:11:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7a8c3ded6dce915bb42ab68453c83369",
-      "title": "Stabbing incident leaves woman in cardiac arrest, man injured",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327007100315",
-      "published_date": "2026-03-27T06:50:22Z",
       "category": "Local Events"
     }
   ]
