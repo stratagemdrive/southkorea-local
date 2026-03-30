@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-03-29T11:56:28Z",
+  "generated_at": "2026-03-30T00:04:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "720f048342c0d44aac0d06af004a1491",
+      "title": "North Korean youth ditch tradition as “going Dutch” becomes the norm at restaurants",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-youth-ditch-tradition-as-going-dutch-becomes-the-norm-at-restaurants/",
+      "published_date": "2026-03-29T20:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9729564e8870dc77b6bded228ff430b1",
+      "title": "(LEAD) PM vows preemptive steps against potential shortage of daily necessities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329002851320",
+      "published_date": "2026-03-29T13:41:09Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ea97037795e6ac28b9e136fe53329a28",
       "title": "Belarus leader orders opening of embassy in N. Korea following summit with Kim: report",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260328003100315",
       "published_date": "2026-03-28T09:19:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "33d761fd7ce7c1985626a7136a12a9d6",
-      "title": "Awkward feelings aside, new Wiz slugger hoping to beat former team on KBO Opening Day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328002100315",
-      "published_date": "2026-03-28T04:33:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d1b028006e51d01e2c5d985195ddd061",
-      "title": "S. Korea, Ukraine FMs agree to handle issue of N. Korean POWs in line with humanitarian principles",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328001200315",
-      "published_date": "2026-03-28T01:30:45Z",
       "category": "Diplomacy"
     }
   ],
@@ -474,6 +474,86 @@
   ],
   "Local Events": [
     {
+      "id": "fa4e0f21ac38674cc5c468b25364251e",
+      "title": "SM Entertainment, UNICEF partner to aid Indonesian children",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260330000900315",
+      "published_date": "2026-03-29T23:59:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d6421d350e2e573c534bb7b07844f4a7",
+      "title": "(EDITORIAL from Korea JoongAng Daily on March 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260330000500320",
+      "published_date": "2026-03-29T21:59:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7ba824eac79a3267d0983e35e3f698f2",
+      "title": "(EDITORIAL from Korea Times on March 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260330000400320",
+      "published_date": "2026-03-29T21:59:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7d4c39ca5f674dd2e31ad69a4620ad68",
+      "title": "(EDITORIAL from Korea Herald on March 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260330000300320",
+      "published_date": "2026-03-29T21:59:30Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "15b6fe25ade4cbd711475a72b45f495b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260330000200320",
+      "published_date": "2026-03-29T21:59:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a216f852be4378436687619d5403116f",
+      "title": "Asset managers' 2025 net spikes 67 pct on commission income gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329003200320",
+      "published_date": "2026-03-29T21:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "dd11552e01a2c000bf3d06284e69f097",
+      "title": "Insurers' net dips 15 pct in 2025 on increased costs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329003300320",
+      "published_date": "2026-03-29T21:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0558971afc72557cc1826408012ac2bd",
+      "title": "(LEAD) BTS scores 7th No. 1 album on Billboard 200 with 'Arirang'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329003051315",
+      "published_date": "2026-03-29T20:04:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b7ef53909fc79fa83917a8c31c60a8a4",
+      "title": "BTS scores 7th No. 1 album on Billboard 200 with 'Arirang'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329003000315",
+      "published_date": "2026-03-29T19:47:57Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7f7edc34efc1d2f4b35609c4a4ee380f",
+      "title": "(LEAD) Liberal ex-prime minister to declare mayoral bid in conservative stronghold",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260329001651315",
+      "published_date": "2026-03-29T13:20:53Z",
+      "category": "Local Events"
+    },
+    {
       "id": "36a494182741f991f053075028202073",
       "title": "Lee vows to hold those who commit state violence accountable in honor of 1948 Jeju massacre victims",
       "source": "Yonhap News Agency",
@@ -551,86 +631,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260328003400315",
       "published_date": "2026-03-28T09:59:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f2885feaab0435582f52a3e0eab897ed",
-      "title": "Wiz outlast Twins to begin new KBO season",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328003000315",
-      "published_date": "2026-03-28T08:51:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "31e9c979a9a76b0f53afb98d96e1e7e3",
-      "title": "S. Korea, Japan conduct joint rescue operation for missing Indonesian crewman for 2nd day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328002900315",
-      "published_date": "2026-03-28T08:34:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bea85d78bd949e666135a9791aaadca8",
-      "title": "BTS to hold world tour shows in 5 Latin American countries in Oct.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328002400315",
-      "published_date": "2026-03-28T06:58:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "140e9a06254f4262d863cab63e99edbd",
-      "title": "All 5 games sell out to begin 2026 KBO season",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328002200315",
-      "published_date": "2026-03-28T06:40:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "de43fcbe88233e39a9b8ad570dd2a7a3",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328001300315",
-      "published_date": "2026-03-28T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a8d479b2541c14eb5900db08237bc83a",
-      "title": "Number of foreign students in S. Korea surpasses 310,000 for 1st time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328000900320",
-      "published_date": "2026-03-28T00:37:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bb41647b004e34984642ab575f7476c3",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328000600315",
-      "published_date": "2026-03-28T00:09:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "066faa92b6a53b7efb8b870273897a6e",
-      "title": "BTS hits No. 2 on British Official Chart with 'Swim,' tops albums chart",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327010500315",
-      "published_date": "2026-03-27T18:15:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "48c0c9f33c52c25d80b0e39ab1c55696",
-      "title": "S. Korea likely to co-sponsor U.N. resolution on N.K. human rights: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327010800315",
-      "published_date": "2026-03-27T14:59:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fe02abdc29e159e3e2209c58127789e8",
-      "title": "(LEAD) Court grants arrest warrant for drug trafficker repatriated from Philippines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327004451315",
-      "published_date": "2026-03-27T10:26:06Z",
       "category": "Local Events"
     }
   ]
