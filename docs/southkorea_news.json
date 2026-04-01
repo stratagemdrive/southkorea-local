@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-03-31T14:51:49Z",
+  "generated_at": "2026-04-01T00:04:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "11afb175d5e48650e02272b2a6e17192",
+      "title": "Defiant Son Heung-min rejects decline narrative",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001700315",
+      "published_date": "2026-03-31T23:30:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0efb081f68eb1e5c4a26f5f2a6368fe9",
+      "title": "N. Korea's largest labor group calls for 'full march' to fulfill party's 5-yr economic plan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001600315",
+      "published_date": "2026-03-31T23:26:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8e2fe0d6f07271687bde53491d0e3f09",
+      "title": "Lee, Indonesia's Prabowo set for summit talks with focus on defense cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001400315",
+      "published_date": "2026-03-31T23:19:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fab50ff0153dec2af3d9e1f9915118c1",
+      "title": "(EDITORIAL from Korea Times on April 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000700315",
+      "published_date": "2026-03-31T22:04:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4ca50f63156db97d231e4df808264afe",
+      "title": "(EDITORIAL from Korea Herald on April 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000600315",
+      "published_date": "2026-03-31T22:03:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "729c73beb907c0d19abfb74dd8adf401",
+      "title": "(LEAD) Trump calls on countries to 'go get your own oil' from Strait of Hormuz, or buy it from U.S.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000251315",
+      "published_date": "2026-03-31T17:15:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ed3bad80e6538aa68d1467ea44cb5856",
+      "title": "Trump calls on countries to 'go get your own oil' from Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000200315",
+      "published_date": "2026-03-31T16:09:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "13152ad0e8f50562ac3a925b20b347c1",
+      "title": "North Korea’s state security apparatus undergoes generational overhaul after party congress",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-koreas-state-security-apparatus-undergoes-generational-overhaul-after-party-congress/",
+      "published_date": "2026-03-31T13:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d58945a470cc60439c5bb790c5bcff16",
+      "title": "N. Korea orders writers and artists to complete ideological training before April",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/n-korea-orders-writers-and-artists-to-complete-ideological-training-before-april/",
+      "published_date": "2026-03-31T12:37:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "4a56e93735e6c4e156acc106d757b692",
       "title": "Nat'l Assembly ratifies trade pact with UAE",
@@ -96,81 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260331007700320",
       "published_date": "2026-03-31T06:36:13Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "e786dd96c509dc55304eece8a1c09fb2",
-      "title": "LG Chem shareholders reject governance proposals from British activist fund Palliser",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331007500320",
-      "published_date": "2026-03-31T06:25:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f145f6086d8b8eb8124d016566dda288",
-      "title": "UN council adopts resolution decrying North Korea’s ‘gross’ human rights abuses",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/03/un-council-adopts-resolution-decrying-north-koreas-gross-human-rights-abuses/",
-      "published_date": "2026-03-31T06:18:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a22c963e4e008e5ce1b2df32356bf497",
-      "title": "N. Korean FM calls troop deployment to Russia 'exemplary case' of treaty with Moscow: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331007000315",
-      "published_date": "2026-03-31T05:49:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "15cff790eb74947c72abda8023d7e7c4",
-      "title": "Lee hails S. Korea-Indonesia partnership for KF-21 fighter jets as 'model' defense cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331007300315",
-      "published_date": "2026-03-31T05:44:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "37ae88e3ddf8954124a60276c97bf155",
-      "title": "Declassified documents show N. Korea's strong backlash against growing S. Korea–China ties in mid-1990s",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331004400315",
-      "published_date": "2026-03-31T05:00:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a5a3d61c99a2ff9f3cdd523b7b943775",
-      "title": "Declassified files show S. Korea sought to end N.K.-Russia treaty in 1990s",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331004300315",
-      "published_date": "2026-03-31T05:00:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "60b274c65cc2355220f99ef62ab275ae",
-      "title": "JTI Korea to launch new heated tobacco product to expand market presence",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331006900320",
-      "published_date": "2026-03-31T04:50:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a22ac32d856d58b03a117e31ba3f7e79",
-      "title": "Target date funds grow 55 pct in 2025: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331006000320",
-      "published_date": "2026-03-31T03:00:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e70eca520015f0fb9d8083d794348d14",
-      "title": "(LEAD) Lee urges bold measures to cope with concerns about energy situation, including emergency economic decree if needed",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331004051315",
-      "published_date": "2026-03-31T02:36:28Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "cd0c762a8edd78e55f1dd69d5d56d5dd",
+      "title": "(2nd LD) Hegseth: Upcoming days in Iran war will be 'decisive,' U.S. keeps all options open",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260331012952315",
+      "published_date": "2026-03-31T19:31:54Z",
+      "category": "Military"
+    },
+    {
+      "id": "59067ae020000dc8ffbdcb47bb04e747",
+      "title": "(LEAD) Hegseth: Upcoming days in Iran war will be 'decisive,' U.S. keeps all options open",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260331012951315",
+      "published_date": "2026-03-31T14:55:05Z",
+      "category": "Military"
+    },
     {
       "id": "3f1c18184daabec5f0c3fb22198df2eb",
       "title": "Hegseth says upcoming days will be 'decisive' in Iran war, U.S. not foreclosing any option",
@@ -314,25 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260327006200315",
       "published_date": "2026-03-27T06:00:39Z",
       "category": "Military"
-    },
-    {
-      "id": "88395770e5561bc33bd31128d8b43f50",
-      "title": "S. Korea, U.S. hold joint live-fire drills involving drones",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327005500315",
-      "published_date": "2026-03-27T05:22:40Z",
-      "category": "Military"
-    },
-    {
-      "id": "3c254539ac7b1c826fc9e321bb6f5b62",
-      "title": "(LEAD) Lee honors fallen troops in Yellow Sea, vows to build peace with strong defense capabilities",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327003951315",
-      "published_date": "2026-03-27T03:22:40Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "6be144c14da851d71f41d279586e8c2b",
+      "title": "S. Korea coach pleased with defensive effort in friendly loss to Austria",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000400315",
+      "published_date": "2026-03-31T22:18:54Z",
+      "category": "Energy"
+    },
     {
       "id": "b646485ff210c9c26be6041ee1dd0af9",
       "title": "Over 70 S. Korean nationals evacuate from Iraq amid war in Middle East",
@@ -626,6 +634,94 @@
   ],
   "Local Events": [
     {
+      "id": "698af2248df7e82124cba0135d0dee24",
+      "title": "Netflix app downloads surge on BTS livestream concert in Seoul",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001800320",
+      "published_date": "2026-03-31T23:36:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1215c08c5b8577f3933ca1921ddcbaa6",
+      "title": "Translator Hwans Seok-hee's content pulled from streaming platforms amid sex crime allegations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001900315",
+      "published_date": "2026-03-31T23:36:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f80193e5cc2b5f064d302cf326279a3f",
+      "title": "Gov't to reopen all border walking trails",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001500315",
+      "published_date": "2026-03-31T23:20:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cf2ca08db4408223d1ce311f7a4e884f",
+      "title": "(LEAD) Trump says U.S. might end war with Iran in '2 or 3 weeks'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001151315",
+      "published_date": "2026-03-31T23:08:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "486c3ce6655e32bc9b0fa212b374258a",
+      "title": "Czechia grab last spot in S. Korea's group at World Cup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001200315",
+      "published_date": "2026-03-31T22:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "74f50dc29d7e2e656ad0f13f1fd54378",
+      "title": "S. Korea in desperate search for offense following another goalless defeat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000900315",
+      "published_date": "2026-03-31T22:26:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "48ac199894d9a7f59f78ef9bbb05965c",
+      "title": "Trump says U.S. will be leaving Iran 'very soon'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401001100315",
+      "published_date": "2026-03-31T22:15:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7a2c26f4c4558b25bc8b45333c32223f",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000800315",
+      "published_date": "2026-03-31T22:04:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ba0fb92d97816c05b964666ec87942b2",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000500315",
+      "published_date": "2026-03-31T22:03:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1a0364763a0b3d62c1312b5f9803b761",
+      "title": "(LEAD) S. Korea fall to Austria in pre-World Cup friendly",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000351315",
+      "published_date": "2026-03-31T20:56:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0e66a8d97287167de6a92f7740d0d832",
+      "title": "S. Korea fall to Austria in pre-World Cup friendly",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401000300315",
+      "published_date": "2026-03-31T20:45:49Z",
+      "category": "Local Events"
+    },
+    {
       "id": "6c1a6355d692efb84d9a2392c6c773c2",
       "title": "Ex-DP lawmaker questioned by police over corruption allegations",
       "source": "Yonhap News Agency",
@@ -639,6 +735,14 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260331012500320",
       "published_date": "2026-03-31T10:55:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d5fe459d8efebb97eb48e65a3ac41d49",
+      "title": "Pyongyang man sentenced to over 12 years for watching South Korean content",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongyang-man-sentenced-to-over-12-years-for-watching-south-korean-content/",
+      "published_date": "2026-03-31T10:48:00Z",
       "category": "Local Events"
     },
     {
@@ -687,102 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260331009300315",
       "published_date": "2026-03-31T07:21:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fcd03ae73618101334d8aace22320cdc",
-      "title": "Half of school students say unification with N. Korea necessary: survey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331009200315",
-      "published_date": "2026-03-31T07:12:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e9e76cdf2e591327d477374f49282af5",
-      "title": "Fatal industrial accidents rose last year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331009400315",
-      "published_date": "2026-03-31T07:05:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b73cacabbdf0dd88e2d71c322761666f",
-      "title": "PM says to focus on policy implementation, safety, economy ahead of elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331009100315",
-      "published_date": "2026-03-31T06:50:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "23a7aac2949b450102cbc79ddad251ca",
-      "title": "(URGENT) KOSPI sinks 4.26 pct to 5,052.46 amid escalating Middle East conflict",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331008100320",
-      "published_date": "2026-03-31T06:35:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "24044d66278f17bd87d49cab6e35fa78",
-      "title": "Hanwha Ocean to showcase next-gen destroyer at YIDEX 2026 in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331007100320",
-      "published_date": "2026-03-31T05:43:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "554187f66b18f6d0898eb5d3c438c8a7",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331003300320",
-      "published_date": "2026-03-31T05:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "14b9406b47ce15627a155c9142c4636c",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331006800320",
-      "published_date": "2026-03-31T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5c6c597a8e27a63db210b5cb8f6e806e",
-      "title": "Insurance fraud claims hit new high in 2025: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331003700320",
-      "published_date": "2026-03-31T03:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "536667f3fea7b22d42e5d30223c7c776",
-      "title": "(LEAD) (News Focus) With 'Arirang,' BTS proves endurance beyond long break",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331002651315",
-      "published_date": "2026-03-31T02:44:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6e9497e218fbe46b5d98125287ef598e",
-      "title": "(2nd LD) BTS earns 7th No. 1 song on the Billboard singles chart with 'Swim'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260330008452315",
-      "published_date": "2026-03-31T02:17:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b966620bb21f33c63c8a43a0f72021c6",
-      "title": "Cause of rising film director's death belatedly confirmed as assault",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331004500315",
-      "published_date": "2026-03-31T01:42:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fbb1e9de11d73e439d4532231c875d73",
-      "title": "MAMA Awards to return to Osaka in November",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331003400315",
-      "published_date": "2026-03-31T00:49:22Z",
       "category": "Local Events"
     }
   ]
