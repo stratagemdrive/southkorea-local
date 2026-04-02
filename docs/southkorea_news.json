@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-01T14:56:53Z",
+  "generated_at": "2026-04-02T00:01:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "4b1b557acdf831f2314bdda291c84a07",
+      "title": "(LEAD) N. Korea condemns U.N. human rights resolution on Pyongyang: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402001151315",
+      "published_date": "2026-04-01T23:35:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "58105003f8746bffaa337a17bf833852",
+      "title": "N. Korea condemns U.N. human rights resolution on Pyongyang: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402001100315",
+      "published_date": "2026-04-01T22:52:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dfaa1457993ddca57c0cc2bd47a38865",
+      "title": "(EDITORIAL from Korea Herald on April 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000500315",
+      "published_date": "2026-04-01T22:04:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1e856627d058abdef26c751e4bb29640",
+      "title": "North Korean candy finds a market in China as defectors seek a taste of home",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-candy-finds-a-market-in-china-as-defectors-seek-a-taste-of-home/",
+      "published_date": "2026-04-01T19:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "88b535cc4c3e6ce03c27bd7daf3df94c",
+      "title": "Beijing agency launches North Korea tour packages on direct Pyongyang flights",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/beijing-agency-launches-north-korea-tour-packages-on-direct-pyongyang-flights/",
+      "published_date": "2026-04-01T17:18:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "79b393fa913434b0622f8c4d7e2c0edf",
       "title": "North Korea’s trade officials are running a pay-to-work racket",
@@ -128,49 +168,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260401010400320",
       "published_date": "2026-04-01T07:34:43Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "ed8ea65eff5a9a9061b246b4750c6b84",
-      "title": "GM Korea's March sales jump 24.2 pct on strong exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401010800320",
-      "published_date": "2026-04-01T07:33:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cf8111f380d491949b50b99c52b40879",
-      "title": "Renault Korea's March sales up 9 pct following Filante SUV launch",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401010700320",
-      "published_date": "2026-04-01T07:31:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "015d1dc5c6b1a1500dc42f8c3910e86f",
-      "title": "Unification minister asks EU to mediate '2+1' dialogue with N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401010600315",
-      "published_date": "2026-04-01T07:29:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9d666777b9d0c906eee081dbaa459fe9",
-      "title": "Hyundai Motor's March sales dip 2.3 pct as geopolitics affect global sales",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401010300320",
-      "published_date": "2026-04-01T07:11:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "209fdfb5e7088336045f9529afa8de82",
-      "title": "S. Korea, U.S. discuss efforts to promote alliance through public diplomacy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401009100315",
-      "published_date": "2026-04-01T06:38:47Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "bd0da0c0aaf51ecc5f1e66db5c626355",
+      "title": "(LEAD) Trump says S. Korea 'not helpful,' cites U.S. troops near 'nuclear force' on peninsula",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000252315",
+      "published_date": "2026-04-01T22:12:53Z",
+      "category": "Military"
+    },
+    {
+      "id": "90b9d2440d3299c177a543cd6456ec75",
+      "title": "Trump says S. Korea 'not helpful,' cites U.S. troops near 'nuclear force' on peninsula",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000251315",
+      "published_date": "2026-04-01T21:44:16Z",
+      "category": "Military"
+    },
+    {
+      "id": "53fc42fe0c76d96f076f9e66022e9137",
+      "title": "(URGENT) Trump says S. Korea 'not helpful' to U.S. despite American troops there next to 'nuclear force,' while commenting on Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000200315",
+      "published_date": "2026-04-01T21:25:54Z",
+      "category": "Military"
+    },
     {
       "id": "b0c608949ae4569c05d00bb74c223244",
       "title": "South Korea resumes remains recovery at major Korean War battle site in DMZ",
@@ -306,33 +330,33 @@
       "url": "https://www.nknews.org/2026/03/kim-jong-un-oversees-engine-test-state-media-claims-higher-thrust-capabilities/",
       "published_date": "2026-03-29T01:04:13Z",
       "category": "Military"
-    },
-    {
-      "id": "0027b0114f9fc32344a13a7d5a2bd134",
-      "title": "Trump says 'Cuba is next' as he highlights America's 'great' military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260328000400315",
-      "published_date": "2026-03-27T23:39:26Z",
-      "category": "Military"
-    },
-    {
-      "id": "c13b527ed698d99cdcfe23126797eb75",
-      "title": "Hanwha Systems wins 86.6 bln-won military satellite system maintenance deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327007900320",
-      "published_date": "2026-03-27T07:33:51Z",
-      "category": "Military"
-    },
-    {
-      "id": "6f365c19c7d0d62b32bb6a2d83c6e59a",
-      "title": "(LEAD) Lee vows to swiftly retake wartime command from U.S., speed up military reform including selective conscription",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260327006751315",
-      "published_date": "2026-03-27T07:27:05Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "dca738dda1d0c9d34883131b975891f5",
+      "title": "(LEAD) Consumer prices rise 2.2 pct in March on surging oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402001351320",
+      "published_date": "2026-04-01T23:22:28Z",
+      "category": "Energy"
+    },
+    {
+      "id": "a5eb1524aea5968a155f1392ee1b94e4",
+      "title": "Consumer prices rise 2.2 pct in March on surging oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402001300320",
+      "published_date": "2026-04-01T23:00:12Z",
+      "category": "Energy"
+    },
+    {
+      "id": "f0dcf973b1e6ed369d0ae13132ca68a9",
+      "title": "(URGENT) Consumer prices rise 2.2 pct in March on surging oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402001200320",
+      "published_date": "2026-04-01T23:00:02Z",
+      "category": "Energy"
+    },
     {
       "id": "82d5bd0fb419cb053f56fc5553e9b8b2",
       "title": "Gov't raises energy disruption alert to second-highest level",
@@ -468,33 +492,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260331003600315",
       "published_date": "2026-03-31T01:15:04Z",
       "category": "Energy"
-    },
-    {
-      "id": "6fe1a3da58627b109b41e9d497c0dc9b",
-      "title": "Korean won hits fresh 17-yr low over heightened global oil supply concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331002900320",
-      "published_date": "2026-03-31T00:31:07Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d2034627dbfe75ec5886b667862ac388",
-      "title": "(4th LD) Trump threatens to 'obliterate' Iran's Kharg Island, power plants if deal is not reached 'shortly'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260330010154315",
-      "published_date": "2026-03-30T20:57:30Z",
-      "category": "Energy"
-    },
-    {
-      "id": "95302b1e596e7eb36412251de86f6d2d",
-      "title": "(3rd LD) Trump threatens to 'obliterate' Iran's Kharg Island, power plants if deal is not reached 'shortly'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260330010153315",
-      "published_date": "2026-03-30T19:58:06Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "169dca814563032c88f4702ac9efe9b5",
+      "title": "(3rd LD) Trump claims Iran's president has asked for ceasefire; Iran denies it",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401012753315",
+      "published_date": "2026-04-01T19:53:41Z",
+      "category": "Economy"
+    },
+    {
+      "id": "285458a9334864894f025a7ed072a823",
+      "title": "(2nd LD) Trump claims Iran's president has asked for ceasefire; Iran denies it",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260401012752315",
+      "published_date": "2026-04-01T15:51:10Z",
+      "category": "Economy"
+    },
     {
       "id": "9de6cfe94a590b73b98639de79aaeaf3",
       "title": "(LEAD) Trump says Iran has asked for ceasefire, U.S. will consider it when Strait of Hormuz is open",
@@ -638,25 +654,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260401002251320",
       "published_date": "2026-04-01T00:39:25Z",
       "category": "Economy"
-    },
-    {
-      "id": "db4bf3baf67bc7b87cae63d5ec36cd66",
-      "title": "(LEAD) Seoul shares open sharply higher amid hopes for end to Middle East war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401002951320",
-      "published_date": "2026-04-01T00:25:54Z",
-      "category": "Economy"
-    },
-    {
-      "id": "09f41cd9a73c498ce0bad1e9beca9b63",
-      "title": "(URGENT) Bourse operator issues buy-side sidecar for KOSPI market after sharp rise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401003000320",
-      "published_date": "2026-04-01T00:11:35Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "e8065239d0e70231f01698b834eec4ea",
+      "title": "S. Korea drop to No. 25 in FIFA rankings following 2 consecutive losses",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000900315",
+      "published_date": "2026-04-01T22:30:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e5c2ab5a58f1256bf53866e91b54aa2b",
+      "title": "(URGENT) N. Korea condemns U.N. human rights resolution on Pyongyang: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402001000315",
+      "published_date": "2026-04-01T22:26:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "40163261e9560a31ef17bc8cf8b88f08",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000700315",
+      "published_date": "2026-04-01T22:05:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7bb4cdc56a299afcdfa926f77f0b230d",
+      "title": "(EDITORIAL from Korea Times on April 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000600315",
+      "published_date": "2026-04-01T22:04:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "601e5a9b949ea18a42e9e4e12447ffe0",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260402000300315",
+      "published_date": "2026-04-01T22:03:19Z",
+      "category": "Local Events"
+    },
     {
       "id": "a4a96087c04a73bd10a724b01ee6a543",
       "title": "(LEAD) Police seek arrest warrants for couple for abandoning mother's body in suitcase",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260401001000315",
       "published_date": "2026-04-01T05:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f8a860d5f8c05d2b6c2efe46027d0bd6",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401007500315",
-      "published_date": "2026-04-01T04:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "93409ba0129d8d296044e9368b4fdf6e",
-      "title": "Apple improves iPhone's emergency location-sharing service for S. Korean users",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401006700320",
-      "published_date": "2026-04-01T02:36:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f84aebddb159ff9c0eed21def30b4806",
-      "title": "Ruling party, gov't confirm comprehensive survey of farmland ownership to curb property speculation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401004800315",
-      "published_date": "2026-04-01T01:54:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fa3b637d6693fd64126195cb56cedc82",
-      "title": "S. Korea joins World Government Bond Index: minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401005000320",
-      "published_date": "2026-04-01T01:52:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2ec3bdbdf6bda6aad5481efc03ad4b4a",
-      "title": "Couple under probe for abandoning mother's body in suitcase",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401004300315",
-      "published_date": "2026-04-01T01:35:41Z",
       "category": "Local Events"
     }
   ]
