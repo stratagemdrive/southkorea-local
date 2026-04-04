@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-04T00:01:10Z",
+  "generated_at": "2026-04-04T11:55:49Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "7a3fa087485d8a9b26eec22c03b3bace",
+      "title": "Eagles sign Jack Cushing as temporary injury replacement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404001500315",
+      "published_date": "2026-04-04T07:26:28Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "9201b8acbf987f1071c727028947e7ba",
       "title": "(LEAD) Trump says 'with a little more time,' U.S. can open Strait of Hormuz, take oil, 'make a fortune'",
@@ -160,17 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260403006900320",
       "published_date": "2026-04-03T05:59:55Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "98509bc0d245300afe7dd6d53b1aace5",
-      "title": "Foreign tourists via cruise ships eligible for immediate internal tax refunds starting next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403006600320",
-      "published_date": "2026-04-03T05:55:45Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "2e1bf7a972b9cb26fd56cc3a53aff66d",
+      "title": "S. Korea restarts operation of Gori-2 nuclear reactor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404001300320",
+      "published_date": "2026-04-04T03:46:31Z",
+      "category": "Military"
+    },
     {
       "id": "6d8aa94047027f5d802d2fe1a4112a70",
       "title": "S. Korea, France sign MOU on support for Korean War veterans",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260331005800315",
       "published_date": "2026-03-31T02:17:36Z",
-      "category": "Military"
-    },
-    {
-      "id": "5f7e794a30517f39e5266760b58a1d4d",
-      "title": "Late British Army Lt. Col. named Korean War hero of April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331003800315",
-      "published_date": "2026-03-31T01:31:40Z",
       "category": "Military"
     }
   ],
@@ -658,6 +658,46 @@
   ],
   "Local Events": [
     {
+      "id": "fc761845b57c9d6c8d2ce2845a193bef",
+      "title": "Rallies in Seoul commemorate, oppose ex-President Yoon's ouster on 1st anniversary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404002800315",
+      "published_date": "2026-04-04T10:50:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "680cad5fbe6175473ecda3925ce65223",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404001100320",
+      "published_date": "2026-04-04T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8e7b0e2d52fc3382293a0f039eb290cb",
+      "title": "BTS tops Spotify weekly charts for 2nd week with new album 'Arirang'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404000600320",
+      "published_date": "2026-04-04T02:18:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "77541fa4345b2472e336eabd4b349753",
+      "title": "Court rejects activist's injunction request against passport return order",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404000400320",
+      "published_date": "2026-04-04T01:02:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f386d148ed1cca8db99664a011e78e7a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404000300320",
+      "published_date": "2026-04-04T00:45:25Z",
+      "category": "Local Events"
+    },
+    {
       "id": "e76004e6d344ed001cda85c872545276",
       "title": "BTS ranks No. 4 on British Official Albums Chart with 'Arirang'",
       "source": "Yonhap News Agency",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260403004000315",
       "published_date": "2026-04-03T05:18:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "42b8bc3b44ee99af8aa57dfc94e8bf57",
-      "title": "Today in Korean History",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403001000315",
-      "published_date": "2026-04-03T05:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "df9809b5839727d9c30faae6b255e42d",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403006400315",
-      "published_date": "2026-04-03T04:34:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "25bcf4cee2dbe5032e0e59ff3d26d33f",
-      "title": "(URGENT) Lee says S. Korea, France agree to cooperate for securing safe passage through Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403003600315",
-      "published_date": "2026-04-03T04:03:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c7fb82116710c40f618e279ebd72b6b2",
-      "title": "PM vows to determine truth of 1948 Jeju massacre, restore victims' honor",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403005900315",
-      "published_date": "2026-04-03T04:02:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8f8979a174a4e4179753364d7a33f598",
-      "title": "Ruling party nominates former liberal PM unopposed for Daegu mayor",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403004900315",
-      "published_date": "2026-04-03T02:32:36Z",
       "category": "Local Events"
     }
   ]
