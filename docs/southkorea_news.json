@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-04T11:55:49Z",
+  "generated_at": "2026-04-04T23:59:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e2df0ed69d4c3295a28589f4f63cd5f0",
+      "title": "North Korea courts Chinese private investors for Pyongyang commercial complex",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-courts-chinese-private-investors-for-pyongyang-commercial-complex/",
+      "published_date": "2026-04-04T14:35:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "7a3fa087485d8a9b26eec22c03b3bace",
       "title": "Eagles sign Jack Cushing as temporary injury replacement",
@@ -160,17 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260403007100315",
       "published_date": "2026-04-03T06:28:28Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "14d174f4704a8d1e062232b630df930c",
-      "title": "Gov't, industries discuss response to U.S. adjustment of metal tariffs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403006900320",
-      "published_date": "2026-04-03T05:59:55Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "8070a8e3f9df1fc94ec754e4fec69522",
+      "title": "Ex-8th Army commander appointed as acting U.S. Army chief, raising expectations for role over Korea security",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260404002900315",
+      "published_date": "2026-04-04T14:15:00Z",
+      "category": "Military"
+    },
     {
       "id": "2e1bf7a972b9cb26fd56cc3a53aff66d",
       "title": "S. Korea restarts operation of Gori-2 nuclear reactor",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260331006600315",
       "published_date": "2026-03-31T04:16:34Z",
-      "category": "Military"
-    },
-    {
-      "id": "fd59b51dcdb67755a270ddfe08965564",
-      "title": "NIS employee, 2 military officers referred to prosecution over drone flights to N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331005800315",
-      "published_date": "2026-03-31T02:17:36Z",
       "category": "Military"
     }
   ],
