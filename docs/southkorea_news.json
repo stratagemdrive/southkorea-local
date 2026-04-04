@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-03T12:05:51Z",
+  "generated_at": "2026-04-04T00:01:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "9201b8acbf987f1071c727028947e7ba",
+      "title": "(LEAD) Trump says 'with a little more time,' U.S. can open Strait of Hormuz, take oil, 'make a fortune'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260403011151315",
+      "published_date": "2026-04-03T20:31:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "39016c62796ba251bc594fade898faf4",
+      "title": "North Korea shifts education costs onto the public with new funding law",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-shifts-education-costs-onto-the-public-with-new-funding-law/",
+      "published_date": "2026-04-03T19:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "58f7a2300586354b190f47f957c08e67",
+      "title": "Built by Pyongyang: The North Korean company behind Africa’s most iconic monuments",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/built-by-pyongyang-the-north-korean-company-behind-africas-most-iconic-monuments/",
+      "published_date": "2026-04-03T17:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "22d6ff47665e0a161c9147e8a85ef6b1",
+      "title": "Trump says 'with a little more time,' U.S. can open Strait of Hormuz, take oil, 'make a fortune'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260403011100315",
+      "published_date": "2026-04-03T13:46:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cef059ebe77f2df538101403c7d5a206",
+      "title": "(5th LD) S. Korea, France agree to cooperate on safe passage through Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260403001555315",
+      "published_date": "2026-04-03T12:56:36Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5ce93a0a1028620f72864f1369de8011",
       "title": "Defense chiefs of S. Korea, France discuss security, arms cooperation",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260403006600320",
       "published_date": "2026-04-03T05:55:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e14d3c3dcd77d92492346536285ec2a4",
-      "title": "Asiana Airlines launches route to Hungary in expansion strategy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403006700320",
-      "published_date": "2026-04-03T05:34:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8c70ac421646e7668bddf6629affacd1",
-      "title": "S. Korea, France vow closer cooperation in AI, quantum computing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403003100320",
-      "published_date": "2026-04-03T05:30:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dec994dadc52890852ba3331fa87e124",
-      "title": "(3rd LD) Lee says S. Korea, France agree to cooperate on safe passage through Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403001553315",
-      "published_date": "2026-04-03T05:25:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "54942434968e8ec65f68790270735a7c",
-      "title": "(2nd LD) Lee, Macron discuss cooperation on Middle East crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403001552315",
-      "published_date": "2026-04-03T04:39:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cc598c7c03849cb98095c4031bf1525f",
-      "title": "Chinese electrosurgical device spotted at new North Korean hospital",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/chinese-electrosurgical-device-spotted-at-new-north-korean-hospital/",
-      "published_date": "2026-04-03T04:15:44Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,30 @@
   ],
   "Local Events": [
     {
+      "id": "e76004e6d344ed001cda85c872545276",
+      "title": "BTS ranks No. 4 on British Official Albums Chart with 'Arirang'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260403011000315",
+      "published_date": "2026-04-03T17:52:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "129e216fd3fa57253a2c57f9cc83e874",
+      "title": "N. Korea arrests official for quoting Kim Il Sung in Kim Jong Un session",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/n-korea-arrests-official-for-quoting-kim-il-sung-in-kim-jong-un-session/",
+      "published_date": "2026-04-03T14:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "db6e04a47aed64e87b9efad7100f19ca",
+      "title": "North Korean elite school student expelled for tutoring during school holiday",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-elite-school-student-expelled-for-tutoring-during-school-holiday/",
+      "published_date": "2026-04-03T13:09:00Z",
+      "category": "Local Events"
+    },
+    {
       "id": "d5c681dad549fc6cbf33c38179d1d334",
       "title": "(LEAD) Court rejects PPP lawmaker's injunction request against party decision in mayoral race",
       "source": "Yonhap News Agency",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260403004900315",
       "published_date": "2026-04-03T02:32:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e3b7b0a2bca683b155f6be24394f43f0",
-      "title": "T.O.P returns with 'Another Dimension,' his 1st solo studio album",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403004200315",
-      "published_date": "2026-04-03T02:02:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "31a425587abc77b09c724737a4cd5eef",
-      "title": "Bong Joon-ho ventures into animation with debut feature 'Ally'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403003500315",
-      "published_date": "2026-04-03T01:26:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "aa5b6c7b6d3c711dba6d5b80a18b3824",
-      "title": "Food exports up 4 pct in Q1 on popularity of ramyeon, fruits",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403002000320",
-      "published_date": "2026-04-03T00:27:34Z",
       "category": "Local Events"
     }
   ]
