@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-05T11:57:29Z",
+  "generated_at": "2026-04-06T00:02:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "7f10b6a43d51d3dddfecf1666a372984",
+      "title": "Beyond hereditary rule: The remaking of Kim Jong Un’s system",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/beyond-hereditary-rule-the-remaking-of-kim-jong-uns-system/",
+      "published_date": "2026-04-05T23:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "df4130c2eaa0651af6c7da92b8f504be",
+      "title": "(EDITORIAL from The Korea Herald on April 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000600320",
+      "published_date": "2026-04-05T21:56:04Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "eee61bf5f333ee7b21faa4fdd7eca886",
       "title": "Lee aide floats possibility of another extra budget in H2 if Mideast crisis drags on",
@@ -152,25 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260403001554315",
       "published_date": "2026-04-03T08:06:46Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "a9bf808cd1ffdccc518d841c30fd70fa",
-      "title": "(LEAD) Seoul stocks rebound nearly 3 pct amid hopes for Hormuz Strait reopening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403008551320",
-      "published_date": "2026-04-03T07:44:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "88110f78ae77fe9b6d654a029eb2bae8",
-      "title": "Trade chiefs of S. Korea, UAE agree on early implementation of bilateral CEPA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403009000320",
-      "published_date": "2026-04-03T07:35:16Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "e9eab0122b3cfa45b2b1ce207eec0bc9",
+      "title": "South Korean military helicopter mistakenly enters DMZ during wildfire operation",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/south-korean-military-helicopter-mistakenly-enters-dmz-during-wildfire-operation/",
+      "published_date": "2026-04-05T15:40:48Z",
+      "category": "Military"
+    },
     {
       "id": "8070a8e3f9df1fc94ec754e4fec69522",
       "title": "Ex-8th Army commander appointed as acting U.S. Army chief, raising expectations for role over Korea security",
@@ -322,17 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260331007200320",
       "published_date": "2026-03-31T05:36:32Z",
       "category": "Military"
-    },
-    {
-      "id": "862dace027c4c94d9208752a26acc927",
-      "title": "U.S. military squadron in Alaska joins live-fire drills in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260331006600315",
-      "published_date": "2026-03-31T04:16:34Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "ed638b2f01d72f141c482545ddc9f9ed",
+      "title": "Trump threatens to strike Iran power plants if Strait of Hormuz not reopened by Tuesday evening",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000400315",
+      "published_date": "2026-04-05T20:50:23Z",
+      "category": "Energy"
+    },
     {
       "id": "ff449b715f4c9e0d11208d3b968e7060",
       "title": "Risky PF loans drop sharply in 2025: watchdog",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260401011600320",
       "published_date": "2026-04-01T09:00:01Z",
-      "category": "Energy"
-    },
-    {
-      "id": "5955745bb4c366b6c65a0b2e5ec51fb5",
-      "title": "Kia named best car manufacturer at Top Gear EV Awards 2026",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401008100320",
-      "published_date": "2026-04-01T08:00:03Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,78 @@
   ],
   "Local Events": [
     {
+      "id": "90636a75da75b58e63f1a25062606a50",
+      "title": "Appeals court set to hold final hearing of ex-President Yoon's obstruction of justice trial",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406001500315",
+      "published_date": "2026-04-05T23:55:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c2533f0c4540f923dbba68b19e68c943",
+      "title": "(LEAD) Kim Hye-seong makes season debut with Dodgers after being recalled from minors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000951315",
+      "published_date": "2026-04-05T22:57:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "215329a0bd50b28121284b3aed37933d",
+      "title": "Dodgers recall Kim Hye-seong from minors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000900315",
+      "published_date": "2026-04-05T22:18:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "048f381603bcb0123bb38203a3a73458",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000800320",
+      "published_date": "2026-04-05T21:56:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "25d099eb49403ed28a3fa46572423adf",
+      "title": "(EDITORIAL from The Korea Times on April 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000700320",
+      "published_date": "2026-04-05T21:56:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8eeca0dd6dd91641e46ed7013f81da3d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000500320",
+      "published_date": "2026-04-05T21:55:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7dca6fc155123fbc77007fa00b006818",
+      "title": "(LEAD) BTS tops Billboard albums chart for 2nd week with 'Arirang,' a first in K-pop",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000351315",
+      "published_date": "2026-04-05T19:43:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9879f41a173372b45fd2118d73f4870a",
+      "title": "BTS tops Billboard albums chart for 2nd week with 'Arirang,' a first in K-pop",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000300315",
+      "published_date": "2026-04-05T19:26:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3df25524afd234df47f1e5114392af32",
+      "title": "(URGENT) BTS' 'Arirang' tops Billboard albums chart for 2nd consecutive week, a first in K-pop",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406000200315",
+      "published_date": "2026-04-05T19:14:01Z",
+      "category": "Local Events"
+    },
+    {
       "id": "1644d16b9050fd12b2a26f2d30cf7cb1",
       "title": "(LEAD) New gov't app to allow victims to monitor stalkers' locations",
       "source": "Yonhap News Agency",
@@ -743,78 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260403011000315",
       "published_date": "2026-04-03T17:52:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "129e216fd3fa57253a2c57f9cc83e874",
-      "title": "N. Korea arrests official for quoting Kim Il Sung in Kim Jong Un session",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/n-korea-arrests-official-for-quoting-kim-il-sung-in-kim-jong-un-session/",
-      "published_date": "2026-04-03T14:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "db6e04a47aed64e87b9efad7100f19ca",
-      "title": "North Korean elite school student expelled for tutoring during school holiday",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korean-elite-school-student-expelled-for-tutoring-during-school-holiday/",
-      "published_date": "2026-04-03T13:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d5c681dad549fc6cbf33c38179d1d334",
-      "title": "(LEAD) Court rejects PPP lawmaker's injunction request against party decision in mayoral race",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403010851315",
-      "published_date": "2026-04-03T11:12:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "43dce4d203b548d5e89b7b8f7cd23818",
-      "title": "Court rejects PPP lawmaker's injunction request against party decision in mayoral race",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403010800315",
-      "published_date": "2026-04-03T10:44:30Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "38c846bd6bfe6608ef1dc29f86652a8c",
-      "title": "(LEAD) Mark leaves SM Entertainment after 10 years with NCT",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403007651315",
-      "published_date": "2026-04-03T10:13:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7ad08c7254ded226fa960ee3febc5303",
-      "title": "Cheong Wa Dae seeks to encourage public transportation use in off-peak hours",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403010700315",
-      "published_date": "2026-04-03T09:40:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6579671a19dd0f610abf894c7df06aa3",
-      "title": "S. Korean, French ministers discuss deepening cultural cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403010600315",
-      "published_date": "2026-04-03T09:31:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0f4ec82e7ec408596fe47b68387fdc40",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403009600315",
-      "published_date": "2026-04-03T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ebbfd09b2c70c9b41abb11eead67a1f8",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403008800315",
-      "published_date": "2026-04-03T07:00:01Z",
       "category": "Local Events"
     }
   ]
