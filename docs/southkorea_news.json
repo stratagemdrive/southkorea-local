@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-06T14:32:10Z",
+  "generated_at": "2026-04-07T00:04:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "cbd6f3316480431d0a83b3aa51d76e2b",
+      "title": "(2nd LD) Samsung Electronics posts record operating profit in Q1, beats expectations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407001351320",
+      "published_date": "2026-04-06T23:49:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "549f896217f4db8f60a12931938e8852",
+      "title": "N. Korea's Kim congratulates Laos' president on his reelection as nation's leader",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407001500315",
+      "published_date": "2026-04-06T23:03:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9bc45dd550e87083a32d744b030351af",
+      "title": "(LEAD) Kim Yo-jong says N. Korean leader calls Lee 'frank, broad-minded' for his regret over drone incident",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406009252315",
+      "published_date": "2026-04-06T14:40:14Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d80a1578121585d2d6fa71ac02ae2569",
       "title": "Confirmation hearing for BOK chief nominee set for April 15",
@@ -20,6 +44,14 @@
     {
       "id": "d860837de513fff73e84d7ff33bc6307",
       "title": "N. Korea's Kim Yo-jong calls Lee 'frank, broad-minded' for his regret over drone incident",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406009251315",
+      "published_date": "2026-04-06T12:53:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "497b9b933bd27fe901130f3feb8014cf",
+      "title": "Kim Yo-jong says N. Korean leader calls Lee 'frank, broad-minded' for his regret over drone incident",
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260406009251315",
       "published_date": "2026-04-06T12:53:16Z",
@@ -135,38 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260406005852315",
       "published_date": "2026-04-06T06:30:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "afbf8e50b5160b6fd7aa70635a268adc",
-      "title": "Samsung to adopt 5-day car rotation system in support of gov't energy-saving campaign",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406006500320",
-      "published_date": "2026-04-06T06:17:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "42b8bd18f1fcf42c1fa9d076772ebff6",
-      "title": "North Korea building giant wholesale complex with Chinese help, businessman says",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-building-giant-wholesale-complex-with-chinese-help-businessman-says/",
-      "published_date": "2026-04-06T06:09:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "77390c33086e74eb943b3b1e141cb69a",
-      "title": "(LEAD) N. Korea appears to be accelerating succession efforts for Kim's daughter: spy agency",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406005851315",
-      "published_date": "2026-04-06T05:25:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "85862a1c13796d391e3c71abede3f38f",
-      "title": "Lee expresses ‘regret’ to North Korea after drone probe implicates officials",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/lee-expresses-regret-to-north-korea-after-drone-probe-implicates-officials/",
-      "published_date": "2026-04-06T05:20:51Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "b6d3fd56193f81e867374d228521da8d",
+      "title": "Trump repeats threats to destroy Iranian bridges, power plants by Tuesday night if deal is not reached",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407000200315",
+      "published_date": "2026-04-06T19:59:13Z",
+      "category": "Energy"
+    },
+    {
       "id": "e3a18dee4d6ef926b60f02eb26ca05ce",
       "title": "Labor Day officially designated as nat'l holiday",
       "source": "Yonhap News Agency",
@@ -484,17 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260402003000320",
       "published_date": "2026-04-02T01:19:15Z",
       "category": "Energy"
-    },
-    {
-      "id": "0860450ea08c535a7e63534e4ecfe062",
-      "title": "(2nd LD) Consumer prices rise 2.2 pct in March on surging oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260402001352320",
-      "published_date": "2026-04-02T01:05:07Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "72454cc7457ded39b3c86b9b986ca762",
+      "title": "(LEAD) Samsung Electronics Q1 operating profit surpasses 50 tln won, beats expectations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407001300320",
+      "published_date": "2026-04-06T22:58:29Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1d309b1da3eaf04c9af61a647a12058f",
+      "title": "(URGENT) Samsung's Q1 operating profit tops 50 tln won, sets fresh high",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407001200320",
+      "published_date": "2026-04-06T22:42:47Z",
+      "category": "Economy"
+    },
+    {
+      "id": "feec53ded09cde82a29c90adcb32c8da",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407000900320",
+      "published_date": "2026-04-06T22:00:01Z",
+      "category": "Economy"
+    },
     {
       "id": "dbfdbee0e4cc8ed3e5a1722d29898082",
       "title": "(LEAD) Seoul stocks soar over 1 pct on upbeat Samsung earnings forecast",
@@ -630,36 +654,52 @@
       "url": "https://en.yna.co.kr/view/AEN20260403005700320",
       "published_date": "2026-04-03T02:38:00Z",
       "category": "Economy"
-    },
-    {
-      "id": "7210ab78327d2e4fbbfd6b3a5c889915",
-      "title": "Gov't vows stern action against market-disruptive fake news amid heightened volatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403002900320",
-      "published_date": "2026-04-03T02:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f713c33db275c6c0566cd909a6e3b2f7",
-      "title": "Gov't to exempt tariffs on increased shipping costs for Hormuz reroutes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403003800320",
-      "published_date": "2026-04-03T01:42:18Z",
-      "category": "Economy"
-    },
-    {
-      "id": "2f2d965c9d8c351d74b082546c2826a1",
-      "title": "S. Korean currency rises amid hopes for Strait of Hormuz reopening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403003000320",
-      "published_date": "2026-04-03T01:08:57Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
+      "id": "df6b0d50f7f225f2e0a4b738500f36af",
+      "title": "BTS' 'Swim' dips one spot to No. 2 on Billboard singles chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407001400315",
+      "published_date": "2026-04-06T22:54:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3138cd6f28d8285e7dc54a9292b15738",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407000600320",
+      "published_date": "2026-04-06T22:07:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "30271f319c85f07aed127b3fb6aa27ae",
+      "title": "(EDITORIAL from Korea Herald on April. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407000700320",
+      "published_date": "2026-04-06T22:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "18efabc228bae3a5010d73cd77a91257",
+      "title": "(EDITORIAL from Korea Times on April. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260407000800320",
+      "published_date": "2026-04-06T22:00:01Z",
+      "category": "Local Events"
+    },
+    {
       "id": "61fa8353156986100eed7ffd9a06a4ab",
       "title": "(URGENT) N. Korea's Kim Yo-jong calls Lee 'frank, broad-minded' for his expression of regret on drone incident",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260406009200315",
+      "published_date": "2026-04-06T12:17:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9c6c3347bb09e28ad170cfedd5bc92f0",
+      "title": "(URGENT) Kim Yo-jong says N. Korean leader calls Lee 'frank, broad-minded' for his regret over drone incident",
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260406009200315",
       "published_date": "2026-04-06T12:17:19Z",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260406000900315",
       "published_date": "2026-04-05T22:18:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "048f381603bcb0123bb38203a3a73458",
-      "title": "(EDITORIAL from Korea JoongAng Daily on April 6)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406000800320",
-      "published_date": "2026-04-05T21:56:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "25d099eb49403ed28a3fa46572423adf",
-      "title": "(EDITORIAL from The Korea Times on April 6)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406000700320",
-      "published_date": "2026-04-05T21:56:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8eeca0dd6dd91641e46ed7013f81da3d",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406000500320",
-      "published_date": "2026-04-05T21:55:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7dca6fc155123fbc77007fa00b006818",
-      "title": "(LEAD) BTS tops Billboard albums chart for 2nd week with 'Arirang,' a first in K-pop",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406000351315",
-      "published_date": "2026-04-05T19:43:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9879f41a173372b45fd2118d73f4870a",
-      "title": "BTS tops Billboard albums chart for 2nd week with 'Arirang,' a first in K-pop",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406000300315",
-      "published_date": "2026-04-05T19:26:20Z",
       "category": "Local Events"
     }
   ]
