@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-08T05:31:09Z",
+  "generated_at": "2026-04-08T15:00:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,199 @@
   ],
   "Diplomacy": [
     {
-      "id": "572244bdf192203db7e920e59786db34",
-      "title": "Son Heung-min ends drought in victory at regional tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408005500315",
-      "published_date": "2026-04-08T04:26:24Z",
+      "id": "a738cbb8f62cd44374de06b53f1c5ffd",
+      "title": "North Koreans mourn a holiday emptied by grave removal campaign",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/grave-removal-north-korea-chongmyong/",
+      "published_date": "2026-04-08T13:36:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0dcf50ba2a54003ac6a80807a02b12e0",
-      "title": "HDC fined 17.1 bln won over unfair support for ailing affiliate",
+      "id": "730621dad93d4d0daa99da28809d35f6",
+      "title": "Young Bears pitcher lives out dream after strong start",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408005400320",
-      "published_date": "2026-04-08T03:51:51Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408011800315",
+      "published_date": "2026-04-08T13:31:40Z",
       "category": "Diplomacy"
     },
     {
-      "id": "5e36c51d6ed3e1502d0085540d3ea05c",
-      "title": "S. Korea, ASEAN hold inaugural joint committee meeting to discuss upgrading bilateral FTA",
+      "id": "16cd2b217ce8cfc2294e2180d432ce88",
+      "title": "Singer-actor Cha Eun-woo says he has paid off taxes related to evasion allegations",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408004300320",
-      "published_date": "2026-04-08T02:22:50Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408011700315",
+      "published_date": "2026-04-08T13:17:19Z",
       "category": "Diplomacy"
     },
     {
-      "id": "9c651c1aa62d1b03020f34f6a3f1fae8",
-      "title": "Ex-Japan PM calls for Seoul-Tokyo cooperation at U.N. level to help reopen Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408004400315",
-      "published_date": "2026-04-08T02:22:15Z",
+      "id": "4d88c685ef02af484d7dbf91985f3f05",
+      "title": "North Korea electricity conservation drive mocked amid chronic blackouts",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-electricity-conservation-hyesan/",
+      "published_date": "2026-04-08T10:49:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "78ebefb7025aa22ce841c3b5f1574daf",
-      "title": "Cheong Wa Dae convenes meeting over N. Korea's missile launch, urges Pyongyang to stop provocations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408004100315",
-      "published_date": "2026-04-08T02:12:49Z",
+      "id": "e39797ad1f798f3efcd1d699a95978a8",
+      "title": "North Korea mocks Seoul over drone apology. Time to reflect.",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-yo-jong-south-korea-drone-statement/",
+      "published_date": "2026-04-08T09:07:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "a7b7b53d9aeb7e3796f828c291ad0365",
-      "title": "S. Korea, China to hold 14th round of FTA follow-up talks on service, investment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408002300320",
-      "published_date": "2026-04-08T02:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "db8e1b889a374f2463a22b6e102cfc82",
-      "title": "(LEAD) Market volatility has only limited impact on financial companies: regulator",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408003551320",
-      "published_date": "2026-04-08T01:55:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "da0e4d9dd5ee490b8c0f429537d4af35",
-      "title": "(3rd LD) N. Korea fires short-range ballistic missiles in back-to-back launch",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260326006053315",
-      "published_date": "2026-04-08T01:50:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "01d33eeab36301c45d4b5363c269ff62",
-      "title": "Market volatility has only limited impact on financial companies: regulator",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408003500320",
-      "published_date": "2026-04-08T01:43:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fce25ceea02b5cc77665776e2019dc78",
-      "title": "(2nd LD) N. Korea fires multiple ballistic missiles in back-to-back launch",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260326006052315",
-      "published_date": "2026-04-08T01:18:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c5b57eebb5048a6acff7b74e86823c59",
-      "title": "North Korea has launched missiles two days in a row, ROK military reveals",
+      "id": "3f1067c74b267d828730648b9a1cfc15",
+      "title": "Trump could meet Kim Jong Un for summit this fall: Former US official",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-conducts-missile-tests-two-days-in-a-row-rok-military/",
-      "published_date": "2026-04-08T00:48:46Z",
+      "url": "https://www.nknews.org/2026/04/trump-could-meet-kim-jong-un-for-summit-this-fall-former-us-official/",
+      "published_date": "2026-04-08T08:52:01Z",
       "category": "Diplomacy"
     },
     {
-      "id": "3ec22d953e67405156fd90e861b7a5d2",
-      "title": "PM vows no tolerance against unfair market practices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408002500315",
-      "published_date": "2026-04-08T00:40:43Z",
+      "id": "6158144b68e2f6e00c83ce0c6ec54054",
+      "title": "Chinese foreign minister to visit North Korea from Thursday",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/chinese-foreign-minister-to-visit-north-korea-from-thursday/",
+      "published_date": "2026-04-08T08:38:12Z",
       "category": "Diplomacy"
     },
     {
-      "id": "a7f3ec022ff85b4c610c6649aaa1d612",
-      "title": "(LEAD) N. Korea fires unidentified projectiles for 2nd straight day",
+      "id": "4aac2219b1ad9fbf1668ffdd63f5263e",
+      "title": "Ex-Trump official predicts Trump-Kim summit could take place this fall",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260326006051315",
-      "published_date": "2026-04-08T00:32:23Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408009000315",
+      "published_date": "2026-04-08T07:43:44Z",
       "category": "Diplomacy"
     },
     {
-      "id": "f7b4a1434b99939d5aa7f8031ca5d7ab",
-      "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
+      "id": "df40a2300e5bd6d96bb8d8b329fa6462",
+      "title": "(3rd LD) N. Korea conducts back-to-back ballistic missile launches in show of force",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260326006000315",
-      "published_date": "2026-04-08T00:10:05Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408006553315",
+      "published_date": "2026-04-08T07:41:44Z",
       "category": "Diplomacy"
     },
     {
-      "id": "453a93899788c6df368dcb97f4ade333",
-      "title": "(URGENT) N. Korea fires unidentified projectile toward East Sea: JCS",
+      "id": "abcc578c982b81cc40af05fdadc42c12",
+      "title": "(LEAD) China's foreign minister to visit N. Korea on April 9-10: KCNA",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260326005800315",
-      "published_date": "2026-04-08T00:03:19Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408008751315",
+      "published_date": "2026-04-08T07:37:07Z",
       "category": "Diplomacy"
     },
     {
-      "id": "54cf7deef08347c226fb8119a0bd4317",
-      "title": "(LEAD) S. Korea posts largest-ever current account surplus in Feb.: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001151320",
-      "published_date": "2026-04-07T23:25:49Z",
+      "id": "c5abb19a89f8d6c7751ce413e032cf72",
+      "title": "North Korean vice economic minister to serve as new ambassador to Belarus",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/north-korean-vice-economic-minister-to-serve-as-new-ambassador-to-belarus/",
+      "published_date": "2026-04-08T07:26:05Z",
       "category": "Diplomacy"
     },
     {
-      "id": "7a3021368355a4c616a0e1866d893216",
-      "title": "Action-romance 'Humint' claims top spot on Netflix's chart",
+      "id": "632570f8649c940303a34e0d5c4cdf2e",
+      "title": "China's FM Wang Yi to visit N. Korea on April 9-10: KCNA",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001400315",
-      "published_date": "2026-04-07T23:20:52Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408008700315",
+      "published_date": "2026-04-08T07:17:29Z",
       "category": "Diplomacy"
     },
     {
-      "id": "4c7b2fe0e833f12824e2adbc943d258e",
-      "title": "N. Korea holds party committee meetings to spur efforts to implement policy decisions",
+      "id": "4c883f3dfce2b4896236bfc5bcabf3a6",
+      "title": "(2nd LD) N. Korea conducts back-to-back ballistic missile launches in show of force",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001300315",
-      "published_date": "2026-04-07T23:18:58Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408006552315",
+      "published_date": "2026-04-08T07:13:40Z",
       "category": "Diplomacy"
     },
     {
-      "id": "9d9223e5d658de18b33e10a07c2bb767",
-      "title": "N. Korea launched projectile Tuesday: JCS",
+      "id": "73418e906460c1dd0a87a90abe5deb0a",
+      "title": "Jung Ji-hoon eyes 'natural' villain debut in 'Bloodhounds' Season 2",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001200315",
-      "published_date": "2026-04-07T23:07:21Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408008400315",
+      "published_date": "2026-04-08T07:11:23Z",
       "category": "Diplomacy"
     },
     {
-      "id": "9a5922d6ce6d7bed523a2a1e0ffad2d5",
-      "title": "S. Korea posts largest-ever current account surplus in Feb.: BOK",
+      "id": "e9f2f29030aeafb4537148adb47f03f8",
+      "title": "(URGENT) China's FM Wang Yi to visit N. Korea from Thursday to Friday: KCNA",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001100320",
-      "published_date": "2026-04-07T23:00:11Z",
+      "url": "https://en.yna.co.kr/view/AEN20260408008500315",
+      "published_date": "2026-04-08T07:07:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d303d460b545385c13b4207a5110baba",
+      "title": "N. Korea confirms integration of inter-Korean affairs functions into foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408007600315",
+      "published_date": "2026-04-08T06:43:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "66fb4b17d62bdfa656092418cea05d9c",
+      "title": "North Korea bats down Seoul’s ‘dream’ of inter-Korean thaw after rare praise",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/north-korea-bats-down-seouls-dream-of-inter-korean-thaw-after-rare-praise/",
+      "published_date": "2026-04-08T06:29:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "48bbb65d5f70fb8eb7c5f871bced6946",
+      "title": "(LEAD) Special counsel seeks 15-yr jail term for ex-first lady in corruption appeals trial",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408002651315",
+      "published_date": "2026-04-08T06:29:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "20cf56c93e25ae5b9ba1f34b0a4c511f",
+      "title": "(LEAD) N. Korea fires another ballistic missile toward East Sea after morning launches",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408006551315",
+      "published_date": "2026-04-08T06:18:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "147e106ce5cf1abd672e1ecfd73dcd5d",
+      "title": "Search under way for young wolf escaped from zoo",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408006600315",
+      "published_date": "2026-04-08T06:01:46Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "89e934c574f5dbdc17c33d20c02238ce",
+      "title": "Hegseth claims 'decisive victory' in Iran war, says U.S. reserves option to get Tehran's uranium",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408011900315",
+      "published_date": "2026-04-08T14:23:22Z",
+      "category": "Military"
+    },
+    {
+      "id": "6b8cac3b411972d84c3da4000dc74093",
+      "title": "Seoul plans to replace troops on North Korea border with AI-based systems",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/seoul-plans-to-replace-troops-on-north-korea-border-with-ai-based-systems/",
+      "published_date": "2026-04-08T08:14:35Z",
+      "category": "Military"
+    },
+    {
+      "id": "44a7804938fef392f1bfee24bd63915d",
+      "title": "Defense chiefs of S. Korea, Japan discuss N. Korea, security in video call",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408009400315",
+      "published_date": "2026-04-08T07:54:29Z",
+      "category": "Military"
+    },
+    {
+      "id": "543f63ab00c76ae6de045808f65bc5c9",
+      "title": "(URGENT) N. Korea's ballistic missile flew over 700 km: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408008900315",
+      "published_date": "2026-04-08T07:29:21Z",
+      "category": "Military"
+    },
     {
       "id": "f9b69f9f755536d3f5921c5aa98ec3ff",
       "title": "Defense chief urges military reform amid demographic, warfare shifts",
@@ -297,22 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260402000200315",
       "published_date": "2026-04-01T21:25:54Z",
-      "category": "Military"
-    },
-    {
-      "id": "b0c608949ae4569c05d00bb74c223244",
-      "title": "South Korea resumes remains recovery at major Korean War battle site in DMZ",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/south-korea-resumes-remains-recovery-at-major-korean-war-battle-site-in-dmz/",
-      "published_date": "2026-04-01T06:30:47Z",
-      "category": "Military"
-    },
-    {
-      "id": "06cdd92abaae82212e77114d75824d22",
-      "title": "Army chiefs of S. Korea, U.S. discuss joint drills, military innovation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260401008700315",
-      "published_date": "2026-04-01T06:21:36Z",
       "category": "Military"
     }
   ],
@@ -480,6 +496,30 @@
   ],
   "Economy": [
     {
+      "id": "9f01b471d77b96b57cdb5b453a46bdd2",
+      "title": "Trump may hit S. Korea with more tariffs if Seoul engages Iran over Hormuz transit: U.S. expert",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408010700315",
+      "published_date": "2026-04-08T08:44:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a9c282bed95ecabc8875d82cd330ea65",
+      "title": "(LEAD) S. Korean currency rises to one-month high on Middle East ceasefire agreement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408002751320",
+      "published_date": "2026-04-08T07:11:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c6b34790fb334a29e5c59701c0d499a9",
+      "title": "HD KSOE affiliates win 1.97 tln won in multiple shipbuilding orders",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408007300320",
+      "published_date": "2026-04-08T06:17:52Z",
+      "category": "Economy"
+    },
+    {
       "id": "f50c07b936855fafd301682e30aa7e7b",
       "title": "Bond market sentiment improves for May: poll",
       "source": "Yonhap News Agency",
@@ -614,33 +654,145 @@
       "url": "https://en.yna.co.kr/view/AEN20260407004200320",
       "published_date": "2026-04-07T02:27:30Z",
       "category": "Economy"
-    },
-    {
-      "id": "bd67b5b21e0524d5c7200af6fc64baf1",
-      "title": "Celltrion's Truxima leads U.S. prescription market in Feb.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260407003200320",
-      "published_date": "2026-04-07T01:46:26Z",
-      "category": "Economy"
-    },
-    {
-      "id": "cbb4d1a782f97bef3d9c229a5902d2df",
-      "title": "LG Group chief meets CEOs of leading tech firms amid group's AI drive",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260407002600320",
-      "published_date": "2026-04-07T01:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "72454cc7457ded39b3c86b9b986ca762",
-      "title": "(LEAD) Samsung Electronics Q1 operating profit surpasses 50 tln won, beats expectations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260407001300320",
-      "published_date": "2026-04-06T22:58:29Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "a49b2766fde3380840f4e4b050e486d5",
+      "title": "(LEAD) Bears defeat sloppy Heroes at home",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408011651315",
+      "published_date": "2026-04-08T13:07:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b89696d29b399a29287332b776ffe047",
+      "title": "Bears defeat sloppy Heroes at home",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408011600315",
+      "published_date": "2026-04-08T12:52:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a7670d2556b093af4b1a2201774ab588",
+      "title": "(LEAD) Court dismisses North Jeolla governor's injunction request over party expulsion",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408011051315",
+      "published_date": "2026-04-08T12:04:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f01dab0ae9718e03fc7bb68fef36cb96",
+      "title": "Court dismisses North Jeolla governor's injunction request over party expulsion",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408011000315",
+      "published_date": "2026-04-08T10:02:57Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "92132bde6d81fd9469ca4b5a9142c602",
+      "title": "Rookie K-pop band aims to create new wave with music",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408010900315",
+      "published_date": "2026-04-08T09:43:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ddce4c4089594cac25f97c5d9851ed49",
+      "title": "Heroes finalize plans to welcome back ace from injury",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408010800315",
+      "published_date": "2026-04-08T08:49:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4c73e8b257014621948ecc3a6d5606e2",
+      "title": "Bears manager insists hitting woes not affecting veteran catcher behind plate",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408009600315",
+      "published_date": "2026-04-08T08:16:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "744ccb5fe4001728e2640e1d9aae6fd3",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408009500315",
+      "published_date": "2026-04-08T08:07:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f3bf5fb336afe19c01215594e1fc609b",
+      "title": "(2nd LD) Seoul stocks jump nearly 7 pct as U.S., Iran agree on 2-week ceasefire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408007252320",
+      "published_date": "2026-04-08T07:35:26Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5132a4e11ee96d35515a867d65eb8514",
+      "title": "Cheong Wa Dae vows efforts for S. Korean vessels' transit through Strait of Hormuz after Iran war truce",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408008800315",
+      "published_date": "2026-04-08T07:26:32Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "aa833f336038fff3dda61ce08405393a",
+      "title": "(LEAD) Gov't vows efforts to ensure safe passage of S. Korean vessels through Hormuz strait",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408004051320",
+      "published_date": "2026-04-08T07:13:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "dcdcfe06253c57a6c7ca4360d6175a70",
+      "title": "(LEAD) Seoul stocks jump nearly 7 pct as U.S., Iran agree on 2-week ceasefire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408007251320",
+      "published_date": "2026-04-08T07:02:32Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3194be20c86710445f2d3f5db4d50c15",
+      "title": "Seoul stocks jump nearly 7 pct as U.S., Iran agree on 2-week ceasefire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408007200320",
+      "published_date": "2026-04-08T06:33:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "eb01b0105404789fc0f16b9dda0b5dcc",
+      "title": "(URGENT) Seoul stocks spike nearly 7 pct on U.S.-Iran ceasefire, reopening of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408007100320",
+      "published_date": "2026-04-08T06:31:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "048e5999993abbd2e3705b1cfb5f4859",
+      "title": "Finance ministry says U.S.-Iran ceasefire may ease oil supply concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408006900320",
+      "published_date": "2026-04-08T06:07:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "dcf985deba6ce1d9870ab9e4f8de749b",
+      "title": "Prosecutors indict suspect in stalking murder case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408006800315",
+      "published_date": "2026-04-08T06:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "34b452b0c92ac151822d364800beea5a",
+      "title": "Cheong Wa Dae says insulting rhetoric by N. Korea not helpful for peace on Korean Peninsula",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408005700315",
+      "published_date": "2026-04-08T05:24:06Z",
+      "category": "Local Events"
+    },
     {
       "id": "43e3f0c952defb137bc4e1880b448bdf",
       "title": "S. Korea welcomes U.S.-Iran ceasefire plan, voices hope for safe transit of Hormuz Strait",
@@ -663,142 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260408005900315",
       "published_date": "2026-04-08T04:59:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1237b08af60a08fb124b3af626e887b0",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408005800315",
-      "published_date": "2026-04-08T04:41:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f921e16675ff5e04ee6ee98209fb2109",
-      "title": "JYJ's Kim Jae-joong launches first boy band Keyvitup",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408005600315",
-      "published_date": "2026-04-08T04:39:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7c0461cbff773f80c8e0abea1a69d7eb",
-      "title": "BTS adds 3 shows to Latin American leg of 'Arirang' world tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408004800315",
-      "published_date": "2026-04-08T02:30:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fa791c2fe0393e10d9dfc8156b3a509b",
-      "title": "Appeals court upholds prison terms for woman, man for blackmailing Son Heung-min",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408004500315",
-      "published_date": "2026-04-08T02:29:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e7040ce960b244ee817ba3f831101033",
-      "title": "Seoul shares sharply up late Wed. morning on U.S.-Iran ceasefire",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408004600320",
-      "published_date": "2026-04-08T02:28:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1480f2ee75b598271f39a07fcb83627b",
-      "title": "Gov't vows efforts to ensure safe passage of S. Korean vessels through Hormuz strait",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408004000320",
-      "published_date": "2026-04-08T02:05:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3d88d958735df1cb427e2c56d53e827d",
-      "title": "(3rd LD) Trump agrees to 2-week ceasefire with Iran, 'subject to' Hormuz Strait reopening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001053315",
-      "published_date": "2026-04-08T01:09:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "884a072f81bb3f8843c0988950bc7e80",
-      "title": "Appeals court set to hold final hearing of ex-first lady's corruption trial",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408002600315",
-      "published_date": "2026-04-08T00:44:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "edcf080e05c7d31e48432f69f0e87656",
-      "title": "(LEAD) Seoul shares open sharply higher on 2-week ceasefire in U.S.-Iran war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001652320",
-      "published_date": "2026-04-08T00:35:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5465d1f4ef2d838165064a31160450a4",
-      "title": "(2nd LD) Trump agrees to 2-week ceasefire with Iran, 'subject to' Hormuz Strait reopening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001052315",
-      "published_date": "2026-04-08T00:34:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fd74ec86baf4cc627cc5337b610f756b",
-      "title": "Nongshim to establish Russian subsidiary to expand Eurasian presence",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408002400320",
-      "published_date": "2026-04-08T00:26:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c5cd6637755a7ce300cc51dc15e844fc",
-      "title": "Seoul shares open over 5 pct higher on 2-week ceasefire in U.S.-Iran war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001600320",
-      "published_date": "2026-04-08T00:02:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "126c64fe69cf20014e4bb1135c8a0086",
-      "title": "(URGENT) Seoul shares open over 5 pct higher on 2-week ceasefire in U.S.-Iran war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001500320",
-      "published_date": "2026-04-08T00:01:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "da0d26da95fc2bea02decc03d249de5f",
-      "title": "(LEAD) Trump agrees to 2-week ceasefire with Iran, 'subject to' Hormuz Strait reopening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001051315",
-      "published_date": "2026-04-07T23:38:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f60caf4a6ffb06aaf03645ed5966136e",
-      "title": "Trump agrees to suspend bombing of Iran for 2 weeks, 'subject' to Hormuz Strait reopening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408001000315",
-      "published_date": "2026-04-07T22:58:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c03409f5067c65335a51c6b53e92943d",
-      "title": "(URGENT) Trump says he agrees to suspend bombing of Iran for 2 weeks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408000800315",
-      "published_date": "2026-04-07T22:36:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bcc567f6ca14d2683b5327620632eb7a",
-      "title": "(EDITORIAL from Korea JoongAng Daily on April 8)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408000700315",
-      "published_date": "2026-04-07T22:01:34Z",
       "category": "Local Events"
     }
   ]
