@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-08T15:00:56Z",
+  "generated_at": "2026-04-09T00:03:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "835b1ed41da6a9aa26e58e572da75a03",
+      "title": "S. Korea, U.S. launch follow-up talks on tech prosperity deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409001100320",
+      "published_date": "2026-04-08T23:29:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "da486e7aadac4b93f0b676dcdf4d8bd8",
+      "title": "(2nd LD) U.S., Iran to hold 1st round of talks on peace deal in Pakistan on Saturday: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000253315",
+      "published_date": "2026-04-08T23:11:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b819c95b3c24ccd53187c74fd8b5bdaa",
+      "title": "Flu outbreak overwhelms North Korean hospitals as children develop pneumonia",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/flu-outbreak-overwhelms-north-korean-hospitals-as-children-develop-pneumonia/",
+      "published_date": "2026-04-08T23:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e5c7b6dd103d569dc38fe7fab1da8209",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 9)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000800315",
+      "published_date": "2026-04-08T22:12:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ff5cf4f39bde7ad52e1a715aaff00fc4",
+      "title": "(EDITORIAL from Korea Herald on April 9)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000600315",
+      "published_date": "2026-04-08T22:05:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0696f890a0905871f9c649d34cae9de4",
+      "title": "Trump mulls punishing some NATO members over lack of support during Iran war: WSJ",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000400315",
+      "published_date": "2026-04-08T21:53:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bfe23dc38f2e887aa046a82d5a775292",
+      "title": "(LEAD) U.S., Iran to hold 1st round of talks on peace deal in Pakistan on Saturday: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000252315",
+      "published_date": "2026-04-08T18:51:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "214fa4b98c0d18a07b90b8bffcee2a7e",
+      "title": "U.S., Iran to hold 1st round of talks on peace deal in Pakistan on Saturday: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000251315",
+      "published_date": "2026-04-08T18:11:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3067a49889142c283a9e95d726f99f7f",
+      "title": "North Korea rejects 90% of local party documents in post-congress crackdown",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-party-documents-inspection-crackdown/",
+      "published_date": "2026-04-08T17:56:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1e346ac3fa9373d553280a94dc3a595d",
+      "title": "(URGENT) White House says U.S.-Iran negotiations will take place in Pakistan on Saturday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000200315",
+      "published_date": "2026-04-08T17:45:01Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "a738cbb8f62cd44374de06b53f1c5ffd",
       "title": "North Koreans mourn a holiday emptied by grave removal campaign",
@@ -88,89 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260408008751315",
       "published_date": "2026-04-08T07:37:07Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "c5abb19a89f8d6c7751ce413e032cf72",
-      "title": "North Korean vice economic minister to serve as new ambassador to Belarus",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korean-vice-economic-minister-to-serve-as-new-ambassador-to-belarus/",
-      "published_date": "2026-04-08T07:26:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "632570f8649c940303a34e0d5c4cdf2e",
-      "title": "China's FM Wang Yi to visit N. Korea on April 9-10: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408008700315",
-      "published_date": "2026-04-08T07:17:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4c883f3dfce2b4896236bfc5bcabf3a6",
-      "title": "(2nd LD) N. Korea conducts back-to-back ballistic missile launches in show of force",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408006552315",
-      "published_date": "2026-04-08T07:13:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "73418e906460c1dd0a87a90abe5deb0a",
-      "title": "Jung Ji-hoon eyes 'natural' villain debut in 'Bloodhounds' Season 2",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408008400315",
-      "published_date": "2026-04-08T07:11:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e9f2f29030aeafb4537148adb47f03f8",
-      "title": "(URGENT) China's FM Wang Yi to visit N. Korea from Thursday to Friday: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408008500315",
-      "published_date": "2026-04-08T07:07:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d303d460b545385c13b4207a5110baba",
-      "title": "N. Korea confirms integration of inter-Korean affairs functions into foreign ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408007600315",
-      "published_date": "2026-04-08T06:43:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "66fb4b17d62bdfa656092418cea05d9c",
-      "title": "North Korea bats down Seoul’s ‘dream’ of inter-Korean thaw after rare praise",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-bats-down-seouls-dream-of-inter-korean-thaw-after-rare-praise/",
-      "published_date": "2026-04-08T06:29:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "48bbb65d5f70fb8eb7c5f871bced6946",
-      "title": "(LEAD) Special counsel seeks 15-yr jail term for ex-first lady in corruption appeals trial",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408002651315",
-      "published_date": "2026-04-08T06:29:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "20cf56c93e25ae5b9ba1f34b0a4c511f",
-      "title": "(LEAD) N. Korea fires another ballistic missile toward East Sea after morning launches",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408006551315",
-      "published_date": "2026-04-08T06:18:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "147e106ce5cf1abd672e1ecfd73dcd5d",
-      "title": "Search under way for young wolf escaped from zoo",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408006600315",
-      "published_date": "2026-04-08T06:01:46Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "26376f700d86c44b4729165882a5ae48",
+      "title": "(LEAD) Hegseth claims 'decisive victory' in Iran war, says U.S. reserves option to take Tehran's uranium",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408011951315",
+      "published_date": "2026-04-08T15:42:03Z",
+      "category": "Military"
+    },
     {
       "id": "89e934c574f5dbdc17c33d20c02238ce",
       "title": "Hegseth claims 'decisive victory' in Iran war, says U.S. reserves option to get Tehran's uranium",
@@ -306,33 +314,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260402006900315",
       "published_date": "2026-04-02T06:23:24Z",
       "category": "Military"
-    },
-    {
-      "id": "bd0da0c0aaf51ecc5f1e66db5c626355",
-      "title": "(LEAD) Trump says S. Korea 'not helpful,' cites U.S. troops near 'nuclear force' on peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260402000252315",
-      "published_date": "2026-04-01T22:12:53Z",
-      "category": "Military"
-    },
-    {
-      "id": "90b9d2440d3299c177a543cd6456ec75",
-      "title": "Trump says S. Korea 'not helpful,' cites U.S. troops near 'nuclear force' on peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260402000251315",
-      "published_date": "2026-04-01T21:44:16Z",
-      "category": "Military"
-    },
-    {
-      "id": "53fc42fe0c76d96f076f9e66022e9137",
-      "title": "(URGENT) Trump says S. Korea 'not helpful' to U.S. despite American troops there next to 'nuclear force,' while commenting on Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260402000200315",
-      "published_date": "2026-04-01T21:25:54Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "0545b755028547102003cf578709bdd1",
+      "title": "Gov't to expand reuse of old computers, support for vulnerable groups amid rising DRAM prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000900320",
+      "published_date": "2026-04-08T23:00:00Z",
+      "category": "Energy"
+    },
     {
       "id": "6f5ea027600607d610161ebe4cf803a9",
       "title": "Odd-even vehicle rotation goes into effect at government, public offices",
@@ -484,17 +476,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260403002600315",
       "published_date": "2026-04-03T00:48:00Z",
       "category": "Energy"
-    },
-    {
-      "id": "063b27b211a01f8fc411387665d4eb4a",
-      "title": "(EDITORIAL from The Korea Times on April 3)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260403000800315",
-      "published_date": "2026-04-02T22:04:32Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "078941504d9171692bb1fdba8cfe3809",
+      "title": "Financial holding firms post record net profit of 26.7 tln won in 2025",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408006400320",
+      "published_date": "2026-04-08T21:00:11Z",
+      "category": "Economy"
+    },
     {
       "id": "9f01b471d77b96b57cdb5b453a46bdd2",
       "title": "Trump may hit S. Korea with more tariffs if Seoul engages Iran over Hormuz transit: U.S. expert",
@@ -646,17 +638,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260407004800320",
       "published_date": "2026-04-07T02:45:29Z",
       "category": "Economy"
-    },
-    {
-      "id": "f516fc848e142798d7b3ce4d379cf65d",
-      "title": "(LEAD) LG Electronics Q1 operating profit jumps 33 pct on record sales",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260407004200320",
-      "published_date": "2026-04-07T02:27:30Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "9b940050d94af6e0255334435719d5b8",
+      "title": "BTS to begin largest K-pop world tour in Goyang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409001000315",
+      "published_date": "2026-04-08T23:02:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4931a323076fb7b7839f736881a75852",
+      "title": "Seoul to guarantee access to basic mobile data after caps",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260408007000320",
+      "published_date": "2026-04-08T23:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f9a4889c2ce9f862e8739b2d8709fc8e",
+      "title": "(LEAD) N. Korea says test-fired tactical ballistic missile tipped with cluster bomb warhead",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000351315",
+      "published_date": "2026-04-08T22:43:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "64c4474e9c9362b7ab1b7bc4a1e5a98c",
+      "title": "(EDITORIAL from Korea Times on April 9)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000700315",
+      "published_date": "2026-04-08T22:11:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9d56adf21fdb95b930dd0685988be294",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000500315",
+      "published_date": "2026-04-08T22:04:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "881677a124659af4b6b05689da7e7093",
+      "title": "N. Korea says test-fired tactical ballistic missile tipped with cluster bomb warhead",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409000300315",
+      "published_date": "2026-04-08T21:40:28Z",
+      "category": "Local Events"
+    },
     {
       "id": "a49b2766fde3380840f4e4b050e486d5",
       "title": "(LEAD) Bears defeat sloppy Heroes at home",
@@ -767,54 +799,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260408007100320",
       "published_date": "2026-04-08T06:31:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "048e5999993abbd2e3705b1cfb5f4859",
-      "title": "Finance ministry says U.S.-Iran ceasefire may ease oil supply concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408006900320",
-      "published_date": "2026-04-08T06:07:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dcf985deba6ce1d9870ab9e4f8de749b",
-      "title": "Prosecutors indict suspect in stalking murder case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408006800315",
-      "published_date": "2026-04-08T06:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "34b452b0c92ac151822d364800beea5a",
-      "title": "Cheong Wa Dae says insulting rhetoric by N. Korea not helpful for peace on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408005700315",
-      "published_date": "2026-04-08T05:24:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "43e3f0c952defb137bc4e1880b448bdf",
-      "title": "S. Korea welcomes U.S.-Iran ceasefire plan, voices hope for safe transit of Hormuz Strait",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408006000315",
-      "published_date": "2026-04-08T05:19:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c42247718449197d0395ccbfd22e5625",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408002900315",
-      "published_date": "2026-04-08T05:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4a32f03632388b140fb28dd1f96d44fa",
-      "title": "Kim Si-woo confident his experience can pay off at Masters",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408005900315",
-      "published_date": "2026-04-08T04:59:43Z",
       "category": "Local Events"
     }
   ]
