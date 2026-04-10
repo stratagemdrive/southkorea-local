@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-10T14:36:13Z",
+  "generated_at": "2026-04-10T23:25:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "1ef2f0f2bf03ab8ec44c0d3b6345c77c",
+      "title": "N. Korea's Kim vows 'multi-faceted' development of ties with China in meeting with Wang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411000300315",
+      "published_date": "2026-04-10T22:11:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cdbd4809872bb75327e0d49e8307d1c3",
+      "title": "(3rd LD) Vance warns Iran not to 'play us'; Tehran calls for Lebanon ceasefire, frozen assets release before talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260410010453315",
+      "published_date": "2026-04-10T19:18:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6c5716a80736915c1c966cb7ca3662f6",
+      "title": "(2nd LD) Vance warns Iran not to 'play us'; Tehran calls for Lebanon ceasefire, frozen assets release before talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260410010452315",
+      "published_date": "2026-04-10T17:47:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ff660c224fd99bf8bff8c69e8fb0c7d8",
+      "title": "(LEAD) Vance warns Iran not to 'play us'; Tehran calls for Lebanon ceasefire, frozen assets release before talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260410010451315",
+      "published_date": "2026-04-10T17:10:12Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "775f3ef203da5d72b1ccb5b0c844f001",
       "title": "Satellite imagery shows Yongbyon nuclear complex in active modernization phase",
@@ -135,38 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260410004700315",
       "published_date": "2026-04-10T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "161bc6291c7c81beb2dad0c0b3f11a92",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410004800315",
-      "published_date": "2026-04-10T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "16b4e5ac599e78b1aecde4ff7196e178",
-      "title": "(LEAD) S. Korea calls in Japanese Embassy official over Tokyo's renewed territorial claim to Dokdo",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410006351315",
-      "published_date": "2026-04-10T06:34:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3e32867cb45a06f3541acf95bade58a6",
-      "title": "S. Korea calls in Japanese Embassy official over renewed territorial claim to Dokdo",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410006300315",
-      "published_date": "2026-04-10T06:22:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fe6a0b769804b0bcbd3e57a203443b20",
-      "title": "Lee meets leader of major umbrella labor union",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410006200315",
-      "published_date": "2026-04-10T06:12:49Z",
       "category": "Diplomacy"
     }
   ],
