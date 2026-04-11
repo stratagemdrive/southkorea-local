@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-10T23:25:50Z",
+  "generated_at": "2026-04-11T11:33:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "3aca0849f2ec6b1b26063f7c9f93135a",
+      "title": "Foreign ministry regrets Israel's 'misunderstanding' of President Lee's Middle East remarks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411001800315",
+      "published_date": "2026-04-11T05:40:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "70b53a5da5d4f8a073734e42557bdcf1",
+      "title": "(LEAD) N. Korea's Kim says Pyongyang puts 'top priority' on developing ties with China in meeting with Wang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411000351315",
+      "published_date": "2026-04-11T01:08:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fc03e1e4c71a7e189e3abf8a64df9417",
+      "title": "Kim Jong Un vows support for China ‘realizing’ territorial policy on Taiwan",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/kim-jong-un-vows-support-for-china-realizing-territorial-policy-on-taiwan/",
+      "published_date": "2026-04-10T23:45:16Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "1ef2f0f2bf03ab8ec44c0d3b6345c77c",
       "title": "N. Korea's Kim vows 'multi-faceted' development of ties with China in meeting with Wang",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260410002251320",
       "published_date": "2026-04-10T07:29:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "94f8db13241929cc7d3cb7a10763cc66",
-      "title": "Defense chief inspects arms supply chain amid Mideast war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410007600315",
-      "published_date": "2026-04-10T07:19:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7e1a54fc740f0b2e322de1e19dbd7a1e",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410004600315",
-      "published_date": "2026-04-10T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f8c88cd565d03f5a382a777d6aeaf9b9",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410004700315",
-      "published_date": "2026-04-10T07:00:01Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "21a890d7c556eeeb2bd2fa82916ed0d3",
+      "title": "'The King's Warden' becomes 2nd most-viewed film ever",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411001000315",
+      "published_date": "2026-04-11T02:39:32Z",
+      "category": "Energy"
+    },
+    {
       "id": "665fba0b696b2d596d81431e851797ec",
       "title": "KBO surpasses 1 mln fans in fewest games ever",
       "source": "Yonhap News Agency",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260406000400315",
       "published_date": "2026-04-05T20:50:23Z",
-      "category": "Energy"
-    },
-    {
-      "id": "ff449b715f4c9e0d11208d3b968e7060",
-      "title": "Risky PF loans drop sharply in 2025: watchdog",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260404000500320",
-      "published_date": "2026-04-05T03:00:09Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,62 @@
   ],
   "Local Events": [
     {
+      "id": "ae31c7353a017617bd7c42b347344b91",
+      "title": "500 admission wristbands stolen at BTS concert venue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411002100320",
+      "published_date": "2026-04-11T08:53:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "50814d2d084c5e872e600f327b37a42d",
+      "title": "PPP picks incumbent Mayor Park as Busan mayoral candidate",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411002000320",
+      "published_date": "2026-04-11T08:25:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ed0c7da0b3f4e353394e4437f492550d",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411000800315",
+      "published_date": "2026-04-11T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "75a3b0e766b28650269c6f8c4c2e1a48",
+      "title": "(LEAD) Gov't to roll out cash aid late this month amid Middle East crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411000951315",
+      "published_date": "2026-04-11T02:30:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "437c3fee0ebc261e24b7db4f4c1c3702",
+      "title": "Gov't to roll out cash aid late this month amid Middle East crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411000900315",
+      "published_date": "2026-04-11T02:05:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ad90d6f8ca87156ba2f112cb39d47779",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411000700315",
+      "published_date": "2026-04-11T00:04:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "99198af644d2796382a747555507fc57",
+      "title": "Trump says U.S. will have Strait of Hormuz 'open fairly soon'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411000400315",
+      "published_date": "2026-04-10T23:40:47Z",
+      "category": "Local Events"
+    },
+    {
       "id": "2774b20f051e5829ed37b6b4a0050ac8",
       "title": "Boy group Santos Bravos says K-pop training taught it discipline, mental endurance",
       "source": "Yonhap News Agency",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260410001300320",
       "published_date": "2026-04-10T00:50:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eeb008dd7c0a6a7fca2c75b2171d7192",
-      "title": "Seoul shares open up amid optimism over U.S.-Iran ceasefire deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410002400320",
-      "published_date": "2026-04-10T00:48:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5c6ff8e649df71892e09b0fffb528c63",
-      "title": "Gov't prioritizes supply of health care products, raw materials amid shortage concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410002000320",
-      "published_date": "2026-04-10T00:23:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "73d379acdd69a9a140cb981ad3e7e914",
-      "title": "No S. Korean match officials for 4th straight FIFA World Cup",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410001500315",
-      "published_date": "2026-04-10T00:01:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "853ec562280f8e39454d3e086b9547eb",
-      "title": "Korean works, including Han Kang's, to make debut at Avignon Festival",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410001400315",
-      "published_date": "2026-04-09T23:57:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bf21ebd80243dd17ab917e973795689a",
-      "title": "North Korean students mobilized to farm school land as rations dry up",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korean-students-mobilized-to-farm-school-land-as-rations-dry-up/",
-      "published_date": "2026-04-09T23:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "27833735d1488a284f32893bf59e4a1c",
-      "title": "(EDITORIAL from Korea Times on April 10)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410000700320",
-      "published_date": "2026-04-09T22:05:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "de5879d38047303fa86d7c99ac7bbee4",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410000500320",
-      "published_date": "2026-04-09T22:04:57Z",
       "category": "Local Events"
     }
   ]
