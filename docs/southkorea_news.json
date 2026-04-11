@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-11T11:33:21Z",
+  "generated_at": "2026-04-11T23:23:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "2e9203fd60407089ae41a7178fdf0f2a",
+      "title": "Trump says U.S. in 'deep negotiations' with Iran, 'we win' regardless of what happens",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000200315",
+      "published_date": "2026-04-11T22:29:16Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3aca0849f2ec6b1b26063f7c9f93135a",
       "title": "Foreign ministry regrets Israel's 'misunderstanding' of President Lee's Middle East remarks",
@@ -160,17 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260410001052315",
       "published_date": "2026-04-10T07:35:54Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "64836e2cac89a605a8218764a1e46d23",
-      "title": "(LEAD) S. Korean currency unchanged ahead of U.S.-Iran talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410002251320",
-      "published_date": "2026-04-10T07:29:15Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "ddb36e6f5bac32489a978341123d4a89",
+      "title": "(Yonhap Interview) S. Korea, Australia on 'separate but parallel' paths in nuclear-powered submarines push: top Australian envoy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411001700315",
+      "published_date": "2026-04-11T23:00:02Z",
+      "category": "Military"
+    },
+    {
+      "id": "f66a1c2dad984fa08fca4148cbd0b3b0",
+      "title": "New patrol ships to possibly inherit hull numbers of warships engaged in naval battles against N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260410008400315",
+      "published_date": "2026-04-11T21:01:01Z",
+      "category": "Military"
+    },
     {
       "id": "a1f25a28de91f3491034dc60fea7631b",
       "title": "North Korea discharges soldiers early to send them to Russia as laborers",
@@ -313,22 +329,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/us-south-korea-begin-search-for-aircraft-that-went-missing-during-korean-war/",
       "published_date": "2026-04-06T09:03:13Z",
-      "category": "Military"
-    },
-    {
-      "id": "092c87ca7d5354284df658f37e2ba45f",
-      "title": "S. Korean military launches annual Hwarang defense drills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406002600315",
-      "published_date": "2026-04-06T01:23:53Z",
-      "category": "Military"
-    },
-    {
-      "id": "e9eab0122b3cfa45b2b1ce207eec0bc9",
-      "title": "South Korean military helicopter mistakenly enters DMZ during wildfire operation",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/south-korean-military-helicopter-mistakenly-enters-dmz-during-wildfire-operation/",
-      "published_date": "2026-04-05T15:40:48Z",
       "category": "Military"
     }
   ],
@@ -658,6 +658,22 @@
   ],
   "Local Events": [
     {
+      "id": "a0edb87781bb2d9a560839c6168f8496",
+      "title": "Trump says U.S. starting clearing out Strait of Hormuz 'as a favor' to S. Korea, China, Japan, others",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411002300315",
+      "published_date": "2026-04-11T14:09:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3246b1f1c7492a801db6cb6ac56baccb",
+      "title": "Purple wave returns as BTS embarks on massive world tour",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260411002200315",
+      "published_date": "2026-04-11T13:44:31Z",
+      "category": "Local Events"
+    },
+    {
       "id": "ae31c7353a017617bd7c42b347344b91",
       "title": "500 admission wristbands stolen at BTS concert venue",
       "source": "Yonhap News Agency",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260410004300320",
       "published_date": "2026-04-10T02:04:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dcf666fe8b99b1184fdacaf6a2b37d88",
-      "title": "Police investigate bread factory workers' finger amputation accident",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410002900315",
-      "published_date": "2026-04-10T01:10:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "427614e4b236c384cad8303849f5baad",
-      "title": "(URGENT) BOK holds key rate steady at 2.5 pct for 7th consecutive time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410001300320",
-      "published_date": "2026-04-10T00:50:11Z",
       "category": "Local Events"
     }
   ]
