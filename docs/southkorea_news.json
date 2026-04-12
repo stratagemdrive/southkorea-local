@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-11T23:23:08Z",
+  "generated_at": "2026-04-12T11:36:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "f6874335494dc7c3c8fea5a386b16803",
+      "title": "Badminton star An Se-young wins 1st career Asian championship",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412002400315",
+      "published_date": "2026-04-12T11:00:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d287e76fafa73c5eb1e3443bf6a5582f",
+      "title": "(LEAD) Cheong Wa Dae to maintain emergency posture after U.S.-Iran talks fall through",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000751315",
+      "published_date": "2026-04-12T09:37:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8cd00e596082559a6d2a73481aac07c5",
+      "title": "Saudi Arabia agrees to prioritize oil shipments to S. Korea: minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412002200320",
+      "published_date": "2026-04-12T07:21:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a04343a8bcd5f3f3bdf4406323144dce",
+      "title": "(LEAD) U.S., Iran fail to reach deal during 21 hours of peace talks in Pakistan: Vance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000852315",
+      "published_date": "2026-04-12T02:53:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bfff3e1ad406ed103a80fb867f193d16",
+      "title": "Lee reiterates commitment to upholding human rights following online exchange with Israel",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412001100315",
+      "published_date": "2026-04-12T02:39:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c5b8820198a2b9f1e253f2115fd17dcd",
+      "title": "Vance says U.S. has not reached agreement with Iran during peace talks in Pakistan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000851315",
+      "published_date": "2026-04-12T02:08:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d2e0f48643da4ab75728b2b84106353e",
+      "title": "(URGENT) Vance says U.S., Iran have not reached agreement during peace talks in Pakistan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000800315",
+      "published_date": "2026-04-12T01:38:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "92f75123acb531a19776286f06732693",
+      "title": "No. of unresolved cases per prosecutor nearly doubles in 2025",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000600315",
+      "published_date": "2026-04-12T01:31:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "90c508104a87b72ca4b9b9c1f2c57a2e",
+      "title": "N. Korea sends new envoy to Belarus amid warming ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000400315",
+      "published_date": "2026-04-12T00:30:24Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "2e9203fd60407089ae41a7178fdf0f2a",
       "title": "Trump says U.S. in 'deep negotiations' with Iran, 'we win' regardless of what happens",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260410001054315",
       "published_date": "2026-04-10T12:17:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "872b885da51868dba542bd687cdbf4a1",
-      "title": "(LEAD) Ex-ambassador to Kuwait appointed as special envoy to Iran",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410004251315",
-      "published_date": "2026-04-10T11:28:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fb312ec85283b346fb569086d81fda74",
-      "title": "(3rd LD) N. Korean leader Kim meets China's top diplomat in Pyongyang: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410001053315",
-      "published_date": "2026-04-10T11:13:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3fde63c5a02cf8f1e00d2ca6bd0afc6a",
-      "title": "(URGENT) N. Korean leader Kim meets China's top diplomat in Pyongyang: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410009600315",
-      "published_date": "2026-04-10T10:50:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b706084acab6f7528459ae5ecd718e3a",
-      "title": "North Korea resumes China transport links but clamps down on tourist entry",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-china-travel-resumes-tourists-barred/",
-      "published_date": "2026-04-10T09:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1bc634606212730d58a54e0bb8e5c82a",
-      "title": "S. Korea hosts 1st preparatory meeting for upcoming summit with Central Asia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410009500315",
-      "published_date": "2026-04-10T09:30:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "49d53e28883c0466c858fc4cbaba6dfa",
-      "title": "Bayern Munich to visit S. Korea for summer friendly",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410009400315",
-      "published_date": "2026-04-10T08:52:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f1d26af865ac8717f0170016af951615",
-      "title": "Top security adviser says transit through Strait of Hormuz not going smoothly, vows to seek alternative routes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410007800315",
-      "published_date": "2026-04-10T07:57:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "39644b9cbbebb75269847b7d61dc4788",
-      "title": "Unification minister calls resuming tourist railway to border with N. Korea starting point for peace",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410007700315",
-      "published_date": "2026-04-10T07:48:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e48e17af5200b5e49f441fe361489c42",
-      "title": "(2nd LD) N. Korea's top diplomat tells China that Pyongyang vows to deepen bilateral ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410001052315",
-      "published_date": "2026-04-10T07:35:54Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,22 @@
   ],
   "Energy": [
     {
+      "id": "28229667f0d6b01fd392e717ae048ccf",
+      "title": "Railroad users reach record high in Q1 on expanded service, higher oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412001200320",
+      "published_date": "2026-04-12T02:41:46Z",
+      "category": "Energy"
+    },
+    {
+      "id": "d08368489b8b545558b4824a661c8ecd",
+      "title": "Cheong Wa Dae to hold economic review meeting on response to Mideast crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000700315",
+      "published_date": "2026-04-12T01:21:13Z",
+      "category": "Energy"
+    },
+    {
       "id": "21a890d7c556eeeb2bd2fa82916ed0d3",
       "title": "'The King's Warden' becomes 2nd most-viewed film ever",
       "source": "Yonhap News Agency",
@@ -476,25 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260406004300320",
       "published_date": "2026-04-06T02:02:38Z",
       "category": "Energy"
-    },
-    {
-      "id": "d560caba1405e3e433108b995a57236b",
-      "title": "Ruling party, gov't agree on efforts to send special envoys to Middle East to secure crude oil",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406003200315",
-      "published_date": "2026-04-06T01:22:56Z",
-      "category": "Energy"
-    },
-    {
-      "id": "ed638b2f01d72f141c482545ddc9f9ed",
-      "title": "Trump threatens to strike Iran power plants if Strait of Hormuz not reopened by Tuesday evening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260406000400315",
-      "published_date": "2026-04-05T20:50:23Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "aebbcd3342a3a3513417f9b1889b959c",
+      "title": "BOK chief to attend G20, IMF-WBG meetings in Washington",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412002100320",
+      "published_date": "2026-04-12T04:48:46Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a111ca93d54dbe5eaf0d315c3a9de1ba",
+      "title": "Local banks expected to limit household loan growth to 1 pct this year: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000900320",
+      "published_date": "2026-04-12T02:12:23Z",
+      "category": "Economy"
+    },
+    {
+      "id": "4c6ec0255cef21ca0e8a946a8486c282",
+      "title": "S. Korea's debt-to-GDP ratio projected to reach 60 pct by 2030 amid slower growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412000500320",
+      "published_date": "2026-04-12T01:19:30Z",
+      "category": "Economy"
+    },
     {
       "id": "7cc839d3f281be84470dd2729027ed01",
       "title": "(3rd LD) Nat'l Assembly passes 26.2 tln-won extra budget bill to mitigate fallout from Mideast war",
@@ -630,33 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260409005300320",
       "published_date": "2026-04-09T04:47:37Z",
       "category": "Economy"
-    },
-    {
-      "id": "e7669b5ed91e9f26c4a21cfc5187761c",
-      "title": "Gov't designates 145 companies to lead S. Korea's food exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260409004700320",
-      "published_date": "2026-04-09T02:18:11Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6809c39200a049ad4223c1c07873e41d",
-      "title": "Hanwha Ocean wins 393.3 bln-won VLCC order in Oceania",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260409004500320",
-      "published_date": "2026-04-09T02:05:27Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7608473913b2e3136bd60d35f268fa18",
-      "title": "S. Korea fines auction house Christie's 287 mln won over data leak",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260409004400315",
-      "published_date": "2026-04-09T02:04:18Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "828e3dc51f0a2fa0c1d3ae4df1ee7c33",
+      "title": "(2nd LD) 2 firefighters killed in cold storage warehouse fire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412001352315",
+      "published_date": "2026-04-12T05:28:50Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "34b6fca7fca5a8eb9d81022631f59e08",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412001000320",
+      "published_date": "2026-04-12T05:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ed40508f84595afdf81dfd949cc9254e",
+      "title": "(LEAD) 2 firefighters killed in cold storage warehouse fire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412001351315",
+      "published_date": "2026-04-12T04:47:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5a1bf3ac8e7ee1f587f5c90fece8b1d7",
+      "title": "2 firefighters killed in cold storage warehouse fire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412001300315",
+      "published_date": "2026-04-12T02:57:26Z",
+      "category": "Local Events"
+    },
     {
       "id": "a0edb87781bb2d9a560839c6168f8496",
       "title": "Trump says U.S. starting clearing out Strait of Hormuz 'as a favor' to S. Korea, China, Japan, others",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260410005900320",
       "published_date": "2026-04-10T04:59:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7a3eb7afafe0e79f016a95b8ccb5ca2c",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410005700320",
-      "published_date": "2026-04-10T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cc426383f5f7b8d88b0cd1cd65bbeb18",
-      "title": "Task force decides not to indict ex-oceans minister over alleged bribery",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410005600315",
-      "published_date": "2026-04-10T02:58:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "24fd46648613a3f2c7a87f7acb9875c8",
-      "title": "Seoul shares extend gains late Fri. morning on U.S.-Iran ceasefire optimism",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410005100320",
-      "published_date": "2026-04-10T02:37:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "641511b844c4e70ce74f9b5a7a070e74",
-      "title": "Full text of BOK statement on monetary policy decision in April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410004300320",
-      "published_date": "2026-04-10T02:04:17Z",
       "category": "Local Events"
     }
   ]
