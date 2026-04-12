@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-12T11:36:09Z",
+  "generated_at": "2026-04-12T23:24:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "a40d59f7f8966f94dbe3c5f6f9bcd113",
+      "title": "Galleries Art Fair closes with 50,000 visitors, posting strong midrange sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413001600315",
+      "published_date": "2026-04-12T23:08:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "46de57cfc904252e9a72b08aaa4c72fa",
+      "title": "Lee, Polish PM set for summit talks with focus on defense industry cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413001400315",
+      "published_date": "2026-04-12T22:48:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "60c5683ae20ae471067fddec00ec242f",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000800315",
+      "published_date": "2026-04-12T21:52:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7331bd2924a1c9b5b16d35ff8625c1cd",
+      "title": "(EDITORIAL from Korea Times on April 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000700315",
+      "published_date": "2026-04-12T21:52:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "85b1794a113109f013373cfdc8d71cf7",
+      "title": "(EDITORIAL from Korea Herald on April 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000600315",
+      "published_date": "2026-04-12T21:52:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1eea8383f58188210b3335a2fe72ab3e",
+      "title": "Pet shop in Pyongyang sparks anger and envy among North Korea’s provincial poor",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-koreans-react-kim-jong-un-pet-shop-hwasong-district/",
+      "published_date": "2026-04-12T21:08:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e1be2b79642cbd4fd5c8698e95c7bba3",
+      "title": "Trump says U.S. Navy will begin blockading all ships trying to enter or leave Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412003300315",
+      "published_date": "2026-04-12T13:49:12Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "f6874335494dc7c3c8fea5a386b16803",
       "title": "Badminton star An Se-young wins 1st career Asian championship",
@@ -112,65 +168,25 @@
       "url": "https://www.nknews.org/2026/04/kim-jong-un-vows-support-for-china-realizing-territorial-policy-on-taiwan/",
       "published_date": "2026-04-10T23:45:16Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "1ef2f0f2bf03ab8ec44c0d3b6345c77c",
-      "title": "N. Korea's Kim vows 'multi-faceted' development of ties with China in meeting with Wang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260411000300315",
-      "published_date": "2026-04-10T22:11:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cdbd4809872bb75327e0d49e8307d1c3",
-      "title": "(3rd LD) Vance warns Iran not to 'play us'; Tehran calls for Lebanon ceasefire, frozen assets release before talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410010453315",
-      "published_date": "2026-04-10T19:18:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6c5716a80736915c1c966cb7ca3662f6",
-      "title": "(2nd LD) Vance warns Iran not to 'play us'; Tehran calls for Lebanon ceasefire, frozen assets release before talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410010452315",
-      "published_date": "2026-04-10T17:47:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ff660c224fd99bf8bff8c69e8fb0c7d8",
-      "title": "(LEAD) Vance warns Iran not to 'play us'; Tehran calls for Lebanon ceasefire, frozen assets release before talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410010451315",
-      "published_date": "2026-04-10T17:10:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "775f3ef203da5d72b1ccb5b0c844f001",
-      "title": "Satellite imagery shows Yongbyon nuclear complex in active modernization phase",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/satellite-imagery-shows-yongbyon-nuclear-complex-in-active-modernization-phase/",
-      "published_date": "2026-04-10T13:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c5022c239757d25bbd27516a09ada69d",
-      "title": "Vance warns Iran not to 'play us,' expects negotiations to be 'positive'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410010400315",
-      "published_date": "2026-04-10T13:34:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5dfb8dde7e5176af8fed9bc8ebfb0894",
-      "title": "(4th LD) N.K. leader vows high-level exchanges, strategic talks with China in meeting with Wang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410001054315",
-      "published_date": "2026-04-10T12:17:13Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "6b05af5ffd17ed454db7e3cc3145ea1a",
+      "title": "(LEAD) U.S. to begin blockading all ships entering or exiting Iranian ports Monday: CENTCOM",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000951315",
+      "published_date": "2026-04-12T23:19:08Z",
+      "category": "Military"
+    },
+    {
+      "id": "6dffd6a850c584c710b99104fad98aca",
+      "title": "U.S. to begin blockading all ships entering or exiting Iranian ports Monday: CENTCOM",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000900315",
+      "published_date": "2026-04-12T22:08:58Z",
+      "category": "Military"
+    },
     {
       "id": "ddb36e6f5bac32489a978341123d4a89",
       "title": "(Yonhap Interview) S. Korea, Australia on 'separate but parallel' paths in nuclear-powered submarines push: top Australian envoy",
@@ -313,22 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260408002800320",
       "published_date": "2026-04-08T00:58:45Z",
-      "category": "Military"
-    },
-    {
-      "id": "bb3be6c89a82a35c71ce63e55a21db70",
-      "title": "Defense chief urges seamless response amid energy concerns over Middle East crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260407006700315",
-      "published_date": "2026-04-07T06:51:26Z",
-      "category": "Military"
-    },
-    {
-      "id": "b0108a40c79e166f9aad6503f4f14fad",
-      "title": "US, South Korea begin search for aircraft that went missing during Korean War",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/us-south-korea-begin-search-for-aircraft-that-went-missing-during-korean-war/",
-      "published_date": "2026-04-06T09:03:13Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "8f96a52cef29ad2c3c7e3441ff25dbad",
+      "title": "Short track veteran Choi Min-jeong wins nat'l team trials for final int'l season",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260412003400315",
+      "published_date": "2026-04-12T13:52:31Z",
+      "category": "Economy"
+    },
+    {
       "id": "aebbcd3342a3a3513417f9b1889b959c",
       "title": "BOK chief to attend G20, IMF-WBG meetings in Washington",
       "source": "Yonhap News Agency",
@@ -646,17 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260409005500320",
       "published_date": "2026-04-09T05:00:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "bb46140399fcbc2d0d2a79489b9a026a",
-      "title": "Lotte Card given prior notice of penalty over massive data breach",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260409005300320",
-      "published_date": "2026-04-09T04:47:37Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "788a741089acc2b792a70d82da61545f",
+      "title": "S. Koreans finish well back at Masters",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413001700315",
+      "published_date": "2026-04-12T23:13:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bd9ca46045a5d99c1760bfc1506aae4b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000500315",
+      "published_date": "2026-04-12T21:52:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f80a86b550d27ed3e8791fde020ebb68",
+      "title": "(LEAD) BTS' claims 3rd week at No. 1 on Billboard 200 with 'Arirang,' a first in K-pop",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000251315",
+      "published_date": "2026-04-12T20:05:25Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "99419ac61e76766c7db0279fcd0e6a94",
+      "title": "BTS' claims 3rd week at No. 1 on Billboard 200 with 'Arirang'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413000200315",
+      "published_date": "2026-04-12T19:24:48Z",
+      "category": "Local Events"
+    },
     {
       "id": "828e3dc51f0a2fa0c1d3ae4df1ee7c33",
       "title": "(2nd LD) 2 firefighters killed in cold storage warehouse fire",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260410007251320",
       "published_date": "2026-04-10T07:31:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ced552026e8f981ad37ad675eb1087a7",
-      "title": "Seoul shares rise over 1 pct ahead of U.S.-Iran ceasefire negotiations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410007200320",
-      "published_date": "2026-04-10T07:05:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "64988c7543ee97a74ecf476ef4e0d935",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410004900315",
-      "published_date": "2026-04-10T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2fa03f9aa71c7069b5f29d0fb03b786a",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410000900320",
-      "published_date": "2026-04-10T05:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "461932f1d5851dcfc96be4cb2929485c",
-      "title": "Media watchdog to require bulk messaging providers to adopt anti-spam measures",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410005900320",
-      "published_date": "2026-04-10T04:59:38Z",
       "category": "Local Events"
     }
   ]
