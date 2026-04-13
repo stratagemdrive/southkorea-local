@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-13T12:05:40Z",
+  "generated_at": "2026-04-13T23:34:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,142 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "19e3e3812c8c0fd9c4559001b67d954a",
+      "title": "N. Korea's Kim sends educational aid to pro-Pyongyang ethnic Koreans in Japan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414001200315",
+      "published_date": "2026-04-13T22:52:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eb68b1ad54b7ff8a5a20282d4c4838f2",
+      "title": "(LEAD) N. Korea's Kim again observes missile launches from destroyer Choe Hyon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000651315",
+      "published_date": "2026-04-13T22:34:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "07e1fdb0a11cc695baff817bd528c743",
+      "title": "Kim Jong Un watches cruise missile tests from new warship on west coast",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/kim-jong-un-watches-cruise-missile-tests-from-new-warship-on-west-coast/",
+      "published_date": "2026-04-13T22:26:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5d73f3fe53d443e3cf91fcc3c059c283",
+      "title": "(LEAD) Trump nominates former Rep. Michelle Park Steel as U.S. ambassador to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000252315",
+      "published_date": "2026-04-13T22:25:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5346c8b9a275cd18d01cce98d8b9f704",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414001000320",
+      "published_date": "2026-04-13T22:02:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1ebacf280023e35c525f847cbca34f23",
+      "title": "(EDITORIAL from Korea Times on April 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000900320",
+      "published_date": "2026-04-13T22:02:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d316cde268e981edb4da1166e4bbaf1f",
+      "title": "(EDITORIAL from Korea Herald on April 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000800320",
+      "published_date": "2026-04-13T22:02:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "41d8cbc0a54c0f4136d2a54fc2752d2a",
+      "title": "N. Korea says test-fired cruise, anti-warship missiles from destroyer Sunday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000600315",
+      "published_date": "2026-04-13T21:29:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3b7acc0b6404889b4f7c3b3b85c051f4",
+      "title": "(URGENT) N. Korea test-fired strategic cruise, anti-ship missiles from destroyer Choe Hyon on Sunday: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000400315",
+      "published_date": "2026-04-13T21:14:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "142515dffa5869f0938c78c0c937ad15",
+      "title": "Trump nominates former Rep. Michelle Park Steel as ambassador to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000251315",
+      "published_date": "2026-04-13T21:13:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8767b028ee4371b7d819e0c07f070781",
+      "title": "(URGENT) Trump nominates former Rep. Michelle Park Steel as ambassador to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000200315",
+      "published_date": "2026-04-13T20:58:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "16a2822a266a1a72fa0ca79944f19191",
+      "title": "(3rd LD) U.S. naval blockade of Iranian ports begins; Trump threatens to destroy Iranian boats if they challenge it",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413011354315",
+      "published_date": "2026-04-13T20:22:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "74e79a62f09287b5b2f2edfa3b5db5bb",
+      "title": "South Korea’s rushed embrace of Kim Jong Un’s ‘two-state theory’ is sowing confusion",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/south-koreas-rushed-embrace-of-kim-jong-uns-two-state-theory-is-sowing-confusion/",
+      "published_date": "2026-04-13T19:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ef8076fa14c1d4022cf45aef5f3bcdca",
+      "title": "(2nd LD) U.S. naval blockade of Iranian ports begins; Trump threatens to destroy Iranian boats if they challenge it",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413011353315",
+      "published_date": "2026-04-13T18:24:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ff4631bffd194d4997fd0a4a03ad75f6",
+      "title": "When one North Korean defector disappears in China, police round up everyone they know",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/when-one-north-korean-defector-disappears-in-china-police-round-up-everyone-they-know/",
+      "published_date": "2026-04-13T17:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ab62e640c46d1278be99235c32fb56fe",
+      "title": "(LEAD) U.S. maritime blockade in Strait of Hormuz under way; Trump warns Iranian boats not to come close",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413011351315",
+      "published_date": "2026-04-13T16:48:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c8ae296328b31972f971397fe3048c26",
+      "title": "North Korean factories turn workers into salespeople under revamped informal labor system",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-factories-turn-workers-into-salespeople-under-revamped-informal-labor-system/",
+      "published_date": "2026-04-13T14:38:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "12c05bad3febbd7e62731ac758be0704",
       "title": "(LEAD) Army unit chief named new ground operations commander",
@@ -32,145 +168,17 @@
       "url": "https://www.dailynk.com/english/north-koreans-mock-second-reforestation-drive-when-did-the-first-one-happen/",
       "published_date": "2026-04-13T09:35:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "c316bc7c9040349aceab9a5a49119c4e",
-      "title": "North Korea kicks off tourism expo amid hopes for reopening to Chinese visitors",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-kicks-off-tourism-expo-amid-hopes-for-reopening-to-chinese-visitors/",
-      "published_date": "2026-04-13T09:05:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "30908a205173bc957c40e2f40d1d34c9",
-      "title": "Army unit chief named new ground operations commander",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413010800315",
-      "published_date": "2026-04-13T09:03:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c3faa4e5b47f408ead6a1153723439d7",
-      "title": "S. Korea closely monitoring developments after U.S. announces blockade of Iranian ports: Cheong Wa Dae",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413010700315",
-      "published_date": "2026-04-13T09:00:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bddc93d1a04ec8b2fca214f72e368ba3",
-      "title": "US court blocks extradition of former Marine who stormed North Korean Embassy",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/us-court-blocks-extradition-of-former-marine-who-stormed-north-korean-embassy/",
-      "published_date": "2026-04-13T08:57:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "07b7f5971b31a5be5a537751fc7d9838",
-      "title": "BIGBANG reunites at Coachella, marking 20th anniv.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413010200315",
-      "published_date": "2026-04-13T08:31:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e74ae11f15696108815b28d4d53edae1",
-      "title": "Finance chief to visit U.S. for G20, IMF meetings, investor briefings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413007500320",
-      "published_date": "2026-04-13T08:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "83fae0241509cc473d78f5a180001d0e",
-      "title": "Finance chiefs of S. Korea, Poland discuss Middle East tensions, economic cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413008500320",
-      "published_date": "2026-04-13T08:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dbf9b116c2b5ed29a726aea41f8c2397",
-      "title": "S. Korean, Polish PMs highlight shared democracy, defense cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413009500315",
-      "published_date": "2026-04-13T07:53:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "88b0e00d738e76120bfcffeb8c7770b3",
-      "title": "Russian military jet makes second visit to North Korea in a week",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/russian-military-jet-makes-second-visit-to-north-korea-in-a-week/",
-      "published_date": "2026-04-13T07:48:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f3879b424f7e5e73dd3b4729a4fc2a92",
-      "title": "Ex-armored unit commander removed from office over martial law",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413008700315",
-      "published_date": "2026-04-13T07:08:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0edb200532b7210edbab2614802cb952",
-      "title": "NATO envoys to visit S. Korea this week for talks on defense industry cooperation, N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413008600315",
-      "published_date": "2026-04-13T07:08:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "67871f86f7b15ce1130616d80fa6e664",
-      "title": "Special counsel seeks 5-yr sentence for ex-commander over Marine's death",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413008400315",
-      "published_date": "2026-04-13T06:59:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4dca3233ec78cf5bf5befa186ce92b77",
-      "title": "Paldo partners with BTS to launch new ramyeon products in U.S.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413007300320",
-      "published_date": "2026-04-13T06:08:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b514a9217d722d105dadbdb3e0a78483",
-      "title": "Putin, Lukashenko discuss trilateral cooperation with North Korea in phone call",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/putin-lukashenko-discuss-trilateral-cooperation-with-north-korea-in-phone-call/",
-      "published_date": "2026-04-13T05:37:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3d25b971b136113d140940c9b7e45d1f",
-      "title": "BOK nominee Shin says ready to respond to excessive FX volatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413006900320",
-      "published_date": "2026-04-13T05:21:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c8567955bc08aaf442e7a4da61963276",
-      "title": "(3rd LD) Lee, Polish PM agree to upgrade bilateral ties to comprehensive strategic partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413001453315",
-      "published_date": "2026-04-13T05:11:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "eae129b50a4e5c670266f79131ebd9f1",
-      "title": "(2nd LD) Lee, Polish PM agree to upgrade bilateral ties to comprehensive strategic partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413001452315",
-      "published_date": "2026-04-13T04:42:45Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "3b4fe184e655573b51d9ae1464ff3a1a",
+      "title": "U.S. to start blockading all ship traffic in Gulf of Oman, Arabian Sea on Monday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413011300315",
+      "published_date": "2026-04-13T13:51:20Z",
+      "category": "Military"
+    },
     {
       "id": "6b05af5ffd17ed454db7e3cc3145ea1a",
       "title": "(LEAD) U.S. to begin blockading all ships entering or exiting Iranian ports Monday: CENTCOM",
@@ -322,14 +330,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260408003100320",
       "published_date": "2026-04-08T01:08:23Z",
       "category": "Military"
-    },
-    {
-      "id": "600d726f856e019c62e99c2922944565",
-      "title": "LIG D&A establishes U.S. subsidiary to expand defense business, partnerships",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408002800320",
-      "published_date": "2026-04-08T00:58:45Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -468,17 +468,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260407005100320",
       "published_date": "2026-04-07T04:07:59Z",
       "category": "Energy"
-    },
-    {
-      "id": "b6d3fd56193f81e867374d228521da8d",
-      "title": "Trump repeats threats to destroy Iranian bridges, power plants by Tuesday night if deal is not reached",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260407000200315",
-      "published_date": "2026-04-06T19:59:13Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "c7634e462ddba33092f30909f44837dd",
+      "title": "Human rights watchdog decides to ask foreign ministry to work for transfer of N.K. POWs in Ukraine",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414001400315",
+      "published_date": "2026-04-13T23:14:08Z",
+      "category": "Economy"
+    },
     {
       "id": "9db3340b17672a36acde6f155247f563",
       "title": "Assembly speaker, Polish PM discuss expansion of partnership",
@@ -630,17 +630,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260410010300315",
       "published_date": "2026-04-10T13:27:00Z",
       "category": "Economy"
-    },
-    {
-      "id": "5f53cff2ae3d46d2b2d5a3b54cbafc42",
-      "title": "(LEAD) Rival parties agree on 26.2 tln-won extra budget bill to mitigate fallout from Mideast war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410002851315",
-      "published_date": "2026-04-10T05:39:20Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "ecf1ab0b7c62f8d016f7177abb79a772",
+      "title": "BTS' 'Swim' slips to No. 5 on Billboard singles chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414001100315",
+      "published_date": "2026-04-13T22:47:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b74997dc694962066b39f61b0d6863ad",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414000700320",
+      "published_date": "2026-04-13T22:02:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3ea7af00613520dc31cdb92c7bb4d1de",
+      "title": "Chinese national booked on charges of causing warehouse fire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260413011400320",
+      "published_date": "2026-04-13T14:09:20Z",
+      "category": "Local Events"
+    },
     {
       "id": "1efb8b3f2ee78508d048919ae30009b7",
       "title": "Slumping KBO slugger demoted to minor league",
@@ -775,30 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260413001700315",
       "published_date": "2026-04-12T23:13:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bd9ca46045a5d99c1760bfc1506aae4b",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413000500315",
-      "published_date": "2026-04-12T21:52:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f80a86b550d27ed3e8791fde020ebb68",
-      "title": "(LEAD) BTS' claims 3rd week at No. 1 on Billboard 200 with 'Arirang,' a first in K-pop",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413000251315",
-      "published_date": "2026-04-12T20:05:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "99419ac61e76766c7db0279fcd0e6a94",
-      "title": "BTS' claims 3rd week at No. 1 on Billboard 200 with 'Arirang'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413000200315",
-      "published_date": "2026-04-12T19:24:48Z",
       "category": "Local Events"
     }
   ]
