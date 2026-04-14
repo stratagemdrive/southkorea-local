@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-14T11:58:27Z",
+  "generated_at": "2026-04-14T23:35:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "4a500b43da4481f92a16b6e63f1c6306",
+      "title": "N. Korea slams Japan over diplomatic paper criticizing its nuclear, missile programs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000800315",
+      "published_date": "2026-04-14T22:04:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e37c65483b816b0cf54c6d05ce43ca4c",
+      "title": "(LEAD) Trump says additional Iran peace talks 'could happen over next 2 days': report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000351315",
+      "published_date": "2026-04-14T20:16:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7c9a5b9e1b7c641bf3aad0f8b3f1bcce",
+      "title": "Trump says additional Iran peace talks 'could happen over next 2 days': report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000300315",
+      "published_date": "2026-04-14T19:35:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5c0f506acb08e0d8f582f9693fa61de6",
+      "title": "North Korea’s self-reliance push costs factory worker a finger",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-self-reliance-policy-factory-accident-chongjin/",
+      "published_date": "2026-04-14T17:09:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "25cdfe12eb606aadbcd45de82be34d09",
+      "title": "Kim Jong Un sidelines his predecessors in sweeping cult of personality push",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-jong-un-cult-of-personality-north-korea-ninth-party-congress/",
+      "published_date": "2026-04-14T13:07:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b09eb43c0c6bfb47e7ef108c78c90333",
       "title": "Human rights commission says Seoul should protect North Korean POWs in Ukraine",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260414003700315",
       "published_date": "2026-04-14T02:06:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d120216d944cec3107bb7bbed6bc319f",
-      "title": "Cathy Kang: Rethinking Korean unification from a global perspective",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/cathy-kang-rethinking-korean-unification-from-a-global-perspective/",
-      "published_date": "2026-04-14T02:01:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5509641ed802db76193205a3c1a52044",
-      "title": "ICT exports more than double in March on chip demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414002400320",
-      "published_date": "2026-04-14T02:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "17f722111202f00bed19f1231957ab5d",
-      "title": "(2nd LD) N. Korea's Kim observes test-firing of cruise, anti-warship missiles from key destroyer",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414000652315",
-      "published_date": "2026-04-14T01:30:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f0aa32d02f68d5de7132c81c3c5ffe0a",
-      "title": "Son Heung-min, LAFC seek to advance in regional tourney after rare loss",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414002500315",
-      "published_date": "2026-04-14T00:34:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2f11c8d2add0812192fd0ff3dce5beb3",
-      "title": "(LEAD) Seoul shares open sharply higher on revived hopes for U.S.-Iran peace talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414001951320",
-      "published_date": "2026-04-14T00:24:56Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "0c045ad22583c19597b4200696759f02",
+      "title": "(LEAD) KBO hit leader Son Ah-seop wants to reward Bears for acquiring him",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414009151315",
+      "published_date": "2026-04-14T12:29:41Z",
+      "category": "Energy"
+    },
+    {
       "id": "472014375e6265453bbbbaa6c550b183",
       "title": "Middle East oil shock doubles North Korea freight costs, squeezes traders",
       "source": "Daily NK",
@@ -484,17 +492,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260409005800315",
       "published_date": "2026-04-09T05:28:45Z",
       "category": "Energy"
-    },
-    {
-      "id": "a2e048538e925fd71dd229f9fe6a5f18",
-      "title": "S. Korea's fiscal balance improves on increased tax revenue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260409004200320",
-      "published_date": "2026-04-09T02:21:39Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "11f208d7e34b5dfb6daf69510a543ca7",
+      "title": "S. Korea adds 206,000 jobs in March, topping 200,000 for 2nd straight month: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415001000320",
+      "published_date": "2026-04-14T23:00:47Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0f846e8c4723cfc8f41f4b69993d8ce0",
+      "title": "(URGENT) S. Korea adds 206,000 jobs in March, topping 200,000 for 2nd straight month: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000900320",
+      "published_date": "2026-04-14T23:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9a8fbbc9dc648352d5dcab9dbda8d05c",
+      "title": "(EDITORIAL from Korea Herald on April 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000500315",
+      "published_date": "2026-04-14T22:04:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f9ece0747b6eed55ce947a1559a79cb9",
+      "title": "Trust firm deposits up 10 pct in 2025 amid bullish stock market",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414005200320",
+      "published_date": "2026-04-14T21:00:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3e1d6859b485e1cfc89b5f6831dc0186",
+      "title": "Import prices post sharpest rise in over 28 yrs in March amid Middle East crisis: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414008900320",
+      "published_date": "2026-04-14T21:00:07Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9581ead9213dfb80405dacc92038dbd2",
+      "title": "IMF maintains S. Korea's 2026 growth outlook at 1.9 pct, raises inflation forecast to 2.5 pct",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414007600320",
+      "published_date": "2026-04-14T13:00:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c08d0c13401ec685384efea0fa7b5b74",
+      "title": "S. Korea to ban hoarding of petrochemical feedstocks amid Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414009500315",
+      "published_date": "2026-04-14T12:12:24Z",
+      "category": "Economy"
+    },
     {
       "id": "70f3ed56048bf550b91e539b61a9ea76",
       "title": "(LEAD) KBO hit king Son Ah-seop traded",
@@ -598,65 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260413003451320",
       "published_date": "2026-04-13T07:02:49Z",
       "category": "Economy"
-    },
-    {
-      "id": "9d48cc98bb77737afd74688244c730bc",
-      "title": "Seoul shares fall on escalating Hormuz tensions after peace talks fail; won declines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413008300320",
-      "published_date": "2026-04-13T06:59:14Z",
-      "category": "Economy"
-    },
-    {
-      "id": "fce18ccf552b032a1828517ed795d5be",
-      "title": "Industry minister inspects manufacturing operations amid petrochem supply woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413007000320",
-      "published_date": "2026-04-13T05:31:20Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a3e1a37d4c16d9c1830a498d78b1b827",
-      "title": "BOK calls for introduction of circuit breakers for crypto exchanges",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413005700320",
-      "published_date": "2026-04-13T03:00:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "b0a1d1622b065c0bf21eccc721ab22c9",
-      "title": "Seoul shares down late Mon. morning as failed peace talks fuel concerns over prolonged war in Mideast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413005800320",
-      "published_date": "2026-04-13T02:30:25Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f80f95b6d637ba5597346c9e381aa253",
-      "title": "S. Korea to expand FTA with emerging markets to diversify supply chains: finance chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413003700320",
-      "published_date": "2026-04-13T01:44:35Z",
-      "category": "Economy"
-    },
-    {
-      "id": "738224a0ca26bb108d9b4fe273a929d2",
-      "title": "S. Korean currency slides amid failed U.S.-Iran talks, Hormuz blockade",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413003400320",
-      "published_date": "2026-04-13T01:11:29Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0fe02ac9c4a4cffc0a6557330a05e15b",
-      "title": "S. Korea to annually provide over US$2 bln in EDCF over 2026-2028",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413003000320",
-      "published_date": "2026-04-13T00:30:01Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "b4681d8e9dca236f80da721666ba76ce",
+      "title": "Action-crime 'Bloodhounds' Season 2 tops Netflix's chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415001100315",
+      "published_date": "2026-04-14T22:55:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1f2ba0c37483a1f3a98ba9c92001f595",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000700315",
+      "published_date": "2026-04-14T22:05:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f85d98e57412d4edaf82bd3bb7fcb9e7",
+      "title": "(EDITORIAL from Korea Times on April 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000600315",
+      "published_date": "2026-04-14T22:04:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "44e6443b0d1957077aad842172a5483d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000400315",
+      "published_date": "2026-04-14T22:04:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3fa33c9beebbde2c16bf371c0c2cb4bc",
+      "title": "S. Korea expands direct air travel baggage transfer program to 3 U.S. airports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414006900320",
+      "published_date": "2026-04-14T21:00:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9b3bb1b948add0dd4049743f51f1ee7d",
+      "title": "CENTCOM says no ships passed U.S. blockade in first 24 hours",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415000200315",
+      "published_date": "2026-04-14T16:08:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2e9732bcc0ef9abdd96916dcb65aadc6",
+      "title": "S. Korea to provide US$500,000 worth of humanitarian support to Iran",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260414009600315",
+      "published_date": "2026-04-14T13:14:54Z",
+      "category": "Local Events"
+    },
     {
       "id": "83d8435c35af1fa480a485964620b086",
       "title": "(LEAD) Ex-President Yoon, wife reunite in court after 9 months",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260414003800315",
       "published_date": "2026-04-14T02:07:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "94360dbdf72322a45d620cdfc74af703",
-      "title": "Sales of short-term bonds up 50 pct in Q1: KSD",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414003600320",
-      "published_date": "2026-04-14T02:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ecf1ab0b7c62f8d016f7177abb79a772",
-      "title": "BTS' 'Swim' slips to No. 5 on Billboard singles chart",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414001100315",
-      "published_date": "2026-04-13T22:47:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b74997dc694962066b39f61b0d6863ad",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414000700320",
-      "published_date": "2026-04-13T22:02:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3ea7af00613520dc31cdb92c7bb4d1de",
-      "title": "Chinese national booked on charges of causing warehouse fire",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413011400320",
-      "published_date": "2026-04-13T14:09:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1efb8b3f2ee78508d048919ae30009b7",
-      "title": "Slumping KBO slugger demoted to minor league",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413010900315",
-      "published_date": "2026-04-13T09:13:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "74ac77e444441debfbd5ed08f84cfc1d",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413009900320",
-      "published_date": "2026-04-13T08:11:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2ee3b97507f4886399835eca53146713",
-      "title": "TXT opens new chapter with deeply personal album after contract renewal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413009800315",
-      "published_date": "2026-04-13T08:07:09Z",
       "category": "Local Events"
     }
   ]
