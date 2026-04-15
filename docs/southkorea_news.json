@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-15T11:57:22Z",
+  "generated_at": "2026-04-15T23:33:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "7975e5a554809f9e444fc35897d71a7d",
+      "title": "Kim Jong Un oversees artillery contest on North Korean founder’s birthday",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/kim-jong-un-oversees-artillery-contest-on-north-korean-founders-birthday/",
+      "published_date": "2026-04-15T23:10:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c6f0c9cd65779d00e9a7523ec54c4b97",
+      "title": "(LEAD) N. Korea's Kim oversees artillery firing contest on state founder's birthday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000451315",
+      "published_date": "2026-04-15T22:59:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "20b51d28d75253cd01e460bc24684101",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000800320",
+      "published_date": "2026-04-15T22:02:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "76f1fae8a89110f4c3592a28f31a4772",
+      "title": "(EDITORIAL from Korea Times on April 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000700320",
+      "published_date": "2026-04-15T22:01:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2a20f9541047c9d1e03df0d9af92ba1c",
+      "title": "N. Korea's Kim oversees artillery firing contest on state founder's birthday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000400315",
+      "published_date": "2026-04-15T21:53:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c3922432fc7e5429f05797f2e7396163",
+      "title": "Foreigners sell record amount of S. Korean stocks in March",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415007100320",
+      "published_date": "2026-04-15T21:00:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "51acbe88f3f8317486678e32d390bec6",
+      "title": "North Korea brokers extort defector families with surveillance threats",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-brokers-extort-defector-families/",
+      "published_date": "2026-04-15T20:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1980c541ca61043127c0088b722828eb",
+      "title": "(LEAD) White House denies U.S. requested Iran ceasefire extension, says next talks 'very likely' in Pakistan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000251315",
+      "published_date": "2026-04-15T19:18:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6e37b03f4110097d60c56c25abba5bd4",
+      "title": "White House denies U.S. requested Iran ceasefire extension, says next talks 'very likely' in Pakistan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000200315",
+      "published_date": "2026-04-15T18:50:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d9e76f201f0c98fcfe3225fe38ae2d0f",
+      "title": "North Korea orders diplomats to lock in nuclear status, pursue multipolar strategy",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-nuclear-diplomacy-multipolar-strategy-directive/",
+      "published_date": "2026-04-15T17:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1cf407b395a6be5d212a61bc891d84fb",
+      "title": "(2nd LD) Top admirals of S. Korea, U.S., Japan discuss trilateral cooperation in Seoul",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415006652315",
+      "published_date": "2026-04-15T14:17:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eb706f722a4564cc2f4a3ac848b184c7",
+      "title": "North Korea cooking oil distribution falls flat as prices exceed reach of poor",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-cooking-oil-distribution-kim-il-sung-birthday/",
+      "published_date": "2026-04-15T13:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0e9a95ee157a3dad7cea75bf2e8f1dfc",
+      "title": "S. Korean FM, IAEA chief discuss Seoul's nuclear submarine bid, N.K. nuke issue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415009800315",
+      "published_date": "2026-04-15T12:53:30Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d81c2062f7273185572f229b32a8b67e",
       "title": "Seoul's defense minister discusses defense cooperation with Chinese envoy",
@@ -63,110 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/north-korea-registers-its-largest-warship-with-un-maritime-watchdog/",
       "published_date": "2026-04-15T08:45:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "16a8494cf756057dd6343238e5c9bd7a",
-      "title": "KOFIA chief, Indonesian envoy discuss investment cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415008600320",
-      "published_date": "2026-04-15T08:13:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e387f35bda3f7f861b74aeef9cc8e165",
-      "title": "Top admirals of S. Korea, U.S., Japan discuss trilateral cooperation in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415006600315",
-      "published_date": "2026-04-15T08:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "45e40df124b5d4723bca14c8207edc2e",
-      "title": "S. Korea's nonproliferation commitment 'full, unambiguous' amid nuclear-powered subs push: IAEA chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415006900315",
-      "published_date": "2026-04-15T06:16:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e7e224dd59666be26820128e5129073d",
-      "title": "Russian, North Korean trade unions ink cooperation deal in Pyongyang",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/russian-north-korean-trade-unions-ink-cooperation-deal-in-pyongyang/",
-      "published_date": "2026-04-15T05:59:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ea9710766642ad6f6799d90cbfea4358",
-      "title": "July Jung's 'Dora' to premiere at Cannes Directors' Fortnight",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415006400315",
-      "published_date": "2026-04-15T05:39:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "81a7d960c95cd27a53d206c3f29c1991",
-      "title": "(LEAD) Son Heung-min, LAFC reach semifinals in regional tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415005551315",
-      "published_date": "2026-04-15T05:34:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b0505be5cda6b37ce5e1a7c56135d88e",
-      "title": "BOK chief nominee Shin apologizes for controversy over personal issues",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415005700320",
-      "published_date": "2026-04-15T05:23:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "acf6f79f7e7f0e99d9940a1e79383f08",
-      "title": "Giants' Lee Jung-hoo enjoys 3rd multihit game of April in loss",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415006100315",
-      "published_date": "2026-04-15T05:17:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "13e27f350f7b790a83d8e79446f5c815",
-      "title": "N. Korea's economy entering recovery phase amid closer ties with Russia, China: Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415006300315",
-      "published_date": "2026-04-15T05:13:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b67157398bbb0caa05fbd94148975486",
-      "title": "Son Heung-min, LAFC reach semifinals in regional tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415005500315",
-      "published_date": "2026-04-15T04:25:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9f1674101513b9abe4fbc9183367cb44",
-      "title": "China greenlights new seafood inspection facility on North Korea border",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/china-greenlights-new-seafood-inspection-facility-on-north-korea-border/",
-      "published_date": "2026-04-15T03:35:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e2fc07695ae0ff8da84dae623280e76f",
-      "title": "Samsung Electronics says Sony-TCL TV venture will not be a threat",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415004800320",
-      "published_date": "2026-04-15T02:29:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1a284bec14ec93a55c1d3706c6611264",
-      "title": "Trump’s war with Iran has left prospects for North Korea talks on life support",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/trumps-war-with-iran-has-left-prospects-for-north-korea-talks-on-life-support/",
-      "published_date": "2026-04-15T02:05:30Z",
       "category": "Diplomacy"
     }
   ],
@@ -297,22 +297,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/us-rok-to-hold-joint-air-force-exercise-for-two-weeks-from-friday/",
       "published_date": "2026-04-09T04:47:51Z",
-      "category": "Military"
-    },
-    {
-      "id": "26376f700d86c44b4729165882a5ae48",
-      "title": "(LEAD) Hegseth claims 'decisive victory' in Iran war, says U.S. reserves option to take Tehran's uranium",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408011951315",
-      "published_date": "2026-04-08T15:42:03Z",
-      "category": "Military"
-    },
-    {
-      "id": "89e934c574f5dbdc17c33d20c02238ce",
-      "title": "Hegseth claims 'decisive victory' in Iran war, says U.S. reserves option to get Tehran's uranium",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260408011900315",
-      "published_date": "2026-04-08T14:23:22Z",
       "category": "Military"
     }
   ],
@@ -480,6 +464,14 @@
   ],
   "Economy": [
     {
+      "id": "ab3645aa494735530acc7b8186a2c0cd",
+      "title": "(EDITORIAL from Korea Herald on April 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000600320",
+      "published_date": "2026-04-15T22:01:36Z",
+      "category": "Economy"
+    },
+    {
       "id": "bba6edc0a45f6083e2a75b22a8cd964f",
       "title": "(LEAD) S. Korean currency rises further on hopes for U.S.-Iran talks",
       "source": "Yonhap News Agency",
@@ -630,17 +622,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260414007600320",
       "published_date": "2026-04-14T13:00:01Z",
       "category": "Economy"
-    },
-    {
-      "id": "c08d0c13401ec685384efea0fa7b5b74",
-      "title": "S. Korea to ban hoarding of petrochemical feedstocks amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414009500315",
-      "published_date": "2026-04-14T12:12:24Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "c9165f47980c69f5f764fefa991f3c2c",
+      "title": "BLACKPINK's Jennie named among Time's 100 most influential people",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416001000315",
+      "published_date": "2026-04-15T23:08:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ce32f939dc22736351615347ccc86328",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000500320",
+      "published_date": "2026-04-15T22:01:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e8186ea4f617343e8107c0cb185452b2",
+      "title": "Indo-Pacific, USFK commanders to attend Senate, House hearings amid Iran war concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416000300315",
+      "published_date": "2026-04-15T20:07:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0f7522578d7ad77c2d5916f2a448eff3",
+      "title": "(LEAD) Trump says war with Iran 'very close to over,' Iran wants to make a deal 'very badly'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415009951315",
+      "published_date": "2026-04-15T17:19:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f22f0c7c7401afd8d0dc6a5617da10ba",
+      "title": "Trump says war with Iran 'very close to over,' Iran wants to make a deal 'very badly'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260415009900315",
+      "published_date": "2026-04-15T14:39:47Z",
+      "category": "Local Events"
+    },
     {
       "id": "ac98af94586197e671d6d79ecd5d42ea",
       "title": "Yonhap News Summary",
@@ -759,46 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260415002700315",
       "published_date": "2026-04-15T00:46:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "34655c0d10bda87495a62214e321bd6d",
-      "title": "BTS receives three AMA nods, including Artist of the Year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415002500315",
-      "published_date": "2026-04-15T00:37:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "89d98614891514073525dcd9584dbb85",
-      "title": "Trump wants 'grand bargain' with Iran, not 'small deal': Vance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415001600315",
-      "published_date": "2026-04-14T23:52:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fb6d292bf6de308409b3d944e10f0e75",
-      "title": "Eagles set KBO record for most combined walks, HBPs allowed in game",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415001500315",
-      "published_date": "2026-04-14T23:47:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b4681d8e9dca236f80da721666ba76ce",
-      "title": "Action-crime 'Bloodhounds' Season 2 tops Netflix's chart",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415001100315",
-      "published_date": "2026-04-14T22:55:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1f2ba0c37483a1f3a98ba9c92001f595",
-      "title": "(EDITORIAL from Korea JoongAng Daily on April 15)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415000700315",
-      "published_date": "2026-04-14T22:05:01Z",
       "category": "Local Events"
     }
   ]
