@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-16T11:59:26Z",
+  "generated_at": "2026-04-16T23:31:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "163d64ade106b31fa02f828cbb9f22a7",
+      "title": "Giants' Lee Jung-hoo continues recent surge with 3-hit game",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417001200315",
+      "published_date": "2026-04-16T23:22:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c382a38d8fed585a7e0e9df28946e8f7",
+      "title": "Wolf captured, returned to zoo 9 days after escape",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000900315",
+      "published_date": "2026-04-16T22:43:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ffb42ef40bd7541c4e6b1477dbb4e834",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000800315",
+      "published_date": "2026-04-16T22:06:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2860167a17307e21da16772896b1502f",
+      "title": "Finance minister stresses commitment to making S. Korea global AI hub",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000400315",
+      "published_date": "2026-04-16T20:47:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f6ba0fa111acc42e05cad819a71bd790",
+      "title": "Trump says U.S. 'very close' to Iran deal, negotiations may resume this weekend",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000300315",
+      "published_date": "2026-04-16T19:00:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dfc2d2d4af4fcbfd32bebeb035a621fb",
+      "title": "IMF official says S. Korea has 'substantial' energy buffers despite vulnerabilities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000200315",
+      "published_date": "2026-04-16T16:37:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "435102a1eef382b1c5084beb3099fb00",
+      "title": "Russia-occupied region in Ukraine seeks cooperation with N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416010800315",
+      "published_date": "2026-04-16T13:51:50Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "156afdff02327bbbd302c8c421e6d10f",
       "title": "(LEAD) Lee to attend talks on naval mission for Hormuz led by Britain, France",
@@ -112,65 +168,25 @@
       "url": "https://www.nknews.org/2026/04/russian-occupied-ukrainian-region-discusses-deepening-ties-with-north-korea/",
       "published_date": "2026-04-16T06:22:49Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "7ebb676f67181ccb6d5205710f9dfa55",
-      "title": "(URGENT) Lee to hold summit talks with Vietnam's To Lam in Hanoi on April 22",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416007700315",
-      "published_date": "2026-04-16T06:03:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8421e35ab7776c3219300deafb655e88",
-      "title": "(URGENT) Lee to hold summit talks with Indian PM Modi in New Delhi on April 20",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416007600315",
-      "published_date": "2026-04-16T06:03:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f63d581c1aab22bfddadfb01a3558572",
-      "title": "Lee to make state visits to India, Vietnam next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416007100315",
-      "published_date": "2026-04-16T06:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "63fde2b61ce83973d51895cc967c5a3b",
-      "title": "(URGENT) Lee to make state visits to India, Vietnam from April 19-24 for summit talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416007000315",
-      "published_date": "2026-04-16T05:59:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aa58367222b2d76d7baf13e7341ba3be",
-      "title": "HD Hyundai Electric to supply eco-friendly transformer to National Grid of Britain",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416006700320",
-      "published_date": "2026-04-16T05:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1eb5bc30c7ffaa3ab4cc6ca442277197",
-      "title": "Space agencies of S. Korea, Canada sign MOU for satellite, tech cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416006400320",
-      "published_date": "2026-04-16T05:30:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f33274a1f78583cc319cfb74a5940c62",
-      "title": "Dodgers' Kim Hye-seong launches 1st homer of season in win",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416006300315",
-      "published_date": "2026-04-16T05:17:08Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "22149d0e57cd970859b88039ee620e51",
+      "title": "(LEAD) Trump says Iran has agreed to no nuclear weapons, negotiations may resume this weekend",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000351315",
+      "published_date": "2026-04-16T19:50:54Z",
+      "category": "Military"
+    },
+    {
+      "id": "811a0849593cc73ffa9928bf88b8b4ed",
+      "title": "Hegseth calls on Iran to 'choose wisely,' says U.S. military 'locked and loaded'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416011100315",
+      "published_date": "2026-04-16T14:31:23Z",
+      "category": "Military"
+    },
     {
       "id": "9ae6b613b62d8207ab11246de6ed57cd",
       "title": "Defense chief visits naval command center to inspect military readiness",
@@ -261,6 +277,14 @@
     }
   ],
   "Energy": [
+    {
+      "id": "671ef801e96fc604fb897e599654b09d",
+      "title": "Twins reliever mixes up repertoire for scoreless outing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416011000315",
+      "published_date": "2026-04-16T13:47:37Z",
+      "category": "Energy"
+    },
     {
       "id": "bc7829733d4c826f49621a167c04c03f",
       "title": "Fuel consumption down after price cap system: official",
@@ -412,17 +436,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260413003300320",
       "published_date": "2026-04-13T00:56:45Z",
       "category": "Energy"
-    },
-    {
-      "id": "28229667f0d6b01fd392e717ae048ccf",
-      "title": "Railroad users reach record high in Q1 on expanded service, higher oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260412001200320",
-      "published_date": "2026-04-12T02:41:46Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "33c6e7eb9831ebbd93ef70f3e09fcf42",
+      "title": "(EDITORIAL from Korea Times on April 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000700315",
+      "published_date": "2026-04-16T22:06:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "cb56ee9f29384fa4f7e8d7ef1ab54f86",
+      "title": "(EDITORIAL from Korea Herald on April 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000600315",
+      "published_date": "2026-04-16T22:05:36Z",
+      "category": "Economy"
+    },
+    {
+      "id": "cb3b7ed030269cdd317db19c8eca83ab",
+      "title": "Delinquency ratio on bank loans rises for 2nd month in Feb.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416006500320",
+      "published_date": "2026-04-16T21:00:07Z",
+      "category": "Economy"
+    },
     {
       "id": "a6a557e1d6b6671705c386ef1d70581d",
       "title": "North Korea’s black market dollar rate breaks all-time record as China trade expands",
@@ -558,33 +598,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260415002951320",
       "published_date": "2026-04-15T06:45:35Z",
       "category": "Economy"
-    },
-    {
-      "id": "f16aa7334fc836ce1aad82546fc0b03d",
-      "title": "Global investment firms express hope for enhanced partnership with S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415003400320",
-      "published_date": "2026-04-15T06:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "262d1382b5908b4e02256959f9dec1a8",
-      "title": "Gov't to cover extra shipping costs for importing alternative crude supplies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415005800320",
-      "published_date": "2026-04-15T05:30:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "48418a13a992cfc34c61ce35d9f26fa6",
-      "title": "(LEAD) Korean won, but dollar liquidity ample to buffer shocks: BOK chief nominee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415005351320",
-      "published_date": "2026-04-15T05:21:15Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "0c76453a23446b06e9edae852e7b6444",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417000500315",
+      "published_date": "2026-04-16T22:05:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "efa9a1bf2fb1e4978adb318a77b4fda1",
+      "title": "(LEAD) Court rejects arrest warrant for YouTuber charged with defamation of Lee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416004651315",
+      "published_date": "2026-04-16T14:34:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "331cdd8f6814f456ca3dfbb0536ebf61",
+      "title": "Twins hold off Giants to clinch series win at home",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260416010900315",
+      "published_date": "2026-04-16T13:18:25Z",
+      "category": "Local Events"
+    },
     {
       "id": "7c4e7d9316694c10f4c41787bf194b46",
       "title": "Memorial services held across S. Korea on 12th anniv. of ferry disaster",
@@ -719,30 +759,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260416001000315",
       "published_date": "2026-04-15T23:08:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ce32f939dc22736351615347ccc86328",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416000500320",
-      "published_date": "2026-04-15T22:01:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e8186ea4f617343e8107c0cb185452b2",
-      "title": "Indo-Pacific, USFK commanders to attend Senate, House hearings amid Iran war concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416000300315",
-      "published_date": "2026-04-15T20:07:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0f7522578d7ad77c2d5916f2a448eff3",
-      "title": "(LEAD) Trump says war with Iran 'very close to over,' Iran wants to make a deal 'very badly'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415009951315",
-      "published_date": "2026-04-15T17:19:20Z",
       "category": "Local Events"
     }
   ]
