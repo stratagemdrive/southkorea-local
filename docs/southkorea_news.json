@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-17T11:53:28Z",
+  "generated_at": "2026-04-17T23:30:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "15996c8862a1ef0b04b3cab5df0544fd",
+      "title": "ASF resurges in North Korea, pushing pork prices higher and exposing structural failures",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/african-swine-fever-north-korea-2026-resurgence/",
+      "published_date": "2026-04-17T18:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "517eeb4bfe56a8039d8f603becf71f44",
+      "title": "(LEAD) Trump thanks Iran for opening Strait of Hormuz, says blockade will remain until deal is struck",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417009551315",
+      "published_date": "2026-04-17T16:09:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e496ae3318d543b2645bf9932857cafe",
+      "title": "Lee calls for reopening of Strait of Hormuz, pledges support for free navigation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417009600320",
+      "published_date": "2026-04-17T14:28:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "744c30af630dd68a5a4939d2e0f8be0a",
+      "title": "Trump thanks Iran for opening Strait of Hormuz, says blockade will remain until deal is struck",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417009500315",
+      "published_date": "2026-04-17T14:03:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "27ee31f01195333504b39a6853d4632c",
+      "title": "Foreign ministry special envoy attends inauguration of Republic of Congo president",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417009300320",
+      "published_date": "2026-04-17T12:50:36Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "879e96a3ec17612ee1eb4b3fa6f38e00",
       "title": "South Korea mum on report alleging US withholding intel over minister remarks",
@@ -128,49 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260417006100315",
       "published_date": "2026-04-17T06:04:13Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "088a3d2d05f608c48ce714c23aa8d1cf",
-      "title": "(LEAD) Seoul says explained to U.S. background of minister's remarks on N. Korea's Kusong nuclear facility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417005251315",
-      "published_date": "2026-04-17T05:49:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5bf866f331c9eadfc5f3c7d7a1cdcc4a",
-      "title": "Seoul's finance chief calls for global efforts on supply chain stability at G20 meeting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006000320",
-      "published_date": "2026-04-17T05:44:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4ba61cd01ef004e27a4653234d12e36f",
-      "title": "Special counsel team raids Coast Guard over alleged martial law role",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417005900315",
-      "published_date": "2026-04-17T05:38:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "96fa79c85143e98d7d2138ff09e2b48b",
-      "title": "Lee hails S. Korean oil tanker exiting Red Sea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417005600315",
-      "published_date": "2026-04-17T05:29:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "037f6db936570c46c1510ba1f57c6a11",
-      "title": "FM Cho vows efforts to secure alternative naphtha supply routes amid Mideast crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417005700315",
-      "published_date": "2026-04-17T05:26:15Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "896847a94b3a1130c87d8f58f98b545c",
+      "title": "(Yonhap Interview) Twins slugger Dean takes pride in defense at first base",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417005800315",
+      "published_date": "2026-04-17T23:00:04Z",
+      "category": "Military"
+    },
     {
       "id": "3d7be9b592226c23ceca6a401e83125b",
       "title": "North Korean missiles used in Ukraine strikes aren’t just Russian copies: Kyiv",
@@ -456,6 +464,22 @@
   ],
   "Economy": [
     {
+      "id": "859ec09ef7af76acc7732467f25c1481",
+      "title": "Finance minister says Korean won stabilizing against dollar, hopes for alignment with market expectations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418000300315",
+      "published_date": "2026-04-17T21:59:52Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a2aea874e0c1fe473660149c982c09da",
+      "title": "North Korea food factory contaminants erode public trust in state-made goods",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-food-safety-factory-contaminants-hair-metal-wire/",
+      "published_date": "2026-04-17T13:36:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "e9fac5de97358f011dd045606d78053c",
       "title": "SK Group chairman's 1.4 tln-won divorce settlement case referred to court mediation",
       "source": "Yonhap News Agency",
@@ -598,25 +622,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260416006100320",
       "published_date": "2026-04-16T05:12:29Z",
       "category": "Economy"
-    },
-    {
-      "id": "2a4fc9d55f7bc4d95c25867d5d7883d8",
-      "title": "Banks, insurers urged to ramp up role for productive finance amid Middle East crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416002900320",
-      "published_date": "2026-04-16T05:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d7d633b610904d72b0a9c2b6b1968227",
-      "title": "Value of equity-linked bonds switched to stocks up over fourfold in Q1: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416005700320",
-      "published_date": "2026-04-16T04:50:01Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "bcd6861295b306f1f4ec0898eeab6ff3",
+      "title": "Trump says he expects Iran deal in 'a day or two': report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418000200315",
+      "published_date": "2026-04-17T17:17:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "247534aaf31b89c2d9521690f81e5c61",
+      "title": "Foreign ministry website briefly down after DDoS attack",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417009400315",
+      "published_date": "2026-04-17T12:44:21Z",
+      "category": "Local Events"
+    },
     {
       "id": "5a7576ffa75a81b2ad941b9cba4924f0",
       "title": "Yonhap News Summary",
@@ -759,22 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260416009300320",
       "published_date": "2026-04-16T07:32:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "da8178db984dbf77297d5caf03f8f789",
-      "title": "(URGENT) KOSPI rises for 3rd day closing above 6,200 on eased Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416007400320",
-      "published_date": "2026-04-16T06:31:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ce7e5528ef2f961dc6e404d31ea1c533",
-      "title": "(URGENT) Lee says he takes 'heavy responsibility' over 2014 Sewol ferry sinking",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416006900315",
-      "published_date": "2026-04-16T06:08:12Z",
       "category": "Local Events"
     }
   ]
