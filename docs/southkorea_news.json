@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-17T23:30:09Z",
+  "generated_at": "2026-04-18T11:37:11Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "531510c3f395f12a8f15ee5806e22867",
+      "title": "(2nd LD) Iran reopens Strait of Hormuz; Trump says blockade will remain until deal is signed",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417009552315",
+      "published_date": "2026-04-17T23:36:29Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "15996c8862a1ef0b04b3cab5df0544fd",
       "title": "ASF resurges in North Korea, pushing pork prices higher and exposing structural failures",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260417006200320",
       "published_date": "2026-04-17T06:05:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "525ba29f7940eff7bffd70b1e4ca404b",
-      "title": "UNC deputy commander hosts NATO delegation's visit to JSA this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006100315",
-      "published_date": "2026-04-17T06:04:13Z",
       "category": "Diplomacy"
     }
   ],
@@ -626,6 +626,62 @@
   ],
   "Local Events": [
     {
+      "id": "f9d3b63e3c59bf74a2709c540b18cda9",
+      "title": "DP picks 3-term lawmaker as candidate for Jeju governor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418001800315",
+      "published_date": "2026-04-18T09:45:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4ebe4efff50b541ac2a70641ff24246e",
+      "title": "Police probe alleged sexual assault of Chinese tourist by Japanese man in Busan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418001600320",
+      "published_date": "2026-04-18T06:31:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "be31e0624fb5901e4adf63389eb5fd6c",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418000700315",
+      "published_date": "2026-04-18T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4f36c3afec74d3e1790ab2ab09f7eb42",
+      "title": "(LEAD) PPP nominates incumbent Oh Se-hoon as candidate for Seoul mayor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418000851315",
+      "published_date": "2026-04-18T04:18:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "18b2c0871eb4b68cf6a2578ce8df8221",
+      "title": "Investigators question accomplice of notorious 'drug kingpin' in Philippines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418000900315",
+      "published_date": "2026-04-18T02:55:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "df104e3457b3a17ea9f4253deae146d3",
+      "title": "PPP nominates incumbent Oh Se-hoon as candidate for Seoul mayor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418000800315",
+      "published_date": "2026-04-18T01:40:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2c0087eb5c021ffa59b91a2721293e6d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260418000600315",
+      "published_date": "2026-04-18T00:15:39Z",
+      "category": "Local Events"
+    },
+    {
       "id": "bcd6861295b306f1f4ec0898eeab6ff3",
       "title": "Trump says he expects Iran deal in 'a day or two': report",
       "source": "Yonhap News Agency",
@@ -727,62 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260416004651315",
       "published_date": "2026-04-16T14:34:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "331cdd8f6814f456ca3dfbb0536ebf61",
-      "title": "Twins hold off Giants to clinch series win at home",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416010900315",
-      "published_date": "2026-04-16T13:18:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7c4e7d9316694c10f4c41787bf194b46",
-      "title": "Memorial services held across S. Korea on 12th anniv. of ferry disaster",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416010700315",
-      "published_date": "2026-04-16T10:16:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bd4241c2c781b06495362d18fe024f4d",
-      "title": "Twins manager buoyed by early returns from Australian pitcher Wells",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416010600315",
-      "published_date": "2026-04-16T08:59:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "86a57a4adcf6c0be41d9d9e3361a4969",
-      "title": "KT Wiz lose 2 key hitters to hamstring injuries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416010500315",
-      "published_date": "2026-04-16T08:23:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "16224146e3729cb07258af9ec8d748f4",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416009900315",
-      "published_date": "2026-04-16T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9b65f56a70068fb7c450a902ca347568",
-      "title": "Big 4 K-pop agencies pushing for joint venture to launch global festival",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416009400315",
-      "published_date": "2026-04-16T07:38:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b65445e9db3b312bf45dce21b7bf72f6",
-      "title": "Samsung Electronics seeks court injunction over union's potential action",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416009300320",
-      "published_date": "2026-04-16T07:32:07Z",
       "category": "Local Events"
     }
   ]
