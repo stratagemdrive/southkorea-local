@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-18T11:37:11Z",
+  "generated_at": "2026-04-18T23:25:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "c4e261273b3641d1474c67e8603ad84c",
+      "title": "North Korea fires ballistic missile eastward: Seoul, Tokyo",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/north-korea-fires-ballistic-missile-eastward-seoul-tokyo/",
+      "published_date": "2026-04-18T22:29:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d3faf653cc2681106b591f79696967cb",
+      "title": "N. Korea fires unidentified ballistic missile eastward: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000200315",
+      "published_date": "2026-04-18T21:31:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "26ef25f72bd2a1a04f57e6c6c4a02fa2",
+      "title": "(URGENT) N. Korea fires unidentified ballistic missile eastward: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260409010600315",
+      "published_date": "2026-04-18T21:20:26Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "531510c3f395f12a8f15ee5806e22867",
       "title": "(2nd LD) Iran reopens Strait of Hormuz; Trump says blockade will remain until deal is signed",
@@ -144,30 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260417006500320",
       "published_date": "2026-04-17T06:22:22Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "1906283b5f3f19f9f4a39960515a7b7c",
-      "title": "Nat'l security adviser, EU official discuss economic security cooperation amid Mideast crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006600315",
-      "published_date": "2026-04-17T06:21:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ff1dc6a0a5253f8aa7ef3c66fa5bacec",
-      "title": "(LEAD) Seoul's finance chief calls for global efforts on supply chain stability at G20 meeting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006051320",
-      "published_date": "2026-04-17T06:16:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7b5b4fdc424313bac21fc600f163335e",
-      "title": "Industry minister stresses balanced regional development through local industrial growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006200320",
-      "published_date": "2026-04-17T06:05:15Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -281,22 +281,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260413000900315",
       "published_date": "2026-04-12T22:08:58Z",
-      "category": "Military"
-    },
-    {
-      "id": "ddb36e6f5bac32489a978341123d4a89",
-      "title": "(Yonhap Interview) S. Korea, Australia on 'separate but parallel' paths in nuclear-powered submarines push: top Australian envoy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260411001700315",
-      "published_date": "2026-04-11T23:00:02Z",
-      "category": "Military"
-    },
-    {
-      "id": "f66a1c2dad984fa08fca4148cbd0b3b0",
-      "title": "New patrol ships to possibly inherit hull numbers of warships engaged in naval battles against N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260410008400315",
-      "published_date": "2026-04-11T21:01:01Z",
       "category": "Military"
     }
   ],
@@ -464,6 +448,14 @@
   ],
   "Economy": [
     {
+      "id": "2dca413c881fc8719accff04d220fa93",
+      "title": "(Yonhap Interview) AI transformation of manufacturing industry key to survival in global AI race: minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260417007800320",
+      "published_date": "2026-04-18T21:01:01Z",
+      "category": "Economy"
+    },
+    {
       "id": "859ec09ef7af76acc7732467f25c1481",
       "title": "Finance minister says Korean won stabilizing against dollar, hopes for alignment with market expectations",
       "source": "Yonhap News Agency",
@@ -614,17 +606,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260416006800320",
       "published_date": "2026-04-16T05:43:25Z",
       "category": "Economy"
-    },
-    {
-      "id": "cbc677a75d497c1b294dbfbfeff2a0d2",
-      "title": "Finance chief says FX market will stabilize once Middle East risk eases",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416006100320",
-      "published_date": "2026-04-16T05:12:29Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "7a22480c898c963cf22f8e079b6f2b7a",
+      "title": "(LEAD) N. Korea fires multiple ballistic missiles toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000251315",
+      "published_date": "2026-04-18T22:55:02Z",
+      "category": "Local Events"
+    },
     {
       "id": "f9d3b63e3c59bf74a2709c540b18cda9",
       "title": "DP picks 3-term lawmaker as candidate for Jeju governor",
@@ -775,14 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260417000500315",
       "published_date": "2026-04-16T22:05:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "efa9a1bf2fb1e4978adb318a77b4fda1",
-      "title": "(LEAD) Court rejects arrest warrant for YouTuber charged with defamation of Lee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416004651315",
-      "published_date": "2026-04-16T14:34:01Z",
       "category": "Local Events"
     }
   ]
