@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-18T23:25:09Z",
+  "generated_at": "2026-04-19T11:37:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,8 +10,80 @@
   ],
   "Diplomacy": [
     {
+      "id": "16b65c35a2dff8944b1bd9ed5cb2dc53",
+      "title": "(LEAD) Lee urges Nat'l Assembly to appoint special presidential inspector",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419001751315",
+      "published_date": "2026-04-19T10:42:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d5aec20cedf99458c7160258bb4e17f9",
+      "title": "Lee urges Nat'l Assembly to appoint special presidential inspector",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419001700315",
+      "published_date": "2026-04-19T07:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4c6d3f6bf100486235fcd6caf89a859",
+      "title": "(LEAD) Lee departs for India on two-nation Asia swing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000351315",
+      "published_date": "2026-04-19T03:35:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7f7aaf210005abac4ea69148594f2376",
+      "title": "(LEAD) Cheong Wa Dae denounces N.K. missile launch as violation of UNSC resolution, calls for immediate halt",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000851315",
+      "published_date": "2026-04-19T03:06:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "62a709edf44456751048b7bf8d9cad2a",
+      "title": "Lee vows to defend democracy on anniv. of 1960 pro-democracy uprising",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419001000315",
+      "published_date": "2026-04-19T02:13:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ca95919420bdc2eaa753c0a1b1c7398d",
+      "title": "(URGENT) Cheong Wa Dae denounces N.K. missile launch as violation of UNSC resolution, calls for immediate halt",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419001100315",
+      "published_date": "2026-04-19T02:08:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8f7e9cb7488bd4d3e52eaf401e0a7c93",
+      "title": "Cheong Wa Dae to convene emergency meeting over N. Korea's missile launch",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000800315",
+      "published_date": "2026-04-19T00:25:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a8cf8b5f25e32acdceb6221165fdbda5",
+      "title": "Lee set to depart for India on two-nation Asia swing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000300315",
+      "published_date": "2026-04-19T00:06:52Z",
+      "category": "Diplomacy"
+    },
+    {
       "id": "c4e261273b3641d1474c67e8603ad84c",
       "title": "North Korea fires ballistic missile eastward: Seoul, Tokyo",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/north-korea-fires-ballistic-missile-eastward-seoul-tokyo/",
+      "published_date": "2026-04-18T22:29:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0917fbc5ad3859572ed3e4ae7d10ce41",
+      "title": "North Korea fires ‘multiple’ suspected ballistic missiles: Seoul, Tokyo",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/north-korea-fires-ballistic-missile-eastward-seoul-tokyo/",
       "published_date": "2026-04-18T22:29:10Z",
@@ -96,81 +168,17 @@
       "url": "https://www.dailynk.com/english/north-korea-education-crackdown-failing-students-coal-mines/",
       "published_date": "2026-04-17T09:30:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "941e6c81b8935334218785b1b1b7112f",
-      "title": "(LEAD) Seoul shares snap 3-day rise on profit-taking amid hopes for 2nd round of U.S.-Iran peace talks; won declines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417007651320",
-      "published_date": "2026-04-17T08:13:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d4af828a0f896dd5821bb3c49f0946ff",
-      "title": "S. Korea, Bahrain exchange letters commemorating 50th anniv. of diplomatic ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417008500315",
-      "published_date": "2026-04-17T07:56:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "05925791e7ac90872eef738a6319a981",
-      "title": "'We Are All Trying Here' finds healing in struggle for self-worth everyone secretly carries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417008100315",
-      "published_date": "2026-04-17T07:50:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a5e69a73ef79baedc42352503a4db094",
-      "title": "KRX announces revised delisting rules for penny stocks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417007700320",
-      "published_date": "2026-04-17T07:17:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f628fa6f8824af76fbed543bc4987ec8",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417002500315",
-      "published_date": "2026-04-17T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "762d6ae4e697ca781e228e69e3c177da",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417002600315",
-      "published_date": "2026-04-17T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3839f02602cf7c50ac9a5221a65d2e09",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417002700315",
-      "published_date": "2026-04-17T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9b6b504f9f28f8e54c6eba3c382860a0",
-      "title": "Seoul shares snap 3-day rise on profit-taking amid hopes for 2nd round of U.S.-Iran peace talks; won declines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417007600320",
-      "published_date": "2026-04-17T06:55:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c5a6113ffd4b35d361630d17e0599ef5",
-      "title": "FSC chief vows financial support packages for Mideast crisis-hit firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006500320",
-      "published_date": "2026-04-17T06:22:22Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "f75ae032cf3119c6c7db055aabeabad3",
+      "title": "(URGENT) N. Korea's ballistic missiles flew about 140 km: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000900315",
+      "published_date": "2026-04-19T01:28:12Z",
+      "category": "Military"
+    },
     {
       "id": "896847a94b3a1130c87d8f58f98b545c",
       "title": "(Yonhap Interview) Twins slugger Dean takes pride in defense at first base",
@@ -610,6 +618,30 @@
   ],
   "Local Events": [
     {
+      "id": "48553f87d8141183c606fea10ff76674",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000700320",
+      "published_date": "2026-04-19T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cda97f067617d917a0094bd9446e0fc4",
+      "title": "(3rd LD) N. Korea fires short-range ballistic missiles toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000253315",
+      "published_date": "2026-04-19T03:45:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "38bf92c59e18c805e6716baee1091c2b",
+      "title": "(2nd LD) N. Korea fires short-range ballistic missiles toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000252315",
+      "published_date": "2026-04-19T01:51:39Z",
+      "category": "Local Events"
+    },
+    {
       "id": "7a22480c898c963cf22f8e079b6f2b7a",
       "title": "(LEAD) N. Korea fires multiple ballistic missiles toward East Sea: JCS",
       "source": "Yonhap News Agency",
@@ -743,30 +775,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260417004900315",
       "published_date": "2026-04-17T02:40:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "520dfb38360e23a4ea8efcee78cd7154",
-      "title": "Supernatural horror 'Salmokji' surpasses 1 mln admissions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417003100315",
-      "published_date": "2026-04-17T01:10:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "91d57be3f168739e8e65270fa20d20ce",
-      "title": "Korean Air tops gov't-led passenger survey among local, foreign carriers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417001100320",
-      "published_date": "2026-04-16T23:55:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0c76453a23446b06e9edae852e7b6444",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417000500315",
-      "published_date": "2026-04-16T22:05:16Z",
       "category": "Local Events"
     }
   ]
