@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-19T11:37:08Z",
+  "generated_at": "2026-04-19T23:26:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "aeaa384e5de116fab5d729a813fda1b7",
+      "title": "Lee set to hold summit with Indian PM Modi, seek supply chain cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420001500315",
+      "published_date": "2026-04-19T23:19:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c41aadd9badc58aca37012b9a29d6a76",
+      "title": "North Korea tests missiles armed with cluster bombs and fragmentation mines",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/north-korea-tests-missiles-armed-with-cluster-bombs-and-fragmentation-mines/",
+      "published_date": "2026-04-19T23:06:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f6ac40be7b108e35d20e154b241db284",
+      "title": "Kim Min-jae wins 2nd straight Bundesliga title with Bayern Munich",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420001300315",
+      "published_date": "2026-04-19T22:28:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "176084206489d516bbe868cf8b7d9cd7",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 20)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000900315",
+      "published_date": "2026-04-19T22:01:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "897452ed602e57c937fb206bf9ca916d",
+      "title": "(EDITORIAL from The Korea Times on April 20)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000800315",
+      "published_date": "2026-04-19T22:01:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f0971e385eb691f8df0b91312675d75e",
+      "title": "Lee vows to deepen strategic partnership with India amid Mideast crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000200315",
+      "published_date": "2026-04-19T15:07:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9bee2302b68254e1704173b0102e04d7",
+      "title": "Trump says U.S. negotiators will be in Pakistan on Mon. for peace talks with Iran",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419002400315",
+      "published_date": "2026-04-19T13:11:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2325422d731dd2cfbb20d5a2970bae91",
+      "title": "(2nd LD) Lee arrives in New Delhi for summit talks with Indian PM Modi",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419000352315",
+      "published_date": "2026-04-19T11:37:49Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "16b65c35a2dff8944b1bd9ed5cb2dc53",
       "title": "(LEAD) Lee urges Nat'l Assembly to appoint special presidential inspector",
@@ -104,73 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260409010600315",
       "published_date": "2026-04-18T21:20:26Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "531510c3f395f12a8f15ee5806e22867",
-      "title": "(2nd LD) Iran reopens Strait of Hormuz; Trump says blockade will remain until deal is signed",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417009552315",
-      "published_date": "2026-04-17T23:36:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "15996c8862a1ef0b04b3cab5df0544fd",
-      "title": "ASF resurges in North Korea, pushing pork prices higher and exposing structural failures",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/african-swine-fever-north-korea-2026-resurgence/",
-      "published_date": "2026-04-17T18:32:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "517eeb4bfe56a8039d8f603becf71f44",
-      "title": "(LEAD) Trump thanks Iran for opening Strait of Hormuz, says blockade will remain until deal is struck",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417009551315",
-      "published_date": "2026-04-17T16:09:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e496ae3318d543b2645bf9932857cafe",
-      "title": "Lee calls for reopening of Strait of Hormuz, pledges support for free navigation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417009600320",
-      "published_date": "2026-04-17T14:28:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "744c30af630dd68a5a4939d2e0f8be0a",
-      "title": "Trump thanks Iran for opening Strait of Hormuz, says blockade will remain until deal is struck",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417009500315",
-      "published_date": "2026-04-17T14:03:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "27ee31f01195333504b39a6853d4632c",
-      "title": "Foreign ministry special envoy attends inauguration of Republic of Congo president",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417009300320",
-      "published_date": "2026-04-17T12:50:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "879e96a3ec17612ee1eb4b3fa6f38e00",
-      "title": "South Korea mum on report alleging US withholding intel over minister remarks",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/south-korea-mum-on-report-alleging-us-withholding-intel-over-minister-remarks/",
-      "published_date": "2026-04-17T09:53:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "20bf8e1b98dd261e589fa5261a698c3b",
-      "title": "North Korea threatens to send failing students to coal mines after mass exam failures",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-education-crackdown-failing-students-coal-mines/",
-      "published_date": "2026-04-17T09:30:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "c1141cf5cdcd4dd5dadb55154937aa88",
+      "title": "(URGENT) N. Korea says it tested Hwasong-11Ra tactical ballistic missile",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000400315",
+      "published_date": "2026-04-19T21:15:25Z",
+      "category": "Military"
+    },
     {
       "id": "f75ae032cf3119c6c7db055aabeabad3",
       "title": "(URGENT) N. Korea's ballistic missiles flew about 140 km: JCS",
@@ -274,25 +282,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260413011300315",
       "published_date": "2026-04-13T13:51:20Z",
       "category": "Military"
-    },
-    {
-      "id": "6b05af5ffd17ed454db7e3cc3145ea1a",
-      "title": "(LEAD) U.S. to begin blockading all ships entering or exiting Iranian ports Monday: CENTCOM",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413000951315",
-      "published_date": "2026-04-12T23:19:08Z",
-      "category": "Military"
-    },
-    {
-      "id": "6dffd6a850c584c710b99104fad98aca",
-      "title": "U.S. to begin blockading all ships entering or exiting Iranian ports Monday: CENTCOM",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413000900315",
-      "published_date": "2026-04-12T22:08:58Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "4ea2392279ebc75df85e49db43f6b254",
+      "title": "(EDITORIAL from The Korea Herald on April 20)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000700315",
+      "published_date": "2026-04-19T22:01:28Z",
+      "category": "Energy"
+    },
     {
       "id": "e4e694c5f08ccfff97b81851ea0a03fb",
       "title": "Average gasoline price tops 2,000 won per liter for 1st time in 3 yrs, 9 months",
@@ -444,17 +444,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260414005951320",
       "published_date": "2026-04-14T06:57:36Z",
       "category": "Energy"
-    },
-    {
-      "id": "e31abead0e76d0c3f66778d09ccafcb6",
-      "title": "Seoul shares rise nearly 3 pct to reclaim 6,000 level on eased Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260414005900320",
-      "published_date": "2026-04-14T06:35:35Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "f9674b3e1de72bd7d7dd17f87ff71167",
+      "title": "Finance chiefs of S. Korea, U.S. share view Korean won's excessive volatility is not desirable",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260419002200315",
+      "published_date": "2026-04-19T11:44:51Z",
+      "category": "Economy"
+    },
     {
       "id": "2dca413c881fc8719accff04d220fa93",
       "title": "(Yonhap Interview) AI transformation of manufacturing industry key to survival in global AI race: minister",
@@ -606,17 +606,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260416007800320",
       "published_date": "2026-04-16T06:30:07Z",
       "category": "Economy"
-    },
-    {
-      "id": "9f333acd0cba5219711ab5cd43a7f909",
-      "title": "HD Korea Shipbuilding wins 745.1 bln won in orders for 4 vessels",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416006800320",
-      "published_date": "2026-04-16T05:43:25Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "95cd702c27704d805295c90b37ca80cd",
+      "title": "(LEAD) N. Korea says test-fired Hwasong-11 Ra ballistic missile, attended by leader Kim",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000551315",
+      "published_date": "2026-04-19T22:47:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "589b75a1b4a72b104215542c9c596158",
+      "title": "Kim Si-woo finishes 2 shots out of playoff on PGA Tour",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420001400315",
+      "published_date": "2026-04-19T22:37:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3e9525a39ce1ab676f47baa6b12ff580",
+      "title": "BTS' 'Arirang' drops to No. 3 on Billboard 200 in 4th week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420001100315",
+      "published_date": "2026-04-19T22:11:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6f3f6a3a9ffe84e9048f38d4e7315d2d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000600315",
+      "published_date": "2026-04-19T22:01:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "42d2251e730c690fdf6feb4720b0d7c0",
+      "title": "N. Korea says test-fired Hwasong-11 Ra ballistic missile, attended by leader Kim",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420000500315",
+      "published_date": "2026-04-19T21:44:30Z",
+      "category": "Local Events"
+    },
     {
       "id": "48553f87d8141183c606fea10ff76674",
       "title": "Today in Korean history",
@@ -735,46 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260417008000315",
       "published_date": "2026-04-17T07:43:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "950787b43598931212da51fd90bb2878",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417002800315",
-      "published_date": "2026-04-17T07:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "636b174444ae07a17f1418afe46fa5f8",
-      "title": "4 SPC Samlip officials booked over workers' finger injuries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006300315",
-      "published_date": "2026-04-17T06:15:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9f9e78ab4e0785ed5562caa773109cc7",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417001600315",
-      "published_date": "2026-04-17T05:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8efebd56a8efe9f663df91caf9664268",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417005500315",
-      "published_date": "2026-04-17T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "12b4eea00ca0454137514b14ca0c49f6",
-      "title": "PM calls for tighter crackdowns on illegal drugs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417004900315",
-      "published_date": "2026-04-17T02:40:18Z",
       "category": "Local Events"
     }
   ]
