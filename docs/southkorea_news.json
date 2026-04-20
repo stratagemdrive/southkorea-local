@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-20T12:06:40Z",
+  "generated_at": "2026-04-20T23:33:49Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "cd10bf14e491bfbf5353d7cd5462cf36",
+      "title": "Samsung Electronics joins hands with IKEA to expand SmartThings platform",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420011100320",
+      "published_date": "2026-04-20T23:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c6fcddf0decacc41b86ec11d99b71533",
+      "title": "Russia's interior minister arrives in N. Korea for talks over law enforcement cooperation: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000900315",
+      "published_date": "2026-04-20T22:39:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "19d5300ee1c0ee0ff37f65ad5da10a87",
+      "title": "North Korea resumes overseas labor deployment to China amid warming bilateral ties",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-workers-china-sanctions-evasion-dandong/",
+      "published_date": "2026-04-20T22:38:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1ef6075d8426ff7950b7533516d7a2f5",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000600315",
+      "published_date": "2026-04-20T22:10:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "68eac77b83f20b336a2552c1a41cd2f6",
+      "title": "(LEAD) Truck runs into rallygoers in Jinju, killing 1, injuring 2 others",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420007551315",
+      "published_date": "2026-04-20T14:38:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f5279e7225a5d798924de3d708ee4dd0",
+      "title": "(LEAD) Naver partners with Tata Group's IT unit for AI, digital biz opportunities in India",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420010851320",
+      "published_date": "2026-04-20T13:45:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f72ff2a2dc76400bd594ccc3372ed787",
+      "title": "First lady attends K-pop contest in India",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420011600315",
+      "published_date": "2026-04-20T13:15:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "55816db17a4c489438f0bf6347d89cae",
+      "title": "Central party inspection teams descend on Sinuiju factories, rattling local officials",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-central-party-inspection-sinuiju-factories/",
+      "published_date": "2026-04-20T13:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4a499cb6f5143c22622761f6f4c1ed9",
+      "title": "(3rd LD) S. Korea, India agree to cooperate on energy supply chains amid Mideast war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420001553315",
+      "published_date": "2026-04-20T12:48:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1de608d832148a34e300984c01fff0b2",
+      "title": "(LEAD) Lee appoints BOK governor after parliamentary confirmation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420009251315",
+      "published_date": "2026-04-20T12:41:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b7d41a296062b3b7dff9ae2d49abfd65",
+      "title": "(2nd LD) Unification minister regrets leak claim related to his reference to Kusong as N.K. nuclear facility site",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420007252315",
+      "published_date": "2026-04-20T12:30:42Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ad20cf199ccc1b2f90538beb1d5ba773",
       "title": "Naver partners with Tata Group's IT unit for AI, digital biz opportunities in India",
@@ -80,97 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260420008100320",
       "published_date": "2026-04-20T07:00:01Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "bf5a8d99e61c3aef2e83796e79eeed00",
-      "title": "(LEAD) IKEA Korea to add 3 outlets by 2027, launch next-day delivery service",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420005751320",
-      "published_date": "2026-04-20T06:53:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cb37e5b0f730e27bab8948ff022245ae",
-      "title": "No details finalized for China FM Wang Yi's visit to S. Korea: foreign ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420008200315",
-      "published_date": "2026-04-20T06:52:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "14a0b9217123098af871e68546782729",
-      "title": "Lee pays tribute at Gandhi memorial in New Delhi",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420008000315",
-      "published_date": "2026-04-20T06:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3a7c5346533b486f24dd0e345eb8f866",
-      "title": "Truck runs into rallygoers in Jinju, killing 1, injuring 2 others",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420007500315",
-      "published_date": "2026-04-20T05:52:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c64e308758a63e895872b594d90d21d9",
-      "title": "(3rd LD) N. Korea tests cluster bombs in latest ballistic missile launch",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420005551315",
-      "published_date": "2026-04-20T05:52:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f7257cc1f9ebc8d75eae6c91b058af64",
-      "title": "Lee to attend biz forum in India to boost economic cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420007300315",
-      "published_date": "2026-04-20T05:48:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "307e8ed37cac9da50013967eaf68531c",
-      "title": "Unification minister regrets leak claim related to his reference to Kusong as N.K. nuclear facility site",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420007200315",
-      "published_date": "2026-04-20T05:44:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "73e0a59dfdeafc2232ca1a2adcc63b39",
-      "title": "North Korea’s soccer team loses to nemesis Japan in U-20 Women’s Asian Cup final",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-koreas-soccer-team-loses-to-nemesis-japan-in-u-20-womens-asian-cup-final/",
-      "published_date": "2026-04-20T05:10:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d7c500f97adcea8ad19b0a621a1e4910",
-      "title": "S. Korean, Indian space authorities hold event to explore bilateral cooperation, business opportunities",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420006800320",
-      "published_date": "2026-04-20T05:07:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "276b27ac036c96f86f07035905bcd95e",
-      "title": "S. Korea, U.S. agree on bolstering anti-money laundering cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420006400320",
-      "published_date": "2026-04-20T04:16:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "03b8fcefd39b501977dd9881ab115ccb",
-      "title": "IKEA Korea to add 3 outlets by 2027, launch next-day delivery service",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420005700320",
-      "published_date": "2026-04-20T03:08:01Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "a9b52454f1c275f1aeb1077b51f7302b",
+      "title": "(LEAD) Trump says new Iran deal will be 'far better' than 2015 nuclear deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000251315",
+      "published_date": "2026-04-20T19:11:15Z",
+      "category": "Military"
+    },
     {
       "id": "c1141cf5cdcd4dd5dadb55154937aa88",
       "title": "(URGENT) N. Korea says it tested Hwasong-11Ra tactical ballistic missile",
@@ -273,14 +281,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260414002900320",
       "published_date": "2026-04-14T01:14:20Z",
-      "category": "Military"
-    },
-    {
-      "id": "3b4fe184e655573b51d9ae1464ff3a1a",
-      "title": "U.S. to start blockading all ship traffic in Gulf of Oman, Arabian Sea on Monday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260413011300315",
-      "published_date": "2026-04-13T13:51:20Z",
       "category": "Military"
     }
   ],
@@ -448,6 +448,14 @@
   ],
   "Economy": [
     {
+      "id": "9d90213c13acb067276de09b6be2a65c",
+      "title": "(LEAD) Lee eyes doubling S. Korea-India trade amid push for deeper economic ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260420007351315",
+      "published_date": "2026-04-20T12:29:52Z",
+      "category": "Economy"
+    },
+    {
       "id": "de0700ffc36ca344bc8c6b39715bec57",
       "title": "POSCO, JSW Steel sign 10.7 tln-won deal to build steel plant in India",
       "source": "Yonhap News Agency",
@@ -598,17 +606,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260417007000320",
       "published_date": "2026-04-17T06:47:18Z",
       "category": "Economy"
-    },
-    {
-      "id": "b61aa0f137d69b8198adb15b6901477c",
-      "title": "HD Hyundai Heavy wins 674.7 bln-won VLGC order in Middle East",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417006400320",
-      "published_date": "2026-04-17T06:09:39Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "002dbcb53ee5f179ebe542e9379e95f7",
+      "title": "BTS' 'Swim' ranks No. 10 on Billboard singles chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421001000315",
+      "published_date": "2026-04-20T22:40:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "82eae66a43b7cc1c47cc814f332c0a16",
+      "title": "(EDITORIAL from The Korea Times on April 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000700315",
+      "published_date": "2026-04-20T22:10:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7c59f66e79a55c3bdb89b77466ca410c",
+      "title": "(EDITORIAL from The Korea Herald on April 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000500315",
+      "published_date": "2026-04-20T22:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "75a443e31572ec6cdfd3f18695ceae4d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000400315",
+      "published_date": "2026-04-20T22:09:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c816036f4a8d1da5026e7d7d3faef19b",
+      "title": "Bessent says S. Korea-U.S. critical minerals framework finalized",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000300315",
+      "published_date": "2026-04-20T18:08:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "395db6fc6fa39ef84b8a7bda49261898",
+      "title": "Trump says Iran can have 'great and prosperous' future if its new leaders are smart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421000200315",
+      "published_date": "2026-04-20T17:42:20Z",
+      "category": "Local Events"
+    },
     {
       "id": "91eb02f504b6e14bd387042fa4fb887a",
       "title": "Jisoo not linked to family member under police investigation: attorney",
@@ -719,54 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260420005300320",
       "published_date": "2026-04-20T02:53:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "719135b3b849cc39d9f5c0fab7c413ab",
-      "title": "BTS to take 'The City' project to Las Vegas and Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420005000315",
-      "published_date": "2026-04-20T02:25:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6d2378702a7a62241dc7bc45047ed828",
-      "title": "KRX chief departs for Hong Kong to attend general meeting of Asian exchanges federation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420003600320",
-      "published_date": "2026-04-20T01:44:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d6e6809a42e7c8f2a05247a5f2be2982",
-      "title": "2 S. Koreans lose in LPGA playoff",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420003500315",
-      "published_date": "2026-04-20T01:39:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ec250d0cf03c0c3766df2dd52434f7d4",
-      "title": "Remains of centenarian independence fighter to return home this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420003000315",
-      "published_date": "2026-04-20T00:57:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e6a621b3699495f60d3aa09222836f5f",
-      "title": "Chemical firms pledge support for supply chain stability amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420001900320",
-      "published_date": "2026-04-20T00:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f4b04e713290d18e70f4fb36ff80c89d",
-      "title": "(LEAD) Kim Si-woo finishes 2 shots out of playoff on PGA Tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420001451315",
-      "published_date": "2026-04-19T23:52:07Z",
       "category": "Local Events"
     }
   ]
