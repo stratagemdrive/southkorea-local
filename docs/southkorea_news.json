@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-21T12:00:32Z",
+  "generated_at": "2026-04-21T23:27:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,118 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "58d46c7526691b395a46fcea29be9cf6",
+      "title": "(EDITORIAL from The Korea Times on April 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422000600320",
+      "published_date": "2026-04-21T22:05:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "90701e57a4e47114052c575df4747dff",
+      "title": "Overburdened North Korea teachers say profession has lost its appeal amid mounting non-teaching duties",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-teachers-overburdened-chongjin-education-exhibition/",
+      "published_date": "2026-04-21T21:02:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ba424c961a68907f6c620ab12d51fdde",
+      "title": "(4th LD) Trump extends ceasefire with Iran amid uncertainty over prospects for peace talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011254315",
+      "published_date": "2026-04-21T21:01:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eb2674177fabe493efa3bfab29cf4c0e",
+      "title": "4 carmakers to recall over 530,000 vehicles due to faulty parts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421009500320",
+      "published_date": "2026-04-21T21:00:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d54d1cf054ae63b1b2c78d5d4344cb22",
+      "title": "(3rd LD) Trump says U.S. will extend ceasefire until conclusion of discussions with Iran",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011253315",
+      "published_date": "2026-04-21T20:44:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fc87a890c5c8b77d5c3143c24e6c5798",
+      "title": "(URGENT) Trump says will extend ceasefire with Iran until it submits unified proposaI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422000300315",
+      "published_date": "2026-04-21T20:24:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "527e987151cbc4f352241485046af2d6",
+      "title": "(2nd LD) Uncertainty hangs over U.S.-Iran negotiation prospects as ceasefire deadline looms",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011252315",
+      "published_date": "2026-04-21T20:10:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "750cbde744f21e7df870af002c30e4e8",
+      "title": "(LEAD) Uncertainty hangs over U.S.-Iran negotiation prospects as ceasefire deadline looms",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011251315",
+      "published_date": "2026-04-21T19:15:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "198e097a437c92a1ac743c57efc84a71",
+      "title": "North Korea’s forest officers now feared more than police amid reforestation crackdown",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-reforestation-crackdown-south-pyongan-forest-officers/",
+      "published_date": "2026-04-21T18:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d79bc23e64af99b6d872de721e9f6dfd",
+      "title": "(2nd LD) USFK commander says THAAD remains in Korea, 'munitions' await move",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011452315",
+      "published_date": "2026-04-21T18:14:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bc873cf56bceae28b758fc2b6484b09b",
+      "title": "(LEAD) USFK commander says THAAD remains in Korea, 'munitions' await move",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011451315",
+      "published_date": "2026-04-21T16:21:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9761c8b75b7a44ed39a0539d3915f22d",
+      "title": "Trump says expects 'great deal' with Iran ahead of peace talks in Pakistan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011200315",
+      "published_date": "2026-04-21T13:35:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "10d1da5e1d2b68a1aba2a3f15fa9d2a5",
+      "title": "Hundreds of S. Koreans brought home on chartered flights from typhoon-hit Saipan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011100315",
+      "published_date": "2026-04-21T13:18:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "27d5fc61269c624f50fcc24197ca6db2",
+      "title": "North Korea orders youth crackdown ahead of Kim Il Sung birthday",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-youth-crackdown-anti-socialist-kim-il-sung-birthday/",
+      "published_date": "2026-04-21T13:11:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3145565bbd94c81c3e8b07e3ab247174",
       "title": "(LEAD) Lee arrives in Vietnam after wrapping up India visit",
@@ -23,6 +135,14 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260421011000315",
       "published_date": "2026-04-21T11:20:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b11f4b8960ef1832978ced954101c120",
+      "title": "North Pyongan procurement officers ramp up activity in sign of North Korea export shift",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-processed-goods-exports-north-pyongan-procurement/",
+      "published_date": "2026-04-21T11:01:00Z",
       "category": "Diplomacy"
     },
     {
@@ -47,126 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/sayaka-chatani-how-pro-north-korea-communities-took-root-in-japan/",
       "published_date": "2026-04-21T08:13:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a9781effe8eabcece4b7f87955631213",
-      "title": "Special counsel seeks 4-yr prison term for Rep. Kweon in bribery appeal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421010400315",
-      "published_date": "2026-04-21T08:01:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8c1556643207348ba263ad49e0fa7c05",
-      "title": "N. Korea appoints new ambassador to Britain, Indonesia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421009800315",
-      "published_date": "2026-04-21T07:57:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bc9c83cd0cce18b0dd5041ff07449bd6",
-      "title": "North Korea warns of prolonged dry spell that could threaten spring crops",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-warns-of-prolonged-dry-spell-that-could-threaten-spring-crops/",
-      "published_date": "2026-04-21T07:45:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "81464afb41088609b7924046045bf573",
-      "title": "(3rd LD) KOSPI sets record peak amid hopes of peace talks, tech rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421002455320",
-      "published_date": "2026-04-21T07:40:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f241f06e2f4d813cf60eb8b9d7840e44",
-      "title": "(2nd LD) Seoul stocks soar over 2.7 pct to end at new high on hopes of peace talks and AI boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421008152320",
-      "published_date": "2026-04-21T07:40:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "58c7ae97719b422313b239998df6ca07",
-      "title": "China says New Zealand plane disrupted flights on North Korea sanctions mission",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/china-says-new-zealand-plane-disrupted-flights-on-north-korea-sanctions-mission/",
-      "published_date": "2026-04-21T07:35:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e5c64523c61d19797794debe4b62eb93",
-      "title": "Lee departs for Vietnam after wrapping up India visit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421006300315",
-      "published_date": "2026-04-21T07:30:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fed63c896cadf86b70d1e689c45c1f51",
-      "title": "(LEAD) S. Korea, India sign 20 MOUs in steel, shipbuilding, energy sectors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421008251320",
-      "published_date": "2026-04-21T07:23:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "84b3e9e54996f7b8361ef34384b0c915",
-      "title": "(LEAD) Seoul stocks soar over 2.7 pct to end at new high on hopes of peace talks and AI boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421008151320",
-      "published_date": "2026-04-21T07:09:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c43fd5c1f21f59c2b48691caddc25311",
-      "title": "(2nd LD) KOSPI sets record peak amid hopes of peace talks, tech rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421002454320",
-      "published_date": "2026-04-21T06:36:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e71dc173949545a000a9a53cfb66c3f7",
-      "title": "S. Korea, India sign 20 MOUs in steel, shipbuilding, energy sectors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421008200320",
-      "published_date": "2026-04-21T06:36:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9dd8a941d06a10e57cae01146c4a9c09",
-      "title": "Seoul stocks soar over 2.7 pct to end at new high on hopes of peace talks and AI boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421008100320",
-      "published_date": "2026-04-21T06:34:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "30714ed221b0b5526f1026e68e7f173d",
-      "title": "Ha Chong-hyun's 6 decades of art head to San Francisco's Asian Art Museum",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421008000315",
-      "published_date": "2026-04-21T06:18:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "671a59e4b4bc7da912b0a77ccb6ae289",
-      "title": "S. Korea voices deep regret over Japan PM's offering, lawmakers' visit to war shrine",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421007500315",
-      "published_date": "2026-04-21T05:53:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "15d82d37e6e591020608fb13639eb1e9",
-      "title": "Innospace to collaborate with India's Grahaa Space for multi-launch services",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421007600320",
-      "published_date": "2026-04-21T05:52:54Z",
       "category": "Diplomacy"
     }
   ],
@@ -294,11 +294,27 @@
   ],
   "Energy": [
     {
+      "id": "d36cadbe7fe6593d4d22730de225eaf5",
+      "title": "Producer prices post fastest rise in 4 yrs in March on oil cost surge: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421009900320",
+      "published_date": "2026-04-21T21:00:12Z",
+      "category": "Energy"
+    },
+    {
       "id": "8a07394da1dcee6266f8a92f0b4040ae",
       "title": "(LEAD) Budget minister vows efforts to devise comprehensive strategy to overcome structural challenges",
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260421010351320",
       "published_date": "2026-04-21T09:42:35Z",
+      "category": "Energy"
+    },
+    {
+      "id": "5f2931967296fcf4f5f5940d71295fc1",
+      "title": "North Korea fuel hoarding spreads as Middle East conflict drives up oil prices",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-fuel-hoarding-hyesan-middle-east-oil-prices/",
+      "published_date": "2026-04-21T08:56:27Z",
       "category": "Energy"
     },
     {
@@ -435,22 +451,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260415006552315",
       "published_date": "2026-04-15T07:00:15Z",
-      "category": "Energy"
-    },
-    {
-      "id": "e1324b13e7442882a74b8a3fd9fda6b1",
-      "title": "(LEAD) S. Korea secures 273 mln barrels of crude oil, 2.1 mln tons of naphtha by year-end: presidential aide",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415006551315",
-      "published_date": "2026-04-15T06:09:34Z",
-      "category": "Energy"
-    },
-    {
-      "id": "3c316810d2c11d74f52894d657ac6150",
-      "title": "S. Korea secures 273 mln barrels of crude oil, 2.1 mln tons of naphtha by year-end: presidential aide",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260415006500315",
-      "published_date": "2026-04-15T05:31:21Z",
       "category": "Energy"
     }
   ],
@@ -618,6 +618,46 @@
   ],
   "Local Events": [
     {
+      "id": "c28754c0d93cf264d9ec5d49e2c0c101",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422000700320",
+      "published_date": "2026-04-21T22:05:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "406ddb74a46b6af4ce732549f0762198",
+      "title": "(EDITORIAL from The Korea Herald on April 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422000500320",
+      "published_date": "2026-04-21T22:05:26Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0e525627b32a599c3e504522b793cfdc",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422000400320",
+      "published_date": "2026-04-21T22:05:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "482610902bca0da679143d71312ba7f7",
+      "title": "USFK commander says his focus is 'strictly on capabilities over numbers' amid troop cut speculation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011400315",
+      "published_date": "2026-04-21T14:24:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "86249393b3ab524f3482ade54ceea2eb",
+      "title": "Landers' Park Seong-han sets KBO record for longest hitting streak to start season",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260421011300315",
+      "published_date": "2026-04-21T13:42:53Z",
+      "category": "Local Events"
+    },
+    {
       "id": "fd8e04cb1875e876a1aa175a7e7e5bf9",
       "title": "S. Korea considering various ways to contribute to stability in Strait of Hormuz: official",
       "source": "Yonhap News Agency",
@@ -735,46 +775,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260421004400315",
       "published_date": "2026-04-21T02:27:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c9b12ddb9564a436320ce804fdb103ce",
-      "title": "S. Korean stars seeking LPGA major breakthrough in Houston",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421004000315",
-      "published_date": "2026-04-21T02:10:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "980a1da95f66904059f9e747f1c53dc8",
-      "title": "BIGBANG's Taeyang to drop new solo album in May",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421003800315",
-      "published_date": "2026-04-21T01:56:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e70a7ea2bcff7f6fc4cb6f4b12e9abda",
-      "title": "Disability rights activists stage road protest in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421003700315",
-      "published_date": "2026-04-21T01:54:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c5d3e353a3079512c1eaf98ea53b764d",
-      "title": "LIV Golf's S. Korean players fired up for May homecoming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421003500315",
-      "published_date": "2026-04-21T01:41:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ef24ac3488897f1ad7930d790c51bafd",
-      "title": "Soprano Sumi Jo signs with SM Entertainment, to release 40th anniv. album",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421003300315",
-      "published_date": "2026-04-21T01:28:30Z",
       "category": "Local Events"
     }
   ]
