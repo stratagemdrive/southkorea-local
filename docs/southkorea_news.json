@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-22T12:00:12Z",
+  "generated_at": "2026-04-22T23:37:51Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "793470695f5631d9ed3c88ba8f3815c7",
+      "title": "Lee set to meet Vietnamese PM, attend biz forum",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423001600315",
+      "published_date": "2026-04-22T23:32:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dadc493c6bafcb7aafe88978e7345783",
+      "title": "N. Korea slams Japan's launch of military drone offices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423001100315",
+      "published_date": "2026-04-22T22:53:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "152cedf6e299506dcd3be1a6fc9f0f7d",
+      "title": "Rising fuel prices drive North Koreans to modify electric bikes for profit",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-electric-bike-modification-fuel-costs/",
+      "published_date": "2026-04-22T22:50:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "089d659eaac2b71dd4a8e491ffc854a2",
+      "title": "(EDITORIAL from The Korea Times on April 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000700320",
+      "published_date": "2026-04-22T22:12:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fdbcd28dd9fb311163fb5ab5a19c4682",
+      "title": "(EDITORIAL from The Korea Herald on April 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000600320",
+      "published_date": "2026-04-22T22:12:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "842b6bd28a91d261722e77d0fcd915be",
+      "title": "(Yonhap Interview) Ethiopia seeks 'climate-resilient, inclusive' development cooperation with S. Korea: top envoy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422005300315",
+      "published_date": "2026-04-22T22:01:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e4f031e820c364912bc10e84ddc1aa0e",
+      "title": "(2nd LD) Trump has not set deadline to receive 'unified' proposal from Iran: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000252315",
+      "published_date": "2026-04-22T21:14:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "461a48e8218eab2384015aa2278de3fb",
+      "title": "(LEAD) Trump has not set deadline to receive 'unified' proposal from Iran: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000251315",
+      "published_date": "2026-04-22T20:37:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2102cbb9b43873a42b71fd67de576f74",
+      "title": "(LEAD) S. Korea, U.S. aim to meet OPCON transfer conditions no later than Q1 of 2029: USFK commander",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000351315",
+      "published_date": "2026-04-22T17:34:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "23f7f2c9d15699c69b59acb0c6afa190",
+      "title": "Trump says U.S.-Iran talks 'possible' within 36 to 72 hours: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000200315",
+      "published_date": "2026-04-22T16:18:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "90634b919d5679eb50c3cc5cb25af6b3",
+      "title": "US has not given up on engaging North Korea, ROK opposition leader says",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/us-has-not-given-up-on-engaging-north-korea-rok-opposition-leader-says/",
+      "published_date": "2026-04-22T16:07:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a1bcf678f6bcf2942666a9f9efe94299",
+      "title": "(3rd LD) S. Korea, Vietnam agree to expand cooperation in energy, supply chains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422000953315",
+      "published_date": "2026-04-22T12:54:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "17230271c72c9d8a54f23b54530943ad",
+      "title": "(2nd LD) S. Korea, Vietnam agree to expand cooperation in energy, supply chains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422000952315",
+      "published_date": "2026-04-22T12:05:41Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5368fb7fe1a14436ccb14d2b936268f2",
       "title": "(LEAD) Lee, Vietnam's To Lam hold summit talks to discuss energy, supply chains",
@@ -63,110 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260422008000315",
       "published_date": "2026-04-22T07:12:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fd763dccdc0431d7cdee528e8911c7ec",
-      "title": "Commonwealth veterans of Korean War to visit S. Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422007000315",
-      "published_date": "2026-04-22T06:43:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6b14ce2e016a817efc1731a1076c7ee5",
-      "title": "Yoon's constitutional petition against insurrection tribunal law referred to formal review",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422006400315",
-      "published_date": "2026-04-22T06:30:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3bdd823b2563e01d16f4fe6bd10d970f",
-      "title": "Lee vows closer cooperation with Vietnam in nuclear energy, supply chains",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422006600315",
-      "published_date": "2026-04-22T06:30:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aeddf04d5c427750cbf5fa42622b89a0",
-      "title": "(LEAD) Giants' Lee Jung-hoo takes upper hand over Dodgers' Kim Hye-seong",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422005251315",
-      "published_date": "2026-04-22T06:28:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "93a401eb07e3620b27fd12b0b3412dc2",
-      "title": "MMCA Cheongju to revisit Bang Hai-ja's luminous works",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422005900315",
-      "published_date": "2026-04-22T06:20:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fd0f7f9622bf5854021313a29a7f25a7",
-      "title": "S. Korea, India to launch cross-border QR code-based payment system this year: FSC chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422006500320",
-      "published_date": "2026-04-22T06:17:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b6a9a56d602dd933428c4af7c0025a04",
-      "title": "North Korea, Russia hold talks on sharing intel about drug smuggling",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-russia-hold-talks-on-sharing-intel-about-drug-smuggling/",
-      "published_date": "2026-04-22T06:15:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b9bac767113b5c827d967e15024df0d1",
-      "title": "North Korea and Russia hold ceremony to link cross-border road bridge",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-and-russia-hold-ceremony-to-link-cross-border-road-bridge/",
-      "published_date": "2026-04-22T06:09:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3289fe1044fa702486efaac8daba84bd",
-      "title": "Giants' Lee Jung-hoo takes upper hand over Dodgers' Kim Hye-seong",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422005200315",
-      "published_date": "2026-04-22T05:13:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "074e5f231b8862aa5aef71fc0c547288",
-      "title": "Seoul shares down late Wed. morning amid peace talks uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422004300320",
-      "published_date": "2026-04-22T02:30:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2bfb946daf6dd7ac92c0cd45b1d95548",
-      "title": "(LEAD) N. Korean, Russian public security chiefs discuss closer cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422001851315",
-      "published_date": "2026-04-22T02:28:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "50db6fac4730a057ef919340ed8fa0ae",
-      "title": "Hanwha Group signs MOU with Canada's Alberta province to expand energy, defense cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422002900320",
-      "published_date": "2026-04-22T01:25:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ed9c45b5706ef0e2b61604aa06f1271b",
-      "title": "HD Hyundai Heavy wins $350 mln icebreaker order from Sweden",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422002300320",
-      "published_date": "2026-04-22T00:44:33Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,22 @@
   ],
   "Energy": [
     {
+      "id": "7086bf5dd28607cb3bffbff652f9fdf2",
+      "title": "(LEAD) SK hynix logs record profit in Q1 on AI chip boom",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423001051320",
+      "published_date": "2026-04-22T22:58:03Z",
+      "category": "Energy"
+    },
+    {
+      "id": "641c80f4ac2e03cedc068c691ba54665",
+      "title": "Consumer sentiment falls to 1-yr low in April amid Middle East crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422009000320",
+      "published_date": "2026-04-22T21:00:07Z",
+      "category": "Energy"
+    },
+    {
       "id": "7782c164632aea4bb8989886c99fbd47",
       "title": "Break-ins hit South Hamgyong villages during planting season as police do little to help",
       "source": "Daily NK",
@@ -476,25 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260417003000320",
       "published_date": "2026-04-17T01:23:51Z",
       "category": "Energy"
-    },
-    {
-      "id": "c4ea7314db4ed69ce08bb8784f1ea678",
-      "title": "(Yonhap Interview) Giants starter Beasley rides sweeper to early KBO success: 'I trust myself more than anything'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417001800315",
-      "published_date": "2026-04-17T00:10:41Z",
-      "category": "Energy"
-    },
-    {
-      "id": "671ef801e96fc604fb897e599654b09d",
-      "title": "Twins reliever mixes up repertoire for scoreless outing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416011000315",
-      "published_date": "2026-04-16T13:47:37Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "9773263961882b7568df152c4ffde43e",
+      "title": "S. Korea's GDP expands 1.7 pct in Q1, fastest growth in 5 1/2 yrs: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423001500320",
+      "published_date": "2026-04-22T23:06:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "cedc7a53fbb991f6d78aebc48ced2819",
+      "title": "(URGENT) S. Korea's GDP expands 1.7 pct in Q1, fastest growth in 5 1/2 yrs: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423001200320",
+      "published_date": "2026-04-22T23:00:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "752f70c9d742e2061151c99a7065cc27",
+      "title": "USTR voices hopes for 'outcomes' from S. Korea, Australia, EU regarding digital regulation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000400315",
+      "published_date": "2026-04-22T19:18:41Z",
+      "category": "Economy"
+    },
     {
       "id": "2fb21c65f5536645f8b230e8bdfd3ad5",
       "title": "(2nd LD) KOSPI lands above 6,400 at fresh peak on earnings prospect",
@@ -630,33 +654,73 @@
       "url": "https://en.yna.co.kr/view/AEN20260421006800320",
       "published_date": "2026-04-21T04:40:19Z",
       "category": "Economy"
-    },
-    {
-      "id": "bb5bd47ab4d6ceefa031f4dd3d6ade66",
-      "title": "Banks to tighten lending criteria in Q2 amid credit risk concerns: BOK survey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421004300320",
-      "published_date": "2026-04-21T03:00:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "863a8a3c41bb5bc5b0d10964f2b40d2b",
-      "title": "Seoul stocks sharply up late Tue. morning, poised for new record high",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421004600320",
-      "published_date": "2026-04-21T02:39:28Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5bd706208357d238e6bb6c929c9081dd",
-      "title": "Qualcomm CEO to meet with LG Electronics chief to discuss AI collaboration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421004500320",
-      "published_date": "2026-04-21T02:35:03Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "b691f818ae74c1485287714150f748d1",
+      "title": "Biz sentiment for May pessimistic due to Middle East crisis: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423001400320",
+      "published_date": "2026-04-22T23:02:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "540148670ed1d46a0c981953378a9738",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000500320",
+      "published_date": "2026-04-22T22:16:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9c94520f36e6a16552a1affd522ed8c4",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000800320",
+      "published_date": "2026-04-22T22:13:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f974c9a0aad4faa2e2fb8f960aac99ff",
+      "title": "S. Korea, U.S. aim to meet conditions for OPCON transfer no later than Q2 of FY 2029: USFK commander",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423000300315",
+      "published_date": "2026-04-22T16:55:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "927f017c2052b9509067d72eed0a492c",
+      "title": "U.S. Republicans urge S. Korea to stop 'targeted' discrimination against American companies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422011700315",
+      "published_date": "2026-04-22T14:47:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "185eaba44cfd50fac307e7d58e02d7c7",
+      "title": "(LEAD) Twins ace puts team first after narrowly missing 1st shutout",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422011651315",
+      "published_date": "2026-04-22T12:59:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a0d9aa6d2b1298f16e1b95cec2bbe367",
+      "title": "Twins ace puts team first after narrowly missing 1st shutout",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422011600315",
+      "published_date": "2026-04-22T12:47:29Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7ddbbf5ad437144f466c3d570f4fdc29",
+      "title": "Twins blank Eagles behind starter's gem",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260422011500315",
+      "published_date": "2026-04-22T12:25:39Z",
+      "category": "Local Events"
+    },
     {
       "id": "96906e1bb31e901dd2b7605f09e6022a",
       "title": "(LEAD) N. Korea's Kusong comes into spotlight as little-known but long-suspected nuclear facility site",
@@ -751,70 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260422005500320",
       "published_date": "2026-04-22T05:50:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "91d403fca15f1406d73b42dde2cd3ef3",
-      "title": "World IT Show 2026 opens in Seoul with AI-driven innovation in focus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422005600320",
-      "published_date": "2026-04-22T05:40:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "33d58664228247448239e1f3290697e4",
-      "title": "AMCHAM, San Francisco inks MOU to boost S. Korea-U.S. business ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422005400320",
-      "published_date": "2026-04-22T05:24:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fc1b2308c1493c216a5f8193352c73df",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422005100320",
-      "published_date": "2026-04-22T05:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "59cdf8d5f0c13f6f8dd5d71f9e8c4b7c",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422005000320",
-      "published_date": "2026-04-22T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5574a6b5c46c8216221f8296d45c8e6a",
-      "title": "Childbirths grow at record high pace in Feb.: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422003000320",
-      "published_date": "2026-04-22T03:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8ff6aa602c1783a642e0c0eb4ed36689",
-      "title": "Population mobility hits 5-yr high in March: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422004200320",
-      "published_date": "2026-04-22T03:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "14458d75b3d1edc12ce4758f2f700abd",
-      "title": "Agriculture minister explores K-food export opportunity in meeting with Vietnamese counterpart",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422004700320",
-      "published_date": "2026-04-22T02:58:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "53c730e89fed88f678b7db9a8be1b5b0",
-      "title": "Chinese national sent to prosecution over deadly warehouse fire",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422004500315",
-      "published_date": "2026-04-22T02:42:55Z",
       "category": "Local Events"
     }
   ]
