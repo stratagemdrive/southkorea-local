@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-23T11:59:50Z",
+  "generated_at": "2026-04-23T23:35:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,102 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "f140cad44fb8a9af48667afd55227e0f",
+      "title": "Dodgers' Kim Hye-seong enjoys multihit game; Giants' Lee Jung-hoo held hitless",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424001300315",
+      "published_date": "2026-04-23T23:16:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "65746a2420bdecf2fd37b0649c6e2400",
+      "title": "(EDITORIAL from The Korea Herald on April 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000800315",
+      "published_date": "2026-04-23T22:08:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "de283305e7fe132f3fa674fd4e325001",
+      "title": "PPP leader met aide to senior U.S. diplomat during Washington visit last week: State Dept.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000300315",
+      "published_date": "2026-04-23T19:32:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0ada581836d38adc4952b301044c04f9",
+      "title": "(2nd LD) Trump says Strait of Hormuz 'sealed up tight' until deal, orders Navy to shoot vessels laying mines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012552315",
+      "published_date": "2026-04-23T19:31:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2f668fa7f1e43a97ec4bbadf9ea9d298",
+      "title": "(LEAD) Lee calls for closer cooperation on raw material supply chains with Vietnam",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423011951315",
+      "published_date": "2026-04-23T14:10:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0d4980fba8f171f7020f87ea367b9d43",
+      "title": "(LEAD) Trump says Strait of Hormuz 'sealed up tight' until deal, orders Navy to shoot vessels laying mines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012551315",
+      "published_date": "2026-04-23T13:59:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "76999f61015ce763c9231559028b356a",
+      "title": "(LEAD) Vietnam's top leader welcomes Korean firms' participation in nuclear power plans: security adviser",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423011451315",
+      "published_date": "2026-04-23T13:52:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d0314e32d7ac951eb70114a4c7bc104f",
+      "title": "Lee's policy chief hopes Samsung averts possible strike through dialogue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012400315",
+      "published_date": "2026-04-23T13:41:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e493682831f139da1c9a6b2dfd5647c8",
+      "title": "Rookie powers Dinos past Heroes with 1st home run",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012100315",
+      "published_date": "2026-04-23T12:47:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7cef58a9533527a1b539b83f504e8504",
+      "title": "(LEAD) First lady visits Hanoi museum with wife of Vietnam's top leader",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423011551315",
+      "published_date": "2026-04-23T12:44:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "da2b61e0c7810e3d305c44282136de62",
+      "title": "S. Korea, 4 Commonwealth army chiefs discuss expanding military cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012000320",
+      "published_date": "2026-04-23T12:32:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1d7c5cc7a1d04aa2412e5fe611f6ebbd",
+      "title": "Lee calls for closer cooperation on raw material supply chains with Vietnam",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423011900315",
+      "published_date": "2026-04-23T12:16:56Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "f983d4ef1a0c956fb6cfd0c1dafd06b3",
       "title": "First lady visits Hanoi museum with wife of Vietnam's top leader",
@@ -72,105 +168,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260423009800320",
       "published_date": "2026-04-23T07:37:04Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "3fe610c757a04116f49e230eeb633f2a",
-      "title": "Mother sentenced to life for brutal abuse, murder of 4-month-old son",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423009600315",
-      "published_date": "2026-04-23T07:29:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7f10e5cc4122ca0f9a4afce77e0c88c2",
-      "title": "(LEAD) Honda to exit S. Korean car market after 23 yrs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423009351320",
-      "published_date": "2026-04-23T07:22:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "461d2d60a5154ecbc1cd8aba3e409c88",
-      "title": "Ex-husband of Samsung's Lee Boo-jin serving prison term in deception case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423009400315",
-      "published_date": "2026-04-23T07:13:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5f87a86e09d829a7d595f13310dc38f9",
-      "title": "Honda to exit S. Korean car market after 23 yrs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423009300320",
-      "published_date": "2026-04-23T07:02:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7ba60c0ede8e3afa799d23751efe1171",
-      "title": "(LEAD) Prosecution raided over ex-prosecutor general's alleged role in martial law bid",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423006951315",
-      "published_date": "2026-04-23T06:34:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0b5873bf64bb75510955ca3c790da616",
-      "title": "(2nd LD) Lee vows to bolster energy, infrastructure cooperation with Vietnam",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423001652315",
-      "published_date": "2026-04-23T06:32:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e581ea36e68fd71bd1f1c86444bafed1",
-      "title": "S. Korea, Canada sign coproduction treaty for audiovisual content",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423007700320",
-      "published_date": "2026-04-23T06:18:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2d1813df1c2e810c39b45b3334a79d8d",
-      "title": "(LEAD) S. Korean special envoy meets Iran's FM, requests cooperation for safe Hormuz transit of ships",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423005251315",
-      "published_date": "2026-04-23T05:56:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e919c27bce00b135e53db898411685bb",
-      "title": "Unification minister rejects criticism of N.K.-related intel leak as 'political trick'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423007200315",
-      "published_date": "2026-04-23T05:53:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "84f34791b6b11441545e8dc26c5ed867",
-      "title": "Prosecution raided over ex-prosecutor general's alleged role in martial law bid",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423006900315",
-      "published_date": "2026-04-23T05:51:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "263e5247f4cec4c251256682a4924ed1",
-      "title": "(LEAD) Lee vows to bolster energy, infrastructure cooperation with Vietnam",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423001651315",
-      "published_date": "2026-04-23T05:37:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2076cc221793eb8ec417fbd0a1e01233",
-      "title": "USFK aims to transfer wartime operational control to ROK by 2029, commander says",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/usfk-aims-to-transfer-wartime-operational-control-to-rok-by-2029-commander-says/",
-      "published_date": "2026-04-23T05:36:51Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "fe60d684cd6067cbd5dee07cf5b1b9ad",
+      "title": "(2nd LD) Trump says he won't use nuclear weapon in Iran war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000452315",
+      "published_date": "2026-04-23T21:42:16Z",
+      "category": "Military"
+    },
+    {
+      "id": "d427ec485593666f6b18707840e8d7c9",
+      "title": "(LEAD) Trump says he won't use nuclear weapon in Iran war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000451315",
+      "published_date": "2026-04-23T21:30:39Z",
+      "category": "Military"
+    },
+    {
+      "id": "6cf101c7c3c37c6590f61134aca1d8c0",
+      "title": "Trump says he won't use nuclear weapon in Iran war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000400315",
+      "published_date": "2026-04-23T21:13:11Z",
+      "category": "Military"
+    },
+    {
+      "id": "3f54737801bd053237e987646483c006",
+      "title": "Army troops of S. Korea, Canada launch 1st high-tech military training this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423009900315",
+      "published_date": "2026-04-23T21:00:04Z",
+      "category": "Military"
+    },
+    {
+      "id": "fe99379a8a0bf825a96791610af67e10",
+      "title": "Trump orders U.S. Navy to 'shoot and kill' any boat putting mines in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012500315",
+      "published_date": "2026-04-23T13:42:00Z",
+      "category": "Military"
+    },
     {
       "id": "895a1ec939ffb769a2b083917e15e5a4",
       "title": "US Forces Korea chief says THAAD missile defenses remain in South Korea",
@@ -289,30 +329,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/north-korean-missiles-used-in-ukraine-strikes-arent-just-russian-copies-kyiv/",
       "published_date": "2026-04-17T06:42:17Z",
-      "category": "Military"
-    },
-    {
-      "id": "22149d0e57cd970859b88039ee620e51",
-      "title": "(LEAD) Trump says Iran has agreed to no nuclear weapons, negotiations may resume this weekend",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417000351315",
-      "published_date": "2026-04-16T19:50:54Z",
-      "category": "Military"
-    },
-    {
-      "id": "811a0849593cc73ffa9928bf88b8b4ed",
-      "title": "Hegseth calls on Iran to 'choose wisely,' says U.S. military 'locked and loaded'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260416011100315",
-      "published_date": "2026-04-16T14:31:23Z",
-      "category": "Military"
-    },
-    {
-      "id": "1e9c71a47a9ab2f4bd97676961a63a4e",
-      "title": "Political bloodlines drive North Korea’s Social Safety Forces recruitment",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-social-safety-forces-recruitment/",
-      "published_date": "2026-04-16T13:04:00Z",
       "category": "Military"
     }
   ],
@@ -480,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "e85fb8a283d200c83213b795192869c4",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424001000315",
+      "published_date": "2026-04-23T22:08:41Z",
+      "category": "Economy"
+    },
+    {
       "id": "61e37d9f181e46c507936aa9dccdb6f0",
       "title": "Hyundai Rotem wins 491 bln-won unmanned train deal from Vietnam",
       "source": "Yonhap News Agency",
@@ -630,17 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260423001200320",
       "published_date": "2026-04-22T23:00:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "752f70c9d742e2061151c99a7065cc27",
-      "title": "USTR voices hopes for 'outcomes' from S. Korea, Australia, EU regarding digital regulation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423000400315",
-      "published_date": "2026-04-22T19:18:41Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "1e39049eeff3e772970f558e5cbf784e",
+      "title": "(EDITORIAL from The Korea Times on April 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000900315",
+      "published_date": "2026-04-23T22:08:26Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "edc65a442454a8db134add54ac326f9c",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000700315",
+      "published_date": "2026-04-23T22:07:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c41b836f3737a07406e17dc77e5877a4",
+      "title": "(LEAD) Coupang lobbying disclosure reports show activities involving White House, vice president, Congress",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000251315",
+      "published_date": "2026-04-23T17:55:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e443a1e94acca2dd07a1f56f759aaba6",
+      "title": "Coupang lobbying disclosure reports show activities involving White House, vice president, Congress",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424000200315",
+      "published_date": "2026-04-23T16:47:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3a9bc7ff2df5944c2ab01f9a09759684",
+      "title": "Vietnam approves POSCO Future M's artificial graphite anode plant",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012600320",
+      "published_date": "2026-04-23T14:12:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "34b76a3b2dc8a7adb12910f69f344453",
+      "title": "Imagination turns into reality on memorable night for Dinos rookie",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260423012300315",
+      "published_date": "2026-04-23T13:31:46Z",
+      "category": "Local Events"
+    },
     {
       "id": "1b8bec7c6a67f2aa92acf048bccffd30",
       "title": "Dinos manager implores players to hold heads high amid slow start",
@@ -751,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260423009000315",
       "published_date": "2026-04-23T06:49:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4c0479f3f9dae73fe355ad27b978f62d",
-      "title": "Seoul stocks set fresh record high on tech gains, U.S. ceasefire extension",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423008400320",
-      "published_date": "2026-04-23T06:45:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e0c6fb7bcbea7f04c66c2bdb8ee3dbf1",
-      "title": "(URGENT) Seoul shares again hit fresh high of 6,475.81 on tech gains, U.S. ceasefire extension",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423008300320",
-      "published_date": "2026-04-23T06:35:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c7a4f6d7da9968455a72fd248a60f286",
-      "title": "Oscar-winning director Maggie Kang signs with Korean entertainment agency",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423007300315",
-      "published_date": "2026-04-23T05:59:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6c6d5670af27437b24f509738995da46",
-      "title": "(LEAD) Shinhan Financial's net profit hits record high in Q1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423006751320",
-      "published_date": "2026-04-23T05:54:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "75179209c1f05fec1d542520b0c9c9be",
-      "title": "Ex-MLB player Choi Ji-man signs with S. Korean minor league club",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423007100315",
-      "published_date": "2026-04-23T05:38:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2a29d0c6c0d89e7c3fab9d6e05d75eee",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423001300320",
-      "published_date": "2026-04-23T05:00:13Z",
       "category": "Local Events"
     }
   ]
