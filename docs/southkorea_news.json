@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-24T11:59:20Z",
+  "generated_at": "2026-04-24T23:31:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "24547cc8e60a337ab0bc52cadaedad15",
+      "title": "(LEAD) Key U.S. negotiators to depart for Pakistan Saturday for talks with Iran: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000351315",
+      "published_date": "2026-04-24T18:17:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "edc4dac58674690fe26a55f4c48407dd",
+      "title": "Key U.S. negotiators to depart for Pakistan Saturday for talks with Iran: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000300315",
+      "published_date": "2026-04-24T17:51:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0eb99d7ffdacf5fabcb965ea43e8a77b",
+      "title": "(LEAD) S. Korea, U.S. making efforts toward 'normalization' amid U.S. intel curb controversy: Seoul official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000251315",
+      "published_date": "2026-04-24T17:04:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f2083a53d97e2d550116f8cc8dcbad2c",
+      "title": "Senior S. Korean, U.S. diplomats meet amid reported U.S. intel curb controversy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000200315",
+      "published_date": "2026-04-24T16:01:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1e31202698051a79e23756ca84c56067",
+      "title": "(LEAD) Lee returns from trip to India, Vietnam focused on economic ties, supply chain cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424011751315",
+      "published_date": "2026-04-24T13:16:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2e5079fc5b71a67d87303668f2b7af62",
+      "title": "Lee returns from trip to India, Vietnam focused on economic ties, supply chain cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424011700315",
+      "published_date": "2026-04-24T12:10:37Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3d1964249a338af6c8b531039545248f",
       "title": "Russia blocks release of North Korean defector movie starring Kim Min-ha",
@@ -120,57 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260424003900315",
       "published_date": "2026-04-24T02:14:22Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "3b2bcdb475f7371cd8759664e6477ee7",
-      "title": "S. Korean firms sign MOUs worth US$27 mln with foreign buyers for food exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424003300320",
-      "published_date": "2026-04-24T02:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "656abbf825292ee0aa6b84ec682ba06a",
-      "title": "(LEAD) Hyundai Mobis Q1 net falls 14 pct on weaker vehicle demand amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424003451320",
-      "published_date": "2026-04-24T01:36:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "86c41d09e0255300d4c1c71eea84034d",
-      "title": "S. Koreans in early contention at 1st LPGA major of season",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424003200315",
-      "published_date": "2026-04-24T01:00:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "814214a95e9252f2b5b4650adbd2bf06",
-      "title": "(LEAD) Seoul stocks open tad lower amid little progress in peace talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424001751320",
-      "published_date": "2026-04-24T00:45:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bd4878c47898bf34c9bdd92aa0d6e23e",
-      "title": "S. Korea, Australia to launch joint war remains search next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424002800315",
-      "published_date": "2026-04-24T00:40:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a4c923dde354f5d40d81adab6d372589",
-      "title": "S. Korea-Moldova economic cooperation pact takes effect",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424001500315",
-      "published_date": "2026-04-23T23:43:11Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "f5a667394811a9986c60bc597210826e",
+      "title": "(LEAD) Hegseth calls for allies' role in Strait of Hormuz, says 'time for free riding is over'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424011851315",
+      "published_date": "2026-04-24T16:10:03Z",
+      "category": "Military"
+    },
+    {
+      "id": "9ab58ac0fa8cf6298ea7dcc3bf97ec69",
+      "title": "Hegseth calls for allies' role in Strait of Hormuz, says 'time for free riding is over'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424011800315",
+      "published_date": "2026-04-24T14:42:59Z",
+      "category": "Military"
+    },
     {
       "id": "56ae852853ffe378ab746f1ddf85e974",
       "title": "Search to begin for last Australian soldier missing in the South from Korean War",
@@ -313,22 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260420000400315",
       "published_date": "2026-04-19T21:15:25Z",
-      "category": "Military"
-    },
-    {
-      "id": "f75ae032cf3119c6c7db055aabeabad3",
-      "title": "(URGENT) N. Korea's ballistic missiles flew about 140 km: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260419000900315",
-      "published_date": "2026-04-19T01:28:12Z",
-      "category": "Military"
-    },
-    {
-      "id": "896847a94b3a1130c87d8f58f98b545c",
-      "title": "(Yonhap Interview) Twins slugger Dean takes pride in defense at first base",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260417005800315",
-      "published_date": "2026-04-17T23:00:04Z",
       "category": "Military"
     }
   ],
@@ -658,6 +658,14 @@
   ],
   "Local Events": [
     {
+      "id": "017d07290f60f180c3069be1b4668636",
+      "title": "(2nd LD) Trump says Iran will make offer aimed at meeting U.S. demands: Reuters",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000352315",
+      "published_date": "2026-04-24T20:40:29Z",
+      "category": "Local Events"
+    },
+    {
       "id": "0fd9c33013edff806323f2b225bb9fda",
       "title": "Kidnapped S. Korean man rescued in Malaysia; 3 suspects also Koreans",
       "source": "Yonhap News Agency",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260424004100315",
       "published_date": "2026-04-24T02:12:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d2f2e739930ab768bb014590707faa41",
-      "title": "S. Korea, Japan's customs agency chiefs hold meeting to discuss implementation of RCEP",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424003000320",
-      "published_date": "2026-04-24T00:56:24Z",
       "category": "Local Events"
     }
   ]
