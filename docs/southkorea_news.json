@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-25T11:40:25Z",
+  "generated_at": "2026-04-25T23:28:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "cba1daf8db379468612c446031fcb997",
+      "title": "(Yonhap Interview) UNC deputy chief cautions against changes to 'proven framework' over DMZ control",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424009900315",
+      "published_date": "2026-04-25T21:00:05Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "346e3c44a18647dbc771a93837630535",
       "title": "Russia's Duma speaker visits N. Korea for opening of museum honoring soldiers killed in Ukraine war",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260424006800315",
       "published_date": "2026-04-24T05:17:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a803293c14bfc1244dff9923a43923ae",
-      "title": "(News Focus) Lee's India, Vietnam tour underscores push for energy security, supply chain resilience",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005800315",
-      "published_date": "2026-04-24T05:14:17Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,22 @@
   ],
   "Local Events": [
     {
+      "id": "e60678e926b82b71a750fb0831e24a40",
+      "title": "(2nd LD) Lee Jin-sook says will not run for Daegu mayor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425001952315",
+      "published_date": "2026-04-25T12:03:32Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "14a4091a39c08df2dc3bb70928d42a6d",
+      "title": "KBO tops 2 mln fans in fewest games in history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425003000315",
+      "published_date": "2026-04-25T11:50:00Z",
+      "category": "Local Events"
+    },
+    {
       "id": "97f0d155edfef1c0eaec7540abb8cec0",
       "title": "(LEAD) Lee Jin-sook says will not run for Daegu mayor",
       "source": "Yonhap News Agency",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260424006500315",
       "published_date": "2026-04-24T05:08:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2a14392543a427c42e2f5ca2dda0a5c5",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424001200315",
-      "published_date": "2026-04-24T05:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "05532479e64844ab9aab0c79280c09b5",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424006100315",
-      "published_date": "2026-04-24T04:30:00Z",
       "category": "Local Events"
     }
   ]
