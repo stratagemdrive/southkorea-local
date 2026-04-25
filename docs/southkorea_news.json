@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-24T23:31:22Z",
+  "generated_at": "2026-04-25T11:40:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "346e3c44a18647dbc771a93837630535",
+      "title": "Russia's Duma speaker visits N. Korea for opening of museum honoring soldiers killed in Ukraine war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425002900315",
+      "published_date": "2026-04-25T08:21:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0a364d810fa6abb0f74df1a23b9520c5",
+      "title": "N. Korea appoints new ambassador to Sweden",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425002300315",
+      "published_date": "2026-04-25T07:48:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b69cb186122d253d04095bde0a95e04a",
+      "title": "Senior N. Korean diplomat reaffirms strengthening ties with Russia on anniv. of 2019 Kim-Putin summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425002100315",
+      "published_date": "2026-04-25T07:24:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d51179634a82313f98ddcdaf29669e7d",
+      "title": "Giants' Lee Jung-hoo belts 2nd homer, logs 3-hit game",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425002000315",
+      "published_date": "2026-04-25T06:25:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c694a46984adbc642ca33efaadf99358",
+      "title": "Oxford University to launch center for Korean studies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425001000315",
+      "published_date": "2026-04-25T02:54:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "84f8ed61e9edf5c8c611ad7c14a87b34",
+      "title": "Yoon Ina climbs into tie for 3rd after 2nd round of Chevron Championship",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000900315",
+      "published_date": "2026-04-25T02:45:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ec4041477f1fb9ea0b10ced71166a8c3",
+      "title": "N. Korea slams Japan PM's offering to war shrine",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000600315",
+      "published_date": "2026-04-25T00:57:07Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "24547cc8e60a337ab0bc52cadaedad15",
       "title": "(LEAD) Key U.S. negotiators to depart for Pakistan Saturday for talks with Iran: White House",
@@ -112,65 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260424005800315",
       "published_date": "2026-04-24T05:14:17Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "5eb01bcc523a8aa9f78ec00713cd3ccb",
-      "title": "Lee visits Hanoi heritage site with Vietnam's top leader",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005900315",
-      "published_date": "2026-04-24T04:46:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0cc35337cc4c7e2d11d6f4bcfe8b34b7",
-      "title": "(LEAD) Special counsel seeks 30-yr prison term for ex-President Yoon over alleged drone dispatch to Pyongyang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005552315",
-      "published_date": "2026-04-24T04:39:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4ec9fe026f386f984a0e7c22c34df334",
-      "title": "Special counsel seeks 30-yr prison term for ex-President Yoon over alleged drone dispatch to Pyongyang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005551315",
-      "published_date": "2026-04-24T03:03:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e016ea0e5e490aeace0b4cd9c08eabd1",
-      "title": "S. Korea, U.S. in close communication to resolve intel sharing misunderstanding: security adviser",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424002400315",
-      "published_date": "2026-04-24T03:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c5b80ff670e4575bdae618fb1fc68387",
-      "title": "(URGENT) Special counsel seeks 30-yr prison term for ex-President Yoon over alleged drone flights to Pyongyang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005500315",
-      "published_date": "2026-04-24T02:49:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0a11d7428675f33011e1c1cb810eeafa",
-      "title": "S. Korea, U.S. discuss energy supply chain cooperation at G20 level",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424004200315",
-      "published_date": "2026-04-24T02:28:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "664e3f28f226dc05e91662765098d7e3",
-      "title": "Lee's approval rating hits previous high of 67 pct",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424003900315",
-      "published_date": "2026-04-24T02:14:22Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "6c2e44e71ad7ca490a0dd4d2f2570be1",
+      "title": "(Yonhap Interview) Canada's army chief sees war-forged ties with S. Korea grow 'stronger'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260424011500315",
+      "published_date": "2026-04-25T03:00:00Z",
+      "category": "Military"
+    },
     {
       "id": "f5a667394811a9986c60bc597210826e",
       "title": "(LEAD) Hegseth calls for allies' role in Strait of Hormuz, says 'time for free riding is over'",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260421000251315",
       "published_date": "2026-04-20T19:11:15Z",
-      "category": "Military"
-    },
-    {
-      "id": "c1141cf5cdcd4dd5dadb55154937aa88",
-      "title": "(URGENT) N. Korea says it tested Hwasong-11Ra tactical ballistic missile",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260420000400315",
-      "published_date": "2026-04-19T21:15:25Z",
       "category": "Military"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "97f0d155edfef1c0eaec7540abb8cec0",
+      "title": "(LEAD) Lee Jin-sook says will not run for Daegu mayor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425001951315",
+      "published_date": "2026-04-25T05:32:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "20778cc361bc329fb099cc8b9d37daf4",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425001100315",
+      "published_date": "2026-04-25T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a565caa84e48de56503c475fe1937425",
+      "title": "Lee Jin-sook says will not run for Daegu mayor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425001900315",
+      "published_date": "2026-04-25T04:54:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1b5b4fe379fe4b00f28f2702466c9992",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260425000500315",
+      "published_date": "2026-04-25T00:13:28Z",
+      "category": "Local Events"
+    },
+    {
       "id": "017d07290f60f180c3069be1b4668636",
       "title": "(2nd LD) Trump says Iran will make offer aimed at meeting U.S. demands: Reuters",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260424006100315",
       "published_date": "2026-04-24T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "73f0c4d24b312063e5d02a7158ad84fa",
-      "title": "Number of beef cattle at S. Korean farms down in Q1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424002300320",
-      "published_date": "2026-04-24T03:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "77aa946462c896486af9e9c2e36ef721",
-      "title": "Cellist-turned-conductor Chang Han-na takes helm of Seoul Arts Center",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005200315",
-      "published_date": "2026-04-24T02:42:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a5d8fa95c031fe37eb4f2ddd99159339",
-      "title": "S. Korea, Vietnam expand cooperation in urban, transport development",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424004300320",
-      "published_date": "2026-04-24T02:31:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d78864177235d68376fa3fc0738939dd",
-      "title": "BLACKPINK's Jisoo wins rising star award at Canneseries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424004100315",
-      "published_date": "2026-04-24T02:12:10Z",
       "category": "Local Events"
     }
   ]
