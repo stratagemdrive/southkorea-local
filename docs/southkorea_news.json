@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-26T11:41:02Z",
+  "generated_at": "2026-04-26T23:29:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "dca738bdb8ad9b0ae6d8f39895ade2c7",
+      "title": "(EDITORIAL from Korea Times on April 27)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260427000400315",
+      "published_date": "2026-04-26T21:59:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a0cd6682fa9804ddec11e75c93ebc032",
+      "title": "(LEAD) N.K.'s Kim meets visiting Russian defense minister, Duma speaker amid stronger military ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260426001851320",
+      "published_date": "2026-04-26T13:09:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cc9beaff59e7fb5fc5ac934f2f7d9e1c",
+      "title": "Lee to host luncheon with minor parties, independent lawmakers this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260426002100320",
+      "published_date": "2026-04-26T11:57:08Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "f256d1aaf6e1decb0846febe7818e86e",
       "title": "Data of 100,000 leaked from golf course; N. Korean hacking suspected",
@@ -68,6 +92,14 @@
     {
       "id": "122276a7b6e0901d953b5c97c124855a",
       "title": "Russian Duma chief visits Pyongyang ahead of Kursk memorial inauguration",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/russian-duma-chief-visits-pyongyang-ahead-of-kursk-memorial-inauguration/",
+      "published_date": "2026-04-26T01:22:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b6a271b4b2ae2c63eb93fdbaef8863d7",
+      "title": "Russian Duma chief, defense minister in Pyongyang ahead of Kursk memorial unveil",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/russian-duma-chief-visits-pyongyang-ahead-of-kursk-memorial-inauguration/",
       "published_date": "2026-04-26T01:22:42Z",
@@ -136,41 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260425000600315",
       "published_date": "2026-04-25T00:57:07Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "24547cc8e60a337ab0bc52cadaedad15",
-      "title": "(LEAD) Key U.S. negotiators to depart for Pakistan Saturday for talks with Iran: White House",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260425000351315",
-      "published_date": "2026-04-24T18:17:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "edc4dac58674690fe26a55f4c48407dd",
-      "title": "Key U.S. negotiators to depart for Pakistan Saturday for talks with Iran: White House",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260425000300315",
-      "published_date": "2026-04-24T17:51:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0eb99d7ffdacf5fabcb965ea43e8a77b",
-      "title": "(LEAD) S. Korea, U.S. making efforts toward 'normalization' amid U.S. intel curb controversy: Seoul official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260425000251315",
-      "published_date": "2026-04-24T17:04:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f2083a53d97e2d550116f8cc8dcbad2c",
-      "title": "Senior S. Korean, U.S. diplomats meet amid reported U.S. intel curb controversy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260425000200315",
-      "published_date": "2026-04-24T16:01:34Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "6142f0afe26dd6c59cf0fd9f206f1910",
+      "title": "Navy, Marine Corps hold large-scale amphibious landing drills in Pohang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260427000700315",
+      "published_date": "2026-04-26T23:00:01Z",
+      "category": "Military"
+    },
     {
       "id": "e1686862d5ecfa33f9dceb6b3e479198",
       "title": "Kim Jong Un marks military anniversary with frontline visit, mortar contest",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260421004700315",
       "published_date": "2026-04-21T02:42:01Z",
-      "category": "Military"
-    },
-    {
-      "id": "c3809350b22fa5e14638fb6a397900d4",
-      "title": "Hanwha, Magnet Defense to develop unmanned naval vessels for U.S. military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421001300320",
-      "published_date": "2026-04-20T23:46:20Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,22 @@
   ],
   "Economy": [
     {
+      "id": "ef126ea0d1de488947a7c71e40cc3cea",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 27)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260427000500315",
+      "published_date": "2026-04-26T21:59:38Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2924c498aa1c988817491285c13b3356",
+      "title": "(EDITORIAL from Korea Herald on April 27)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260427000300315",
+      "published_date": "2026-04-26T21:59:09Z",
+      "category": "Economy"
+    },
+    {
       "id": "66a8dd4dd858299ce7b5be6a12172297",
       "title": "OECD forecast S. Korea's potential growth outlook to hit record low 1.52 pct in late 2027",
       "source": "Yonhap News Agency",
@@ -638,25 +654,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260423005700315",
       "published_date": "2026-04-23T02:51:38Z",
       "category": "Economy"
-    },
-    {
-      "id": "73651794e62de711c9631cad198d2bc0",
-      "title": "(Yonhap Interview) Wellness startup The Future eyes U.S. expansion in 2027",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423005000320",
-      "published_date": "2026-04-23T02:47:36Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9ae48fa021835e401a2cc20636437a4a",
-      "title": "25 entities indicted in 10 tln-won starch sugar price-fixing case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423005400315",
-      "published_date": "2026-04-23T02:44:23Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "70deed85405f66e672e4b724f41c97d5",
+      "title": "TXT, BTS both land in Billboard 200's top 5",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260427000800315",
+      "published_date": "2026-04-26T22:54:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8e1fc6bedb1f0d277338b02a1fac8c86",
+      "title": "LPGA sophomore posts 1st top-10 finish at major",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260427000600315",
+      "published_date": "2026-04-26T22:48:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8b134ccb17b75c5205a2b57ab4489898",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260427000200315",
+      "published_date": "2026-04-26T21:58:24Z",
+      "category": "Local Events"
+    },
     {
       "id": "59b1a0650ef709766c778d0f0b356e22",
       "title": "PPP nominates 3-term lawmaker Choo as Daegu mayor candidate",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260424008051320",
       "published_date": "2026-04-24T07:12:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b466e53e018cc3f9a6d59acb17cae5f2",
-      "title": "Nearly 6 in 10 nationals support Lee's 'peaceful coexistence' policy with N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424008400315",
-      "published_date": "2026-04-24T06:57:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "62988aea934da55d5cf79c2a5ee5dd3e",
-      "title": "Seoul shares take breather amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424008000320",
-      "published_date": "2026-04-24T06:42:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e9af3248a4a38aa3b2faf0debfbd5ab5",
-      "title": "(URGENT) Seoul shares end flat amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424007800320",
-      "published_date": "2026-04-24T06:31:55Z",
       "category": "Local Events"
     }
   ]
