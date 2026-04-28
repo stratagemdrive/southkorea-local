@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-27T23:42:13Z",
+  "generated_at": "2026-04-28T12:24:49Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,191 @@
   ],
   "Diplomacy": [
     {
+      "id": "d0721923fdb1f3b3b64b2c7b66546920",
+      "title": "(2nd LD) Trump's eldest son visits S. Korea: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428009552315",
+      "published_date": "2026-04-28T12:06:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "92067924d83b93bbaf9c6fc06a0f17fd",
+      "title": "North Korea sees sharp rise in death sentences in recent years: NGO",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/north-korea-sees-sharp-rise-in-death-sentences-in-recent-years-ngo/",
+      "published_date": "2026-04-28T10:04:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b6d0ce259d082f316a08fcb320127a50",
+      "title": "Three words humbled a North Korean checkpoint inspector and got him reassigned",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-il-sung-kim-jong-il-fund-member-north-korea-checkpoint-inspector/",
+      "published_date": "2026-04-28T09:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "18c84333cd49c5504153515d2a0bf9d9",
+      "title": "Slumping Lions seek spark from key hitter returning from injury",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428010800315",
+      "published_date": "2026-04-28T08:51:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0216621563e2ae4b6692ff5ceadb4604",
+      "title": "(LEAD) Trump's eldest son visits S. Korea: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428009551315",
+      "published_date": "2026-04-28T08:33:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e9d382396d767131265949993aa37008",
+      "title": "With All-Star closer down, Bears turn to versatile pitcher for save opportunities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428010700315",
+      "published_date": "2026-04-28T08:22:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28cab9c608d28c740f7d459cd305e859",
+      "title": "Trump's eldest son visits S. Korea: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428009500315",
+      "published_date": "2026-04-28T07:51:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7d36b568227c822d6086def32d3695db",
+      "title": "Calling N. Korea by its official name subject of public debate: ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428008600315",
+      "published_date": "2026-04-28T07:41:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a9cdc88a190b2e9556498cfd8902ee8b",
+      "title": "Public-private alliance kicks off to foster cooperation in shipbuilding, shipping industries",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428008500320",
+      "published_date": "2026-04-28T07:30:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "056a33bcdeec8ac0d529a79637f8885e",
+      "title": "S. Korea, Singapore kick off negotiations to upgrade bilateral FTA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006500320",
+      "published_date": "2026-04-28T06:16:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c762da46aff3ca5af67b1d158d434480",
+      "title": "DeepMind chief holds separate meetings with heads of S. Korean conglomerates in Seoul: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006200320",
+      "published_date": "2026-04-28T06:02:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9dff8f89212c37aaee124e0ff4bc5222",
+      "title": "Seoul's surveillance of N. Korea unaffected by U.S. intelligence sharing restrictions: source",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006300315",
+      "published_date": "2026-04-28T06:02:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8ea79fb2c45639c0db111aa98e42e009",
+      "title": "North Korea is the ‘most pressing challenge’ for non-proliferation regime: Seoul",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/north-korea-is-the-most-pressing-challenge-for-non-proliferation-regime-seoul/",
+      "published_date": "2026-04-28T05:56:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7deda6fe7dc4c68b0e3ba94881b087d4",
+      "title": "(URGENT) Appeals court sentences Rep. Kweon Seong-dong to 2-yr prison term over funds from Unification Church",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428003800315",
+      "published_date": "2026-04-28T02:04:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c0d8ccdd3ff29be3060509e95fa57f86",
+      "title": "Hyundai Rotem signs K2 battle tank production deal in Poland",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428003300320",
+      "published_date": "2026-04-28T01:57:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5d012bde41dacc099181896bd3b6690d",
+      "title": "Padres' Song Sung-mun sent back to minors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428003100315",
+      "published_date": "2026-04-28T01:31:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1764eff76cfab7546ad6459d6b321b1e",
+      "title": "Lee vows to prevent industrial deaths with all available means",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428002400315",
+      "published_date": "2026-04-28T01:07:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fee57edebaa7fa847508ce615cff8719",
+      "title": "N. Korea's executions over S. Korean cultural content surge after COVID-19 border closure: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428001300315",
+      "published_date": "2026-04-28T00:32:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "261e59d2e1e0a23329394d4dd779959e",
+      "title": "Lee touts hunt for hidden overseas assets, calls for 'tax justice'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428000700315",
+      "published_date": "2026-04-27T23:44:48Z",
+      "category": "Diplomacy"
+    },
+    {
       "id": "a787c0a033f6b1e8838cf8c0d616c212",
       "title": "(EDITORIAL from Korea Herald on April 28)",
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260428000300315",
       "published_date": "2026-04-27T22:03:52Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "892af8df1a9602055ae8e8cbde1931b4",
-      "title": "Biz sentiment rebounds in April as Middle East crisis reduces inventories: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427011000320",
-      "published_date": "2026-04-27T21:00:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f49edb587c6d875fd58a5befe3875b17",
-      "title": "North Korea intensifies anti-American indoctrination for middle and high school students",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-anti-american-ideology-education-teenagers/",
-      "published_date": "2026-04-27T20:41:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2f7e7be432bf26aebcf846c0620482dc",
-      "title": "Air conditioners become a must-have in North Korea as summers grow hotter",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-air-conditioners-demand-sinuiju-electricity/",
-      "published_date": "2026-04-27T17:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "abf10c9e0e6dc53ae6ef2844e4c357e3",
-      "title": "North Korea orders border residents to dress neatly as China camera surveillance grows",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-border-dress-code-china-cameras-amnok-tuman/",
-      "published_date": "2026-04-27T09:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3d30acf11c7a62a617079aa662eb3d15",
-      "title": "20-yr prison term sought for ex-justice minister in martial law case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427011100315",
-      "published_date": "2026-04-27T09:39:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "14531a46821d7fe532ada725ed6fc275",
-      "title": "Twins lose closer You Young-chan to elbow fracture",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427010900315",
-      "published_date": "2026-04-27T09:05:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "513dac52dcca009d57520ee3f3f51019",
-      "title": "Lee, Google DeepMind CEO discuss responsible use of AI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427010800315",
-      "published_date": "2026-04-27T09:05:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3edb5e8e11e9dd32a8cd64aeb8d9caf1",
-      "title": "North Korean officials skeptical of Kim Ju Ae as successor despite military appearances",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/kim-ju-ae-missile-test-succession-north-korea-officials-skeptical/",
-      "published_date": "2026-04-27T09:03:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0c2413d6f5851291cbd32e806fc5fb00",
-      "title": "Former ROK president urges Kim Jong Un to ‘sit down with Trump’ and talk it out",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/former-rok-president-urges-kim-jong-un-to-sit-down-with-trump-and-talk-it-out/",
-      "published_date": "2026-04-27T08:55:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1c0ea33f145d82ad06d01e74c30d7bc6",
-      "title": "Seoul's top envoy to U.S., FM Cho discuss N.K. intel controversy, Coupang issue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427009900315",
-      "published_date": "2026-04-27T08:33:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2d2a199252e86701d576ebc2f54411a7",
-      "title": "(LEAD) End of Iran war, stabilization of fuel prices prerequisite for termination of price cap system: minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427009551320",
-      "published_date": "2026-04-27T08:33:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bf7e5abea95a4aaafcf4eaeea8269f80",
-      "title": "End of Iran war, stabilization of fuel prices prerequisite for termination of price cap system: minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427009500320",
-      "published_date": "2026-04-27T08:19:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f7d75ad3ff9d471373c10fcb6c5f3776",
-      "title": "Ex-President Moon urges N. Korean leader to return to dialogue on summit anniv.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427009000315",
-      "published_date": "2026-04-27T07:58:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e258ea70e48b5b6a313b24f2d714eb65",
-      "title": "U.S. restricts intelligence-sharing with S. Korea on N. Korea's nuclear facilities: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427008500315",
-      "published_date": "2026-04-27T07:23:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2e1d989400f3b4fcf38dd4036671afb8",
-      "title": "Lee reaffirms commitment to restoring inter-Korean trust, calls for Pyongyang's response",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427006900315",
-      "published_date": "2026-04-27T06:03:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ed3634aab580d744c968610fa02940d1",
-      "title": "(LEAD) Top diplomats of S. Korea, Australia to hold talks this week amid Mideast crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427003551315",
-      "published_date": "2026-04-27T05:46:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "002b3e09ddc30ac592f8b60522af0f4b",
-      "title": "Finance minister stresses big-small biz cooperation in bio sector",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427006600320",
-      "published_date": "2026-04-27T05:38:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dc69d3dc22da7bacc5bbd3ed3453685a",
-      "title": "Russia awards North Korean ‘heroes’ for their bravery in battle against Ukraine",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/russia-awards-north-korean-heroes-for-their-bravery-in-battle-against-ukraine/",
-      "published_date": "2026-04-27T03:37:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "14f262419de3ee1d0ff32198adedd042",
-      "title": "Minor party candidate for Busan mayor injured in drink attack",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427005000315",
-      "published_date": "2026-04-27T03:02:24Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "f45fd684b624407cd54d3fecf1e8caf7",
+      "title": "Inside the little-known ROK army unit that trains to fight like North Koreans",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/04/inside-the-little-known-rok-army-unit-that-trains-to-fight-like-north-koreans/",
+      "published_date": "2026-04-28T08:32:24Z",
+      "category": "Military"
+    },
+    {
+      "id": "3ededf74bb07120407706d12e970993e",
+      "title": "S. Korea identifies remains of another soldier killed during Korean War",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428002300315",
+      "published_date": "2026-04-28T02:00:12Z",
+      "category": "Military"
+    },
+    {
+      "id": "e61ed2e0f855f9e85141e73c8854d93c",
+      "title": "S. Korean envoy calls N. Korea's nukes 'most urgent' challenge to nonproliferation regime",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428002200315",
+      "published_date": "2026-04-28T01:11:14Z",
+      "category": "Military"
+    },
     {
       "id": "4a1827a779037dc93dacbb67183119e3",
       "title": "ROK carries out ‘decisive’ phase of landing drills designed to deter North Korea",
@@ -306,33 +330,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260422002551315",
       "published_date": "2026-04-22T05:48:12Z",
       "category": "Military"
-    },
-    {
-      "id": "0dc13715f82df29ee8f474dd50c1a37f",
-      "title": "Hanwha forges partnerships at U.S. defense expo for naval, rocket development collaborations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422003900320",
-      "published_date": "2026-04-22T02:14:39Z",
-      "category": "Military"
-    },
-    {
-      "id": "11320f1b9eeb912684cef6bcac1b8f6b",
-      "title": "U.S. Indo-Pacific hosts workshop to strengthen civil-military crisis response on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422002600315",
-      "published_date": "2026-04-22T01:42:21Z",
-      "category": "Military"
-    },
-    {
-      "id": "1aa68c95df851775c952c269e49c9390",
-      "title": "S. Korea returns remains of 12 Chinese troops killed in Korean War",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422002500315",
-      "published_date": "2026-04-22T01:00:01Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "6caba8d6b27b1da1bb7df4aedeb618fe",
+      "title": "Foreign ministry reviewing response to U.S. lawmakers' letter on Coupang case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428008700315",
+      "published_date": "2026-04-28T07:32:48Z",
+      "category": "Energy"
+    },
+    {
+      "id": "354447f40b1467b53e2099a486f24ef8",
+      "title": "S. Korea expected to secure up to 90 pct of pre-war-level naphtha supply for May: ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428005100320",
+      "published_date": "2026-04-28T03:14:07Z",
+      "category": "Energy"
+    },
     {
       "id": "ad355fa3e96166132cb668983c4e404d",
       "title": "(EDITORIAL from Korea Times on April 28)",
@@ -476,25 +492,153 @@
       "url": "https://en.yna.co.kr/view/AEN20260422002200320",
       "published_date": "2026-04-22T01:00:02Z",
       "category": "Energy"
-    },
-    {
-      "id": "8c66e70e626e992669d12a8a14153877",
-      "title": "PM says will decide whether to keep fuel price caps after review",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260422001900315",
-      "published_date": "2026-04-22T00:28:53Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d36cadbe7fe6593d4d22730de225eaf5",
-      "title": "Producer prices post fastest rise in 4 yrs in March on oil cost surge: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260421009900320",
-      "published_date": "2026-04-21T21:00:12Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "2b53d53aae822bf18211842cb1759f93",
+      "title": "(2nd LD) Seoul stocks again at fresh peak ahead of U.S. big tech earnings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006652320",
+      "published_date": "2026-04-28T07:36:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "402daff87546db8fb0409c917ff00266",
+      "title": "(3rd LD) Seoul stocks briefly top 6,700, set for another milestone",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428002553320",
+      "published_date": "2026-04-28T07:26:43Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3454665dc3885b3a99d0360e1acd493f",
+      "title": "(LEAD) Seoul stocks again at fresh peak ahead of U.S. big tech earnings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006651320",
+      "published_date": "2026-04-28T07:03:27Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5b393fb508b22f3a22b6ab9f36ad0dc2",
+      "title": "(LEAD) Hyundai E&C Q1 net rises 24 pct on weak won, asset revaluation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428005651320",
+      "published_date": "2026-04-28T06:51:28Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0f193b25f04a7593d06703790d9e927a",
+      "title": "(2nd LD) Seoul stocks briefly top 6,700, set for another milestone",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428002552320",
+      "published_date": "2026-04-28T06:45:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3b8dd7ceee0bdcecea918a5c15eda135",
+      "title": "Seoul stocks again at fresh peak ahead of U.S. big tech earnings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006600320",
+      "published_date": "2026-04-28T06:35:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "431bc208d02710fdf32ffa5f4cb472bd",
+      "title": "(URGENT) Seoul stocks close at new record high of 6,641.02, ahead of U.S. big tech earnings releases",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006400320",
+      "published_date": "2026-04-28T06:31:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "070254479e47f3540a23f5bf9fb84466",
+      "title": "Finance chief highlights capital market reforms to boost growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428006100320",
+      "published_date": "2026-04-28T06:00:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6bb25c71f2d1bd06659186f8ef3aae92",
+      "title": "Banks' lending rates fall in March for 1st time in 4 months",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428003200320",
+      "published_date": "2026-04-28T03:00:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "717dbfe3ed52de036e80ec7f9a4107dc",
+      "title": "(2nd LD) Samsung SDI swings to Q1 profit on ESS battery growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428000952320",
+      "published_date": "2026-04-28T02:33:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8287f2962f141ff49b0c594da795728c",
+      "title": "Seoul stocks up late Tues. morning driven by large-cap tech shares",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428004600320",
+      "published_date": "2026-04-28T02:30:36Z",
+      "category": "Economy"
+    },
+    {
+      "id": "267794e14aad01e1ecc7593e278cd215",
+      "title": "Lottery sales expected to increase 4 pct on-year in 2027",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428004000320",
+      "published_date": "2026-04-28T02:14:38Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ee0f7256ebd1775c4b962f450cf0a675",
+      "title": "Gov't discusses trade security issues with semiconductor, AI industries",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428001900320",
+      "published_date": "2026-04-28T02:00:18Z",
+      "category": "Economy"
+    },
+    {
+      "id": "35a180c993b527a0a2a9473f8d2f4aa6",
+      "title": "Gov't to offer 300 bln-won support for projects aimed at fostering AI, green transformation of industrial complexes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428002700320",
+      "published_date": "2026-04-28T02:00:12Z",
+      "category": "Economy"
+    },
+    {
+      "id": "14fc2247d79c86c9cd6b56735bac477c",
+      "title": "(LEAD) Samsung SDI swings to Q1 profit on ESS battery growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428000951320",
+      "published_date": "2026-04-28T00:35:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "65ecd95027c0a6559125e38ada97677b",
+      "title": "(LEAD) Seoul stocks open at record high ahead of U.S. big tech earnings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428001051320",
+      "published_date": "2026-04-28T00:31:25Z",
+      "category": "Economy"
+    },
+    {
+      "id": "bddf7c3578bc702a30e237c8af855fe8",
+      "title": "Seoul stocks open higher ahead U.S. big tech earnings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428001000320",
+      "published_date": "2026-04-28T00:04:44Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f12e7baa7e15c0f584b5cdffa6f442c4",
+      "title": "(URGENT) Seoul stocks open 0.48 pct higher ahead of earnings releases from big techs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428000600320",
+      "published_date": "2026-04-28T00:01:45Z",
+      "category": "Economy"
+    },
     {
       "id": "83b55e58bf909ae64c133b28ce1141f0",
       "title": "Samsung SDS, LG CNS secure sales rights for ChatGPT Edu in S. Korea",
@@ -510,311 +654,167 @@
       "url": "https://en.yna.co.kr/view/AEN20260427007100320",
       "published_date": "2026-04-27T06:09:52Z",
       "category": "Economy"
-    },
-    {
-      "id": "8207b15f137dec8ec472c1a60632d3c1",
-      "title": "Market cap of S. Korean-listed companies surpasses 6,000 tln won for 1st time: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427004700320",
-      "published_date": "2026-04-27T02:49:47Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7d6d42c65c23d69f446167a036cb9ce0",
-      "title": "Seoul stocks up sharply late Mon. morning on bullish corporate earnings expectations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427004600320",
-      "published_date": "2026-04-27T02:39:49Z",
-      "category": "Economy"
-    },
-    {
-      "id": "bd2c5d21faba58158e5c37f0189a3dc9",
-      "title": "CJ Cheiljedang signs MOU with Vietnam retailer to expand market presence",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427002800320",
-      "published_date": "2026-04-27T01:23:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ef126ea0d1de488947a7c71e40cc3cea",
-      "title": "(EDITORIAL from Korea JoongAng Daily on April 27)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427000500315",
-      "published_date": "2026-04-26T21:59:38Z",
-      "category": "Economy"
-    },
-    {
-      "id": "2924c498aa1c988817491285c13b3356",
-      "title": "(EDITORIAL from Korea Herald on April 27)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427000300315",
-      "published_date": "2026-04-26T21:59:09Z",
-      "category": "Economy"
-    },
-    {
-      "id": "66a8dd4dd858299ce7b5be6a12172297",
-      "title": "OECD forecast S. Korea's potential growth outlook to hit record low 1.52 pct in late 2027",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260426000300320",
-      "published_date": "2026-04-26T01:37:10Z",
-      "category": "Economy"
-    },
-    {
-      "id": "966cc97349d2fc58a016791afcc084f8",
-      "title": "Finance chief calls for biz sector innovation to sustain economic growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424009500320",
-      "published_date": "2026-04-24T07:16:05Z",
-      "category": "Economy"
-    },
-    {
-      "id": "908e35071bdf0a82693458519b27888b",
-      "title": "(LEAD) Hyundai unveils 1st Ioniq model for China market",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005651320",
-      "published_date": "2026-04-24T06:21:48Z",
-      "category": "Economy"
-    },
-    {
-      "id": "27549f0434672ea33d4b7102386aa35f",
-      "title": "(LEAD) Kia Q1 net profit drops 23.5 pct on U.S. tariffs, weak currency",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424006751320",
-      "published_date": "2026-04-24T05:50:56Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d613832f29b54bd507d7eaff2a995a2b",
-      "title": "(LEAD) Hyundai Rotem Q1 net income up 29 pct to 202.7 bln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424006251320",
-      "published_date": "2026-04-24T05:25:50Z",
-      "category": "Economy"
-    },
-    {
-      "id": "82fe89ad8ce061ad695fae813d6b1f72",
-      "title": "Hyundai unveils 1st Ioniq model for China market",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005600320",
-      "published_date": "2026-04-24T02:59:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "aa7ed43854902225fa5955653ba04071",
-      "title": "Seoul shares down late Fri. morning amid Middle East concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424005400320",
-      "published_date": "2026-04-24T02:50:55Z",
-      "category": "Economy"
-    },
-    {
-      "id": "84c703dfe35175f3ad4a406393209bef",
-      "title": "(LEAD) Gov't to designate 10 cities to serve as startup hubs by 2027 to promote balanced growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424002651320",
-      "published_date": "2026-04-24T01:48:26Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a22739cdcd112968923c237bac7763ad",
-      "title": "SK Group partners with Vietnam to foster AI ecosystem",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424003700320",
-      "published_date": "2026-04-24T01:38:23Z",
-      "category": "Economy"
-    },
-    {
-      "id": "bbb7d8d24f4c599cd3e4dd320c3497a1",
-      "title": "Gov't to designate 10 cities to serve as startup hubs by 2027 to promote balanced growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424002600320",
-      "published_date": "2026-04-24T00:36:09Z",
-      "category": "Economy"
-    },
-    {
-      "id": "e85fb8a283d200c83213b795192869c4",
-      "title": "(EDITORIAL from Korea JoongAng Daily on April 24)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424001000315",
-      "published_date": "2026-04-23T22:08:41Z",
-      "category": "Economy"
-    },
-    {
-      "id": "61e37d9f181e46c507936aa9dccdb6f0",
-      "title": "Hyundai Rotem wins 491 bln-won unmanned train deal from Vietnam",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423011800320",
-      "published_date": "2026-04-23T09:53:03Z",
-      "category": "Economy"
-    },
-    {
-      "id": "96d92555f004f8319ee69dbb27b5c1ba",
-      "title": "(3rd LD) Hyundai Motor's Q1 net down 23.6 pct on U.S. tariffs, rising costs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423006853320",
-      "published_date": "2026-04-23T06:30:39Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "id": "0d4ff7bc8a2376cccff0d77711a42c98",
-      "title": "(EDITORIAL from Korea JoongAng Daily on April 28)",
+      "id": "312734658fb1e58d06f13dabe9fabef6",
+      "title": "(3rd LD) Appeals court increases sentence for ex-first lady to 4 years for corruption",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260428000500315",
-      "published_date": "2026-04-27T22:04:27Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428000853315",
+      "published_date": "2026-04-28T10:01:30Z",
       "category": "Local Events"
     },
     {
-      "id": "ccd6b9918d1c515616261fda0f8c8afd",
-      "title": "Top headlines in major S. Korean newspapers",
+      "id": "2c33c2e1cf54dbc6e5b17deb28f85f67",
+      "title": "Constitutional Court to hear GC Biopharma's case in 1st complaint against court ruling",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260428000200315",
-      "published_date": "2026-04-27T22:03:30Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428011100315",
+      "published_date": "2026-04-28T09:34:57Z",
       "category": "Local Events"
     },
     {
-      "id": "f75b58642456d09d823413ed33f557dd",
-      "title": "Over 80 ruling bloc lawmakers to send joint letter of protest against U.S. defense of Coupang",
+      "id": "f40d8d83556585a13b8126faf41b5043",
+      "title": "Lee approves resignation of 2 presidential officials expected to run in by-elections",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427011700315",
-      "published_date": "2026-04-27T14:21:15Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428009000315",
+      "published_date": "2026-04-28T09:32:12Z",
       "category": "Local Events"
     },
     {
-      "id": "bdf7bcc461f5e086338b3ab2a1dcf712",
-      "title": "(3rd LD) Court begins ex-President Yoon's insurrection appeals trial",
+      "id": "b06d2c496bb6bcdc6facdf0a201d351f",
+      "title": "S. Korean sports agency signs teen rhythmic gymnast from Cyprus",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427000953315",
-      "published_date": "2026-04-27T12:50:15Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428011000315",
+      "published_date": "2026-04-28T09:26:50Z",
       "category": "Local Events"
     },
     {
-      "id": "66c69a6627f60ff17109257da47f4b1c",
-      "title": "(2nd LD) Court begins ex-President Yoon's insurrection appeals trial",
+      "id": "2e52ff01a58b91fc5707c625ef64800b",
+      "title": "(2nd LD) Appeals court increases sentence for ex-first lady to 4 years for corruption",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427000952315",
-      "published_date": "2026-04-27T11:46:27Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428000852315",
+      "published_date": "2026-04-28T08:08:34Z",
       "category": "Local Events"
     },
     {
-      "id": "edb3b8ef321599ab69ce801aa11031f5",
-      "title": "Police launch probe into medical syringe hoarding amid war-related shortage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427011300315",
-      "published_date": "2026-04-27T10:43:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b3f3221cb2494878def0b66598b66153",
+      "id": "1421ad6bf4dd9fb9db064dd14617e7d6",
       "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427010100315",
-      "published_date": "2026-04-27T08:24:27Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428009600315",
+      "published_date": "2026-04-28T08:00:00Z",
       "category": "Local Events"
     },
     {
-      "id": "9e1b5f4044646f9b568152dff8a43dbd",
-      "title": "Ex-MLB player Choi Ji-man determined to prove worth on S. Korean minor league team",
+      "id": "6a46ec142e0b0c72aeba3be47a641147",
+      "title": "Galleries from 18 countries to take part in Art Busan next month",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427009700315",
-      "published_date": "2026-04-27T08:18:29Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428008900315",
+      "published_date": "2026-04-28T07:40:10Z",
       "category": "Local Events"
     },
     {
-      "id": "7c9a13b3a688862f95677a0edb65c057",
-      "title": "(2nd LD) Seoul stocks close at a new record high amid AI-led tech rally",
+      "id": "87a058c521e73dd5683412ae7c277e9d",
+      "title": "(LEAD) Appeals court increases sentence for ex-first lady to 4 years for corruption",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427007452320",
-      "published_date": "2026-04-27T07:41:41Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428000851315",
+      "published_date": "2026-04-28T07:34:41Z",
       "category": "Local Events"
     },
     {
-      "id": "9a4d13475a8209054b39cbdc97720d13",
-      "title": "S. Korea partners with Google DeepMind for AI-led science innovation project",
+      "id": "56f9faa20f27f7a1a35528badc5f9fdc",
+      "title": "(URGENT) Appeals court increases sentence for ex-first lady to 4 years for corruption",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427008700320",
-      "published_date": "2026-04-27T07:19:53Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428008800315",
+      "published_date": "2026-04-28T07:30:19Z",
       "category": "Local Events"
     },
     {
-      "id": "ac60e42fc321fc2602c47297e3af6e28",
-      "title": "(LEAD) Seoul stocks close at a new record high amid AI-led tech rally",
+      "id": "4a781b93f84597dbe7fea577c01c2fe4",
+      "title": "PM calls for practical projects for struggling youths",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427007451320",
-      "published_date": "2026-04-27T07:14:17Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428007400315",
+      "published_date": "2026-04-28T06:44:29Z",
       "category": "Local Events"
     },
     {
-      "id": "8edf914eb1964e7b7c839691adc36086",
-      "title": "Ex-Unification Church official gets heavier prison term during appeal over gifts to ex-first lady",
+      "id": "4a407bfad27416be106309590990daf9",
+      "title": "(3rd LD) Lee says will resolve 'pending issues' with allies thru mutual respect",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427008400315",
-      "published_date": "2026-04-27T06:52:17Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428004852315",
+      "published_date": "2026-04-28T06:41:43Z",
       "category": "Local Events"
     },
     {
-      "id": "4a568f7c3f466da1d7a2efeddf92f5cb",
-      "title": "NewJeans in prep for new music amid comeback speculation",
+      "id": "5c2f8f019904251445b2136a53b8d68d",
+      "title": "Gov't to pay 'fairness allowance' to public-sector fixed-term workers",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427007500315",
-      "published_date": "2026-04-27T06:35:11Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428006800315",
+      "published_date": "2026-04-28T06:30:16Z",
       "category": "Local Events"
     },
     {
-      "id": "8390013c6c8dd48b8e6e2525ebd877d6",
-      "title": "Seoul stocks close at a new record high amid AI-led tech rally",
+      "id": "77cc234a74c3eaaa7ea64fae80b8bf1a",
+      "title": "(LEAD) Lee says will resolve 'pending issues' with allies thru mutual respect",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427007400320",
-      "published_date": "2026-04-27T06:34:48Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428004851315",
+      "published_date": "2026-04-28T06:05:39Z",
       "category": "Local Events"
     },
     {
-      "id": "bba5cbe88d10c9df8791ff74c2f865d0",
-      "title": "(URGENT) Seoul shares again set fresh record high of 6,615.03 on AI-led chip, power equipment rally",
+      "id": "ae72b286fcef75a066c5803f7b88d7b1",
+      "title": "Medical schools short of teaching faculty after increase in admission quotas",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427007200320",
-      "published_date": "2026-04-27T06:32:23Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428006000315",
+      "published_date": "2026-04-28T05:44:24Z",
       "category": "Local Events"
     },
     {
-      "id": "eaaaf953f412ac5eba2de560d0cbfb5b",
-      "title": "Major umbrella union to hold Labor Day rally over cargo worker's death in Jinju",
+      "id": "b999144a82e129bfedf1cc2511db78f9",
+      "title": "Court orders partial cancellation of corporate taxes for Netflix Korea",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427006700315",
-      "published_date": "2026-04-27T06:17:40Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428005700315",
+      "published_date": "2026-04-28T05:11:44Z",
       "category": "Local Events"
     },
     {
-      "id": "563ee8746e5fad069fb8bd9aaf0f57cf",
-      "title": "73 criminal suspects repatriated from Cambodia, Philippines since late Feb.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427007000315",
-      "published_date": "2026-04-27T05:56:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c1e8ab7582f214fe2961b787f0de4076",
+      "id": "4c76c384530bab774e6a6a44e86c5608",
       "title": "Today in Korean history",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427003200315",
-      "published_date": "2026-04-27T05:00:04Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428002100315",
+      "published_date": "2026-04-28T05:00:02Z",
       "category": "Local Events"
     },
     {
-      "id": "e8272d46dd38239efded90790a3a4088",
-      "title": "Gov't to expand supply of mid-rate loans for mid-credit borrowers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427005200320",
-      "published_date": "2026-04-27T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "990a147cbd310712d34dc57c5b783111",
+      "id": "3a94ebda2cbd91f985a0146962d39f60",
       "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427006300315",
-      "published_date": "2026-04-27T04:45:06Z",
+      "url": "https://en.yna.co.kr/view/AEN20260428005300315",
+      "published_date": "2026-04-28T04:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "08d57e55f0e56106eb87d41f7de9821f",
+      "title": "S. Korea to begin 1st filing for global minimum corporate tax next month",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428002600320",
+      "published_date": "2026-04-28T03:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cfcdad704181affe764d27139a279c94",
+      "title": "Antitrust regulator extends corrective measures on Hanwha's shipbuilder acquisition by another 3 yrs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428004700320",
+      "published_date": "2026-04-28T03:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d4459a31155610dcd19d20ddd477b0cf",
+      "title": "Literature translation institute moves to open specialized grad school",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260428005000315",
+      "published_date": "2026-04-28T02:55:57Z",
       "category": "Local Events"
     }
   ]
