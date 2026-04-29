@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-29T12:18:17Z",
+  "generated_at": "2026-04-29T23:43:20Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "8c95e2cd1874eb06a8281def7f5bcb38",
+      "title": "(LEAD) Industrial output, retail sales, facility investment gain ground in March",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430001251320",
+      "published_date": "2026-04-29T23:30:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ba0aafaad8d37b86ac071d3f8a9544f8",
+      "title": "Industrial output, retail sales, facility investment gain ground in March",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430001200320",
+      "published_date": "2026-04-29T23:00:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1904264617763c01f5fa2e3ead985b38",
+      "title": "(URGENT) Industrial output, retail sales, investment gain ground in March",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430001100320",
+      "published_date": "2026-04-29T23:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "380596d14710daf136af4295f003f5ee",
+      "title": "(EDITORIAL from Korea Times on April 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000800315",
+      "published_date": "2026-04-29T21:57:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "588be53537b9ba029aa9bfa04938f085",
+      "title": "(EDITORIAL from Korea Herald on April 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000700315",
+      "published_date": "2026-04-29T21:57:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "685fa884a7f55433b77fdb1e9c5c393c",
+      "title": "North Korea’s China consulates hit with sweeping inspection, pre-dawn raids",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-koreas-china-consulates-hit-with-sweeping-inspection-pre-dawn-raids/",
+      "published_date": "2026-04-29T21:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f99907fb3584b7dd32b794fd98c39afc",
+      "title": "GM Korea reaffirms commitment to S. Korean operations; Middle East conflict poses no disruption",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260429011700315",
+      "published_date": "2026-04-29T21:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7adf09f9f0c80e136ebc29b3445b1de5",
+      "title": "(3rd LD) Fed holds rates steady, cites 'elevated' inflation, 'high level' uncertainty from Middle East war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000353315",
+      "published_date": "2026-04-29T20:58:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3e58fe10d742e09e317672fbf503e582",
+      "title": "(2nd LD) Fed holds rates steady, cites 'elevated' inflation, 'high level' uncertainty from Middle East war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000352315",
+      "published_date": "2026-04-29T20:24:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f26ed606834e9f52835290c578c4253a",
+      "title": "New satellite images reveal upgrades, freight activity at North Korea’s Pyongsan uranium plant",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-pyongsan-uranium-refinery-satellite-imagery-2026/",
+      "published_date": "2026-04-29T17:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "93b05ce0bd8d4fa7ff8b61326779520a",
+      "title": "Trump calls on Iran to 'get smart soon' amid impasse in negotiations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260429011600315",
+      "published_date": "2026-04-29T13:01:21Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6c6bf3741e11a2bf2890150c5cd033cb",
       "title": "North Korea demands identity checks on Chinese trading partners in bid to cut unofficial deals",
@@ -80,97 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260429003751315",
       "published_date": "2026-04-29T07:12:28Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "cb01d586680c6fe53698333f2332ec9d",
-      "title": "PM calls for speedy housing supply",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429009100315",
-      "published_date": "2026-04-29T07:08:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3a341b541440685e456b253a2db35e71",
-      "title": "North Korea eyes exports of libido drugs, instant noodles to Russia: records",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korea-eyes-exports-of-libido-drugs-instant-noodles-to-russia-records/",
-      "published_date": "2026-04-29T06:41:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b60290e47fdfb51503a9343c13cbfc91",
-      "title": "DeepMind chief reunites with baduk champion 10 yrs after historic match",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429006900320",
-      "published_date": "2026-04-29T06:01:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8646937aa05bf2211f18e913129ee11c",
-      "title": "Tennessee official visits Korea Zinc facility for U.S. project cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429006600320",
-      "published_date": "2026-04-29T05:15:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6fd8812279f916bdd706aa91486f00d8",
-      "title": "Heir apparent? What to look for in North Korea’s possible successor",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/heir-apparent-what-to-look-for-in-north-koreas-possible-successor/",
-      "published_date": "2026-04-29T05:14:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d28e9bed02bb4706797a742e5ed74ba2",
-      "title": "(LEAD) Watchdog names Coupang founder Kim Bom as controlling figure under tighter oversight",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429005651320",
-      "published_date": "2026-04-29T04:42:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "66d1bf9927c1094caa0249443f57c44a",
-      "title": "Eunhee Park: Surviving North Korea and reclaiming identity in the South",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/eunhee-park-surviving-north-korea-and-reclaiming-identity-in-the-south/",
-      "published_date": "2026-04-29T03:53:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "131bbe559400ab7c50e9fed45a0b4586",
-      "title": "North Korean fishery officials tour Chinese company specializing in algae",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/north-korean-fishery-officials-tour-chinese-company-specializing-in-algae/",
-      "published_date": "2026-04-29T03:02:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2b133e9065ec542c8efbd335f0ad901d",
-      "title": "Watchdog newly designates Coupang founder Kim Bom as controlling figure under tighter oversight",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429005600320",
-      "published_date": "2026-04-29T03:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "01bd31ad4f5927a2f5501b3751e38fce",
-      "title": "(Yonhap Interview) Bears pitcher Benjamin looking to capitalize on new KBO opportunity",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429004100315",
-      "published_date": "2026-04-29T02:18:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e05af25f6289ec0874e41ac0ffe74143",
-      "title": "S. Korea's seaport cargo up 1.5 pct in Q1 despite trade uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429004000320",
-      "published_date": "2026-04-29T02:15:09Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "4b09a12ae9eb6f045ca1306f230082f2",
+      "title": "Hegseth calls N. Korea's nuclear program 'lesson' as he defends Iran operation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000200315",
+      "published_date": "2026-04-29T17:17:48Z",
+      "category": "Military"
+    },
     {
       "id": "bc23961ce6d8dc783f44416e2b51f91d",
       "title": "New Zealand flags 35 ‘vessels of interest’ in latest North Korea maritime patrol",
@@ -322,17 +330,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260424000400315",
       "published_date": "2026-04-23T21:13:11Z",
       "category": "Military"
-    },
-    {
-      "id": "3f54737801bd053237e987646483c006",
-      "title": "Army troops of S. Korea, Canada launch 1st high-tech military training this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260423009900315",
-      "published_date": "2026-04-23T21:00:04Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "7dc7044e0a6b4ab213821d390398a10a",
+      "title": "(LEAD) Trump says U.S. reviewing possible troop cut in Germany, decision due in 'short period'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430001052315",
+      "published_date": "2026-04-29T22:44:24Z",
+      "category": "Energy"
+    },
+    {
+      "id": "1d7fd724e0f366acaeebe65fc29420c6",
+      "title": "Trump says U.S. reviewing possible troop cut in Germany, decision due in 'short period'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430001051315",
+      "published_date": "2026-04-29T22:13:28Z",
+      "category": "Energy"
+    },
+    {
+      "id": "4495210e8b8a9a6e897528358cb0bb43",
+      "title": "(URGENT) Trump says U.S. is reviewing possible troop cut in Germany",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430001000315",
+      "published_date": "2026-04-29T21:54:22Z",
+      "category": "Energy"
+    },
+    {
+      "id": "6fefc688683e1cb3962165db65ebe958",
+      "title": "(LEAD) Fed holds key rates steady, says Middle East conflict fuels 'high level of uncertainty'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000351315",
+      "published_date": "2026-04-29T18:25:00Z",
+      "category": "Energy"
+    },
     {
       "id": "5b3ff2f6976ff8c150f7e8f6d67cc1b7",
       "title": "Tang Wei expecting 2nd child with director Kim Tae-yong",
@@ -460,41 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260427011200315",
       "published_date": "2026-04-27T09:42:30Z",
       "category": "Energy"
-    },
-    {
-      "id": "7a189e3b96d6519dcfd17ceb7c0c566c",
-      "title": "(LEAD) Hanwha Ocean's Q1 net more than doubles on LNG projects, improved profitability",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427005951320",
-      "published_date": "2026-04-27T05:44:40Z",
-      "category": "Energy"
-    },
-    {
-      "id": "78946931db7fde5696537368f01dfab0",
-      "title": "(3rd LD) Trump evacuated from White House correspondents' dinner; alleged shooter in detention",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260426000453315",
-      "published_date": "2026-04-26T04:02:06Z",
-      "category": "Energy"
-    },
-    {
-      "id": "bc1e9fe022fdd57338667c07dc57d9ed",
-      "title": "(2nd LD) Trump evacuated from White House correspondents' dinner; alleged shooter in detention",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260426000452315",
-      "published_date": "2026-04-26T02:23:58Z",
-      "category": "Energy"
-    },
-    {
-      "id": "da318eb10428618054a0270962745787",
-      "title": "(LEAD) Trump evacuated from White House correspondents' dinner; alleged shooter in detention",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260426000451315",
-      "published_date": "2026-04-26T01:58:58Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "7f916fd2802c219cb8377321ebaa4285",
+      "title": "(Yonhap Feature) Automation powers GM's global small SUV exports at S. Korean plant",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260429011800315",
+      "published_date": "2026-04-29T21:00:37Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7302f113de68ba12a58f11b70cd17e41",
+      "title": "Fed holds rates steady for 3rd time amid war-driven inflation concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000300315",
+      "published_date": "2026-04-29T18:03:55Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0338694a84900a607b7b51703cf34b92",
+      "title": "(URGENT) Fed holds key interest rate steady for 3rd straight time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000400315",
+      "published_date": "2026-04-29T18:01:02Z",
+      "category": "Economy"
+    },
     {
       "id": "32d5e35c9f07b75d0faef9a32ff4fa8e",
       "title": "(LEAD) Nvidia official meets with Samsung, SK hynix executives for physical AI partnership",
@@ -630,33 +654,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260428006400320",
       "published_date": "2026-04-28T06:31:45Z",
       "category": "Economy"
-    },
-    {
-      "id": "070254479e47f3540a23f5bf9fb84466",
-      "title": "Finance chief highlights capital market reforms to boost growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260428006100320",
-      "published_date": "2026-04-28T06:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6bb25c71f2d1bd06659186f8ef3aae92",
-      "title": "Banks' lending rates fall in March for 1st time in 4 months",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260428003200320",
-      "published_date": "2026-04-28T03:00:30Z",
-      "category": "Economy"
-    },
-    {
-      "id": "717dbfe3ed52de036e80ec7f9a4107dc",
-      "title": "(2nd LD) Samsung SDI swings to Q1 profit on ESS battery growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260428000952320",
-      "published_date": "2026-04-28T02:33:02Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "adc8b7dc0b417ecea6f3d2c10902264e",
+      "title": "(EDITORIAL from Korea JoongAng Daily on April 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000900315",
+      "published_date": "2026-04-29T21:58:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0c6e8d313141cc952d8362ea19193945",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430000600315",
+      "published_date": "2026-04-29T21:57:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3dbb10d3205702bfc9da6d8ff97a247a",
+      "title": "ABS issuance soars 36 pct in Q1 on rise in mortgage-backed securities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260429006700320",
+      "published_date": "2026-04-29T21:00:36Z",
+      "category": "Local Events"
+    },
     {
       "id": "56214c3e3bcde054aeba207dbc255a9d",
       "title": "Ex-POWs sue N. Korea over forced labor; 3rd of its kind",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260429003800315",
       "published_date": "2026-04-29T02:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "921c7746f25fc0c2d41d99a818c6701a",
-      "title": "Retail sales rise 5.6 pct in March on tourism boost, back-to-school season demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429002400320",
-      "published_date": "2026-04-29T02:00:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dd10e1b1ecce6b42f5fe199b0a838418",
-      "title": "'Sold Out on You' tops Netflix chart for non-English shows",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429003500315",
-      "published_date": "2026-04-29T01:17:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6a19f8237b4b4ec8e0c781c096e26521",
-      "title": "Nongshim partners with Chinese firm to boost H2 sales",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429003200320",
-      "published_date": "2026-04-29T01:06:12Z",
       "category": "Local Events"
     }
   ]
