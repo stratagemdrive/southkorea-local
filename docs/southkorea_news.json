@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-04-30T12:16:31Z",
+  "generated_at": "2026-04-30T23:41:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ff31efa944e281d59521293f106da7e4",
+      "title": "(Movie Review) 'The Day She Returns' ponders meaning, memory through subtle conversation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430004900315",
+      "published_date": "2026-04-30T22:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8a52e56bdc3ac4684b2459d895e13c31",
+      "title": "U.S. expert says OPCON transfer won't 'unzip' S. Korea-U.S. alliance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260501000400315",
+      "published_date": "2026-04-30T21:41:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "161ff04a73e9ef4fe79763caed7b95f8",
+      "title": "Top U.S., Chinese officials hold talks ahead of planned Trump-Xi summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260501000300315",
+      "published_date": "2026-04-30T19:45:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ea3285f10391e35ced11568b8229b2fe",
+      "title": "Pentagon declines to comment on potential USFK troop cut, reaffirms 'unwavering' commitment to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260501000200315",
+      "published_date": "2026-04-30T16:06:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e33c9527af50d30b445d53e935ea116d",
+      "title": "S. Korea's resource developer sells Mexican mine stake for US$2 amid losses",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430014000320",
+      "published_date": "2026-04-30T13:08:09Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "98f8411ea406ca48d786e1d9837a9d89",
       "title": "Reliable S. Korea-Australia energy supply vital amid 'disproportionate' Middle East impact: Australian FM",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260430008700315",
       "published_date": "2026-04-30T05:50:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "31c55843baa448a31172ef8f57d5b1d2",
-      "title": "S. Korea, Australia agree to enhance cooperation on stable energy supplies amid Middle East crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430008100315",
-      "published_date": "2026-04-30T05:43:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "281a023d34003621e2f896079ffee627",
-      "title": "Ryu Seung-ryong to star in 'The Miracles of the Namiya General Store'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430008000315",
-      "published_date": "2026-04-30T05:24:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0463608b3dd126626f98f3006ee91ad8",
-      "title": "(LEAD) Gov't considering extending crude swap system with private firms until July: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430005651320",
-      "published_date": "2026-04-30T05:22:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "937d4990059fbd7ddacd250d4b879cfa",
-      "title": "(LEAD) Samsung Electro-Mechanics Q1 net profit rises sharply on strong AI demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430005151320",
-      "published_date": "2026-04-30T05:06:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ea168a414f3f7bb11bae6155ac36cf12",
-      "title": "Army reviewing deployment of 'suicide drones' to battalion-level units as part of modernization push",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430004700315",
-      "published_date": "2026-04-30T03:29:18Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,22 @@
   ],
   "Local Events": [
     {
+      "id": "af4f522a9bb13fced626748b65302bb3",
+      "title": "S. Korea to send special envoy to Kuwait, Iraq, Bahrain amid Middle East crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430013900315",
+      "published_date": "2026-04-30T12:41:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "886402ddc5bfbd4ae00252fe92da6267",
+      "title": "HMM, labor union agree to relocate headquarters to Busan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260430013800320",
+      "published_date": "2026-04-30T12:08:53Z",
+      "category": "Local Events"
+    },
+    {
       "id": "66bb790aee2106f2070d1ff166e58487",
       "title": "POSCO signs US$765 mln deal for 30 pct stake in Australian lithium mine",
       "source": "Yonhap News Agency",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260430005000315",
       "published_date": "2026-04-30T02:44:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fc135cc5201d2843ce5eb5febade58ee",
-      "title": "Braves' Kim Ha-seong picks up hit in 1st minor league rehab game",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430004200315",
-      "published_date": "2026-04-30T01:51:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1900853dc1ebd9a39493e0cd636cc45f",
-      "title": "Card spending climbs over 7 pct in Q1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430004000320",
-      "published_date": "2026-04-30T01:46:33Z",
       "category": "Local Events"
     }
   ]
