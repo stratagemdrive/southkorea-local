@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-01T12:00:54Z",
+  "generated_at": "2026-05-01T23:41:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ead8a550b2b02f06a109713a4510b599",
+      "title": "(2nd LD) Samsung Biologics union launches 1st general strike over pay dispute",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260501001452320",
+      "published_date": "2026-05-01T12:19:40Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6725ec2fc660f6369a01182ac03aa052",
       "title": "North Korean youth vow to become the ‘militant reserve’ of country",
@@ -160,17 +168,17 @@
       "url": "https://www.dailynk.com/english/north-korea-market-prices-ease-april-2026/",
       "published_date": "2026-04-30T13:20:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "dad37150d119a333f2ce62e1aed0e740",
-      "title": "North Korean coal miners arrested for watching South Korean videos",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korean-coal-miners-arrested-for-watching-south-korean-videos/",
-      "published_date": "2026-04-30T13:14:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "ad4799ed4fe09ccfcfcc99531af2e987",
+      "title": "Hegseth has ordered withdrawal of about 5,000 troops from Germany: Pentagon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000400315",
+      "published_date": "2026-05-01T22:25:26Z",
+      "category": "Military"
+    },
     {
       "id": "b0dfdd7d006a1c04161a4b9067a3d38b",
       "title": "Late S. Korean, French veterans named Korean War heroes of May",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260424011500315",
       "published_date": "2026-04-25T03:00:00Z",
-      "category": "Military"
-    },
-    {
-      "id": "f5a667394811a9986c60bc597210826e",
-      "title": "(LEAD) Hegseth calls for allies' role in Strait of Hormuz, says 'time for free riding is over'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424011851315",
-      "published_date": "2026-04-24T16:10:03Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,38 @@
   ],
   "Economy": [
     {
+      "id": "7f4d19275e969845751e8a0819d3c9d1",
+      "title": "(2nd LD) Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000253315",
+      "published_date": "2026-05-01T18:31:12Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3ddffb4a7f2af28b531a3cbdef970a23",
+      "title": "(LEAD) Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000252315",
+      "published_date": "2026-05-01T16:27:11Z",
+      "category": "Economy"
+    },
+    {
+      "id": "41fc0eb7b05ddcf1740c357ad8fcaa61",
+      "title": "Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000251315",
+      "published_date": "2026-05-01T16:10:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e9611290a86292c0eb2dc120a9a99fb1",
+      "title": "(URGENT) Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000200315",
+      "published_date": "2026-05-01T15:57:13Z",
+      "category": "Economy"
+    },
+    {
       "id": "c364334f3191b97f6dc3526a296116ca",
       "title": "(2nd LD) S. Korea's exports top US$80 bln for 2nd month in April",
       "source": "Yonhap News Agency",
@@ -622,41 +654,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260430000300315",
       "published_date": "2026-04-29T18:03:55Z",
       "category": "Economy"
-    },
-    {
-      "id": "0338694a84900a607b7b51703cf34b92",
-      "title": "(URGENT) Fed holds key interest rate steady for 3rd straight time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430000400315",
-      "published_date": "2026-04-29T18:01:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "32d5e35c9f07b75d0faef9a32ff4fa8e",
-      "title": "(LEAD) Nvidia official meets with Samsung, SK hynix executives for physical AI partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429005851320",
-      "published_date": "2026-04-29T10:46:05Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1f00278518dbfed0fe9d3664a609a755",
-      "title": "KBO's career hits leader sent to minors for 1st time since trade",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429010600315",
-      "published_date": "2026-04-29T08:25:43Z",
-      "category": "Economy"
-    },
-    {
-      "id": "eb4228640db4bb94a09aa949c4f91341",
-      "title": "(LEAD) LG Electronics Q1 net income up 14.8 pct on robust home appliance sales",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429006451320",
-      "published_date": "2026-04-29T05:38:24Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "f43f3c8ad3c7f0179581c630b954160d",
+      "title": "(2nd LD) Trump says he's 'not satisfied' with Iran proposal, calls Tehran leadership 'extremely disjointed'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000352315",
+      "published_date": "2026-05-01T19:36:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "79b8e8fa12d72adc9d880d51ac44d97c",
+      "title": "(LEAD) Trump says he's 'not satisfied' with Iran proposal, calls Tehran leadership 'extremely disjointed'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000351315",
+      "published_date": "2026-05-01T18:13:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d3639f16b29475ba7e14010c257cb7d8",
+      "title": "Trump says he's 'not satisfied' with Iran proposal, calls Tehran leadership 'extremely disjointed'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000300315",
+      "published_date": "2026-05-01T17:47:59Z",
+      "category": "Local Events"
+    },
     {
       "id": "270ec6a2a8dcf80d7da8810f3fb7e163",
       "title": "Highways congested on 1st day of extended holiday",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260430009300320",
       "published_date": "2026-04-30T06:25:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4bcbae8bb5e7e326830761aca44b8b5e",
-      "title": "(LEAD) 2 killed, 6 injured in apartment fire in Uiwang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430005751315",
-      "published_date": "2026-04-30T05:45:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "26c23887b261df0eb0c320682914e5ad",
-      "title": "(LEAD) Top court upholds guilty verdicts for 18 people in courthouse riot related to Yoon's martial law bid",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430006151315",
-      "published_date": "2026-04-30T05:40:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b4fcb3e9d2006deaff029a5d0ce8bffe",
-      "title": "Sports ministry renews call on top football body to discipline leader",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430008300315",
-      "published_date": "2026-04-30T05:28:50Z",
       "category": "Local Events"
     }
   ]
