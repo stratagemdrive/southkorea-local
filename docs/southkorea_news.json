@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-02T11:48:25Z",
+  "generated_at": "2026-05-02T23:33:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "3a837f7cedc3aac05cd1d595600b2454",
+      "title": "N. Korea's Kim calls for active role of young generation in party affairs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260503000200315",
+      "published_date": "2026-05-02T23:13:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ebad456cba58d12e608a5485a5fcacc4",
+      "title": "FM urges safe navigation in Strait of Hormuz in call with Iranian counterpart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502002400315",
+      "published_date": "2026-05-02T12:49:44Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "c258b219e6e85f5fbb928b756621efa0",
       "title": "Main opposition picks supreme council member as candidate for Gyeonggi Province Gov.",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260501000400315",
       "published_date": "2026-04-30T21:41:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "161ff04a73e9ef4fe79763caed7b95f8",
-      "title": "Top U.S., Chinese officials hold talks ahead of planned Trump-Xi summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501000300315",
-      "published_date": "2026-04-30T19:45:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c8ea9ef121c39b4f2f6925ca83a35d8c",
-      "title": "North Korea selling publications and films on WeChat in China",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-wechat-publications-foreign-currency/",
-      "published_date": "2026-04-30T17:40:00Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,14 @@
   ],
   "Local Events": [
     {
+      "id": "3eb243586cd947cbe4eb5cc69421207d",
+      "title": "Progressive civic group holds protest rally outside U.S. Embassy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502002500315",
+      "published_date": "2026-05-02T12:49:02Z",
+      "category": "Local Events"
+    },
+    {
       "id": "369bb7976787dff9e9bae54d9e648bac",
       "title": "Yonhap, Save the Children host mini marathon to support children of migrant workers",
       "source": "Yonhap News Agency",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260430012000315",
       "published_date": "2026-04-30T07:49:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "55120c547a207e799f5026b63ea3e83e",
-      "title": "(LEAD) Krafton Q1 net income jumps nearly 40 pct on solid PUBG demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430008851320",
-      "published_date": "2026-04-30T06:40:40Z",
       "category": "Local Events"
     }
   ]
