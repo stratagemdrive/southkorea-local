@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-01T23:41:52Z",
+  "generated_at": "2026-05-02T11:48:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "c258b219e6e85f5fbb928b756621efa0",
+      "title": "Main opposition picks supreme council member as candidate for Gyeonggi Province Gov.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000900315",
+      "published_date": "2026-05-02T02:04:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1f1dd73aa1e6c561e7245e936781d3ff",
+      "title": "Unionized workers of Samsung Biologics continue strike for 2nd day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000800320",
+      "published_date": "2026-05-02T01:35:52Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ead8a550b2b02f06a109713a4510b599",
       "title": "(2nd LD) Samsung Biologics union launches 1st general strike over pay dispute",
@@ -152,25 +168,17 @@
       "url": "https://www.dailynk.com/english/north-korea-wechat-publications-foreign-currency/",
       "published_date": "2026-04-30T17:40:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "ea3285f10391e35ced11568b8229b2fe",
-      "title": "Pentagon declines to comment on potential USFK troop cut, reaffirms 'unwavering' commitment to S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501000200315",
-      "published_date": "2026-04-30T16:06:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c82196fb1268f4d97546d9d4e6e642e5",
-      "title": "North Korea’s market price surge shows signs of easing",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-market-prices-ease-april-2026/",
-      "published_date": "2026-04-30T13:20:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "6cae2358947d34af9790d4773cac996f",
+      "title": "(LEAD) Hegseth has ordered withdrawal of about 5,000 troops from Germany: Pentagon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000451315",
+      "published_date": "2026-05-02T00:06:09Z",
+      "category": "Military"
+    },
     {
       "id": "ad4799ed4fe09ccfcfcc99531af2e987",
       "title": "Hegseth has ordered withdrawal of about 5,000 troops from Germany: Pentagon",
@@ -321,14 +329,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/04/kim-jong-un-marks-military-anniversary-with-frontline-visit-mortar-contest/",
       "published_date": "2026-04-26T00:43:29Z",
-      "category": "Military"
-    },
-    {
-      "id": "6c2e44e71ad7ca490a0dd4d2f2570be1",
-      "title": "(Yonhap Interview) Canada's army chief sees war-forged ties with S. Korea grow 'stronger'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260424011500315",
-      "published_date": "2026-04-25T03:00:00Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "9bb05ccec894b2adcf2303d68b0b91a1",
+      "title": "S. Korea signals careful assessment, response after U.S. moves to raise tariffs on EU",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502001800315",
+      "published_date": "2026-05-02T10:45:50Z",
+      "category": "Economy"
+    },
+    {
       "id": "7f4d19275e969845751e8a0819d3c9d1",
       "title": "(2nd LD) Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
       "source": "Yonhap News Agency",
@@ -646,17 +654,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260429011800315",
       "published_date": "2026-04-29T21:00:37Z",
       "category": "Economy"
-    },
-    {
-      "id": "7302f113de68ba12a58f11b70cd17e41",
-      "title": "Fed holds rates steady for 3rd time amid war-driven inflation concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430000300315",
-      "published_date": "2026-04-29T18:03:55Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "369bb7976787dff9e9bae54d9e648bac",
+      "title": "Yonhap, Save the Children host mini marathon to support children of migrant workers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502001600315",
+      "published_date": "2026-05-02T06:45:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "377836905ec454210a6612fb01a9267e",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000700315",
+      "published_date": "2026-05-02T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "44fdc8629995f56c0cbdc4f7fbc621ce",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260502000600315",
+      "published_date": "2026-05-02T00:07:47Z",
+      "category": "Local Events"
+    },
     {
       "id": "f43f3c8ad3c7f0179581c630b954160d",
       "title": "(2nd LD) Trump says he's 'not satisfied' with Iran proposal, calls Tehran leadership 'extremely disjointed'",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260430008851320",
       "published_date": "2026-04-30T06:40:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4eb842f5cffc4c489941391bd5ecfa27",
-      "title": "Lack of manuals, insufficient oversight blamed for failure to fully recover remains of Jeju Air crash victims",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430009000315",
-      "published_date": "2026-04-30T06:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0db4beeb7a7772d5011a2934b5158e25",
-      "title": "S. Korea, China discuss ways to curb illegal fishing ahead of implementation of new laws",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430009100315",
-      "published_date": "2026-04-30T06:28:57Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "55ccc843c0ecb7369f9ee8642183568d",
-      "title": "POSCO Holdings' Q1 net rises 0.34 pct on equity gains",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430009300320",
-      "published_date": "2026-04-30T06:25:23Z",
       "category": "Local Events"
     }
   ]
