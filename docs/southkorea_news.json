@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-03T11:45:02Z",
+  "generated_at": "2026-05-03T23:34:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "0bd92ad09a79cffc15a2b40fa24c898e",
+      "title": "Top-ranked An Se-young leads S. Korea to badminton world team title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504000600315",
+      "published_date": "2026-05-03T23:09:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "92b9d196110988e82c9d97ad09858a01",
+      "title": "OTC derivatives transactions climb to record high in 2025: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260503003500320",
+      "published_date": "2026-05-03T21:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e89df42114a0cd2db5fa57ecf6dfcb80",
+      "title": "Finance chief calls for regional cooperation in tackling economic impact from Iran war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260503004000315",
+      "published_date": "2026-05-03T14:11:38Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "1cf6d9f94e953692984341b437d55eaa",
       "title": "(LEAD) Samsung Biologics labor union set to resume talks with management on Monday",
@@ -143,30 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/05/russia-china-back-north-koreas-rejection-to-follow-un-sanctions/",
       "published_date": "2026-05-01T07:29:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0294435ca749173f62b5eaa1e6453a36",
-      "title": "Lee commends law enforcement for almost halving voice phishing damage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501003700315",
-      "published_date": "2026-05-01T07:12:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "167bb15bb5783cd2b281235e6ee37556",
-      "title": "(LEAD) Samsung Biologics union launches 1st general strike over pay dispute",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001451320",
-      "published_date": "2026-05-01T05:44:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "59ecc73a721ddd5bc77c68365c2256fd",
-      "title": "(LEAD) Lee vows zero compromise on workplace safety in Labor Day address",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001551315",
-      "published_date": "2026-05-01T05:31:05Z",
       "category": "Diplomacy"
     }
   ],
@@ -322,17 +322,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260427000751315",
       "published_date": "2026-04-27T05:09:01Z",
       "category": "Military"
-    },
-    {
-      "id": "6142f0afe26dd6c59cf0fd9f206f1910",
-      "title": "Navy, Marine Corps hold large-scale amphibious landing drills in Pohang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427000700315",
-      "published_date": "2026-04-26T23:00:01Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "8d355b31dae751b01f29d8d914ec02d4",
+      "title": "(EDITORIAL from Korea Times on May 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504000400320",
+      "published_date": "2026-05-03T22:00:06Z",
+      "category": "Energy"
+    },
     {
       "id": "cae323366abaf2851955c18743e505b0",
       "title": "Hanwha Solutions ordered again to revise share sale plan",
@@ -483,14 +483,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260429007551320",
       "published_date": "2026-04-29T07:02:20Z",
-      "category": "Energy"
-    },
-    {
-      "id": "9682a939dfb3bf64960596ef3d1abb44",
-      "title": "Seoul stocks end at fresh record high on revived hope for AI boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429007500320",
-      "published_date": "2026-04-29T06:36:41Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +650,38 @@
   ],
   "Local Events": [
     {
+      "id": "ad3c9c93c9311f4ac8e412203d00eb20",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504000500320",
+      "published_date": "2026-05-03T22:00:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "477357b5fbc51b7dca6a0ff3f34853ca",
+      "title": "(EDITORIAL from Korea Herald on May 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504000300320",
+      "published_date": "2026-05-03T21:59:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9c95373aae8eaa3e38b00c8a95136c0a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504000200320",
+      "published_date": "2026-05-03T21:59:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f40fb8c2e03acccb912622427536f1c5",
+      "title": "Arrest warrant issued for key drug supplier to notorious drug kingpin Park Wang-yeol",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260503003400315",
+      "published_date": "2026-05-03T11:46:00Z",
+      "category": "Local Events"
+    },
+    {
       "id": "bbea6f634cf97d779af2a92d316a2333",
       "title": "(2nd LD) S. Korean Earth-observation satellite successfully put into orbit",
       "source": "Yonhap News Agency",
@@ -783,38 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260501001100315",
       "published_date": "2026-05-01T00:06:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "af4f522a9bb13fced626748b65302bb3",
-      "title": "S. Korea to send special envoy to Kuwait, Iraq, Bahrain amid Middle East crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430013900315",
-      "published_date": "2026-04-30T12:41:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "886402ddc5bfbd4ae00252fe92da6267",
-      "title": "HMM, labor union agree to relocate headquarters to Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430013800320",
-      "published_date": "2026-04-30T12:08:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "66bb790aee2106f2070d1ff166e58487",
-      "title": "POSCO signs US$765 mln deal for 30 pct stake in Australian lithium mine",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430013600320",
-      "published_date": "2026-04-30T10:53:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3187456f79bf9de0721c5d48444dcfe3",
-      "title": "5 Korean War POWs forced to work in North Korean coal mine are suing the regime",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/5-korean-war-pows-forced-to-work-in-north-korean-coal-mine-are-suing-the-regime/",
-      "published_date": "2026-04-30T09:23:35Z",
       "category": "Local Events"
     }
   ]
