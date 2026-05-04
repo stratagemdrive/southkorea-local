@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-03T23:34:17Z",
+  "generated_at": "2026-05-04T12:21:49Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,183 @@
   ],
   "Diplomacy": [
     {
-      "id": "0bd92ad09a79cffc15a2b40fa24c898e",
-      "title": "Top-ranked An Se-young leads S. Korea to badminton world team title",
+      "id": "106a9158898180b29c35891f3bd6c643",
+      "title": "Eagles ace Moon Dong-ju to undergo shoulder surgery",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504000600315",
-      "published_date": "2026-05-03T23:09:53Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504009800315",
+      "published_date": "2026-05-04T09:36:59Z",
       "category": "Diplomacy"
     },
     {
-      "id": "92b9d196110988e82c9d97ad09858a01",
-      "title": "OTC derivatives transactions climb to record high in 2025: data",
+      "id": "dd5f0af810444216715ec08b24b5307a",
+      "title": "Defense chief inspects readiness posture of special security unit under Capital Defense Command",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503003500320",
-      "published_date": "2026-05-03T21:00:00Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504009600315",
+      "published_date": "2026-05-04T09:05:55Z",
       "category": "Diplomacy"
     },
     {
-      "id": "e89df42114a0cd2db5fa57ecf6dfcb80",
-      "title": "Finance chief calls for regional cooperation in tackling economic impact from Iran war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503004000315",
-      "published_date": "2026-05-03T14:11:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1cf6d9f94e953692984341b437d55eaa",
-      "title": "(LEAD) Samsung Biologics labor union set to resume talks with management on Monday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503002151320",
-      "published_date": "2026-05-03T11:06:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "77657cdce0cd985bf81f893744d26d3e",
-      "title": "Lions veteran Choi Hyoung-woo becomes KBO career hits leader",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503003200315",
-      "published_date": "2026-05-03T10:57:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "55789008a0361b6b9d16be3bca67db83",
-      "title": "(URGENT) S. Korean Earth-observation satellite succeeds in communicating with ground station",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503003000315",
-      "published_date": "2026-05-03T08:37:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4f6d81b6bdb013e624aae7d2b9e58b8f",
-      "title": "(LEAD) S. Korean Earth-observation satellite enters orbit after being separated from launch vehicle",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503002351315",
-      "published_date": "2026-05-03T08:31:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "25c6d6047e3b593e2c5994e40f9cf1b2",
-      "title": "(URGENT) S. Korea's Earth-observation satellite separated from launch vehicle, enters orbit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503002900315",
-      "published_date": "2026-05-03T08:09:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "33f4635ef367f94d4b9642cf2e02fc28",
-      "title": "S. Korean Earth-observation satellite launched from U.S. base",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503002300315",
-      "published_date": "2026-05-03T07:38:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7015a05878cac17678c80fec3ee361fb",
-      "title": "Samsung Biologics labor union set to resume talks with management on Monday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503002100320",
-      "published_date": "2026-05-03T06:22:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e4241645a3053bc26b9ca180a32c919b",
-      "title": "LAFC's Son Heung-min takes MLS lead with 8th assist",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503001800315",
-      "published_date": "2026-05-03T04:29:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "efdddff4b23e8ee1272850b31d1c118a",
-      "title": "N. Korea shoots back at hacking allegations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503000600315",
-      "published_date": "2026-05-03T00:49:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3a837f7cedc3aac05cd1d595600b2454",
-      "title": "N. Korea's Kim calls for active role of young generation in party affairs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503000200315",
-      "published_date": "2026-05-02T23:13:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ebad456cba58d12e608a5485a5fcacc4",
-      "title": "FM urges safe navigation in Strait of Hormuz in call with Iranian counterpart",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502002400315",
-      "published_date": "2026-05-02T12:49:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c258b219e6e85f5fbb928b756621efa0",
-      "title": "Main opposition picks supreme council member as candidate for Gyeonggi Province Gov.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000900315",
-      "published_date": "2026-05-02T02:04:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1f1dd73aa1e6c561e7245e936781d3ff",
-      "title": "Unionized workers of Samsung Biologics continue strike for 2nd day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000800320",
-      "published_date": "2026-05-02T01:35:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ead8a550b2b02f06a109713a4510b599",
-      "title": "(2nd LD) Samsung Biologics union launches 1st general strike over pay dispute",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001452320",
-      "published_date": "2026-05-01T12:19:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6725ec2fc660f6369a01182ac03aa052",
-      "title": "North Korean youth vow to become the ‘militant reserve’ of country",
+      "id": "04bf3aa6defc041fd97251ca2cb66628",
+      "title": "Westerners enter North Korea for spring trade fair for the first time in 7 years",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/north-korean-youth-vow-to-become-the-militant-reserve-of-country/",
-      "published_date": "2026-05-01T08:53:02Z",
+      "url": "https://www.nknews.org/2026/05/westerners-enter-north-korea-for-spring-trade-fair-for-the-first-time-in-7-years/",
+      "published_date": "2026-05-04T08:53:07Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6b719a8c429d38d5f163982b411dfcaf",
-      "title": "Former DPRK diplomat peels back curtain on Pyongyang’s foreign policy apparatus",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/former-dprk-diplomat-peels-back-curtain-on-pyongyangs-foreign-policy-apparatus/",
-      "published_date": "2026-05-01T07:44:48Z",
+      "id": "64cb29ffe726dbcabda2d92f1bf8102e",
+      "title": "Lee to host Children's Day celebration with 200 children, parents at Cheong Wa Dae",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504009400315",
+      "published_date": "2026-05-04T08:23:45Z",
       "category": "Diplomacy"
     },
     {
-      "id": "47ec4c620d8707583d015a0c813c5e3c",
-      "title": "Russia, China back North Korea’s rejection to follow UN sanctions",
+      "id": "a0e4e86dc1e69184e84285a8ec676235",
+      "title": "Global sales of Hyundai Motor down in April amid production decline",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504008200320",
+      "published_date": "2026-05-04T08:00:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "672ee5e06c9f4502f8bb20f6de9e6e50",
+      "title": "Rival parties clash over DP's push for special counsel bill on prosecution's alleged fabrication",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504007400315",
+      "published_date": "2026-05-04T07:57:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "71647640674f5463d62c98a915c3786f",
+      "title": "GM Korea's March sales rise 14.7 pct on solid overseas demand",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504007600320",
+      "published_date": "2026-05-04T07:39:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "de0b63049147064f07bf9f594b0e8bd6",
+      "title": "Renault Korea's April sales drop over 40 pct",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504007300320",
+      "published_date": "2026-05-04T07:32:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "470782c777e3a5e6965348e7314d681f",
+      "title": "North Korea warns of retaliation over US ‘slander’ of DPRK cyber threats",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/russia-china-back-north-koreas-rejection-to-follow-un-sanctions/",
-      "published_date": "2026-05-01T07:29:18Z",
+      "url": "https://www.nknews.org/2026/05/north-korea-warns-of-retaliation-over-us-slander-of-dprk-cyber-threats/",
+      "published_date": "2026-05-04T07:17:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "990210fbf3be8e4e7e7e2f0ece760903",
+      "title": "Vietnam appoints new ambassador to North Korea after envoy’s lengthy term",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/vietnam-appoints-new-ambassador-to-north-korea-after-envoys-lengthy-term/",
+      "published_date": "2026-05-04T07:01:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bf191965c6f1cfac462fa7264ae270bf",
+      "title": "(LEAD) Special counsel says signs found of martial law preparations since early 2024",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504004952315",
+      "published_date": "2026-05-04T06:56:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b5e0028841443b57de749e3296a9a097",
+      "title": "(News Focus) N. Korea's football visit raises hopes, doubts for resuming inter-Korean talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005900315",
+      "published_date": "2026-05-04T06:55:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0893cabd0bf4c31fecab7671d0318767",
+      "title": "Chinese envoy voices hope for stronger taekwondo exchanges with N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504006900315",
+      "published_date": "2026-05-04T06:50:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c3526311c23b73eb7d0d7541e2686093",
+      "title": "Lee urges careful deliberation on special probe over 'fabricated' charges against him under Yoon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005700315",
+      "published_date": "2026-05-04T06:28:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5e261dd1937ceb27949e1eedc267beb5",
+      "title": "Special counsel says signs found of martial law preparations since early 2024",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504004951315",
+      "published_date": "2026-05-04T05:45:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c619c33432249e0d6c6b3db49091b702",
+      "title": "Russian farm celebrates North Korean female workers with concert",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/russian-farm-celebrates-north-korean-female-workers-with-concert/",
+      "published_date": "2026-05-04T05:23:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c4ef641306bf6502fd1e3f6b066ade20",
+      "title": "(URGENT) Special counsel says found signs of preparations to declare martial law since early 2024",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504004900315",
+      "published_date": "2026-05-04T05:17:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "feb2aacd9d1e6ef51828259bf8094642",
+      "title": "Tigers sign minor leaguer Rodriguez as injury replacement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504004600315",
+      "published_date": "2026-05-04T04:35:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "59e9f663c2006cdfa686a60926e1a176",
+      "title": "North Korean women’s soccer team to play in South for first time in 12 years",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/north-korean-womens-soccer-team-to-play-in-south-for-first-time-in-12-years/",
+      "published_date": "2026-05-04T04:04:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "685ecb92bcf9071be34f8d52d773f500",
+      "title": "(LEAD) N. Korean women's football club to travel to S. Korea for regional tournament",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504003551315",
+      "published_date": "2026-05-04T02:46:09Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "0e770b72e28da5c57a8cb130f1f05cec",
+      "title": "More than 14K North Koreans currently fighting for Russia against Ukraine: Kyiv",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/more-than-14k-north-koreans-currently-fighting-for-russia-against-ukraine-kyiv/",
+      "published_date": "2026-05-04T05:50:53Z",
+      "category": "Military"
+    },
+    {
+      "id": "14f5b23c3c05dbf9108b03d3603602ab",
+      "title": "Actor Lee Jae-wook to begin military service this month",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504002500315",
+      "published_date": "2026-05-04T00:59:03Z",
+      "category": "Military"
+    },
     {
       "id": "a5b5f871e994ae5a52e278531e1b682e",
       "title": "Nearly 900 Air Force pilots left for civilian airlines over past decade: data",
@@ -297,30 +313,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260428002200315",
       "published_date": "2026-04-28T01:11:14Z",
-      "category": "Military"
-    },
-    {
-      "id": "4a1827a779037dc93dacbb67183119e3",
-      "title": "ROK carries out ‘decisive’ phase of landing drills designed to deter North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/rok-carries-out-decisive-phase-of-landing-drills-designed-to-deter-north-korea/",
-      "published_date": "2026-04-27T07:31:43Z",
-      "category": "Military"
-    },
-    {
-      "id": "ac964c4c6d5869ec168a285e88d6e0ae",
-      "title": "(LEAD) Hanwha Systems swings to Q1 loss on equity losses tied to U.S. shipyard",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427006851320",
-      "published_date": "2026-04-27T06:32:56Z",
-      "category": "Military"
-    },
-    {
-      "id": "68c0b1f12311734f22739b87cdd9ec85",
-      "title": "(LEAD) Navy, Marine Corps hold large-scale amphibious landing drills in Pohang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260427000751315",
-      "published_date": "2026-04-27T05:09:01Z",
       "category": "Military"
     }
   ],
@@ -488,6 +480,134 @@
   ],
   "Economy": [
     {
+      "id": "e14cbd6fa5a67466fea7618b82754b79",
+      "title": "Presidential policy chief forecasts slower housing price growth beginning in May",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504009700315",
+      "published_date": "2026-05-04T09:25:38Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2752267d15731712c67f7d462302acae",
+      "title": "KG Mobility's April sales rise 6.5 pct on increased exports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504009500320",
+      "published_date": "2026-05-04T08:23:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c8cd52e70bb06312e4587e1ba878362a",
+      "title": "(2nd LD) Seoul shares spike over 5 pct to approach 7,000 on chip rally; won sharply up",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005652320",
+      "published_date": "2026-05-04T07:34:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "4cfa469cc29d81316a6a6c23275a2faf",
+      "title": "Kia's global sales up in April, outpace Hyundai in home market",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504007200320",
+      "published_date": "2026-05-04T07:30:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a97da93e24820f23f743603836f98da2",
+      "title": "HD KSOE wins 505 bln-won VLGC order",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504007100320",
+      "published_date": "2026-05-04T07:23:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ecb679dd9b5a294c81822d479e325c26",
+      "title": "(LEAD) Seoul shares spike over 5 pct to approach 7,000 on chip rally; won sharply up",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005651320",
+      "published_date": "2026-05-04T07:04:41Z",
+      "category": "Economy"
+    },
+    {
+      "id": "b850a6769c1e28fd668fc6cce83cee92",
+      "title": "April's household loans by major banks rise most since October",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504006000320",
+      "published_date": "2026-05-04T06:40:09Z",
+      "category": "Economy"
+    },
+    {
+      "id": "cb88344ed3036fbad8462a89cee83eb9",
+      "title": "Seoul shares spike over 5 pct to approach 7,000 on chip rally; won sharply up",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005600320",
+      "published_date": "2026-05-04T06:35:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0b49cc2ed6c1fbf3f179613b191e162f",
+      "title": "BOK senior deputy gov. says time to consider rate hike on solid growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005200320",
+      "published_date": "2026-05-04T05:49:43Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7ae322ea782fe695338487b39cc06a66",
+      "title": "Online shopping sales top record high of over 25 tln won in March on Tesla demand surge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504003300320",
+      "published_date": "2026-05-04T03:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ecfdfe2d748ee2d0972d0077d805bf5d",
+      "title": "Seoul shares up nearly 4 pct late Mon. morning on chip rally",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504003700320",
+      "published_date": "2026-05-04T02:34:23Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a9d49c6b365897cc7c1469ed93127a1e",
+      "title": "Hanwha Ocean wins order for 3 ammonia carriers for 507 bln won",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504003200320",
+      "published_date": "2026-05-04T02:13:53Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7cdf198ae51840b4963e5e38a8f3e647",
+      "title": "Samsung Heavy bags 485 bln-won deal for LNG-FSRU",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504003100320",
+      "published_date": "2026-05-04T02:01:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "af913501d4a9eff1909d9479f032c740",
+      "title": "Intellectual property rights violations worth 278.9 bln won detected in 2025",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504002900320",
+      "published_date": "2026-05-04T01:16:46Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a6cb7bc0c56a19ebc3a52219642cad9c",
+      "title": "(LEAD) Seoul shares open at fresh record high on eased Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504001451320",
+      "published_date": "2026-05-04T00:25:55Z",
+      "category": "Economy"
+    },
+    {
+      "id": "bb204bb28bebe184b2f1b0e9bfe56d3d",
+      "title": "Seoul shares open at fresh record high on eased Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504001400320",
+      "published_date": "2026-05-04T00:05:37Z",
+      "category": "Economy"
+    },
+    {
       "id": "8d72ed3eaae492790477802185edd421",
       "title": "Nearly 120,000 people receive over 2 mln won in monthly pensions: data",
       "source": "Yonhap News Agency",
@@ -518,295 +638,167 @@
       "url": "https://en.yna.co.kr/view/AEN20260503000900320",
       "published_date": "2026-05-03T01:33:32Z",
       "category": "Economy"
-    },
-    {
-      "id": "d8d76033adadd77f07ebb489fd258be5",
-      "title": "Some 3 tln won worth of loans extended by S. Korean banks unrecoverable in Q1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503000700320",
-      "published_date": "2026-05-03T01:14:26Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9bb05ccec894b2adcf2303d68b0b91a1",
-      "title": "S. Korea signals careful assessment, response after U.S. moves to raise tariffs on EU",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502001800315",
-      "published_date": "2026-05-02T10:45:50Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7f4d19275e969845751e8a0819d3c9d1",
-      "title": "(2nd LD) Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000253315",
-      "published_date": "2026-05-01T18:31:12Z",
-      "category": "Economy"
-    },
-    {
-      "id": "3ddffb4a7f2af28b531a3cbdef970a23",
-      "title": "(LEAD) Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000252315",
-      "published_date": "2026-05-01T16:27:11Z",
-      "category": "Economy"
-    },
-    {
-      "id": "41fc0eb7b05ddcf1740c357ad8fcaa61",
-      "title": "Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000251315",
-      "published_date": "2026-05-01T16:10:17Z",
-      "category": "Economy"
-    },
-    {
-      "id": "e9611290a86292c0eb2dc120a9a99fb1",
-      "title": "(URGENT) Trump says U.S. will increase tariffs on EU cars and trucks to 25 pct next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000200315",
-      "published_date": "2026-05-01T15:57:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c364334f3191b97f6dc3526a296116ca",
-      "title": "(2nd LD) S. Korea's exports top US$80 bln for 2nd month in April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001052320",
-      "published_date": "2026-05-01T01:21:11Z",
-      "category": "Economy"
-    },
-    {
-      "id": "efa158580c983fbafa5c64d1a104b2ae",
-      "title": "(LEAD) S. Korea's exports top US$80 bln for 2nd month in April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001051320",
-      "published_date": "2026-05-01T00:35:30Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d4dd872a6d161dc7e811f2b69a2dde62",
-      "title": "(EDITORIAL from Korea Times on May 1)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001300315",
-      "published_date": "2026-05-01T00:07:27Z",
-      "category": "Economy"
-    },
-    {
-      "id": "88225265e329e660259428880a7d69c2",
-      "title": "S. Korea's exports top US$80 bln for 2nd month in April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001000320",
-      "published_date": "2026-05-01T00:04:19Z",
-      "category": "Economy"
-    },
-    {
-      "id": "21e778c181777a84a5254686dfc508c6",
-      "title": "(URGENT) S. Korea's exports top US$80 bln for 2nd month in April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501000600320",
-      "published_date": "2026-05-01T00:01:12Z",
-      "category": "Economy"
-    },
-    {
-      "id": "3b9b0c27002b3ba9728d51b1053a68e9",
-      "title": "Russian Far East plans to boost trade with North Korea: officials",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/04/russian-far-east-plans-to-boost-trade-with-north-korea-officials/",
-      "published_date": "2026-04-30T08:34:41Z",
-      "category": "Economy"
-    },
-    {
-      "id": "dacaa4647b7a6343d70ffb2546c52a48",
-      "title": "5 banking groups unveil 1 tln-won support plan for startups",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430008400320",
-      "published_date": "2026-04-30T07:30:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0e5e2cf7dee31b0511ab1c3ff4a98775",
-      "title": "(LEAD) LG Chem shifts to Q1 net loss on equity losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430006451320",
-      "published_date": "2026-04-30T05:40:34Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8116a583e8036c965706cd54df655b96",
-      "title": "Seoul shares up late Thurs. morning on robust tech earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430005400320",
-      "published_date": "2026-04-30T02:56:21Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9105aca1acbdd050cc26d4e1ae03e161",
-      "title": "Finance chief cites financial market's sufficient crisis response capacity amid volatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260430003900320",
-      "published_date": "2026-04-30T01:40:10Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "id": "ad3c9c93c9311f4ac8e412203d00eb20",
-      "title": "(EDITORIAL from Korea JoongAng Daily on May 4)",
+      "id": "02eaedb3dff2543d2f4b515ed3221a2e",
+      "title": "(2nd LD) Trump says U.S. to help free ships stranded in Strait of Hormuz",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504000500320",
-      "published_date": "2026-05-03T22:00:14Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504001552315",
+      "published_date": "2026-05-04T11:20:55Z",
       "category": "Local Events"
     },
     {
-      "id": "477357b5fbc51b7dca6a0ff3f34853ca",
-      "title": "(EDITORIAL from Korea Herald on May 4)",
+      "id": "d594489443bba47b10609cd4442c88b5",
+      "title": "Court to broadcast live appeals trial of ex-PM Han this week",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504000300320",
-      "published_date": "2026-05-03T21:59:55Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504009900315",
+      "published_date": "2026-05-04T10:41:25Z",
       "category": "Local Events"
     },
     {
-      "id": "9c95373aae8eaa3e38b00c8a95136c0a",
-      "title": "Top headlines in major S. Korean newspapers",
+      "id": "915fcf81e6e34721b8db0e7b1cb7ff5f",
+      "title": "Arrest warrants issued for 2 men over fatal assault of film director",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504000200320",
-      "published_date": "2026-05-03T21:59:43Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504007800315",
+      "published_date": "2026-05-04T07:58:44Z",
       "category": "Local Events"
     },
     {
-      "id": "f40fb8c2e03acccb912622427536f1c5",
-      "title": "Arrest warrant issued for key drug supplier to notorious drug kingpin Park Wang-yeol",
+      "id": "eb342122da5909789b66598cfddace52",
+      "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503003400315",
-      "published_date": "2026-05-03T11:46:00Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504008400315",
+      "published_date": "2026-05-04T07:57:50Z",
       "category": "Local Events"
     },
     {
-      "id": "bbea6f634cf97d779af2a92d316a2333",
-      "title": "(2nd LD) S. Korean Earth-observation satellite successfully put into orbit",
+      "id": "e9505db0c805a307e0a0dddaca71b309",
+      "title": "Presidential chief of staff orders action on biz abuses by ex-public employees",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503002352315",
-      "published_date": "2026-05-03T09:46:58Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504007500315",
+      "published_date": "2026-05-04T07:50:25Z",
       "category": "Local Events"
     },
     {
-      "id": "bbab2ef7edd87cd27a2faa2e755c25ac",
+      "id": "92d2079bac01a07de82f3df7de612cfc",
+      "title": "Resident foreign workers top 1.1 mln: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504008000315",
+      "published_date": "2026-05-04T07:47:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c6f9c61bdacbf7afb4d29f19d2a31399",
+      "title": "(URGENT) Seoul shares shoot up over 5 pct to hit fresh high, approaching 7,000 on chip rally; won sharply up",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005400320",
+      "published_date": "2026-05-04T06:32:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5a619ae82a75119f67bbeba40bcfdc58",
+      "title": "Korean films win awards at Italian film fest",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005800315",
+      "published_date": "2026-05-04T06:25:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "29fa2e9491bec788a709f70bd182ddde",
+      "title": "G-Dragon's agency apologizes over stage outfit featuring racial slur",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504005100315",
+      "published_date": "2026-05-04T05:24:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "152d487ab384c901422ffd3a2082d7de",
+      "title": "Human rights watchdog chief says 'extreme' early education poses serious rights issue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504004800315",
+      "published_date": "2026-05-04T05:24:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c84817c11b181cefba58a529acb27d9e",
       "title": "Today in Korean history",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503000400320",
-      "published_date": "2026-05-03T05:00:01Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504001200320",
+      "published_date": "2026-05-04T05:00:01Z",
       "category": "Local Events"
     },
     {
-      "id": "ff8b5febda4ffde24af182f4728b60e3",
-      "title": "S. Korea to participate in Offshore Technology Conference this week",
+      "id": "56eb3362ec17ce7c62dadc2266760ed8",
+      "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503001000320",
-      "published_date": "2026-05-03T02:23:05Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504004500320",
+      "published_date": "2026-05-04T04:30:00Z",
       "category": "Local Events"
     },
     {
-      "id": "0252f344f7aee5a087dd5c6948d29c6b",
-      "title": "Police impose travel ban on Japanese K-pop trainee over alleged fraud",
+      "id": "6e4d305c6474c6ae19db6afcc27b64f4",
+      "title": "Half of upper elementary students use smart devices for over 2 hours",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503000800315",
-      "published_date": "2026-05-03T01:29:34Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504003800315",
+      "published_date": "2026-05-04T02:51:53Z",
       "category": "Local Events"
     },
     {
-      "id": "3eb243586cd947cbe4eb5cc69421207d",
-      "title": "Progressive civic group holds protest rally outside U.S. Embassy",
+      "id": "01d1af6e22bd1cd6089df2b9f654066a",
+      "title": "(LEAD) Special counsel appeals ex-first lady's 4-year corruption sentence to Supreme Court",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502002500315",
-      "published_date": "2026-05-02T12:49:02Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504002852315",
+      "published_date": "2026-05-04T02:30:02Z",
       "category": "Local Events"
     },
     {
-      "id": "369bb7976787dff9e9bae54d9e648bac",
-      "title": "Yonhap, Save the Children host mini marathon to support children of migrant workers",
+      "id": "f8b7db7e4b984c4ac1835174118c0639",
+      "title": "Special counsel appeals ex-first lady's 4-year corruption sentence to Supreme Court",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502001600315",
-      "published_date": "2026-05-02T06:45:39Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504002851315",
+      "published_date": "2026-05-04T01:56:01Z",
       "category": "Local Events"
     },
     {
-      "id": "377836905ec454210a6612fb01a9267e",
-      "title": "Today in Korean history",
+      "id": "99aad8519cb1ade0d794ab1d93a6179a",
+      "title": "(LEAD) Trump says U.S. to help free ships stranded in Strait of Hormuz",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000700315",
-      "published_date": "2026-05-02T05:00:01Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504001551315",
+      "published_date": "2026-05-04T01:47:45Z",
       "category": "Local Events"
     },
     {
-      "id": "44fdc8629995f56c0cbdc4f7fbc621ce",
-      "title": "Top headlines in major S. Korean newspapers",
+      "id": "f4d97751eb14b13e2ede46009d33d25c",
+      "title": "Surging Giants to take on KBO-leading Wiz",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000600315",
-      "published_date": "2026-05-02T00:07:47Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504002700315",
+      "published_date": "2026-05-04T01:09:49Z",
       "category": "Local Events"
     },
     {
-      "id": "f43f3c8ad3c7f0179581c630b954160d",
-      "title": "(2nd LD) Trump says he's 'not satisfied' with Iran proposal, calls Tehran leadership 'extremely disjointed'",
+      "id": "48b358ccd49f3f5e6ad385f3b8dcea02",
+      "title": "BTS' 'Arirang' stays in top 5 on Billboard 200 for 6th straight week",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000352315",
-      "published_date": "2026-05-01T19:36:59Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504002100315",
+      "published_date": "2026-05-04T00:25:54Z",
       "category": "Local Events"
     },
     {
-      "id": "79b8e8fa12d72adc9d880d51ac44d97c",
-      "title": "(LEAD) Trump says he's 'not satisfied' with Iran proposal, calls Tehran leadership 'extremely disjointed'",
+      "id": "f2d20c0c7ab77157ebf3b5b591b332b0",
+      "title": "Trump says U.S. to help free ships stranded in Strait of Hormuz",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000351315",
-      "published_date": "2026-05-01T18:13:38Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504001500315",
+      "published_date": "2026-05-04T00:01:48Z",
       "category": "Local Events"
     },
     {
-      "id": "d3639f16b29475ba7e14010c257cb7d8",
-      "title": "Trump says he's 'not satisfied' with Iran proposal, calls Tehran leadership 'extremely disjointed'",
+      "id": "b5d900bc25ae183d233801bf1b338669",
+      "title": "(URGENT) Seoul shares open at fresh record high on eased Mideast tension",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000300315",
-      "published_date": "2026-05-01T17:47:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "270ec6a2a8dcf80d7da8810f3fb7e163",
-      "title": "Highways congested on 1st day of extended holiday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501004300315",
-      "published_date": "2026-05-01T10:37:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0625f22679aaaef6e9ef23411df8c43c",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501000500320",
-      "published_date": "2026-05-01T05:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7586f9f0ee671018978291c0cb5d8a2a",
-      "title": "Foreign buying, holdings of S. Korean government bonds rise after WGBI entry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001800320",
-      "published_date": "2026-05-01T02:18:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "355c2c43fa003ba84a3acf4d3b721411",
-      "title": "Drug supplier to notorious drug kingpin Park Wang-yeol repatriated from Thailand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001700315",
-      "published_date": "2026-05-01T01:58:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d3c9880fe24df822fa5a78ff95587b55",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260501001100315",
-      "published_date": "2026-05-01T00:06:35Z",
+      "url": "https://en.yna.co.kr/view/AEN20260504001300320",
+      "published_date": "2026-05-04T00:01:31Z",
       "category": "Local Events"
     }
   ]
