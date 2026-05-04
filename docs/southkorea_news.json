@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-04T12:21:49Z",
+  "generated_at": "2026-05-04T23:42:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "3641fe72c0e602e41cf88a64643b0797",
+      "title": "(URGENT) Trump says Iran has taken some shots at unrelated nations, including S. Korean cargo ship",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505000300315",
+      "published_date": "2026-05-04T17:23:48Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "106a9158898180b29c35891f3bd6c643",
       "title": "Eagles ace Moon Dong-ju to undergo shoulder surgery",
@@ -160,17 +168,25 @@
       "url": "https://www.nknews.org/2026/05/north-korean-womens-soccer-team-to-play-in-south-for-first-time-in-12-years/",
       "published_date": "2026-05-04T04:04:46Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "685ecb92bcf9071be34f8d52d773f500",
-      "title": "(LEAD) N. Korean women's football club to travel to S. Korea for regional tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504003551315",
-      "published_date": "2026-05-04T02:46:09Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "e5adb9a677b4f710dfe839fddcba4d51",
+      "title": "(LEAD) 2 U.S. merchant ships have successfully transited through Strait of Hormuz: U.S. military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010651315",
+      "published_date": "2026-05-04T14:50:18Z",
+      "category": "Military"
+    },
+    {
+      "id": "41217c7e539b66b7a67b3736e66e8584",
+      "title": "2 U.S. merchant ships have successfully transited through Strait of Hormuz: U.S. military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010600315",
+      "published_date": "2026-05-04T13:04:49Z",
+      "category": "Military"
+    },
     {
       "id": "0e770b72e28da5c57a8cb130f1f05cec",
       "title": "More than 14K North Koreans currently fighting for Russia against Ukraine: Kyiv",
@@ -480,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "cc641c6e50aa6ea72b66b7a21bde1b9e",
+      "title": "USTR to hold public hearings this week on foreign practices tied to excess capacity",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505000200315",
+      "published_date": "2026-05-04T15:52:10Z",
+      "category": "Economy"
+    },
+    {
       "id": "e14cbd6fa5a67466fea7618b82754b79",
       "title": "Presidential policy chief forecasts slower housing price growth beginning in May",
       "source": "Yonhap News Agency",
@@ -630,17 +654,105 @@
       "url": "https://en.yna.co.kr/view/AEN20260503001900320",
       "published_date": "2026-05-03T04:46:51Z",
       "category": "Economy"
-    },
-    {
-      "id": "10aac475329321c465069e9a5343fbe2",
-      "title": "Over 400 S. Korea-listed firms exceed 1 tln won in market capitalization",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503000900320",
-      "published_date": "2026-05-03T01:33:32Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "0567d5b46319668779f7779b2557ce93",
+      "title": "(3rd LD) Trump says Iran fired at S. Korean vessel, urges Seoul to join Strait of Hormuz mission",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505000354315",
+      "published_date": "2026-05-04T19:46:26Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f9f1603d26156a14241aeda0f2bc1a50",
+      "title": "Trump-Kim meeting 'not currently' scheduled for upcoming Asia trip: White House official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505000400315",
+      "published_date": "2026-05-04T19:04:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "82a9dcd49806f71154a7419d80d7209a",
+      "title": "(2nd LD) Trump says Iran fired at S. Korean vessel, urges Seoul to join Strait of Hormuz mission",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505000353315",
+      "published_date": "2026-05-04T18:36:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9da0d20f2e8734bf8bbf5f1a5aceb5bc",
+      "title": "(LEAD) Trump says Iran fired at S. Korean vessel, urges Seoul to join Strait of Hormuz mission",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505000352315",
+      "published_date": "2026-05-04T18:14:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e807df1171e52a1bb7dd77e9b4d8b2ba",
+      "title": "Trump says Iran has taken shots at S. Korean vessel, calls for Seoul to join Strait of Hormuz mission",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505000351315",
+      "published_date": "2026-05-04T17:42:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3fa8a8f9a9772437402454324121be35",
+      "title": "(3rd LD) Explosion followed by fire reported on S. Korean vessel in Strait of Hormuz: foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010953315",
+      "published_date": "2026-05-04T15:23:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "58625fc624640f3ee48807ca1ec0a9d3",
+      "title": "(2nd LD) Explosion followed by fire reported on S. Korean vessel in Strait of Hormuz: foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010952315",
+      "published_date": "2026-05-04T14:30:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7395ce327b47bddf4ff8d29d24eb6564",
+      "title": "(URGENT) Explosion followed by fire reported on S. Korean vessel in Strait of Hormuz: foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504011000315",
+      "published_date": "2026-05-04T14:04:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "dc4d929ed17282df05be7dd9862981ba",
+      "title": "(LEAD) Gov't verifying report of possible attack on S. Korean vessel in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010951315",
+      "published_date": "2026-05-04T13:54:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "667ec55f9c6e6de6a7ab09aaf2a0392d",
+      "title": "Gov't verifying report of possible attack on S. Korean vessel in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010900315",
+      "published_date": "2026-05-04T13:33:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "893d017d9447f564ee1352884ef57507",
+      "title": "(URGENT) No casualties involving S. Korean nationals confirmed so far in Strait of Hormuz: foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010700315",
+      "published_date": "2026-05-04T13:12:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3ff5a330fe3195c7d3cc5ee47aaf41dc",
+      "title": "(URGENT) Gov't verifying report of possible attack on S. Korean vessel in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260504010500315",
+      "published_date": "2026-05-04T12:52:27Z",
+      "category": "Local Events"
+    },
     {
       "id": "02eaedb3dff2543d2f4b515ed3221a2e",
       "title": "(2nd LD) Trump says U.S. to help free ships stranded in Strait of Hormuz",
@@ -703,102 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260504005800315",
       "published_date": "2026-05-04T06:25:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "29fa2e9491bec788a709f70bd182ddde",
-      "title": "G-Dragon's agency apologizes over stage outfit featuring racial slur",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504005100315",
-      "published_date": "2026-05-04T05:24:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "152d487ab384c901422ffd3a2082d7de",
-      "title": "Human rights watchdog chief says 'extreme' early education poses serious rights issue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504004800315",
-      "published_date": "2026-05-04T05:24:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c84817c11b181cefba58a529acb27d9e",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504001200320",
-      "published_date": "2026-05-04T05:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "56eb3362ec17ce7c62dadc2266760ed8",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504004500320",
-      "published_date": "2026-05-04T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6e4d305c6474c6ae19db6afcc27b64f4",
-      "title": "Half of upper elementary students use smart devices for over 2 hours",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504003800315",
-      "published_date": "2026-05-04T02:51:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "01d1af6e22bd1cd6089df2b9f654066a",
-      "title": "(LEAD) Special counsel appeals ex-first lady's 4-year corruption sentence to Supreme Court",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504002852315",
-      "published_date": "2026-05-04T02:30:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f8b7db7e4b984c4ac1835174118c0639",
-      "title": "Special counsel appeals ex-first lady's 4-year corruption sentence to Supreme Court",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504002851315",
-      "published_date": "2026-05-04T01:56:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "99aad8519cb1ade0d794ab1d93a6179a",
-      "title": "(LEAD) Trump says U.S. to help free ships stranded in Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504001551315",
-      "published_date": "2026-05-04T01:47:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f4d97751eb14b13e2ede46009d33d25c",
-      "title": "Surging Giants to take on KBO-leading Wiz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504002700315",
-      "published_date": "2026-05-04T01:09:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "48b358ccd49f3f5e6ad385f3b8dcea02",
-      "title": "BTS' 'Arirang' stays in top 5 on Billboard 200 for 6th straight week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504002100315",
-      "published_date": "2026-05-04T00:25:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f2d20c0c7ab77157ebf3b5b591b332b0",
-      "title": "Trump says U.S. to help free ships stranded in Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504001500315",
-      "published_date": "2026-05-04T00:01:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b5d900bc25ae183d233801bf1b338669",
-      "title": "(URGENT) Seoul shares open at fresh record high on eased Mideast tension",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504001300320",
-      "published_date": "2026-05-04T00:01:31Z",
       "category": "Local Events"
     }
   ]
