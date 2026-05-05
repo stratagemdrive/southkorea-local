@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-05T12:04:42Z",
+  "generated_at": "2026-05-05T23:38:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "923f2ca7fe27a06fc58d5edbcf5c4ffc",
+      "title": "Unionized members of Samsung Biologics shifts to work-to-rule campaign",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000900320",
+      "published_date": "2026-05-05T22:44:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c822c85a189a3851334d52c28c588256",
+      "title": "(LEAD) Hegseth urges S. Korea, other countries to 'step up' to help reopen Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505005751315",
+      "published_date": "2026-05-05T14:08:59Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "973d1b60bdb93457e1fd78bbdd06586b",
       "title": "Drone strike near DPRK embassy dims prospects for a Kim Jong Un visit to Moscow",
@@ -152,25 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260504009400315",
       "published_date": "2026-05-04T08:23:45Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "a0e4e86dc1e69184e84285a8ec676235",
-      "title": "Global sales of Hyundai Motor down in April amid production decline",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504008200320",
-      "published_date": "2026-05-04T08:00:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "672ee5e06c9f4502f8bb20f6de9e6e50",
-      "title": "Rival parties clash over DP's push for special counsel bill on prosecution's alleged fabrication",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504007400315",
-      "published_date": "2026-05-04T07:57:28Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "beac3fb2cc83557280546f9050e85e6e",
+      "title": "Hegseth urges S. Korea to 'step up' to help reopen Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260505005700315",
+      "published_date": "2026-05-05T13:44:54Z",
+      "category": "Military"
+    },
     {
       "id": "a659c47682add2380d568f3555015dc0",
       "title": "3 Army officers dismissed from military service; 1 removed over martial law involvement",
@@ -318,6 +326,30 @@
   ],
   "Energy": [
     {
+      "id": "82b26fa621f5babe717e5771b00337dc",
+      "title": "(LEAD) Consumer prices rise at fastest pace in 21 months in April on soaring fuel prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506001151320",
+      "published_date": "2026-05-05T23:32:33Z",
+      "category": "Energy"
+    },
+    {
+      "id": "0553ad379b4b3b612bcb1f80a9d2cf29",
+      "title": "Consumer prices rise at fastest pace in 21 months in April on soaring fuel prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506001100320",
+      "published_date": "2026-05-05T23:00:05Z",
+      "category": "Energy"
+    },
+    {
+      "id": "f90793e026787b4cfba03479c3eeb77e",
+      "title": "(URGENT) Consumer prices rise at fastest pace in 21 months in April on soaring fuel prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506001000320",
+      "published_date": "2026-05-05T23:00:01Z",
+      "category": "Energy"
+    },
+    {
       "id": "8d355b31dae751b01f29d8d914ec02d4",
       "title": "(EDITORIAL from Korea Times on May 4)",
       "source": "Yonhap News Agency",
@@ -451,30 +483,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260429009951320",
       "published_date": "2026-04-29T10:36:53Z",
-      "category": "Energy"
-    },
-    {
-      "id": "611ba0ee36e1d0181ee70ed766b7a365",
-      "title": "(2nd LD) Seoul stocks end at fresh record high on revived hope for AI boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429007552320",
-      "published_date": "2026-04-29T07:49:11Z",
-      "category": "Energy"
-    },
-    {
-      "id": "2dc6e4c092dfd68f53bbee12d50c015a",
-      "title": "R&D spending by S. Korean ICT companies up over 13 pct in 2024: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429009400320",
-      "published_date": "2026-04-29T07:26:47Z",
-      "category": "Energy"
-    },
-    {
-      "id": "1ec1d765405286e470d7348a64f32f2e",
-      "title": "(LEAD) Seoul stocks end at fresh record high on revived hope for AI boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260429007551320",
-      "published_date": "2026-04-29T07:02:20Z",
       "category": "Energy"
     }
   ],
@@ -642,6 +650,62 @@
   ],
   "Local Events": [
     {
+      "id": "305ac7e93f5c1957c8d9eadc08f8f85d",
+      "title": "(LEAD) Coupang swings to net loss in Q1 amid fallout from data breach",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000451320",
+      "published_date": "2026-05-05T21:58:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "27b4a516e2cc252dd2d72956456e14ad",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000800315",
+      "published_date": "2026-05-05T21:57:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b0f9e83dfe935fa1677050d94b346bf9",
+      "title": "(EDITORIAL from Korea Times on May 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000700315",
+      "published_date": "2026-05-05T21:57:49Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "59e34a84c8182fac294f1345a1349ad3",
+      "title": "(EDITORIAL from Korea Herald on May 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000600315",
+      "published_date": "2026-05-05T21:57:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9e9d4caeeadc7ea645fb9b627bf249fd",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000500315",
+      "published_date": "2026-05-05T21:57:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a7839a73bf5f2f929f0933c0a4078efa",
+      "title": "Coupang swings to net loss in Q1 amid fallout from data breach",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000400320",
+      "published_date": "2026-05-05T21:18:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d101c88035d83ab6ec7530556aff5e60",
+      "title": "Trump says S. Korean-operated ship 'shot at' by Iran after deciding to 'go it alone'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260506000300315",
+      "published_date": "2026-05-05T17:06:57Z",
+      "category": "Local Events"
+    },
+    {
       "id": "2ae00d86045f3ddba8f4d59b267b9e1e",
       "title": "(3rd LD) S. Korea says likely to take days to analyze cause of fire on HMM-operated vessel in Strait of Hormuz",
       "source": "Yonhap News Agency",
@@ -743,62 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260505000353315",
       "published_date": "2026-05-04T18:36:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9da0d20f2e8734bf8bbf5f1a5aceb5bc",
-      "title": "(LEAD) Trump says Iran fired at S. Korean vessel, urges Seoul to join Strait of Hormuz mission",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260505000352315",
-      "published_date": "2026-05-04T18:14:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e807df1171e52a1bb7dd77e9b4d8b2ba",
-      "title": "Trump says Iran has taken shots at S. Korean vessel, calls for Seoul to join Strait of Hormuz mission",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260505000351315",
-      "published_date": "2026-05-04T17:42:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3fa8a8f9a9772437402454324121be35",
-      "title": "(3rd LD) Explosion followed by fire reported on S. Korean vessel in Strait of Hormuz: foreign ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504010953315",
-      "published_date": "2026-05-04T15:23:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "58625fc624640f3ee48807ca1ec0a9d3",
-      "title": "(2nd LD) Explosion followed by fire reported on S. Korean vessel in Strait of Hormuz: foreign ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504010952315",
-      "published_date": "2026-05-04T14:30:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7395ce327b47bddf4ff8d29d24eb6564",
-      "title": "(URGENT) Explosion followed by fire reported on S. Korean vessel in Strait of Hormuz: foreign ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504011000315",
-      "published_date": "2026-05-04T14:04:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dc4d929ed17282df05be7dd9862981ba",
-      "title": "(LEAD) Gov't verifying report of possible attack on S. Korean vessel in Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504010951315",
-      "published_date": "2026-05-04T13:54:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "667ec55f9c6e6de6a7ab09aaf2a0392d",
-      "title": "Gov't verifying report of possible attack on S. Korean vessel in Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504010900315",
-      "published_date": "2026-05-04T13:33:22Z",
       "category": "Local Events"
     }
   ]
