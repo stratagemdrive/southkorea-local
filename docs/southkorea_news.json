@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-08T12:09:24Z",
+  "generated_at": "2026-05-08T23:45:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "8a9ac4cc037a010d9c16b613d6328f59",
+      "title": "(LEAD) S. Korea, U.S. sign MOU to advance shipbuilding cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000551315",
+      "published_date": "2026-05-08T21:59:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "60ad31bf97344aa1e97727caab72d624",
+      "title": "Bessent to visit S. Korea next week en route to China for Trump-Xi summit: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260508012400315",
+      "published_date": "2026-05-08T21:55:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a35b35366ca989f20a73547a934618de",
+      "title": "N. Korea's Kim reaffirms commitment to deepening ties with Russia in Victory Day message",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000600315",
+      "published_date": "2026-05-08T21:43:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8e5991e752d83da68df0110c201464b4",
+      "title": "S. Korea, U.S. sign MOU to advance shipbuilding cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000500315",
+      "published_date": "2026-05-08T21:12:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "23fdbc74d5ff2b9815931b0ccc466506",
+      "title": "U.S. expecting Iran to respond to peace proposals Friday: Rubio",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000400315",
+      "published_date": "2026-05-08T19:52:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "36bd0e3477eecd7956df1baa46629111",
+      "title": "North Korea pushes boil-water order as spring disease season arrives",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-waterborne-disease-sanitation-campaign/",
+      "published_date": "2026-05-08T17:36:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "012e3523aed1e5d6950fd8c2256b45f9",
+      "title": "North Korea’s policing problem: corruption, crime, and Kim Jong Un’s reform gambit",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-police-system-kim-jong-un-reform-bribery/",
+      "published_date": "2026-05-08T13:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2840e807d04da5240dff47039e3360e8",
+      "title": "North Korea dispatches central party inspectors to Rason customs facility",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rason-inspection-outside-information/",
+      "published_date": "2026-05-08T13:10:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b459b55e098be0d47c51e579b1948dfc",
       "title": "(2nd LD) Samsung Electronics' labor union, management to hold follow-up wage talks next week",
@@ -104,73 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260508007300315",
       "published_date": "2026-05-08T06:07:33Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "f36340cc7f848558c9d257f2d3338c44",
-      "title": "(LEAD) Lee vows to build nation where state shares responsibility of parents",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003451315",
-      "published_date": "2026-05-08T04:47:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "197061dac282a79b026b00eb598de9a6",
-      "title": "Lee warns hoarding of war-hit supplies will lead to 'ruin'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508006400315",
-      "published_date": "2026-05-08T04:46:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "773c403aa9d8e0f239ea28c271acae01",
-      "title": "BOK chief to attend BIS governors' meeting in Switzerland",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003900320",
-      "published_date": "2026-05-08T03:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fba170993e73173bb9247f124a280b50",
-      "title": "Lee's special envoy meets Costa Rican president-elect, discusses bilateral ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508005600315",
-      "published_date": "2026-05-08T02:37:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c9ca686aa247c8015be7697d74d9bcc9",
-      "title": "Prosecutors bust 10-member stock manipulation ring",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508005400315",
-      "published_date": "2026-05-08T02:29:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f05a15d4ccfa622168cc92d0152cbcb2",
-      "title": "Soprano Sumi Jo named S. Korea's cultural cooperation ambassador",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003500315",
-      "published_date": "2026-05-08T01:18:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3ce964b0cd1e93d7c1469a084592e2a2",
-      "title": "(2nd LD) S. Korea logs largest-ever current account surplus in March: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508001552320",
-      "published_date": "2026-05-08T01:11:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8df877612d857f1daf9d7d79d9253076",
-      "title": "Lee vows to build nation where state shares responsibility of parents",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003400315",
-      "published_date": "2026-05-08T01:10:32Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "b69f155b9d429baf7d5ac6bcaffcb356",
+      "title": "Rubio raises questions over allies' lack of support for U.S. military efforts against Iran",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000300315",
+      "published_date": "2026-05-08T18:11:39Z",
+      "category": "Military"
+    },
     {
       "id": "e2ea8c9b842b43641c48bf7ae7022e8f",
       "title": "NIS, Army partner to bolster S. Korea's drone security capabilities",
@@ -305,14 +313,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260502000451315",
       "published_date": "2026-05-02T00:06:09Z",
-      "category": "Military"
-    },
-    {
-      "id": "ad4799ed4fe09ccfcfcc99531af2e987",
-      "title": "Hegseth has ordered withdrawal of about 5,000 troops from Germany: Pentagon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000400315",
-      "published_date": "2026-05-01T22:25:26Z",
       "category": "Military"
     }
   ],
@@ -626,6 +626,30 @@
   ],
   "Local Events": [
     {
+      "id": "5599083efffc646c63be2fef7c4fda1b",
+      "title": "(News Focus) Local brokerages beef up preparations for omnibus accounts amid KOSPI surge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260508009900320",
+      "published_date": "2026-05-08T23:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "907c4ebf604113ecd256b882b36e5359",
+      "title": "'The King's Warden' duo scores wins at Baeksang Awards",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000200315",
+      "published_date": "2026-05-08T16:04:49Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "814a86457ee0cba812bd1e1bf8426791",
+      "title": "Tigers slugger Rodriguez sets record with 4 consecutive homers to begin KBO career",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260508012300315",
+      "published_date": "2026-05-08T12:50:05Z",
+      "category": "Local Events"
+    },
+    {
       "id": "1b9fc9b5eb3eaaf81e4e2b9d802e3db2",
       "title": "PPP leader says public concerned about Lee's 'hasty' push to retake wartime troop control",
       "source": "Yonhap News Agency",
@@ -759,30 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260508005700315",
       "published_date": "2026-05-08T02:53:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d569a2004159fe06109c8910b9f9b253",
-      "title": "HMM to relocate headquarters from Seoul to Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508004200320",
-      "published_date": "2026-05-08T02:38:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2839ec799b65351bb01e938ff35b0c43",
-      "title": "Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508005300315",
-      "published_date": "2026-05-08T02:26:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "42ea3fd2a660fe5ce4b14932e601f4e8",
-      "title": "Conscripts advised to participate in early voting for June local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003100315",
-      "published_date": "2026-05-08T01:31:20Z",
       "category": "Local Events"
     }
   ]
