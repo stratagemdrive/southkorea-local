@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-08T23:45:05Z",
+  "generated_at": "2026-05-09T11:53:13Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "77935331fffec19a276880ddc2557163",
+      "title": "(LEAD) N. Korean troops march in Russia's Victory Day parade for 1st time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509003151320",
+      "published_date": "2026-05-09T10:02:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dd348df793d8ecffe45f8e45de93a952",
+      "title": "N. Korean troops march in Russia's Victory Day parade for 1st time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509003100320",
+      "published_date": "2026-05-09T09:57:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dd7e0103d6cf2db0471bb608ec977946",
+      "title": "(LEAD) N. Korea's Kim reaffirms commitment to deepening ties with Russia in Victory Day message",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000651315",
+      "published_date": "2026-05-09T07:19:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "341c6407d9f2a528592c5411b00177d8",
+      "title": "LVMH CEO Arnault to visit Seoul next week: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509002000320",
+      "published_date": "2026-05-09T03:06:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0f927182e0d04d1df82767e6f672de33",
+      "title": "Defense Minister Ahn to visit U.S. next week for talks with Hegseth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509001800315",
+      "published_date": "2026-05-09T03:02:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b1190b960c59a1db02aadcef8fabdd85",
+      "title": "Japanese PM considering visiting Lee's hometown for summit on May 19: Kyodo",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509001900320",
+      "published_date": "2026-05-09T02:51:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c9f9d3437a8ddaf3b90b8ec88a52ebd3",
+      "title": "Lee says people saved him from 2024 knife attack, vows to devote himself to country",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509001300315",
+      "published_date": "2026-05-09T01:30:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d26510f8b2d9ef636af65f391ee119ab",
+      "title": "Trump says, 'I love S. Korea,' after Seoul, Washington sign MOU on shipbuilding cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509001100315",
+      "published_date": "2026-05-09T00:52:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e96a091f6d8fec52d1754aa952a3c888",
+      "title": "(2nd LD) S. Korea, U.S. sign MOU to advance shipbuilding cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000552315",
+      "published_date": "2026-05-08T23:55:10Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8a9ac4cc037a010d9c16b613d6328f59",
       "title": "(LEAD) S. Korea, U.S. sign MOU to advance shipbuilding cooperation",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260508011800315",
       "published_date": "2026-05-08T08:52:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fc69d08ab6d316b820459f7094a46b21",
-      "title": "(LEAD) Samsung Electronics' labor union, management to hold follow-up wage talks next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508010651320",
-      "published_date": "2026-05-08T08:17:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1311ab049e829ede7d103d4481e13e7c",
-      "title": "Samsung Electronics' labor union, management to hold follow-up wage talks next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508010600320",
-      "published_date": "2026-05-08T08:01:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8d4571796d6cfa75af08ed02d6832683",
-      "title": "S. Korea not considering military logistics support pact with Japan: defense ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508009200315",
-      "published_date": "2026-05-08T07:12:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "29bc09af151ae6b0e72c61dc95af1a05",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003800315",
-      "published_date": "2026-05-08T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "913b4682166beaaef10d583f2e25c4d8",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508004100315",
-      "published_date": "2026-05-08T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1cc21a7cd48469358a9cd863e3769d03",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508004400315",
-      "published_date": "2026-05-08T07:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2e58807aabce49128d5cc3f63246dc3d",
-      "title": "Special envoy visits Kuwait, Bahrain, Iraq to discuss Mideast conflict, bilateral ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508009100315",
-      "published_date": "2026-05-08T06:57:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b1f38b92b6cd2b7059d5978987124342",
-      "title": "Researchers develop AI medical tool for North Korean defectors",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/south-korean-researchers-develop-ai-medical-tool-for-north-korean-defectors/",
-      "published_date": "2026-05-08T06:31:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "44a7dfbb1b9fdceeec1fd3f7ef319555",
-      "title": "S. Korea holds evacuation drill simulating political unrest in Georgia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508007300315",
-      "published_date": "2026-05-08T06:07:33Z",
       "category": "Diplomacy"
     }
   ],
@@ -305,14 +305,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260503001100315",
       "published_date": "2026-05-03T02:28:31Z",
-      "category": "Military"
-    },
-    {
-      "id": "6cae2358947d34af9790d4773cac996f",
-      "title": "(LEAD) Hegseth has ordered withdrawal of about 5,000 troops from Germany: Pentagon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260502000451315",
-      "published_date": "2026-05-02T00:06:09Z",
       "category": "Military"
     }
   ],
@@ -626,6 +618,38 @@
   ],
   "Local Events": [
     {
+      "id": "38983ea4d3bb06b4e5cabc3ff7266b20",
+      "title": "Gov't continues inspection into fire on S. Korean-operated vessel in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509002700320",
+      "published_date": "2026-05-09T08:24:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2f060ec32e88b068a2f8965212024715",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509001200320",
+      "published_date": "2026-05-09T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "46a95a7f583d9d7abde4c655e0819f42",
+      "title": "S. Korea seizes 2 Chinese boats over illegal fishing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509000900320",
+      "published_date": "2026-05-09T00:58:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "03f47afe8593dfccc113bbf56024a998",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260509001000320",
+      "published_date": "2026-05-09T00:45:14Z",
+      "category": "Local Events"
+    },
+    {
       "id": "5599083efffc646c63be2fef7c4fda1b",
       "title": "(News Focus) Local brokerages beef up preparations for omnibus accounts amid KOSPI surge",
       "source": "Yonhap News Agency",
@@ -751,38 +775,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260508005751315",
       "published_date": "2026-05-08T05:24:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8b492cd47f1c18d184cea9b7d1a59f75",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508001600315",
-      "published_date": "2026-05-08T05:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "10cbf0b6dfec94c06e4074456681b2fe",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508006500315",
-      "published_date": "2026-05-08T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "296f194ede0b9b7e922ce286819e229f",
-      "title": "Anti-corruption body demands probe into acquittal of ex-first lady in handbag scandal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508006100315",
-      "published_date": "2026-05-08T03:02:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "96886e4f85dbce68304646390a9a92d3",
-      "title": "Ex-commander sentenced to 3 yrs in prison over 2023 death of young Marine",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508005700315",
-      "published_date": "2026-05-08T02:53:31Z",
       "category": "Local Events"
     }
   ]
