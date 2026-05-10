@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-10T11:54:17Z",
+  "generated_at": "2026-05-10T23:40:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "3bbb441d72e4eaf970f134897080a12d",
+      "title": "Smugglers caught trying to sneak vehicles across the North Korea-China border",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-china-border-smuggling-jilin-vehicles/",
+      "published_date": "2026-05-10T22:59:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9539d928b0380023e5469c8b087cb5d8",
+      "title": "Im Sung-jae records 2nd top-10 finish of season in final event before major",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511001000315",
+      "published_date": "2026-05-10T22:47:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f3ef039a289ec7316463b16520f47e0b",
+      "title": "Bessent says will visit Seoul ahead of Trump-Xi summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511000300315",
+      "published_date": "2026-05-10T22:21:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7033421c994af7a4db65cf08bfea6dc9",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511000800315",
+      "published_date": "2026-05-10T22:15:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fea2ccfba9bfe5787e65eb346b608b62",
+      "title": "(News Focus) Confirmed strike on vessel may reshape Seoul's stance on joining U.S.-led Hormuz mission: experts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510004000315",
+      "published_date": "2026-05-10T13:58:09Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "447c1b08e712d04558fbdd0a45316e4d",
       "title": "(URGENT) Seoul says participation in U.S.-led Maritime Freedom Construct under review",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260509001800315",
       "published_date": "2026-05-09T03:02:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b1190b960c59a1db02aadcef8fabdd85",
-      "title": "Japanese PM considering visiting Lee's hometown for summit on May 19: Kyodo",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509001900320",
-      "published_date": "2026-05-09T02:51:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c9f9d3437a8ddaf3b90b8ec88a52ebd3",
-      "title": "Lee says people saved him from 2024 knife attack, vows to devote himself to country",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509001300315",
-      "published_date": "2026-05-09T01:30:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d26510f8b2d9ef636af65f391ee119ab",
-      "title": "Trump says, 'I love S. Korea,' after Seoul, Washington sign MOU on shipbuilding cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509001100315",
-      "published_date": "2026-05-09T00:52:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e96a091f6d8fec52d1754aa952a3c888",
-      "title": "(2nd LD) S. Korea, U.S. sign MOU to advance shipbuilding cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509000552315",
-      "published_date": "2026-05-08T23:55:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a9ac4cc037a010d9c16b613d6328f59",
-      "title": "(LEAD) S. Korea, U.S. sign MOU to advance shipbuilding cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509000551315",
-      "published_date": "2026-05-08T21:59:09Z",
       "category": "Diplomacy"
     }
   ],
@@ -302,6 +302,30 @@
   ],
   "Energy": [
     {
+      "id": "46f6389345e66e8a161f2025b5863a7d",
+      "title": "(EDITORIAL from The Korea Herald on May 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511000600315",
+      "published_date": "2026-05-10T22:15:07Z",
+      "category": "Energy"
+    },
+    {
+      "id": "e869c2cbace4b460ab69b0becb168bc8",
+      "title": "Cheong Wa Dae holds working-level NSC meeting over findings on HMM vessel explosion in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510003900315",
+      "published_date": "2026-05-10T12:52:52Z",
+      "category": "Energy"
+    },
+    {
+      "id": "ebb3ff582b85064e9826c1113b2aff3f",
+      "title": "(URGENT) Cheong Wa Dae holds working-level NSC meeting over findings on HMM vessel explosion in Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510003700315",
+      "published_date": "2026-05-10T12:18:29Z",
+      "category": "Energy"
+    },
+    {
       "id": "9cecdaa036ae7d2292a70c1f02b41727",
       "title": "4th S. Korean oil tanker successfully transits through Red Sea",
       "source": "Yonhap News Agency",
@@ -435,14 +459,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260506001000320",
       "published_date": "2026-05-05T23:00:01Z",
-      "category": "Energy"
-    },
-    {
-      "id": "8d355b31dae751b01f29d8d914ec02d4",
-      "title": "(EDITORIAL from Korea Times on May 4)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504000400320",
-      "published_date": "2026-05-03T22:00:06Z",
       "category": "Energy"
     }
   ],
@@ -610,6 +626,30 @@
   ],
   "Local Events": [
     {
+      "id": "78d6a1936b716dfd477e7c042305bdf8",
+      "title": "Supernatural horror 'Salmokji' hits 3 mln admissions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511001200315",
+      "published_date": "2026-05-10T23:16:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a02a2b366c12ac1aad88efdc421e0396",
+      "title": "(EDITORIAL from The Korea Times on May 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511000700315",
+      "published_date": "2026-05-10T22:15:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a088103db0f6a86c2643768ae72c6cfd",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511000500315",
+      "published_date": "2026-05-10T22:14:59Z",
+      "category": "Local Events"
+    },
+    {
       "id": "714a47c0f12bbae127e54b5af467958d",
       "title": "(3rd LD) Seoul concludes 'external strike' caused explosion on HMM vessel in Hormuz",
       "source": "Yonhap News Agency",
@@ -743,30 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260509000200315",
       "published_date": "2026-05-08T16:04:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "814a86457ee0cba812bd1e1bf8426791",
-      "title": "Tigers slugger Rodriguez sets record with 4 consecutive homers to begin KBO career",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508012300315",
-      "published_date": "2026-05-08T12:50:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1b9fc9b5eb3eaaf81e4e2b9d802e3db2",
-      "title": "PPP leader says public concerned about Lee's 'hasty' push to retake wartime troop control",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508012000315",
-      "published_date": "2026-05-08T10:10:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "98f2547b7f9d35d736cc64657526ae21",
-      "title": "Appeals court finds ex-prosecutor guilty in bribery case involving ex-first lady",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508010400315",
-      "published_date": "2026-05-08T08:04:03Z",
       "category": "Local Events"
     }
   ]
