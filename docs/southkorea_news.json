@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-09T23:41:24Z",
+  "generated_at": "2026-05-10T11:54:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "447c1b08e712d04558fbdd0a45316e4d",
+      "title": "(URGENT) Seoul says participation in U.S.-led Maritime Freedom Construct under review",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510003300315",
+      "published_date": "2026-05-10T10:56:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5f3aa7bdb80656bbf044acf11d6f0fcb",
+      "title": "(URGENT) Likelihood of 2 unidentified objects being mines or torpedoes low: foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510003100315",
+      "published_date": "2026-05-10T10:46:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0364ed7b862f9735ad346cdb3c76f80a",
+      "title": "(URGENT) Foreign ministry says 2 unidentified flying objects struck HMM vessel in Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510003000315",
+      "published_date": "2026-05-10T10:41:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "46616aa29ce537e9e0581abb62fda6a3",
+      "title": "(URGENT) Iranian ambassador to S. Korea arrives at foreign ministry; Seoul says will explain outcome of explosion probe",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002900315",
+      "published_date": "2026-05-10T10:40:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fa87acfd8af8d9db3bc7dd17532c1c84",
+      "title": "Hyundai Motor teams up with KAI for advanced air mobility development",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002000315",
+      "published_date": "2026-05-10T05:33:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a66cbe6e0fa2fc282f9325c7ec2ed2c8",
+      "title": "Assembly speaker to visit Netherlands, Kenya for talks on chips, trade",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002100315",
+      "published_date": "2026-05-10T05:30:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ca358856bc037d25072ddd4ed71aa22a",
+      "title": "S. Korean industry chief meets Lutnick for talks on investment projects, cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510000900315",
+      "published_date": "2026-05-10T03:02:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4129a9dbba0d7d21c31c7210758b9422",
+      "title": "Defense minister stresses no major issue in speeding up wartime OPCON transfer with U.S.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510000800315",
+      "published_date": "2026-05-10T02:53:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "61d434879c869f7b48b9233312685f21",
+      "title": "Budget airlines cut 900 round-trip flights, implement other cost-cutting measures amid soaring oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510000700315",
+      "published_date": "2026-05-10T02:37:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bc708a0ff7be0026f1c48fc6eab6717c",
+      "title": "N. Korean media say Putin thanked military commander after Victory Day parade",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510000400315",
+      "published_date": "2026-05-10T01:20:55Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "77935331fffec19a276880ddc2557163",
       "title": "(LEAD) N. Korean troops march in Russia's Victory Day parade for 1st time",
@@ -87,86 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260509000551315",
       "published_date": "2026-05-08T21:59:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "60ad31bf97344aa1e97727caab72d624",
-      "title": "Bessent to visit S. Korea next week en route to China for Trump-Xi summit: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508012400315",
-      "published_date": "2026-05-08T21:55:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a35b35366ca989f20a73547a934618de",
-      "title": "N. Korea's Kim reaffirms commitment to deepening ties with Russia in Victory Day message",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509000600315",
-      "published_date": "2026-05-08T21:43:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8e5991e752d83da68df0110c201464b4",
-      "title": "S. Korea, U.S. sign MOU to advance shipbuilding cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509000500315",
-      "published_date": "2026-05-08T21:12:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "23fdbc74d5ff2b9815931b0ccc466506",
-      "title": "U.S. expecting Iran to respond to peace proposals Friday: Rubio",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260509000400315",
-      "published_date": "2026-05-08T19:52:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "36bd0e3477eecd7956df1baa46629111",
-      "title": "North Korea pushes boil-water order as spring disease season arrives",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-waterborne-disease-sanitation-campaign/",
-      "published_date": "2026-05-08T17:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "012e3523aed1e5d6950fd8c2256b45f9",
-      "title": "North Korea’s policing problem: corruption, crime, and Kim Jong Un’s reform gambit",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-police-system-kim-jong-un-reform-bribery/",
-      "published_date": "2026-05-08T13:22:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2840e807d04da5240dff47039e3360e8",
-      "title": "North Korea dispatches central party inspectors to Rason customs facility",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-rason-inspection-outside-information/",
-      "published_date": "2026-05-08T13:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b459b55e098be0d47c51e579b1948dfc",
-      "title": "(2nd LD) Samsung Electronics' labor union, management to hold follow-up wage talks next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508012200315",
-      "published_date": "2026-05-08T11:18:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bc1369b04c19298e3476d94de3b2cd14",
-      "title": "Lee, Canadian PM discuss by phone cooperation in freedom of navigation in Hormuz, energy supplies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508012100315",
-      "published_date": "2026-05-08T10:40:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "74370d4ff2e227d1c764e9277894d8dd",
-      "title": "Lee, first lady meet merchants, shoppers at traditional market in central Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508011800315",
-      "published_date": "2026-05-08T08:52:27Z",
       "category": "Diplomacy"
     }
   ],
@@ -297,14 +297,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260504002500315",
       "published_date": "2026-05-04T00:59:03Z",
-      "category": "Military"
-    },
-    {
-      "id": "a5b5f871e994ae5a52e278531e1b682e",
-      "title": "Nearly 900 Air Force pilots left for civilian airlines over past decade: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260503001100315",
-      "published_date": "2026-05-03T02:28:31Z",
       "category": "Military"
     }
   ],
@@ -456,6 +448,14 @@
   ],
   "Economy": [
     {
+      "id": "f6ed4c68b46954315c87d46c8f46f8bc",
+      "title": "Overdraft credit loans hit 3-yr high amid stock market rally: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510000500315",
+      "published_date": "2026-05-10T01:46:12Z",
+      "category": "Economy"
+    },
+    {
       "id": "b098ca5df58df646aa2889a3acbaa5f3",
       "title": "(2nd LD) Seoul shares soar to fresh high despite renewed Mideast tensions; won sharply down",
       "source": "Yonhap News Agency",
@@ -606,17 +606,97 @@
       "url": "https://en.yna.co.kr/view/AEN20260507008100320",
       "published_date": "2026-05-07T06:34:37Z",
       "category": "Economy"
-    },
-    {
-      "id": "33f3b41c28216565f0aeac1e31c27949",
-      "title": "Stock market investment gains still being funneled into real estate: BOK report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260507005700320",
-      "published_date": "2026-05-07T03:51:23Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "714a47c0f12bbae127e54b5af467958d",
+      "title": "(3rd LD) Seoul concludes 'external strike' caused explosion on HMM vessel in Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002753315",
+      "published_date": "2026-05-10T11:48:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "873ae5aede0db076721674a328fac786",
+      "title": "(URGENT) Seoul says will not prejudge who to blame for HMM vessel explosion; further probe needed",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510003200315",
+      "published_date": "2026-05-10T10:50:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "72fef21fdcf9e903c69087f6901e7ab1",
+      "title": "(2nd LD) Seoul concludes 'external strike' caused explosion on HMM vessel in Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002752315",
+      "published_date": "2026-05-10T10:49:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "20a8f68a8fa4ff875a0a8118f4212fa2",
+      "title": "(LEAD) Seoul concludes 'external strike' caused explosion on HMM vessel in Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002751315",
+      "published_date": "2026-05-10T10:15:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8b3711cb1028bd1aa4a2f4cab151654a",
+      "title": "Seoul concludes 'external strike' caused explosion on HMM vessel in Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002700315",
+      "published_date": "2026-05-10T10:02:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f314caaffebf2230566a09cf163fdd07",
+      "title": "(URGENT) Seoul concludes 'external strike' caused explosion, fire on HMM vessel in Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002600315",
+      "published_date": "2026-05-10T10:01:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "36d0db3fb5c195bc03ad4a469e91128c",
+      "title": "(LEAD) S. Korea says investigation completed into fire on HMM-operated vessel in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002251315",
+      "published_date": "2026-05-10T06:51:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "353ad364963cf3e2f8b5680c2cf4cfb0",
+      "title": "S. Korea says investigation completed into fire on HMM-operated vessel in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510002200315",
+      "published_date": "2026-05-10T06:15:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "08caddf92129c40b28f6617c0a1dd3d6",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510001100315",
+      "published_date": "2026-05-10T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b3ff777e236fa4851d7efa62daf801d0",
+      "title": "Another S. Korean activist heads to Gaza in defiance of travel ban",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510001300315",
+      "published_date": "2026-05-10T04:30:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9862d5bf1e33c9f74f6958650b1e46a8",
+      "title": "Number of schools overseas teaching Korean up 54 percent over 4 years",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260510000600315",
+      "published_date": "2026-05-10T01:48:40Z",
+      "category": "Local Events"
+    },
     {
       "id": "38983ea4d3bb06b4e5cabc3ff7266b20",
       "title": "Gov't continues inspection into fire on S. Korean-operated vessel in Strait of Hormuz",
@@ -687,94 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260508010400315",
       "published_date": "2026-05-08T08:04:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9fb53a143594f453edb1109b5e26ba6f",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508010800315",
-      "published_date": "2026-05-08T08:01:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6d16bacf94ded53cbde7e974bc73adc9",
-      "title": "Top Asian football body hopes to keep focus on football in all-Korean match",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508010100315",
-      "published_date": "2026-05-08T07:48:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fc9cb3e85322303cf32f950412f5982e",
-      "title": "(LEAD) Ruling party fails to push through constitutional amendment bill amid opposition boycott",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508007451315",
-      "published_date": "2026-05-08T07:48:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "34944c2613db901adce2bc026ebc4dd3",
-      "title": "Police to strengthen patrols as deadly random attack fuels public fear",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508009700315",
-      "published_date": "2026-05-08T07:37:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d40a03c209983efb4ddacd4f95aaaa7d",
-      "title": "PM holds ODA meeting focused on healthcare, cultural sectors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508008100315",
-      "published_date": "2026-05-08T07:03:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bf4d744c199a800365d2da39586b645b",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508004300315",
-      "published_date": "2026-05-08T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4bf6c6204670aaae8cb32f18296ed188",
-      "title": "(URGENT) Seoul shares again end at fresh peak of 7,498.00 despite renewed Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508007500320",
-      "published_date": "2026-05-08T06:31:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5285fac36f3280582977a09531401cd5",
-      "title": "Ruling party fails to push through constitutional amendment bill amid opposition boycott",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508007400315",
-      "published_date": "2026-05-08T06:26:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a34749af3175e921cfbb22360a0a0f8a",
-      "title": "Special committee files complaints against 31 figures in alleged fabrication by prosecution",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508007100315",
-      "published_date": "2026-05-08T06:01:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "98ea6352804a504e82f7ec7e7f3c7328",
-      "title": "(LEAD) HMM to relocate headquarters from Seoul to Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508004251320",
-      "published_date": "2026-05-08T05:30:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6794dec085c0d73cf23976773e9f9e78",
-      "title": "(LEAD) Ex-commander sentenced to 3 yrs in prison over 2023 death of young Marine",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508005751315",
-      "published_date": "2026-05-08T05:24:51Z",
       "category": "Local Events"
     }
   ]
