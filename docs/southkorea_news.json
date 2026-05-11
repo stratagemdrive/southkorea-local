@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-11T13:48:51Z",
+  "generated_at": "2026-05-11T23:45:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "33b4a2ea1c455f6b60a5d09711410093",
+      "title": "S. Korea, U.S. agree to cooperate on key alliance issues for 'mutual security interest'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512000900315",
+      "published_date": "2026-05-11T23:20:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "95cda9d1ef7f584422e9dfed27d19204",
+      "title": "(EDITORIAL from The Korea Times on May 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512000500315",
+      "published_date": "2026-05-11T22:00:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "48527adb1564ca12084251a64d7b1a37",
+      "title": "(EDITORIAL from The Korea Herald on May 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512000400315",
+      "published_date": "2026-05-11T22:00:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b59eaac910db63ca8f672b8645bb1e90",
+      "title": "Under scrutiny for lethargic performances, S. Korea gunning for knockout berth at World Cup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511007400315",
+      "published_date": "2026-05-11T22:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ef71b06812563463df4d4ed4b208a90c",
+      "title": "Pyongyang targets software developers in crackdown on unauthorized programs",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-it-workers-criticism-session-unapproved-software/",
+      "published_date": "2026-05-11T18:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "41c209807e5a885e5414845b150b3b56",
+      "title": "(LEAD) Defense chiefs of S. Korea, U.S. hold talks amid OPCON transfer push, Hormuz ship issue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511006651315",
+      "published_date": "2026-05-11T14:20:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5614150dbf703e031fddac6b85fde9c9",
+      "title": "(LEAD) Samsung Electronics labor, management hold first mediation talks over strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260511005051320",
+      "published_date": "2026-05-11T14:11:09Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3e5ffae04866094119fb73a606f6b858",
       "title": "Coupang files lawsuit against FTC's designation of founder as 'same person'",
@@ -112,65 +168,17 @@
       "url": "https://www.nknews.org/2026/05/pyongyangs-journey-from-jerusalem-of-the-east-to-kim-cult-capital/",
       "published_date": "2026-05-11T06:14:02Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "721ea3412a79422590afcba515e51f8b",
-      "title": "Watchdog warns of overheated short-term, margin stock trading",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511004000320",
-      "published_date": "2026-05-11T06:00:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7364784b4500452887b3e359543cc914",
-      "title": "S. Korea, NATO officials discuss defense industry cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511004600315",
-      "published_date": "2026-05-11T06:00:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1be47441f8fbb52867b99813adf1319e",
-      "title": "North Korean soldiers parade in Moscow for first time as Kim Jong Un skips event",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/north-korean-soldiers-parade-in-moscow-for-first-time-as-kim-jong-un-skips-event/",
-      "published_date": "2026-05-11T05:31:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "17da4a49c1d726ee649dff708eb891ee",
-      "title": "LVMH CEO Arnault visits S. Korea for 1st time in three years",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511007000320",
-      "published_date": "2026-05-11T05:15:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "edf5fadd7068704f48495f4139645dba",
-      "title": "Defense chiefs of S. Korea, U.S. set to hold talks amid OPCON transfer push, Hormuz ship issue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511006600315",
-      "published_date": "2026-05-11T04:46:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a769463950f5cd73ee6ae296377cb28d",
-      "title": "N. Korea marches in Russia's Victory Day parade in show of military bond: Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511005200315",
-      "published_date": "2026-05-11T02:51:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bb5d27116766c9fa23631b579c57916b",
-      "title": "Samsung Electronics labor union reiterates demands for 15 pct performance-based payout",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511005000320",
-      "published_date": "2026-05-11T02:48:03Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "892b07d7b8d190c3ef60c9555ca9598a",
+      "title": "Kusong’s hidden nuclear complex: What satellite imagery reveals",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kusong-nuclear-facility-satellite-imagery-yongdok-dong/",
+      "published_date": "2026-05-11T14:00:00Z",
+      "category": "Military"
+    },
     {
       "id": "db25d6ba346fe8b57d914e0f85f67b70",
       "title": "Defense ministry signals providing 'necessary support' for Hormuz ship probe",
@@ -273,14 +281,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260505001700315",
       "published_date": "2026-05-05T04:31:39Z",
-      "category": "Military"
-    },
-    {
-      "id": "e5adb9a677b4f710dfe839fddcba4d51",
-      "title": "(LEAD) 2 U.S. merchant ships have successfully transited through Strait of Hormuz: U.S. military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260504010651315",
-      "published_date": "2026-05-04T14:50:18Z",
       "category": "Military"
     }
   ],
@@ -610,6 +610,38 @@
   ],
   "Local Events": [
     {
+      "id": "8de32fd251cc37e185202d7a793aed1f",
+      "title": "'Dracula' featuring Jennie climbs to No. 10 on Billboard Hot 100",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512001000315",
+      "published_date": "2026-05-11T23:09:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "765d2486acb02db23e6be231e0faaf54",
+      "title": "Kim Ha-seong set for Braves season debut after long injury rehab",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512000700315",
+      "published_date": "2026-05-11T22:54:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b8a407fe2b44dd90111ba6403818207b",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512000600315",
+      "published_date": "2026-05-11T22:01:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "215566bc2a9419f1cbcaf5f35b72ef5b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512000300315",
+      "published_date": "2026-05-11T21:58:29Z",
+      "category": "Local Events"
+    },
+    {
       "id": "de171c2ebbaade9b7a3c9a1024fec02a",
       "title": "Police clear ex-first lady of wrongdoing over naval ship party",
       "source": "Yonhap News Agency",
@@ -735,38 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260511003351315",
       "published_date": "2026-05-11T05:23:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6a730a15d569e0779237ea60de5dff76",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511001100315",
-      "published_date": "2026-05-11T05:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dec157df4edcb341ffdf934abc428176",
-      "title": "(LEAD) Main opposition slams gov't for not identifying Iran behind attack on S. Korean vessel",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511004551315",
-      "published_date": "2026-05-11T04:37:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7158b8adee9cffb1935febbcf1c5ffe7",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511006800315",
-      "published_date": "2026-05-11T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bb4451964cc2d506f6ffb62e8fe50940",
-      "title": "Main opposition slams gov't for not identifying Iran behind attack on S. Korean vessel",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260511004500315",
-      "published_date": "2026-05-11T02:30:52Z",
       "category": "Local Events"
     }
   ]
