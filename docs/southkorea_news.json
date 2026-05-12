@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-12T13:05:25Z",
+  "generated_at": "2026-05-12T23:49:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "013d5d4307e2b7cfb847cac883dc99b2",
+      "title": "N. Korea's Kim calls for strengthening mortar, howitzer capabilities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513001600315",
+      "published_date": "2026-05-12T23:39:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f35c4faa9dc2e5d585aceb4e5fc9641a",
+      "title": "(EDITORIAL from Korea Times on May 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513001000315",
+      "published_date": "2026-05-12T22:37:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "43330f442ec1e3675a3b0149d8b36fba",
+      "title": "Kim Jong Un calls for modernizing small arms production at latest factory tour",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/kim-jong-un-calls-for-modernizing-small-arms-production-at-latest-factory-tour/",
+      "published_date": "2026-05-12T22:35:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a4f311ae14905ca8ae82f63b59c7af39",
+      "title": "Samsung Electronics management, labor union fail to narrow differences in mediation talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000300315",
+      "published_date": "2026-05-12T21:50:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6a79a8745860cf812cd0568d4bad4e41",
+      "title": "North Korea’s wealthy keep using South Korean rice cookers despite crackdowns",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-cuckoo-rice-cooker-ban-donju/",
+      "published_date": "2026-05-12T21:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "78c9e1d8b0b57abdf585d7976eba78cb",
+      "title": "(2nd LD) Trump heads to China for high-stakes summit with Xi",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512011352315",
+      "published_date": "2026-05-12T19:17:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "964be3d61ad722394cdb45c938bfd846",
+      "title": "(LEAD) Trump to depart for China for high-stakes summit with Xi",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512011351315",
+      "published_date": "2026-05-12T18:38:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "989cc9dad46e29acc7778da34eb95726",
+      "title": "North Korea issues new tourism directives in Rason ahead of possible reopening",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rason-tourism-directives-reopening/",
+      "published_date": "2026-05-12T14:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2669690059686feb8f582c1ba3256346",
+      "title": "South Korea is sleepwalking through the North Korean nuclear crisis",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-nuclear-arms-reduction-south-korea/",
+      "published_date": "2026-05-12T13:36:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "914ad944f8e3e0244fd9c793e2ee264f",
       "title": "Trump to depart for China for high-stakes summit with Xi",
@@ -96,81 +168,49 @@
       "url": "https://www.nknews.org/2026/05/north-korea-warns-citizens-of-hantavirus-danger-and-overseas-outbreak/",
       "published_date": "2026-05-12T08:10:30Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "0cc18ed07bfb2fdac7e495aa0aa8ff46",
-      "title": "(LEAD) Debris from strike on S. Korean ship in Hormuz to arrive in Seoul 'soon': FM Cho",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512001551315",
-      "published_date": "2026-05-12T08:06:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7e21d4a7c3d7ec21a82c9e538f2e22d2",
-      "title": "(2nd LD) S. Korea to use gov't funds to support cheering squads for N. Korean football team visit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512004152315",
-      "published_date": "2026-05-12T08:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "48e4afec12ddb344d5d0feb892a087e8",
-      "title": "(2nd LD) KOSPI snaps 5-day winning streak on profit taking, Mideast uncertainties; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512007552320",
-      "published_date": "2026-05-12T07:46:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "860df6b43d8f012e31776ac1210bd536",
-      "title": "Japanese auteur Hirokazu Kore-eda to visit S. Korea next month",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512009300315",
-      "published_date": "2026-05-12T07:32:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "67a4bb0fb4be22823fddace3a1410f90",
-      "title": "(LEAD) Lee urges proactive fiscal policy to boost people's livelihoods",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512003951315",
-      "published_date": "2026-05-12T07:23:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dddb35ed7ad9c56c49659b2b51d6b5e6",
-      "title": "(LEAD) KOSPI snaps 5-day winning streak on profit taking, Mideast uncertainties; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512007551320",
-      "published_date": "2026-05-12T07:07:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "88b3f2c83e145c46226d843550252980",
-      "title": "(LEAD) Consultations under way for Ukrainian FM's visit to S. Korea: foreign ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512006651315",
-      "published_date": "2026-05-12T07:02:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b42ef022ac2bac55de3d72f384aa5761",
-      "title": "KOSPI snaps 5-day winning streak on profit taking, Mideast uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512007500320",
-      "published_date": "2026-05-12T06:35:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c480c6fdcf666645a3c2b1ac011a772e",
-      "title": "(URGENT) KOSPI dips over 2 pct to snap 5-day winning streak on profit taking, Mideast uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512007400320",
-      "published_date": "2026-05-12T06:33:32Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "3ba041b3f26a7671d3f9a2a11399dc28",
+      "title": "(LEAD) Seoul to review 'phased' contributions to U.S. initiative in Hormuz: defense chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000651315",
+      "published_date": "2026-05-12T23:38:36Z",
+      "category": "Military"
+    },
+    {
+      "id": "7d90e92b47f7f5a27a2641212e381d18",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513001100315",
+      "published_date": "2026-05-12T22:38:06Z",
+      "category": "Military"
+    },
+    {
+      "id": "a8d6c494bce79c9257b9047867903709",
+      "title": "Seoul to review 'phased' contributions to U.S. initiative in Hormuz: defense chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000600315",
+      "published_date": "2026-05-12T22:04:28Z",
+      "category": "Military"
+    },
+    {
+      "id": "a8c9564903a7032344e84f6f0ca3ca39",
+      "title": "(URGENT) Defense chief says Hegseth concurred on swift, conditions-based OPCON transfer",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000500315",
+      "published_date": "2026-05-12T21:53:18Z",
+      "category": "Military"
+    },
+    {
+      "id": "6bcb90be5fb736b39fab50ab0d665bb9",
+      "title": "(URGENT) Defense chief says explained review of possible contribution to U.S. Hormuz strait initiative",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000400315",
+      "published_date": "2026-05-12T21:52:09Z",
+      "category": "Military"
+    },
     {
       "id": "6f91a3366645d6c0f45c4502c20e5cae",
       "title": "Memorial honoring 22 nations in Korean War unveiled at Gwanghwamun Square",
@@ -289,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260506004700315",
       "published_date": "2026-05-06T02:27:37Z",
-      "category": "Military"
-    },
-    {
-      "id": "beac3fb2cc83557280546f9050e85e6e",
-      "title": "Hegseth urges S. Korea to 'step up' to help reopen Strait of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260505005700315",
-      "published_date": "2026-05-05T13:44:54Z",
       "category": "Military"
     }
   ],
@@ -464,6 +496,46 @@
   ],
   "Economy": [
     {
+      "id": "09a46616fecbfbcd7e28e6b3a7fefb31",
+      "title": "(LEAD) S. Korea adds 74,000 jobs in April, lowest in 16 months",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513001251320",
+      "published_date": "2026-05-12T23:27:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "602be7a11783193bccbe8cf419956de2",
+      "title": "S. Korea adds 74,000 jobs in April, lowest in 16 months",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513001200320",
+      "published_date": "2026-05-12T23:00:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "30665b6314c882f97e755e5352315d0a",
+      "title": "(URGENT) S. Korea adds 74,000 jobs in April",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000800320",
+      "published_date": "2026-05-12T23:00:03Z",
+      "category": "Economy"
+    },
+    {
+      "id": "b5ab13b476b161e32342330b2106b53b",
+      "title": "(EDITORIAL from Korea Herald on May 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000900315",
+      "published_date": "2026-05-12T22:37:39Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7a4026f6da19364fe23e72eac3dfdf7e",
+      "title": "North Korean traders race to read the market ahead of summer import season",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-summer-clothing-trade-hyesan/",
+      "published_date": "2026-05-12T17:20:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "513264264000c48200070fda4e3731dd",
       "title": "Gov't to foster 500 SMEs with export competitiveness by 2030",
       "source": "Yonhap News Agency",
@@ -582,49 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260508006800320",
       "published_date": "2026-05-08T05:33:31Z",
       "category": "Economy"
-    },
-    {
-      "id": "209e57a73b04f2140bded9863e3a50b6",
-      "title": "Seoul shares down late Fri. morning on profit taking amid resurfaced Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508005500320",
-      "published_date": "2026-05-08T02:29:49Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d6352dd0dc61dace7640debafa60b0c0",
-      "title": "Control issues persist for Eagles pitcher Kim Seo-hyeon after minor league stint",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003700315",
-      "published_date": "2026-05-08T01:33:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "24e883edf5e1252feab482931dba564f",
-      "title": "Gov't to exempt tariffs on increased shipping costs for Hormuz reroutes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508003600320",
-      "published_date": "2026-05-08T01:13:30Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7258a72e4b272fa84546240533e04d84",
-      "title": "(2nd LD) U.S. trade court rules against Trump's 10 pct global tariffs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508000752315",
-      "published_date": "2026-05-08T01:00:28Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c0c923219f3bbdc7f4f36e714dc493d4",
-      "title": "Finance chief says economy maintains 'solid fundamentals' amid Middle East crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260508002600320",
-      "published_date": "2026-05-08T00:36:15Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "e44b0fe6948d57508435d11f0d4fb16c",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513000700315",
+      "published_date": "2026-05-12T22:27:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cc152b222b62d9dda927399a8c8ab262",
+      "title": "Eagles defeat Heroes for 3rd straight win in KBO",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260512011700315",
+      "published_date": "2026-05-12T13:33:03Z",
+      "category": "Local Events"
+    },
     {
       "id": "9a92dd81df091bbd3b8ed31e18b25d18",
       "title": "(LEAD) Presidential official proposes 'public dividends' from AI-driven boom",
@@ -767,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260512005900315",
       "published_date": "2026-05-12T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b2f37e5c1031080858fd77a4cf5e41f8",
-      "title": "Choosing S. Korea as venue for U.S.-China talks reflects Beijing's trust in Seoul: Chinese envoy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512005500315",
-      "published_date": "2026-05-12T03:06:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "344bcb8ef471ab09b0f427bc70ccf4ac",
-      "title": "Candidate registration for June 3 local elections to begin this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512004400315",
-      "published_date": "2026-05-12T02:49:11Z",
       "category": "Local Events"
     }
   ]
