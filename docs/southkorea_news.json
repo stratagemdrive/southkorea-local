@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-13T13:12:54Z",
+  "generated_at": "2026-05-13T23:48:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e6cecc4e39deeb4ee054d74c621e0ab2",
+      "title": "Trump, Xi to hold summit talks over trade, Iran, Taiwan, other key issues",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514000900315",
+      "published_date": "2026-05-13T23:37:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8e739060b46cf685712540b19c46b6c3",
+      "title": "Top diplomats of N. Korea, Vietnam agree to advance cooperation: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514000700320",
+      "published_date": "2026-05-13T23:13:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2d3824064793b9127a09175b4291a99b",
+      "title": "North Korea’s community doctor system draws skepticism as healthcare shortages persist",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-community-doctor-system-healthcare-kaechon/",
+      "published_date": "2026-05-13T17:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b4ef4e6160506e0f869e6f6f2ecb0281",
+      "title": "FM Cho Hyun hosts Chinese, Japanese ambassadors to boost trilateral cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513012900315",
+      "published_date": "2026-05-13T13:55:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2cf37209d3298d4b9856fc67fccf6059",
+      "title": "(2nd LD) Trump arrives in Beijing for summit talks with Xi on trade, Iran, Taiwan, other topics",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513012352315",
+      "published_date": "2026-05-13T13:10:41Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "026226c0e2a5dad5c44a2d576fdd6197",
       "title": "(LEAD) Lee visits shipbuilding firm in Ulsan, pledges support for the industry",
@@ -127,46 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/05/rok-defense-chief-acknowledges-gap-with-us-over-command-of-dprk-wartime-response/",
       "published_date": "2026-05-13T07:17:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "211581816af83a9e7e0a2c839aeffe5a",
-      "title": "(LEAD) Cheong Wa Dae vows to support dialogue for resolution of Samsung Electronics wage dispute",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513008751315",
-      "published_date": "2026-05-13T06:49:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "528523e88ae9b0a4bd7d0d7e4f521396",
-      "title": "Lee slams reports on aide's 'public dividend' remark as 'malicious fake news'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513009100315",
-      "published_date": "2026-05-13T05:56:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "93fa522319f8fb385d29f98962ec0a54",
-      "title": "Russian ship that sank near Spain carried nuclear parts, likely to DPRK: reports",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/russian-ship-that-sank-near-spain-carried-nuclear-parts-likely-to-dprk-reports/",
-      "published_date": "2026-05-13T05:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "936707c8983af0c76df44c77d1f7ddba",
-      "title": "Labor minister calls for dialogue after Samsung Electronics wage talks break down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513008700315",
-      "published_date": "2026-05-13T05:52:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0af1284e3ac8b9d3432feabd1d6a78e5",
-      "title": "(3rd LD) Samsung Electronics' labor talks break down, raising fears of major strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513000353315",
-      "published_date": "2026-05-13T05:16:47Z",
       "category": "Diplomacy"
     }
   ],
@@ -488,6 +488,14 @@
   ],
   "Economy": [
     {
+      "id": "9112419b5a5f95a5b739b5f367f62528",
+      "title": "North Korea market prices surge again as grain and fuel costs climb",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-market-prices-surge-grain-fuel-2026/",
+      "published_date": "2026-05-13T13:37:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "0998d815867fd4aee43e35d649c0bc1c",
       "title": "Gov't proposes strategy to boost competitiveness of shipbuilding industry",
       "source": "Yonhap News Agency",
@@ -638,17 +646,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260512009200320",
       "published_date": "2026-05-12T07:30:24Z",
       "category": "Economy"
-    },
-    {
-      "id": "8eb0800a6b824c8b97356e6a647782ae",
-      "title": "SKC to raise 1.2 tln won through rights offering to invest in glass substrate",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512007800320",
-      "published_date": "2026-05-12T06:45:13Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "a4b452d45796dbacad7dd020539f0b94",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514000300320",
+      "published_date": "2026-05-13T22:24:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "78b5cac205c03c4e1369e9c084c282e7",
+      "title": "(Yonhap Interview) Eagles pitcher Cushing takes away fond memories as temporary KBO deal expires",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513008600315",
+      "published_date": "2026-05-13T22:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "85d362e6bc8e8fceedb35bf50f25a9f2",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514000600320",
+      "published_date": "2026-05-13T21:32:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0cbf5ac91dee0b99dd3720c9c40221ab",
+      "title": "(EDITORIAL from Korea Times on May 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514000500320",
+      "published_date": "2026-05-13T21:32:30Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "18ae1b82ff45dadda3fbb98d334fc6a9",
+      "title": "(EDITORIAL from Korea Herald on May 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514000400320",
+      "published_date": "2026-05-13T21:32:20Z",
+      "category": "Local Events"
+    },
     {
       "id": "3dea58c3714e961b57a546e00c85f8b8",
       "title": "Yonhap News Summary",
@@ -767,46 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260513006900315",
       "published_date": "2026-05-13T02:43:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b452a32cd533c93feb8a6894ad7e88ab",
-      "title": "Kim Ha-seong draws walk, makes key defensive play in Braves season debut",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513006700315",
-      "published_date": "2026-05-13T02:32:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f0c7133ae6233f8443f14c33fe3d653c",
-      "title": "Court begins mediation session on SK Group chairman's divorce settlement case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513006100315",
-      "published_date": "2026-05-13T02:13:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "10d0b3bdb414011b1508e77e8ebbfab3",
-      "title": "Ruling party leader says PPP should face 'harsh judgment' in June 3 local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513005500315",
-      "published_date": "2026-05-13T02:10:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b2b747df6a2f574220e2cd283c29aaba",
-      "title": "Hyundai Motor Group to test AI-powered autonomous vehicles in Gwangju",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513005600320",
-      "published_date": "2026-05-13T01:59:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "62fd27d2c2ad01875b136dc042c1eece",
-      "title": "PM calls for measures to boost K-tourism",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513003800315",
-      "published_date": "2026-05-13T01:03:33Z",
       "category": "Local Events"
     }
   ]
