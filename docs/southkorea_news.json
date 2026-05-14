@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-14T12:26:51Z",
+  "generated_at": "2026-05-14T23:44:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e2456f63c89c2b6eb5557e48744f02e0",
+      "title": "Trump voices hope relations with China will be 'stronger, better than ever before'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515000900315",
+      "published_date": "2026-05-14T23:00:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "99c1c49859df3cb9745e60bbd31aff51",
+      "title": "Young forwards expected to join veterans for S. Korean World Cup squad",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260513001500315",
+      "published_date": "2026-05-14T23:00:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "234bb6b79d32eab6bea945de7a6ac19d",
+      "title": "Trump, Xi to have second, final day of talks in Beijing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515000800315",
+      "published_date": "2026-05-14T22:37:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3ef80454c25c97e35e24c96d82f2ebb2",
+      "title": "(EDITORIAL from Korea Times on May 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515000500320",
+      "published_date": "2026-05-14T21:58:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "884cd303f3ec42bed76454239e79e454",
+      "title": "(EDITORIAL from Korea Herald on May 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515000400320",
+      "published_date": "2026-05-14T21:58:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7ff99c95132be7209dbfbc1b8fc1ea27",
+      "title": "China recruits North Korean defectors as informants to trap escape brokers",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-defectors-china-informants-escape-networks-arrests/",
+      "published_date": "2026-05-14T21:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "89a9f7d3d2ef88d277e7d4243b431cd0",
+      "title": "North Korea replaces all foreign student dormitory staff at Kim Il Sung University",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-il-sung-university-foreign-student-dormitory-staff-purge/",
+      "published_date": "2026-05-14T17:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "48a69ff69b0e2a562b2ac6f77df6e721",
+      "title": "U.S. Senate to hold confirmation hearing for ambassador nominee to S. Korea next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514010800315",
+      "published_date": "2026-05-14T14:10:43Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "35c41f74817797bbcb36ef5295ca6ec2",
       "title": "Lee visits traditional market in Seongnam, meets merchants and shoppers",
@@ -103,70 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260514008000320",
       "published_date": "2026-05-14T07:34:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b8294be012c1a6d72f2f973bea8dc702",
-      "title": "(4th LD) Trump, Xi signal desire to manage bilateral ties but reaffirm positions on Taiwan, trade",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514000954315",
-      "published_date": "2026-05-14T07:19:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d77a240f2b4696539f3eda1b8bb619d5",
-      "title": "S. Korea seeks OPCON transfer breakthrough via presidential office-level talks: source",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514007700315",
-      "published_date": "2026-05-14T07:13:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7126ae6ce6d9eb2ba36e25049c260043",
-      "title": "(LEAD) KOSPI ends at new peak, just shy of historic 8,000 landmark amid U.S.-China summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514006651320",
-      "published_date": "2026-05-14T07:08:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cf4dbc20913167105f147e6572cdf55b",
-      "title": "How North Korea recycles propaganda to engrave its messaging in people’s minds",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/how-north-korea-recycles-propaganda-to-engrave-its-messaging-in-peoples-minds/",
-      "published_date": "2026-05-14T06:54:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "83ba73835114b1b05de6a40ecc79c64b",
-      "title": "KOSPI ends at new peak above 7,900 amid U.S.-China summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514006600320",
-      "published_date": "2026-05-14T06:39:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "64c02daba2dac9ed9e20b54d7a628492",
-      "title": "Lee slams loan sharks, stresses responsibility of financial firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514006400315",
-      "published_date": "2026-05-14T06:35:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cba2baaaf9d1cd158aeb1df56ee42bc3",
-      "title": "(URGENT) KOSPI ends at new peak above 7,900 amid U.S.-China summit, AI rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514006200320",
-      "published_date": "2026-05-14T06:33:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fecf9cdcbf4392dd80ebc3c3d2c541be",
-      "title": "Gov't selects 160 abnormal, unfair practices to be tackled under 'nation normalization project'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514006300315",
-      "published_date": "2026-05-14T06:30:00Z",
       "category": "Diplomacy"
     }
   ],
@@ -488,6 +488,30 @@
   ],
   "Economy": [
     {
+      "id": "5d0f3c39051cc5a9b9ec9a624cb1ec4d",
+      "title": "Teenage pianist Son Se-hyeok wins Prague Spring competition",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515001100315",
+      "published_date": "2026-05-14T23:18:23Z",
+      "category": "Economy"
+    },
+    {
+      "id": "dc129b00d52498de9d047de26c9a1872",
+      "title": "Import prices drop in April for 1st time in 10 months: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260514009800320",
+      "published_date": "2026-05-14T21:00:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "404dabcbe4698b54ca31984149d41534",
+      "title": "North Korean street food finds market across the border in China",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-street-food-china-trade-chongjin-soy-meat-tofu/",
+      "published_date": "2026-05-14T13:32:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "d353ea3181e46ebefb031184749aa2ed",
       "title": "Industry minister warns of emergency arbitration if Samsung unions launch strike",
       "source": "Yonhap News Agency",
@@ -622,33 +646,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260513010751320",
       "published_date": "2026-05-13T07:53:14Z",
       "category": "Economy"
-    },
-    {
-      "id": "e6fe291ed92b1b026df3cf063ad7616a",
-      "title": "(2nd LD) Seoul shares sharply rebound to end at fresh peak on tech rally; won drops",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513009452320",
-      "published_date": "2026-05-13T07:46:16Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f3d508f53e037dbfbcfb937a95cec08a",
-      "title": "(LEAD) S. Korean currency drops slightly amid lingering Middle East uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513002951320",
-      "published_date": "2026-05-13T07:28:15Z",
-      "category": "Economy"
-    },
-    {
-      "id": "21bb5f03864900acc5c248e582c70358",
-      "title": "(LEAD) Seoul shares sharply rebound to end at fresh peak on tech rally; won drops",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260513009451320",
-      "published_date": "2026-05-13T07:11:10Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "01b41b7fcb85cc98150076e8403394a1",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515000600320",
+      "published_date": "2026-05-14T21:59:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "453c9f82748e1bce766280d783548ba9",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515000300320",
+      "published_date": "2026-05-14T21:58:39Z",
+      "category": "Local Events"
+    },
     {
       "id": "cc1952282ab04358e6938bb1ce44c67d",
       "title": "Lee calls for 'all-out war' against crimes targeting youths, women after student murder case",
@@ -791,22 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260514003100315",
       "published_date": "2026-05-14T01:25:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a3fffb105c81506efc945392b7d34387",
-      "title": "Candidate registration opens for June 3 local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514002800315",
-      "published_date": "2026-05-14T00:24:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "39f3edb4c55e0d661faa44a98ae60004",
-      "title": "(URGENT) Seoul shares again open at fresh record high, heading toward another historic 8,000 milestone",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514001100320",
-      "published_date": "2026-05-14T00:01:56Z",
       "category": "Local Events"
     }
   ]
