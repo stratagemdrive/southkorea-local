@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-15T12:55:32Z",
+  "generated_at": "2026-05-15T23:43:53Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e0b29aa7ddac0a6ba8725babbb4a66fa",
+      "title": "Trump says U.S. in contact with Kim Jong Un amid China state visit",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/trump-says-u-s-in-contact-with-kim-jong-un-amid-china-state-visit/",
+      "published_date": "2026-05-15T21:55:29Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b00a3909b8c42d43daf3e084d0931e98",
       "title": "(3rd LD) Samsung Electronics union to proceed with strike despite management's dialogue offer",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260515007500315",
       "published_date": "2026-05-15T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a79706e17abc90ac64e7b3717486c5c3",
-      "title": "N. Korea denounces British sanctions over its children's camp",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515008000315",
-      "published_date": "2026-05-15T06:46:05Z",
       "category": "Diplomacy"
     }
   ],
