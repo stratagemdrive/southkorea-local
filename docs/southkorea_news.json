@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-15T23:43:53Z",
+  "generated_at": "2026-05-16T11:53:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,11 +10,123 @@
   ],
   "Diplomacy": [
     {
+      "id": "d505b7426e223243671659db8439019e",
+      "title": "(2nd LD) Samsung Electronics, labor union to resume talks ahead of planned strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001553315",
+      "published_date": "2026-05-16T11:49:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0743cac870cdc8e5e599987d2cd3ce9b",
+      "title": "(2nd LD) Son Heung-min off to 4th World Cup as S. Korean squad released",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001652315",
+      "published_date": "2026-05-16T08:12:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "82d8d4873498cd177c341ab3e011002b",
+      "title": "(LEAD) Samsung Electronics, labor union to resume talks ahead of planned strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001552315",
+      "published_date": "2026-05-16T07:58:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d60f521ab029f216e3ad4a85e68ddd8b",
+      "title": "(LEAD) Son Heung-min off to 4th World Cup as S. Korean squad released",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001651315",
+      "published_date": "2026-05-16T07:27:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "db392b5cc939cc226f37a9f3bac6cf0d",
+      "title": "Son Heung-min off to 4th World Cup as S. Korean squad released",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001600315",
+      "published_date": "2026-05-16T07:14:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8027152597682115c9a40f54e5d7a8ba",
+      "title": "Samsung Electronics union says to resume labor talks after management replaces key negotiator",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001551315",
+      "published_date": "2026-05-16T07:07:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "721fdf433720a9a395a6f8da4a4d8462",
+      "title": "(URGENT) Samsung Electronics labor union says to meet with management",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001500315",
+      "published_date": "2026-05-16T06:44:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b273f6ccdc73d127d69954f51b1a8712",
+      "title": "(LEAD) Samsung chairman calls for company unity amid looming strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001352315",
+      "published_date": "2026-05-16T06:43:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "55875b4e12b7ec9e89cc08916aecd304",
+      "title": "Samsung chairman calls for company unity amid looming strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001351315",
+      "published_date": "2026-05-16T05:59:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fd9db361b0d02680e7b1af9f8b571189",
+      "title": "(URGENT) Labor minister meets Samsung Electronics executives, calls for dialogue with union",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001400315",
+      "published_date": "2026-05-16T05:52:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "183261babf603da694a7ac2a02a65b4e",
+      "title": "(URGENT) Samsung Electronics chairman apologizes to public for causing concern over 'internal' issue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001300315",
+      "published_date": "2026-05-16T05:34:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "912bc4f9deb858184cf1f209949a8da9",
+      "title": "Top N. Korean parliament official meets Vietnam FM in Pyongyang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516000400315",
+      "published_date": "2026-05-16T00:45:10Z",
+      "category": "Diplomacy"
+    },
+    {
       "id": "e0b29aa7ddac0a6ba8725babbb4a66fa",
       "title": "Trump says U.S. in contact with Kim Jong Un amid China state visit",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/05/trump-says-u-s-in-contact-with-kim-jong-un-amid-china-state-visit/",
       "published_date": "2026-05-15T21:55:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "89cbcb15ff6d3cfb72eadbf9eff9b5e3",
+      "title": "(LEAD) (News Focus) Trump-Xi summit highlights cooperation despite lingering tensions on key fault lines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515009551315",
+      "published_date": "2026-05-15T16:31:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6c6f406ae9536c14a60bc3efb000824e",
+      "title": "(2nd LD) Trump says he discussed N. Korea with Xi during summit in Beijing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515012052315",
+      "published_date": "2026-05-15T16:10:52Z",
       "category": "Diplomacy"
     },
     {
@@ -55,118 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260515005551315",
       "published_date": "2026-05-15T09:36:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ba21ed563a897a6386fd215d1cfd1072",
-      "title": "(LEAD) Debris from airborne objects that hit S. Korean ship in Strait of Hormuz arrives in country",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515011851315",
-      "published_date": "2026-05-15T09:21:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "85050ef39631535626648ad64f7662e7",
-      "title": "Debris from airborne objects that hit S. Korean ship in Strait of Hormuz arrives in country",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515011800315",
-      "published_date": "2026-05-15T08:45:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ff86566339fe117685fc4d17ce6f6b65",
-      "title": "North Korean freight smugglers arrested, then freed after paying massive bribes",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-bribery-rail-freight-smuggling-haeju-south-hwanghae/",
-      "published_date": "2026-05-15T08:44:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "058b379cbcf4a8746ca4852f551d469c",
-      "title": "(LEAD) Special counsel seeks 7 1/2-yr prison term for ex-first lady in bribery case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515009952315",
-      "published_date": "2026-05-15T08:33:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0a9a70b6a80cf77bd030010bc4695952",
-      "title": "S. Korea, U.S. agree to establish joint supply chain for drone, counter-drone systems",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515009600315",
-      "published_date": "2026-05-15T08:22:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "12b86dd7eaa89fb3dbe0b5bed2680af2",
-      "title": "(2nd LD) Samsung Electronics union to proceed with strike despite management's dialogue offer",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515004452320",
-      "published_date": "2026-05-15T07:54:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9ed2ecbdbbd55f311dbbd69d79d1d162",
-      "title": "Special counsel seeks 7 1/2-yr prison term for ex-first lady in bribery case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515009951315",
-      "published_date": "2026-05-15T07:48:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "19d6df593c8f92fa20e5f0bf88362f3c",
-      "title": "(News Focus) Trump-Xi summit highlights cooperation, lacks breakthroughs on key fault lines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515009500315",
-      "published_date": "2026-05-15T07:43:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fcad4811cb7021bf5c2e6a84dee86a02",
-      "title": "(URGENT) Special counsel seeks 7 1/2-yr term for ex-first lady in bribery case involving luxury gifts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515009900315",
-      "published_date": "2026-05-15T07:43:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "21173c0f7ea5a30006261b8d6e69b62f",
-      "title": "Long-speculated Trump-Kim meeting fails to materialize during Beijing visit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515005800315",
-      "published_date": "2026-05-15T07:24:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c6c22b9f59a975cb2ae1e056f3b9c9a7",
-      "title": "Trump heads home after 3-day visit to China",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515007100315",
-      "published_date": "2026-05-15T07:23:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d0c2eeb6e9fd95d85183f7c03bf3fc7c",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515007200315",
-      "published_date": "2026-05-15T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "497e72f06ba0c74a064dd62b5d962c0a",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515007400315",
-      "published_date": "2026-05-15T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8d8b0f3a26fcaab5c9ce4ca1c201e95b",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515007500315",
-      "published_date": "2026-05-15T07:00:01Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "854135566f28051526e7b9e4a20ac68a",
+      "title": "IU marks birthday with donation for vulnerable groups",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001000315",
+      "published_date": "2026-05-16T04:09:42Z",
+      "category": "Economy"
+    },
+    {
       "id": "f3bf6929815dab943e93f30c9b9abda2",
       "title": "(2nd LD) KOSPI briefly hits another historic landmark of 8,000 on AI rally",
       "source": "Yonhap News Agency",
@@ -646,17 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260514008500320",
       "published_date": "2026-05-14T07:59:41Z",
       "category": "Economy"
-    },
-    {
-      "id": "354dd3c72ab5e5080fa5923096dfa4fc",
-      "title": "Ex-POWs win damages suit against N. Korea for 3rd time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514006000315",
-      "published_date": "2026-05-14T06:25:09Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "d109b57f9bcb1258ecbc961c6c2e7bef",
+      "title": "Earliest heat-related death on record reported amid scorching heat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516002600315",
+      "published_date": "2026-05-16T10:28:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "18dbef292ecc80973751c263a9f1a574",
+      "title": "S. Korea coach plans to empower players in buildup to World Cup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516002400315",
+      "published_date": "2026-05-16T09:01:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7bb27c1f86f54d7ec3b12a97f35cef28",
+      "title": "Full list of S. Korean World Cup squad",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001700315",
+      "published_date": "2026-05-16T07:16:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c2008deb1a9720a9628198c6fa1932c5",
+      "title": "513 uncontested candidates elected ahead of June 3 local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001200315",
+      "published_date": "2026-05-16T05:38:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "45f8bf9994d7a1d44901c31a19c23152",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516000500315",
+      "published_date": "2026-05-16T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "42fbc95834c062a6dd8efc28bf3920f4",
+      "title": "Enhypen's 'Bite Me,' 'Sweet Venom' top 500 mln, 200 mln Spotify streams",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516001100315",
+      "published_date": "2026-05-16T04:40:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8e4df6ada46262c469f8bea0f48891f6",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260516000200315",
+      "published_date": "2026-05-16T00:02:45Z",
+      "category": "Local Events"
+    },
     {
       "id": "d1f703c2ddc6ea27241444d256f80a94",
       "title": "Court suspends FTC's designation of Coupang founder as 'same person'",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260515005400320",
       "published_date": "2026-05-15T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b2cb16014d69b677813156fe84b6e49c",
-      "title": "Ex-presidential security aide grilled over alleged role in martial law",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515004900315",
-      "published_date": "2026-05-15T02:36:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "35db3c7877ed74b440ea822320d3aea7",
-      "title": "PM calls for systematic terror response system",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515004700315",
-      "published_date": "2026-05-15T02:30:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "021fa2809ececb03c915021d670c8efb",
-      "title": "Container shipping costs to Middle East up for 2 months in April amid tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515002700320",
-      "published_date": "2026-05-15T01:17:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2967a652d9da7afd58f851990477be13",
-      "title": "Hyundai Motor launches vehicle-to-grid pilot service in Jeju",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515002600320",
-      "published_date": "2026-05-15T01:01:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d54117f7598eb2ad79e35983abc04b58",
-      "title": "Lee says will do utmost to create conditions for teachers to focus only on education",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515002500315",
-      "published_date": "2026-05-15T00:56:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "465c98bd31f0277bb85426a5a94c7b37",
-      "title": "(URGENT) KOSPI breaches another landmark, surpassing 8,000 points for 1st time in history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514001500320",
-      "published_date": "2026-05-15T00:13:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5633adc186744f0eddb3176823ff5cca",
-      "title": "(URGENT) KOSPI opens lower, just shy of historic landmark of 8,000 points",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515001400320",
-      "published_date": "2026-05-15T00:02:24Z",
       "category": "Local Events"
     }
   ]
