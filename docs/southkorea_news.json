@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-16T23:40:47Z",
+  "generated_at": "2026-05-17T12:00:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,134 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d106021832c144d406bfe1fd0d4ed923",
+      "title": "FM urges Tehran to clarify stance on attack on S. Korean vessel in call with Iranian counterpart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517003200315",
+      "published_date": "2026-05-17T09:57:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8d22a8ea9d3f895d4111c1ad9b01655c",
+      "title": "North Korean women’s soccer team arrives in South for inter-Korean game",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/north-korean-womens-soccer-team-arrives-in-south-for-inter-korean-game/",
+      "published_date": "2026-05-17T08:03:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "02e5e9a5549e1f3c3045a1b11280f461",
+      "title": "Presidential office stresses policy priority on 'saving people's lives' through welfare, safety measures",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517002900315",
+      "published_date": "2026-05-17T07:53:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f6e48b49755762fa8b8c716d1f0a71d2",
+      "title": "Homeplus requests emergency funds from largest creditor, Meritz Securities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517002700320",
+      "published_date": "2026-05-17T07:33:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "52f7e17e812a89fd2fd0f5164c21e715",
+      "title": "(LEAD) N. Korea football club Naegohyang arrive in S. Korea for much-anticipated match",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001651315",
+      "published_date": "2026-05-17T07:01:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a2fa41aaf7072a82c0facb443f405ff5",
+      "title": "N. Korea football club Naegohyang arrive in S. Korea for much-anticipated match",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001600315",
+      "published_date": "2026-05-17T05:49:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7591feba7da2bcf968a6941c0e9a1456",
+      "title": "(LEAD) No major gap exists between S. Korea, U.S. over wartime OPCON transfer timeline: nat'l security adviser",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001251315",
+      "published_date": "2026-05-17T05:34:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5d576436d0157d22c2d217d98bbe1177",
+      "title": "Japanese PM to receive near state-visit honors during planned visit to S. Korea: presidential office",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001300315",
+      "published_date": "2026-05-17T05:14:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "596f06913523aff0bdb43fbf9a64085c",
+      "title": "No major gap exists between S. Korea, U.S. over wartime OPCON transfer timeline: nat'l security adviser",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001200315",
+      "published_date": "2026-05-17T04:55:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "da1097a03f230d90c4ed2c17883307c4",
+      "title": "Gov't to invest 170 bln won in strategic materials firms",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001100320",
+      "published_date": "2026-05-17T04:33:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c485866935d7845fc5b496df0699a6e5",
+      "title": "(2nd LD) PM issues warning over planned Samsung Electronics strike, vows all measures including emergency arbitration",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000752315",
+      "published_date": "2026-05-17T03:18:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bbb876f11eadfdd7613ab89dbc69315c",
+      "title": "Finance chief to visit Paris, London for G7 meeting, investors' briefing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000800320",
+      "published_date": "2026-05-17T02:49:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1c7d9eb49234d16afefd0b73c41f518b",
+      "title": "(LEAD) PM issues warning over planned Samsung Electronics strike, vows all measures including emergency arbitration",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000751315",
+      "published_date": "2026-05-17T02:42:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "614759132955d89a502e874ad93c43b9",
+      "title": "PM welcomes Samsung Electronics labor-management dialogue, warns of emergency arbitration if strike causes damage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000700315",
+      "published_date": "2026-05-17T02:02:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6e79de0de6ffa8aec14daf4ab22b19bd",
+      "title": "(URGENT) PM welcomes Samsung Electronics labor-management dialogue, warns of emergency arbitration if strike causes damage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000600315",
+      "published_date": "2026-05-17T01:46:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c3240238ff33094796a18b5e386afc4d",
+      "title": "N.K. football team's S. Korea visit signals possibility of inter-Korean cooperation in multilateral arenas: cheering squad official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000300315",
+      "published_date": "2026-05-17T01:24:01Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d505b7426e223243671659db8439019e",
       "title": "(2nd LD) Samsung Electronics, labor union to resume talks ahead of planned strike",
@@ -39,134 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260516001651315",
       "published_date": "2026-05-16T07:27:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "db392b5cc939cc226f37a9f3bac6cf0d",
-      "title": "Son Heung-min off to 4th World Cup as S. Korean squad released",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001600315",
-      "published_date": "2026-05-16T07:14:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8027152597682115c9a40f54e5d7a8ba",
-      "title": "Samsung Electronics union says to resume labor talks after management replaces key negotiator",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001551315",
-      "published_date": "2026-05-16T07:07:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "721fdf433720a9a395a6f8da4a4d8462",
-      "title": "(URGENT) Samsung Electronics labor union says to meet with management",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001500315",
-      "published_date": "2026-05-16T06:44:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b273f6ccdc73d127d69954f51b1a8712",
-      "title": "(LEAD) Samsung chairman calls for company unity amid looming strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001352315",
-      "published_date": "2026-05-16T06:43:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "55875b4e12b7ec9e89cc08916aecd304",
-      "title": "Samsung chairman calls for company unity amid looming strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001351315",
-      "published_date": "2026-05-16T05:59:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fd9db361b0d02680e7b1af9f8b571189",
-      "title": "(URGENT) Labor minister meets Samsung Electronics executives, calls for dialogue with union",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001400315",
-      "published_date": "2026-05-16T05:52:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "183261babf603da694a7ac2a02a65b4e",
-      "title": "(URGENT) Samsung Electronics chairman apologizes to public for causing concern over 'internal' issue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001300315",
-      "published_date": "2026-05-16T05:34:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "912bc4f9deb858184cf1f209949a8da9",
-      "title": "Top N. Korean parliament official meets Vietnam FM in Pyongyang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516000400315",
-      "published_date": "2026-05-16T00:45:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e0b29aa7ddac0a6ba8725babbb4a66fa",
-      "title": "Trump says U.S. in contact with Kim Jong Un amid China state visit",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/trump-says-u-s-in-contact-with-kim-jong-un-amid-china-state-visit/",
-      "published_date": "2026-05-15T21:55:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "89cbcb15ff6d3cfb72eadbf9eff9b5e3",
-      "title": "(LEAD) (News Focus) Trump-Xi summit highlights cooperation despite lingering tensions on key fault lines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515009551315",
-      "published_date": "2026-05-15T16:31:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6c6f406ae9536c14a60bc3efb000824e",
-      "title": "(2nd LD) Trump says he discussed N. Korea with Xi during summit in Beijing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515012052315",
-      "published_date": "2026-05-15T16:10:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b00a3909b8c42d43daf3e084d0931e98",
-      "title": "(3rd LD) Samsung Electronics union to proceed with strike despite management's dialogue offer",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515004453320",
-      "published_date": "2026-05-15T12:08:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cad1766af43d696de80e37f1077e562c",
-      "title": "(LEAD) Trump says he discussed N. Korea with Xi during summit in Beijing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515012051315",
-      "published_date": "2026-05-15T12:03:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aebf9acbe9aa65f713fc889d671ce3bb",
-      "title": "Trump says he discussed N. Korea with Xi during summit in Beijing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515012000315",
-      "published_date": "2026-05-15T11:31:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0aaf20e73776579f747176515c2ecc89",
-      "title": "(2nd LD) Debris from airborne objects that hit S. Korean ship in Strait of Hormuz arrives in country",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515011852315",
-      "published_date": "2026-05-15T10:06:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7844aac40be363d2ffadff33258d896b",
-      "title": "(LEAD) Navy deploys 4,400-ton destroyer to Cheonghae unit amid ongoing Iran war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515005551315",
-      "published_date": "2026-05-15T09:36:04Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,30 @@
   ],
   "Economy": [
     {
+      "id": "41fb65adab0f36899d7513d9430fd571",
+      "title": "S. Korea's venture investment soars 24.1 pct in Q1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001500320",
+      "published_date": "2026-05-17T05:17:23Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3a6ee73ce0ee763f3916064fe92fff0f",
+      "title": "Banks' household loan growth picks up in April on mortgage lending",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260515006600320",
+      "published_date": "2026-05-17T03:00:15Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6c63828576bf97d7553a395a4e39655c",
+      "title": "Operating profits of top companies exceed 156 tln won in Q1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000500320",
+      "published_date": "2026-05-17T01:50:52Z",
+      "category": "Economy"
+    },
+    {
       "id": "854135566f28051526e7b9e4a20ac68a",
       "title": "IU marks birthday with donation for vulnerable groups",
       "source": "Yonhap News Agency",
@@ -630,33 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260514010700315",
       "published_date": "2026-05-14T12:22:51Z",
       "category": "Economy"
-    },
-    {
-      "id": "25e69887d83d9f5256ad0fa9065591b6",
-      "title": "(URGENT) U.S., China discussed economic cooperation, including expanding market access for U.S. businesses, increasing Chinese investment: White House official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514010100315",
-      "published_date": "2026-05-14T08:43:36Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ff9c92dcb57f38667a36023ceb1531d9",
-      "title": "Trade minister raises concerns over EU steel safeguards, Mexico tariffs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514008100320",
-      "published_date": "2026-05-14T08:04:32Z",
-      "category": "Economy"
-    },
-    {
-      "id": "3ad00991e681ad5bd5439c92beb12012",
-      "title": "Samsung Heavy bags 750.5 bln-won deal for 2 LNG carriers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514008500320",
-      "published_date": "2026-05-14T07:59:41Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "548d6e6a0a8974c0941874804a020801",
+      "title": "Ruling, main opposition leaders put under police protection following alleged online threats against DP chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517003400315",
+      "published_date": "2026-05-17T11:28:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "273f8992aba7f909e99078a82ecee869",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517001400315",
+      "published_date": "2026-05-17T05:07:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b6ffcf4a11c0c583998318ce61f0115e",
+      "title": "2 South Koreans rescued after being held in scam-related captivity in Cambodia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000900315",
+      "published_date": "2026-05-17T02:55:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "68c6046ca656e1610510eb04ac2c1812",
+      "title": "Minor earthquake hits waters off Jeju Island: weather agency",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517000400315",
+      "published_date": "2026-05-17T01:21:19Z",
+      "category": "Local Events"
+    },
     {
       "id": "d109b57f9bcb1258ecbc961c6c2e7bef",
       "title": "Earliest heat-related death on record reported amid scorching heat",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260515006300315",
       "published_date": "2026-05-15T05:19:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2dd72ece77c73ab4e777cb9a08ceb250",
-      "title": "Creator behind spicy Buldak ramyeon promoted to chairman of Samyang Foods",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515005300320",
-      "published_date": "2026-05-15T05:09:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3144829ec1ac077ec8266d654c35f0fe",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515000700320",
-      "published_date": "2026-05-15T05:00:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8a846660ab972f8f31115140c5c7e304",
-      "title": "(URGENT) KRX issues sell-side sidecar on KOSPI's sharp fall after 8,000-point milestone feat",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515005900320",
-      "published_date": "2026-05-15T04:37:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8f937d263747a7922b657df446e4df7f",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515005400320",
-      "published_date": "2026-05-15T04:30:01Z",
       "category": "Local Events"
     }
   ]
