@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-17T12:00:34Z",
+  "generated_at": "2026-05-17T23:47:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "aa12f12125b5c7eae907552297b5fec4",
+      "title": "(LEAD) N. Korea's Kim chairs army commanders' meeting, orders southern border defense buildup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518000651320",
+      "published_date": "2026-05-17T22:32:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c6253e009724fec1fc68b30f0687187d",
+      "title": "Trump, Xi reaffirm shared goal of denuclearizing N. Korea: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518000300315",
+      "published_date": "2026-05-17T22:14:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6727a0d8de52cef9e1f20e5e53cf2172",
+      "title": "(EDITORIAL from Korea Herald on May 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518000800320",
+      "published_date": "2026-05-17T21:58:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0a2f54633e3de7a3a81b4a422d816d5c",
+      "title": "N. Korea's Kim chairs army commanders' meeting, orders southern border defense buildup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518000600320",
+      "published_date": "2026-05-17T21:32:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1eb86d6e943b6db62f8e0c55e414938e",
+      "title": "(2nd LD) Lee holds phone call with Trump on results of recent U.S.-China summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517004052315",
+      "published_date": "2026-05-17T14:52:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f7cd67df80a4b84393aaa7a33c70ae9c",
+      "title": "(LEAD) Lee holds phone call with Trump on results of recent U.S.-China summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517004051315",
+      "published_date": "2026-05-17T14:10:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "75d63119688eb0b9c22b50f693a5b383",
+      "title": "Lee holds phone call with Trump on results of recent U.S.-China summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517004000315",
+      "published_date": "2026-05-17T13:38:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a7a73097be94088b66c9e0e4e5c562e1",
+      "title": "(URGENT) Lee holds phone call with Trump on results of recent U.S.-China summit: Cheong Wa Dae",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517003900315",
+      "published_date": "2026-05-17T13:37:42Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d106021832c144d406bfe1fd0d4ed923",
       "title": "FM urges Tehran to clarify stance on attack on S. Korean vessel in call with Iranian counterpart",
@@ -104,73 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260517000800320",
       "published_date": "2026-05-17T02:49:33Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "1c7d9eb49234d16afefd0b73c41f518b",
-      "title": "(LEAD) PM issues warning over planned Samsung Electronics strike, vows all measures including emergency arbitration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260517000751315",
-      "published_date": "2026-05-17T02:42:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "614759132955d89a502e874ad93c43b9",
-      "title": "PM welcomes Samsung Electronics labor-management dialogue, warns of emergency arbitration if strike causes damage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260517000700315",
-      "published_date": "2026-05-17T02:02:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6e79de0de6ffa8aec14daf4ab22b19bd",
-      "title": "(URGENT) PM welcomes Samsung Electronics labor-management dialogue, warns of emergency arbitration if strike causes damage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260517000600315",
-      "published_date": "2026-05-17T01:46:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c3240238ff33094796a18b5e386afc4d",
-      "title": "N.K. football team's S. Korea visit signals possibility of inter-Korean cooperation in multilateral arenas: cheering squad official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260517000300315",
-      "published_date": "2026-05-17T01:24:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d505b7426e223243671659db8439019e",
-      "title": "(2nd LD) Samsung Electronics, labor union to resume talks ahead of planned strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001553315",
-      "published_date": "2026-05-16T11:49:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0743cac870cdc8e5e599987d2cd3ce9b",
-      "title": "(2nd LD) Son Heung-min off to 4th World Cup as S. Korean squad released",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001652315",
-      "published_date": "2026-05-16T08:12:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "82d8d4873498cd177c341ab3e011002b",
-      "title": "(LEAD) Samsung Electronics, labor union to resume talks ahead of planned strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001552315",
-      "published_date": "2026-05-16T07:58:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d60f521ab029f216e3ad4a85e68ddd8b",
-      "title": "(LEAD) Son Heung-min off to 4th World Cup as S. Korean squad released",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001651315",
-      "published_date": "2026-05-16T07:27:07Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "dadf47df4375b69866c70c5ef9646a2d",
+      "title": "(URGENT) N. Korea's Kim chairs army commanders' meeting, orders southern border defense build-up",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518000500320",
+      "published_date": "2026-05-17T21:16:52Z",
+      "category": "Military"
+    },
+    {
+      "id": "7d45dcc79bad51c175ff73a5e1320149",
+      "title": "No S. Korean workers at UAE nuclear plant reported injured after drone strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517004100315",
+      "published_date": "2026-05-17T13:51:01Z",
+      "category": "Military"
+    },
     {
       "id": "19dc315cab07deb959c691aa1fb7d71b",
       "title": "Group of civilian military workers to file ILO complaint against gov't over labor rights violations",
@@ -313,22 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260513000400315",
       "published_date": "2026-05-12T21:52:09Z",
-      "category": "Military"
-    },
-    {
-      "id": "6f91a3366645d6c0f45c4502c20e5cae",
-      "title": "Memorial honoring 22 nations in Korean War unveiled at Gwanghwamun Square",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512006100315",
-      "published_date": "2026-05-12T04:47:11Z",
-      "category": "Military"
-    },
-    {
-      "id": "77794818d711264f76da2905e0d348b3",
-      "title": "S. Korea to participate in defense ministers' meeting on Hormuz after ship blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260512003200315",
-      "published_date": "2026-05-12T01:59:52Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "ae6bab6ee3d17ec88e4ae5b042ad0eaa",
+      "title": "(EDITORIAL from Korea Times on May 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518000900320",
+      "published_date": "2026-05-17T21:59:18Z",
+      "category": "Economy"
+    },
+    {
       "id": "41fb65adab0f36899d7513d9430fd571",
       "title": "S. Korea's venture investment soars 24.1 pct in Q1",
       "source": "Yonhap News Agency",
@@ -646,17 +654,97 @@
       "url": "https://www.dailynk.com/english/north-korea-street-food-china-trade-chongjin-soy-meat-tofu/",
       "published_date": "2026-05-14T13:32:00Z",
       "category": "Economy"
-    },
-    {
-      "id": "d353ea3181e46ebefb031184749aa2ed",
-      "title": "Industry minister warns of emergency arbitration if Samsung unions launch strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514010700315",
-      "published_date": "2026-05-14T12:22:51Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "b8c1ce5f10701f45dd4cbfcaf0b57bd5",
+      "title": "Park Chan-wook receives France's prestigious cultural honor",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518001300315",
+      "published_date": "2026-05-17T23:37:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9c7c057f1d0067ece6a8edabd702b9e4",
+      "title": "Kim Si-woo ties for 35th at PGA Championship",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518001400315",
+      "published_date": "2026-05-17T23:29:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "17b14b1358035b75d2823e6329349e27",
+      "title": "Cortis' new album claims No. 3 on Billboard 200",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518001200315",
+      "published_date": "2026-05-17T23:14:32Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "92ac8dbc2349d27702f0f4aebb157694",
+      "title": "(LEAD) Ryu Hae-ran falls short of 4th career LPGA win after futile comeback attempt",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518001151315",
+      "published_date": "2026-05-17T23:03:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1cda7a3b3c89dae81805616556dfb8bb",
+      "title": "Ryu Hae-ran falls short of 4th career LPGA win after futile comeback attempt",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518001100315",
+      "published_date": "2026-05-17T22:23:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ac93defd92a5a3310088461fae315ea8",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518001000320",
+      "published_date": "2026-05-17T21:59:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "86d5df076381668fbe7e0327bfd8f505",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260518000700320",
+      "published_date": "2026-05-17T21:58:25Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1b4d027dd6c1389a3172936313f101ea",
+      "title": "Envoys urge int'l community to act for over 20,000 Ukrainian children deported by Russia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517003300315",
+      "published_date": "2026-05-17T21:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3472e33223ea8283369fba138c079449",
+      "title": "Restarting as a five-piece act, Zerobaseone aims to 'ascend' higher",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517002800315",
+      "published_date": "2026-05-17T21:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "80a807a06acca2b86aba6937c335473a",
+      "title": "Full text of op-ed by EU, Canadian, Ukrainian envoys to S. Korea on Ukrainian children",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517003100315",
+      "published_date": "2026-05-17T21:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a6ec363618756fde45d77057fd857eae",
+      "title": "Overseas branches of brokerage houses enjoy sharp rise in earnings in 2025",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260517003500320",
+      "published_date": "2026-05-17T21:00:02Z",
+      "category": "Local Events"
+    },
     {
       "id": "548d6e6a0a8974c0941874804a020801",
       "title": "Ruling, main opposition leaders put under police protection following alleged online threats against DP chief",
@@ -727,94 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260516000500315",
       "published_date": "2026-05-16T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "42fbc95834c062a6dd8efc28bf3920f4",
-      "title": "Enhypen's 'Bite Me,' 'Sweet Venom' top 500 mln, 200 mln Spotify streams",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516001100315",
-      "published_date": "2026-05-16T04:40:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8e4df6ada46262c469f8bea0f48891f6",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260516000200315",
-      "published_date": "2026-05-16T00:02:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d1f703c2ddc6ea27241444d256f80a94",
-      "title": "Court suspends FTC's designation of Coupang founder as 'same person'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515011900315",
-      "published_date": "2026-05-15T11:08:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e11753cbb4a79655dce1a074f146aa82",
-      "title": "Galaxy Corp. to open robot-themed K-pop entertainment park in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515010400320",
-      "published_date": "2026-05-15T08:26:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "00258d601399169992be19b23025c9a7",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515010500315",
-      "published_date": "2026-05-15T08:01:28Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c44a6d943b32b4afa11f3727ec087e56",
-      "title": "Lee reunites with teacher from elementary school, classmates on Teachers' Day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515010100315",
-      "published_date": "2026-05-15T07:53:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2a28c143624a9a04202427f0398619fc",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515007300315",
-      "published_date": "2026-05-15T07:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "751020caf1a39f6c0c4ed13e27e25dea",
-      "title": "Gap narrows between ruling, main opposition parties ahead of local elections: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515006800315",
-      "published_date": "2026-05-15T06:56:57Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c8fb8e10c2c5916202ad40c01c5fdc08",
-      "title": "(LEAD) Lee appoints new vice health minister, customs office commissioner",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515006351315",
-      "published_date": "2026-05-15T06:02:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "abe29793478bf3eb565e2eb7af01c5e4",
-      "title": "Oceans minister opposes Iran's push to charge fees for Hormuz transit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515006100320",
-      "published_date": "2026-05-15T05:32:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "50431bbd9fd6ab86b285a18078c73ca6",
-      "title": "Lee appoints new vice health minister, customs office commissioner",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515006300315",
-      "published_date": "2026-05-15T05:19:56Z",
       "category": "Local Events"
     }
   ]
