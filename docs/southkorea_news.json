@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-18T14:31:34Z",
+  "generated_at": "2026-05-18T23:55:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "856c6d154e662a688d22ba0fd1dca0ae",
+      "title": "Watchdog chief voices concerns over retail speculation amid increased volatility",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519001100320",
+      "published_date": "2026-05-18T23:47:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a9deb48179776206abc07d0b2648f60a",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000900315",
+      "published_date": "2026-05-18T21:58:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fa6ac248c0b2a4c5f1c8028e97fe0e43",
+      "title": "U.S. approves possible sale of MH-60R helicopters, AH-64E Apache upgrades to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000400315",
+      "published_date": "2026-05-18T20:23:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "65504b3593a87c5ffb1e91f2970f31b0",
+      "title": "North Korea’s private arts tutoring boom grows even as farm mobilization season begins",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-private-tutoring-arts-farm-mobilization/",
+      "published_date": "2026-05-18T18:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ce82dccad7ca3d32706f67047d1a9bae",
+      "title": "Senior S. Korean diplomat visits Washington for talks on nuclear sub project, other issues",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000200315",
+      "published_date": "2026-05-18T17:49:14Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "82a7555c4e5643ba4a9e8782e098c096",
       "title": "Satellite data shows mixed reservoir levels ahead of North Korea’s planting season",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260518005352315",
       "published_date": "2026-05-18T06:03:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1cfe02786bd0dd5841318748cf5dd5bc",
-      "title": "Military resumes excavation project for remains of 4 'Silmido unit' commandos",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518006600315",
-      "published_date": "2026-05-18T05:48:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8c31886dba2b99ea37d81727f30c41ae",
-      "title": "(LEAD) Samsung Electronics, union resume wage talks as major strike nears",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518004751320",
-      "published_date": "2026-05-18T05:38:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7854ea304f1291081e7499fa194f1f58",
-      "title": "SeMA retrospective revisits works of abstract art master Yoo Young-kuk",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518005900315",
-      "published_date": "2026-05-18T05:00:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "583deb2a11b102c842edd9863fbfc48a",
-      "title": "Son Heung-min collects MLS-leading 9th assist in LAFC's loss",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518006400315",
-      "published_date": "2026-05-18T04:50:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c853c02da33a31ca6d22f4d346242eb7",
-      "title": "S. Korea to invest over 50 bln won until 2030 to develop homegrown AI humanoids",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518005800320",
-      "published_date": "2026-05-18T04:30:02Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "b8c880229e922bc95c9a64b2b4672457",
+      "title": "North Korea’s massive Sinuiju greenhouse farm moves to sell fresh produce in China",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-sinuiju-greenhouse-farm-china-exports/",
+      "published_date": "2026-05-18T22:33:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "d2f94974322a14b55b483db7b28f23d0",
       "title": "S. Korean currency gains slightly amid renewed foreign sell-off in stocks",
       "source": "Yonhap News Agency",
@@ -646,17 +654,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260515007900320",
       "published_date": "2026-05-15T06:43:19Z",
       "category": "Economy"
-    },
-    {
-      "id": "bc7ef6dcbe5d933f9cbd35721f3710d0",
-      "title": "(LEAD) KOSPI briefly hits another historic landmark of 8,000 on AI rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514001951320",
-      "published_date": "2026-05-15T03:03:36Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "95023207ff6a86692213730767d0baac",
+      "title": "(EDITORIAL from Korea Times on May 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000800315",
+      "published_date": "2026-05-18T21:57:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "07fa420b25779c8e057936183665d2e9",
+      "title": "(EDITORIAL from Korea Herald on May 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000700315",
+      "published_date": "2026-05-18T21:57:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "00f4e3747e743a6d320c95dc4abb5269",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000600315",
+      "published_date": "2026-05-18T21:57:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "137814a770532a272ed8a34595025319",
+      "title": "(LEAD) Trump holds off on planned Iran attack after requests from Saudi Arabia, UAE, Qatar",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000351315",
+      "published_date": "2026-05-18T19:35:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9c0393236c35fa457745432d9786a4fd",
+      "title": "Trump says he's not open to concessions for Iran, after Tehran's latest proposal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260519000300315",
+      "published_date": "2026-05-18T19:05:12Z",
+      "category": "Local Events"
+    },
     {
       "id": "c21f17d934109ff881313c9af3d3e539",
       "title": "(LEAD) Starbucks Korea chief fired over 'Tank Day' event on pro-democracy anniv.",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260518007900315",
       "published_date": "2026-05-18T06:44:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0c9e2ba513078b14f1444735cdfd88fa",
-      "title": "Official campaigning for June 3 local elections to begin Thursday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518007400315",
-      "published_date": "2026-05-18T06:35:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "78dc348da97c313bbb410d6e03fad23d",
-      "title": "Labor disputes spill over to major S. Korean tech firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518007000320",
-      "published_date": "2026-05-18T06:10:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8a2797039243aefca065b5323733c364",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518002900320",
-      "published_date": "2026-05-18T05:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3031fbceea85ffa5b436d6f5c6a1ff08",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518006300320",
-      "published_date": "2026-05-18T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b5c33098de970574d77ca2eb8df82809",
-      "title": "Tax agency to hire 9,500 workers for crackdown on delinquent taxpayers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518003400320",
-      "published_date": "2026-05-18T03:00:10Z",
       "category": "Local Events"
     }
   ]
