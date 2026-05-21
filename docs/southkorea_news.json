@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-20T13:41:03Z",
+  "generated_at": "2026-05-21T00:00:20Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "7e582b0c7a9f635d2faccce09747afb8",
+      "title": "N. Korea briefly reports on women's football team's AFC final bid",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521001400315",
+      "published_date": "2026-05-20T23:34:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "59629f48d3fa96dddd26da50315dd2a5",
+      "title": "TB cases among North Korean overseas workers put Chinese factories on alert",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-workers-china-tuberculosis/",
+      "published_date": "2026-05-20T23:19:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d7b6f8cf2a09b7addae577adfe7ae70d",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000800320",
+      "published_date": "2026-05-20T22:02:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b53aaaf44f0b179a104c117b0bcbeee2",
+      "title": "(EDITORIAL from Korea Times on May 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000700320",
+      "published_date": "2026-05-20T22:01:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6af5b22c8b9723bf5ca2b98d1d47b3e7",
+      "title": "(2nd LD) U.S. ambassador nominee pledges to ensure U.S. firms operating in S. Korea do not face discrimination",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000252315",
+      "published_date": "2026-05-20T20:03:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d711ab7d921d260c7096d4769ffa4d17",
+      "title": "(LEAD) U.S. ambassador nominee pledges to ensure U.S. firms operating in S. Korea do not face discrimination",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000251315",
+      "published_date": "2026-05-20T19:03:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3f645806a1efc9a0c4b82ef989cfd2ed",
+      "title": "Nominee for U.S. envoy to S. Korea stresses commitment to security, prosperity through stronger alliance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000200315",
+      "published_date": "2026-05-20T16:03:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bb299070f5d71d15ab1845273bdb6981",
+      "title": "(7th LD) Samsung Electronics management, labor reach wage deal ahead of planned strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520005557320",
+      "published_date": "2026-05-20T15:11:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "81893c13bc63f426062ebb4bf1d6352e",
+      "title": "(6th LD) Samsung Electronics management, labor reach wage deal ahead of planned strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520005556320",
+      "published_date": "2026-05-20T14:47:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4e5e8a0bff9bcab410bc886423c87b3c",
+      "title": "Chinese President Xi likely to visit N. Korea as early as next week: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520013200320",
+      "published_date": "2026-05-20T14:39:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "47f7c6374482e6bb9094360cca076fc2",
+      "title": "(5th LD) Samsung Electronics management, labor reach wage deal ahead of planned strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520005555320",
+      "published_date": "2026-05-20T14:12:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6b376a63d763dffdd4bfdb7c7f027cf5",
+      "title": "(4th LD) Samsung Electronics union holds off strike plan, puts tentative wage deal to vote",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520005554320",
+      "published_date": "2026-05-20T13:46:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cadc7d4880568239e56c690c6901da93",
+      "title": "(URGENT) Samsung Electronics union holds off strike plan, puts tentative wage deal to vote",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520013000320",
+      "published_date": "2026-05-20T13:37:30Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "c271c12dffcc85520046f06cd0f0ce2d",
       "title": "Soaked but undeterred, fans see hope in rare inter-Korean match",
@@ -63,110 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260520010500315",
       "published_date": "2026-05-20T07:58:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a11ac87e516356e3eb9a8c1a6f12a70b",
-      "title": "'Peaceful two-state' vision fundamentally different from Pyongyang's Korean policy: minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520010600315",
-      "published_date": "2026-05-20T07:55:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3e3b31cf55b000187db2e899ebcc5639",
-      "title": "(3rd LD) Samsung, union resume last-minute talks mediated by labor minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520005553320",
-      "published_date": "2026-05-20T07:45:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b5c34647cccdd3e258973b32828785ad",
-      "title": "(LEAD) Labor minister to mediate Samsung wage negotiations as strike looms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520007851315",
-      "published_date": "2026-05-20T07:40:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "62f90a29ba30961be7004eb6a6fc00f8",
-      "title": "(2nd LD) President Lee says collective labor action, too, should have 'certain limit'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520006952315",
-      "published_date": "2026-05-20T07:07:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b8278b7aac24e33ec81b3931110bd1e0",
-      "title": "Special counsel extends investigation into ex-President Yoon by 30 days",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520008500315",
-      "published_date": "2026-05-20T06:30:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7fc3b6a766097b3e3f616e810b8149fc",
-      "title": "(LEAD) S. Korea-operated vessel passing through Strait of Hormuz: foreign minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520004551315",
-      "published_date": "2026-05-20T06:29:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "10e56b032377ca539f021658b8e7800b",
-      "title": "PM meets with Albanian counterpart",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520008100315",
-      "published_date": "2026-05-20T06:09:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a2b4623f5fe0c8521a467ee233cca76",
-      "title": "(News Focus) Hyundai Motor gears up for robot deployment under physical AI push",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520007900320",
-      "published_date": "2026-05-20T06:06:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4b8eb8415a22802d0efb187702f9e2b1",
-      "title": "Recent FX volatility excessive compared to S. Korea's fundamentals: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520007400320",
-      "published_date": "2026-05-20T06:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "20a45df1e957f123b6f354ae70081204",
-      "title": "S. Korea-operated vessel passing through Strait of Hormuz: foreign minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520004500315",
-      "published_date": "2026-05-20T05:57:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f8871ad18861f1eb23c7c3075c5d8577",
-      "title": "(LEAD) President Lee says collective labor action, too, should have 'certain limit'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520006951315",
-      "published_date": "2026-05-20T05:53:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "82005ecb112fe4be44fdadc860593101",
-      "title": "(URGENT) S. Korea-operated vessel passing through Strait of Hormuz: foreign minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520004000315",
-      "published_date": "2026-05-20T05:51:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e4a3ca4d5b900431c2c245f51c3552e3",
-      "title": "Labor ministry says 'too early' to speak of using emergency arbitration powers against Samsung strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520007800315",
-      "published_date": "2026-05-20T05:44:10Z",
       "category": "Diplomacy"
     }
   ],
@@ -318,6 +318,22 @@
   ],
   "Energy": [
     {
+      "id": "5b60d5ee92a26d54eca0e23be67c1451",
+      "title": "Gov't to extend fuel tax cut through July amid consumer price pressure",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521001000320",
+      "published_date": "2026-05-20T23:00:02Z",
+      "category": "Energy"
+    },
+    {
+      "id": "8707079dab2dfc59bf7b1690f0fa6c02",
+      "title": "Producer prices rise at fastest pace in 28 yrs in April on oil cost surge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520011900320",
+      "published_date": "2026-05-20T21:00:03Z",
+      "category": "Energy"
+    },
+    {
       "id": "953070c0f4300c085036a83176e1b9fb",
       "title": "Oceans ministry pushing to develop global maritime hub in southeastern S. Korea: minister",
       "source": "Yonhap News Agency",
@@ -460,25 +476,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260515007600320",
       "published_date": "2026-05-15T06:35:22Z",
       "category": "Energy"
-    },
-    {
-      "id": "3cd1bf5a0dd21c9a6894948b19378b52",
-      "title": "(URGENT) KOSPI crashes over 6 pct on foreign sell-offs after achieving 8,000-point milestone",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260515006900320",
-      "published_date": "2026-05-15T06:32:59Z",
-      "category": "Energy"
-    },
-    {
-      "id": "ef7c2dbbe5f34ffbf164fabe27d79fd9",
-      "title": "Gov't to launch new committee to boost efficiency of S. Korea's nuclear power plant export system",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260514004000320",
-      "published_date": "2026-05-14T05:00:06Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "355b02252d797068c0958bbe38143456",
+      "title": "(News Focus) Samsung wage deal eases fears of economic shock, global chip supply disruption",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521001100320",
+      "published_date": "2026-05-20T22:58:13Z",
+      "category": "Economy"
+    },
+    {
+      "id": "036dc27bddae1848c266d8ecfff4a881",
+      "title": "Banks' net income from overseas business edges up in 2025",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520008000320",
+      "published_date": "2026-05-20T21:00:11Z",
+      "category": "Economy"
+    },
+    {
+      "id": "175fff3b291209221cf37fc0dac27120",
+      "title": "Inter-Korean women's football showdown lives up to hype with thrilling battle",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520013100315",
+      "published_date": "2026-05-20T13:52:05Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7a6bd47110f64fbe7ec48deccf885cda",
+      "title": "N. Korean club coach appreciates S. Koreans' passion for football",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520012900315",
+      "published_date": "2026-05-20T13:44:32Z",
+      "category": "Economy"
+    },
     {
       "id": "7534235f93b56f0c453d366f6676ca33",
       "title": "S. Korean club coach 'felt hurt' by pro-N. Korean crowd at home stadium during historic football match",
@@ -606,41 +638,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260520001551320",
       "published_date": "2026-05-20T00:25:04Z",
       "category": "Economy"
-    },
-    {
-      "id": "56fc401c5c2e73546dc30f68a1d6dcb1",
-      "title": "Seoul shares open higher despite overnight U.S. losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520001500320",
-      "published_date": "2026-05-20T00:03:39Z",
-      "category": "Economy"
-    },
-    {
-      "id": "99d15ed08ed6852e020a1fc3494f6b57",
-      "title": "(EDITORIAL from Korea Herald on May 20)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520000700315",
-      "published_date": "2026-05-19T21:57:16Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0777cdab1cfe4c5c70c5a072acebf3fc",
-      "title": "Banks' Q1 earnings down on fall in non-interest income",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260519007700320",
-      "published_date": "2026-05-19T21:00:08Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6a51eaedbd67a6df85d4fcb69835f3fc",
-      "title": "Used car imports are fueling a booming vehicle repair industry across North Korea",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-used-car-imports-auto-repair-industry/",
-      "published_date": "2026-05-19T20:19:00Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "81a154d1617e5a2f3a672f8cab07394e",
+      "title": "BTS to make special appearance at this year's AMAs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521001200315",
+      "published_date": "2026-05-20T23:02:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "07d018bb5584e05d3e403ecc04338d3e",
+      "title": "(EDITORIAL from Korea Herald on May 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000600320",
+      "published_date": "2026-05-20T22:01:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7be3839777457b2caf6f3f4cec3a1862",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000500320",
+      "published_date": "2026-05-20T22:00:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "73c2eecca74229ae41f51c5ebef2e826",
+      "title": "Monsta X's Shownu X Hyungwon explores many shades of love in 'Love Me'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260520005000315",
+      "published_date": "2026-05-20T22:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "87b68fcc0fd5e3f1fc6be4f5ad3d9fad",
+      "title": "Trump voices willingness to wait a few more days for Iran's 'right answers'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260521000300315",
+      "published_date": "2026-05-20T19:57:06Z",
+      "category": "Local Events"
+    },
     {
       "id": "adfe2dc3a5a3e5f2dc75f38cf2328a67",
       "title": "South Korean soccer team loses to North Korea 2-1 on home turf",
@@ -759,46 +799,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260520004351315",
       "published_date": "2026-05-20T02:58:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "697a151f1176b7994833301af63eb380",
-      "title": "PM pledges zero tolerance for disinformation, vote-buying ahead of local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520004300315",
-      "published_date": "2026-05-20T02:13:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5477e22d79b12cc2195343f28667d1da",
-      "title": "S. Korean stock markets to close on June 3 for local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520003800320",
-      "published_date": "2026-05-20T02:00:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d709491578c9807405728d37e2d500c2",
-      "title": "Israeli forces seize another aid flotilla carrying Korean activists: civic group",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520002600315",
-      "published_date": "2026-05-20T01:13:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f020ffa8e8b14e14c0fe9044f9cfc96b",
-      "title": "(URGENT) Seoul shares open 0.72 pct higher despite overnight U.S. losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520001400320",
-      "published_date": "2026-05-20T00:01:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "14bba7d8bfc0a876eacdff70b4ad2b6c",
-      "title": "(EDITORIAL from Korea JoongAng Daily on May 20)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520000900315",
-      "published_date": "2026-05-19T21:58:09Z",
       "category": "Local Events"
     }
   ]
