@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-22T13:32:40Z",
+  "generated_at": "2026-05-22T23:56:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "441ad5e707c3083fe612adcca41cb6f0",
+      "title": "(LEAD) Rubio says Iran talks show 'some progress,' but two sides are 'not there yet'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260523000351315",
+      "published_date": "2026-05-22T20:59:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b57c562af4e19421dc820eff0b090dc5",
+      "title": "Rubio says Iran talks show 'some progress,' but two sides are 'not there yet'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260523000300315",
+      "published_date": "2026-05-22T19:33:52Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8a14e105f51b021be18c50f8c0a54ad4",
       "title": "North Korea’s wheat and barley acreage shrinks in key farming regions, satellite data shows",
@@ -152,22 +168,6 @@
       "url": "https://www.nknews.org/2026/05/new-book-details-uneasy-lives-of-north-koreas-privileged-but-powerless/",
       "published_date": "2026-05-22T03:00:23Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "23fe464b16a5b8a3c2135d904a87879a",
-      "title": "Lee's approval rating rebounds to 64 percent: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522004500315",
-      "published_date": "2026-05-22T01:50:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "857262bf112296d32583e47e5a2d3aa7",
-      "title": "North Korea’s rice planting mobilization drives an unexpected taxi boom",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-taxi-rice-planting-mobilization/",
-      "published_date": "2026-05-22T01:12:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -277,6 +277,30 @@
     }
   ],
   "Energy": [
+    {
+      "id": "241a043a377687b081b2b854d0fb4c90",
+      "title": "'I've always believed I could hit': ex-MLB slugger Hiura ready to showcase what he has in KBO",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260522003100315",
+      "published_date": "2026-05-22T23:00:09Z",
+      "category": "Energy"
+    },
+    {
+      "id": "9c75872627389cdd1d6a32a57ba70a04",
+      "title": "(LEAD) Warsh sworn in as Fed chair; Trump says he wants him to be 'totally independent'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260523000251315",
+      "published_date": "2026-05-22T18:10:45Z",
+      "category": "Energy"
+    },
+    {
+      "id": "572d1ba2d925053cc7072e50d5bcedb5",
+      "title": "Warsh sworn in as Fed chair; Trump says he wants him to be 'totally independent'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260523000200315",
+      "published_date": "2026-05-22T17:21:36Z",
+      "category": "Energy"
+    },
     {
       "id": "ccda32cecff30c2533fe2c1621f00436",
       "title": "KOGAS signs 10-yr LNG purchase deal with BP",
@@ -412,33 +436,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260520003000320",
       "published_date": "2026-05-20T03:00:10Z",
       "category": "Energy"
-    },
-    {
-      "id": "2948aef33ad6415a08c648d0421fa2e7",
-      "title": "Starbucks' U.S. headquarters also apologizes over 'Tank Day' event in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260520001100315",
-      "published_date": "2026-05-19T22:35:06Z",
-      "category": "Energy"
-    },
-    {
-      "id": "10e59620e01da231ee0d3c36d7723cd4",
-      "title": "(Yonhap Interview) Angola to prioritize crude oil supply to S. Korea amid Middle East crisis: envoy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260519012600315",
-      "published_date": "2026-05-19T22:02:00Z",
-      "category": "Energy"
-    },
-    {
-      "id": "e7e8ff5fbda3844deb627bc8ffaf8400",
-      "title": "(URGENT) Lee says Seoul, Tokyo agreed to boost cooperation in crude oil, liquefied natural gas supplies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260519011100315",
-      "published_date": "2026-05-19T07:55:58Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "947645f434f28e2d0cd22ac42379d1ab",
+      "title": "USTR says no immediate chip tariffs coming: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260523000400315",
+      "published_date": "2026-05-22T19:56:02Z",
+      "category": "Economy"
+    },
     {
       "id": "706ad48162aae7fc33e6ac58b7743c23",
       "title": "S. Korea's currency hits 1 1/2-month low as oil prices climb",
@@ -589,14 +597,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260521007700320",
       "published_date": "2026-05-21T06:36:08Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9e9ab0240e938327061203388592e77c",
-      "title": "(URGENT) KOSPI spikes over 8 pct on tech rally on Samsung wage deal, Nvidia outlook; won rises",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260521007500320",
-      "published_date": "2026-05-21T06:33:31Z",
       "category": "Economy"
     }
   ],
