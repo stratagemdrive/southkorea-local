@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-25T14:09:39Z",
+  "generated_at": "2026-05-25T23:55:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "bd7622f5ca2e6e55909f886a9735bc07",
+      "title": "North Korean defectors in China alarmed as Kuaishou messages reach police",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-defectors-china-kuaishou-surveillance/",
+      "published_date": "2026-05-25T21:20:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7f7a562debc366b63efd3439d446993c",
+      "title": "Fuel price surge strips North Koreans of intercity bus connections",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-long-distance-bus-routes-cut-fuel-prices/",
+      "published_date": "2026-05-25T18:55:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "908fc97a369899f795d7c8249618c1c1",
       "title": "Families of South Koreans detained in North launch group to advocate for release",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260522002951315",
       "published_date": "2026-05-22T06:00:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "92d45f4bfa31c2b0675018b638744e1d",
-      "title": "Probe under way over alleged irregular drone acquisition linked to Yoon's martial law bid",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522007300315",
-      "published_date": "2026-05-22T05:48:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d8cf5bdedb6af49595c87855f6834ac5",
-      "title": "N. Korean football club coach bristles at 'rough' label ahead of top Asian tournament final",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522006600315",
-      "published_date": "2026-05-22T05:23:41Z",
       "category": "Diplomacy"
     }
   ],
