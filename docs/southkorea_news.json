@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-24T23:50:32Z",
+  "generated_at": "2026-05-25T14:09:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "908fc97a369899f795d7c8249618c1c1",
+      "title": "Families of South Koreans detained in North launch group to advocate for release",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/families-of-south-koreans-detained-in-north-launch-group-to-advocate-for-release/",
+      "published_date": "2026-05-25T10:13:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4c9786efce01463249cd4905e10d48a9",
+      "title": "North Korean soccer team defeats Japan to win women’s championship",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/north-korean-soccer-team-defeats-japan-to-win-womens-championship/",
+      "published_date": "2026-05-25T10:07:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fd0d1ba73999bc7d8669c66d60a40109",
+      "title": "Why military strikes on North Korea’s nuke program would have made things worse",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/why-military-strikes-on-north-koreas-nuke-program-would-have-made-things-worse/",
+      "published_date": "2026-05-25T10:07:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7695f4f9cc4f2810734e484ea6fd7a31",
+      "title": "North Korea to convene major party meeting on ‘important issues’ in late June",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/north-korea-to-convene-major-party-meeting-on-important-issues-in-late-june/",
+      "published_date": "2026-05-25T03:49:26Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "441ad5e707c3083fe612adcca41cb6f0",
       "title": "(LEAD) Rubio says Iran talks show 'some progress,' but two sides are 'not there yet'",
@@ -136,38 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260522006600315",
       "published_date": "2026-05-22T05:23:41Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "e2b33d6bb90fdc97875108561a9c5ac3",
-      "title": "Samsung union begins vote on tentative wage deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522006500320",
-      "published_date": "2026-05-22T05:22:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e9286e4e66bccad777363ef94f0e0e51",
-      "title": "Ask a North Korean: How do North Koreans deal with trash and recycling?",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/ask-a-north-korean-how-do-north-koreans-deal-with-trash-and-recycling/",
-      "published_date": "2026-05-22T03:34:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6165c7cf384a9130c8886e1809fab9cc",
-      "title": "Civil servant unions join Starbucks boycott over 'Tank Day' event",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522005700315",
-      "published_date": "2026-05-22T03:03:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cf7f431cf479e5d2a5770ec32e65420f",
-      "title": "New book details uneasy lives of North Korea’s privileged but powerless",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/new-book-details-uneasy-lives-of-north-koreas-privileged-but-powerless/",
-      "published_date": "2026-05-22T03:00:23Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -249,14 +249,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260519007200315",
       "published_date": "2026-05-19T04:46:45Z",
-      "category": "Military"
-    },
-    {
-      "id": "17fc5ae7db17a2e9b1d63e58a88ab4df",
-      "title": "Military deploys 320 choppers, 1,100 personnel to combat springtime wildfires",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260518003200315",
-      "published_date": "2026-05-18T00:46:29Z",
       "category": "Military"
     }
   ],
