@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-25T23:55:02Z",
+  "generated_at": "2026-05-26T13:55:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "1aba42612588a7ba519e58eea783db6d",
+      "title": "North Korea bans smoking while driving, jaywalking, walking pets without collar",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/north-korea-bans-smoking-while-driving-jaywalking-walking-pets-without-collar/",
+      "published_date": "2026-05-26T09:33:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "55bc4afab09fd3c82fd0d6ec17548b73",
+      "title": "Singapore’s top diplomat to visit North Korea before talks in South",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/singapores-top-diplomat-to-visit-north-korea-before-talks-in-south/",
+      "published_date": "2026-05-26T06:51:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "96373290c61576172907e68e6b842ad1",
+      "title": "North Korea fires multiple close-range ballistic missiles westward: Seoul",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/north-korea-fires-unidentified-projectile-westward-seoul/",
+      "published_date": "2026-05-26T04:30:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fdd579e45a77607879077adedf60c229",
+      "title": "China tight-lipped about Xi Jinping’s reported plans to visit North Korea",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/china-tight-lipped-about-xi-jinpings-reported-plans-to-visit-north-korea/",
+      "published_date": "2026-05-26T03:54:46Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "bd7622f5ca2e6e55909f886a9735bc07",
       "title": "North Korean defectors in China alarmed as Kuaishou messages reach police",
@@ -136,38 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260522002700315",
       "published_date": "2026-05-22T07:00:05Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "a278c0f6a3bde49b54f5640fd87bf85d",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522006900315",
-      "published_date": "2026-05-22T07:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b998ad283a5bb5efdb91c9b630136e20",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522007000315",
-      "published_date": "2026-05-22T07:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5ea94a8b43752b5d56b688229b66cf4c",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522007100315",
-      "published_date": "2026-05-22T07:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e7e715cc96652c2ccdd323baa2b2220c",
-      "title": "(LEAD) Lee discusses S. Korea's labor policy in AI era with ILO chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522002951315",
-      "published_date": "2026-05-22T06:00:53Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -233,22 +233,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260520002900315",
       "published_date": "2026-05-20T01:41:54Z",
-      "category": "Military"
-    },
-    {
-      "id": "6c9c2bf6e0b9f1811c4988d9a60fa412",
-      "title": "Vice defense chief inspects drone operation drills by reserve forces",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260519008500315",
-      "published_date": "2026-05-19T06:54:33Z",
-      "category": "Military"
-    },
-    {
-      "id": "6179d34e83ff81185ea7b9c36023447f",
-      "title": "Army revokes 33 commendations awarded to soldiers linked to 1980 pro-democracy crackdown",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260519007200315",
-      "published_date": "2026-05-19T04:46:45Z",
       "category": "Military"
     }
   ],
@@ -416,6 +400,14 @@
   ],
   "Economy": [
     {
+      "id": "c654373d45b05679d1518e132ba5ec33",
+      "title": "North Koreans abandoning market stalls drive surge in Hyesan street trading conflicts",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/hyesan-street-vendors-jangmadang-market-fees-north-korea/",
+      "published_date": "2026-05-26T01:00:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "947645f434f28e2d0cd22ac42379d1ab",
       "title": "USTR says no immediate chip tariffs coming: report",
       "source": "Yonhap News Agency",
@@ -566,17 +558,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260521007751320",
       "published_date": "2026-05-21T07:03:04Z",
       "category": "Economy"
-    },
-    {
-      "id": "421fa1e3c85a9bdb453a0b76665b9faa",
-      "title": "Seoul shares rally over 8 pct on tech gains after Samsung wage deal, Nvidia outlook; won rises",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260521007700320",
-      "published_date": "2026-05-21T06:36:08Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "3e8df1e65ba8f9c7416700ff43b6f681",
+      "title": "Bus carrying 30 North Koreans crashes in western Russia: Reports",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/bus-carrying-30-north-koreans-crashes-in-western-russia-reports/",
+      "published_date": "2026-05-26T08:36:12Z",
+      "category": "Local Events"
+    },
     {
       "id": "78b9d0ab7d8679e395ad7ea51a8eb257",
       "title": "(LEAD) Ex-NIS deputy chief denies allegations of delivering message backing Yoon's martial law",
@@ -727,14 +719,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260522002500315",
       "published_date": "2026-05-22T00:40:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7746c223af8549a03c5f644eb08ab1f0",
-      "title": "(Yonhap Interview) Back in KBO, Heroes starter Rosenberg trying to be good teammate",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522002300315",
-      "published_date": "2026-05-22T00:32:41Z",
       "category": "Local Events"
     }
   ]
