@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-27T14:27:38Z",
+  "generated_at": "2026-05-27T23:54:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d137e95c8cfe77728fe49fc88f534fe6",
+      "title": "USFK says S. Korea-U.S. alliance remains committed to 'conditions-based' OPCON transfer",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000900315",
+      "published_date": "2026-05-27T23:22:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f7126b35b621b5b13b66e8b03d8b8983",
+      "title": "N. Korea slams Quad statement calling for Pyongyang's denuclearization",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528001200315",
+      "published_date": "2026-05-27T23:21:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "83ef0a12b6d0984978b06323db5a615f",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 28)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000700315",
+      "published_date": "2026-05-27T21:59:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "58974bf70fd20536f762fb7de52c257f",
+      "title": "(EDITORIAL from The Korea Times on May 28)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000600315",
+      "published_date": "2026-05-27T21:58:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "08e0aa5dd3be46b9c7cf432f556b3fbb",
+      "title": "(3rd LD) Trump says U.S. 'not satisfied' yet in Iran negotiations, Strait of Hormuz will be 'open to everybody'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000253315",
+      "published_date": "2026-05-27T20:31:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "efc5d2c811af0f24b875bc3c0955d3e0",
+      "title": "(2nd LD) Trump says U.S. 'not satisfied' yet in Iran negotiations, Strait of Hormuz will be 'open to everybody'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000252315",
+      "published_date": "2026-05-27T18:36:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "be1f1923b0df651442812043db8adde3",
+      "title": "(LEAD) Trump says U.S. 'not satisfied' yet in Iran negotiations, Strait of Hormuz will be 'open to everybody'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000251315",
+      "published_date": "2026-05-27T18:03:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c5d0eec85ea19008b52c48abc28cf543",
+      "title": "Chinese smugglers foiled at North Korea border despite hopes for post-Trump thaw",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-china-border-smuggling-trump-visit-2026/",
+      "published_date": "2026-05-27T17:59:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8198c8c37ff18e985de8710aad77cf7b",
       "title": "(2nd LD) Kakao's labor, management fail to reach agreement in 2nd mediation talks",
@@ -104,73 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260527006451315",
       "published_date": "2026-05-27T04:59:13Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "5be1ad9dd8516c0a63e584bd6faa6633",
-      "title": "Lee to hold press conference on June 8 marking 1st anniversary of inauguration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527006400315",
-      "published_date": "2026-05-27T04:36:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "52dd3eee921529dd4e73a9bbb284901f",
-      "title": "Pro-North Korea organization in Japan nixes support for unification",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/pro-north-korea-organization-in-japan-nixes-support-for-unification/",
-      "published_date": "2026-05-27T04:32:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fb09e8ec532d23eb72d57e39db09feec",
-      "title": "(LEAD) Unionized workers of Samsung Electronics vote to accept wage deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527003351320",
-      "published_date": "2026-05-27T04:31:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5aa5f2e28564a970f20dff980b394791",
-      "title": "(URGENT) Lee to hold press conference on June 8, marking 1st anniversary of inauguration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527006300315",
-      "published_date": "2026-05-27T04:21:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cc644dd34d8a2a26fce53b8ffce1945b",
-      "title": "Russian drug company says it shipped $74K worth of medication to North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/russian-drug-company-says-it-shipped-74k-worth-of-medication-to-north-korea/",
-      "published_date": "2026-05-27T04:18:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9c06c563a291c35b02c40f21799b9578",
-      "title": "FTC chief says no probe planned for Starbucks amid marketing controversy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527003600320",
-      "published_date": "2026-05-27T03:00:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "60fa6b795ba8a03f6e3fcaa4236f3d9d",
-      "title": "(LEAD) Lee vows efforts to foster shipping, port industries as strategic sectors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527002951315",
-      "published_date": "2026-05-27T02:28:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f9671f85853c5917c318b1ccc647aef9",
-      "title": "Gov't launches 2045 Strategy Committee to draw up future blueprint",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527005000315",
-      "published_date": "2026-05-27T02:25:49Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "3bbfedbd0a88292ba50c5d39019627a0",
+      "title": "North Korea soldiers forced into soybean farming say officers take the best of the harvest",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-soldiers-soybean-farming-seventh-army-corps-2026/",
+      "published_date": "2026-05-27T19:14:00Z",
+      "category": "Military"
+    },
     {
       "id": "d5b2b71cb14ac04ec158c9fc09e9c9a8",
       "title": "(5th LD) Iran-linked missiles behind attack on S. Korean vessel in Hormuz: foreign ministry",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260526003000315",
       "published_date": "2026-05-26T01:35:51Z",
-      "category": "Military"
-    },
-    {
-      "id": "1b14c882f9c6bd10d7983a9030dcd495",
-      "title": "(URGENT) Lee calls for stepped-up efforts to acquire nuclear-powered submarines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260526002600315",
-      "published_date": "2026-05-26T01:12:38Z",
       "category": "Military"
     }
   ],
@@ -484,17 +484,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260521002351320",
       "published_date": "2026-05-21T00:23:12Z",
       "category": "Energy"
-    },
-    {
-      "id": "5b60d5ee92a26d54eca0e23be67c1451",
-      "title": "Gov't to extend fuel tax cut through July amid consumer price pressure",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260521001000320",
-      "published_date": "2026-05-20T23:00:02Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "86888e252e9348ae4d9c8fce9056776c",
+      "title": "Banks' capital adequacy ratio down in Q1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260527006900320",
+      "published_date": "2026-05-27T21:00:10Z",
+      "category": "Economy"
+    },
     {
       "id": "29d0a3c4c3262c6565b0301c66eb4882",
       "title": "(3rd LD) 2 men stabbed at LG Electronics office in Seoul; suspect in custody",
@@ -646,17 +646,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260526008000320",
       "published_date": "2026-05-26T06:40:54Z",
       "category": "Economy"
-    },
-    {
-      "id": "f58f55a501148ee3e2820ab9d487fba7",
-      "title": "Seoul shares surge to new high of over 8,000 on optimism for U.S.-Iran deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260526008300320",
-      "published_date": "2026-05-26T06:37:53Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "e6684e7778aaf35559fff059009a2ab7",
+      "title": "(EDITORIAL from The Korea Herald on May 28)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000500315",
+      "published_date": "2026-05-27T21:58:49Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e8e213bb59d54f0ccea55448747fdb7e",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000400315",
+      "published_date": "2026-05-27T21:58:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "66d008eae24c0902f518476ce52f3d83",
+      "title": "Trump says U.S. 'not satisfied' while Iran is 'very much intent' on making a deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528000200315",
+      "published_date": "2026-05-27T16:33:39Z",
+      "category": "Local Events"
+    },
     {
       "id": "f26c162a0579cbd13e1fe5654e12bee6",
       "title": "(LEAD) Twins rally past Giants for 4th straight win",
@@ -791,30 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260527006500315",
       "published_date": "2026-05-27T04:37:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "27aaf3cceb33f64177c6c0cda7cfadce",
-      "title": "S. Korea's overseas financial assets rise to record high in Q1: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527004800320",
-      "published_date": "2026-05-27T03:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "41c6625724d23c4995f338c387a7b21e",
-      "title": "Childbirths soar to 7 yr-high in March amid growing number of new marriages",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527005700320",
-      "published_date": "2026-05-27T03:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0f82eef496e97c6e221b8ac78010704c",
-      "title": "Over 36,000 overseas Koreans acquire integrated F-4 visas",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527005300315",
-      "published_date": "2026-05-27T02:32:17Z",
       "category": "Local Events"
     }
   ]
