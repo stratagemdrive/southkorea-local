@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-28T14:38:16Z",
+  "generated_at": "2026-05-29T00:01:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "07b9a14ae770f8eb9114b18d702c4d02",
+      "title": "Samsung Electronics ships HBM4E chip samples to global customers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529001700320",
+      "published_date": "2026-05-28T23:55:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5c67d2bb6a25c4a23042099d0b3c87c1",
+      "title": "(LEAD) S. Korea, U.S. to launch talks on security initiatives from summit agreements next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529001351315",
+      "published_date": "2026-05-28T23:44:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "462094cb35f53da5bca3a2d3a00e0be9",
+      "title": "North Korea orders shoot-to-kill at border, coordinates defector tracking with China",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-shoot-to-kill-defectors-china-coordination/",
+      "published_date": "2026-05-28T23:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e7173522116cf506c1d19c30b8f9a4d2",
+      "title": "(LEAD) April's industrial output, retails sales, investment fall in triple whammy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529001251320",
+      "published_date": "2026-05-28T23:16:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e7be073fa3126dbedc0fef023a5ce68f",
+      "title": "S. Korea, U.S. to launch talks on security initiatives from summit agreements next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529001300315",
+      "published_date": "2026-05-28T23:10:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "947b138d43bef9c9f538b881eba33eb5",
+      "title": "April's industrial output, retails sales, investment fall in triple whammy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529001200320",
+      "published_date": "2026-05-28T23:00:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e3842445a96e492133b40ed716089ce0",
+      "title": "(URGENT) Industrial output, retail sales, investment lose ground in April",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529001000320",
+      "published_date": "2026-05-28T23:00:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cb44b96f0adeb5550739a38f22c31cce",
+      "title": "(EDITORIAL from Korea JoongAng Daily on May 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000800315",
+      "published_date": "2026-05-28T22:04:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "40e08c87644a48d1a9456901b07466af",
+      "title": "(Yonhap Interview) Nigeria seeks stronger democratic cooperation, deeper economic ties with S. Korea: FM",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260527007700315",
+      "published_date": "2026-05-28T22:01:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a6cdcafd5d02aedf4e8257d91f1738fb",
+      "title": "(Yonhap Interview) S. Korea, Africa hold vast potential for mutually beneficial cooperation: FM",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528008700315",
+      "published_date": "2026-05-28T22:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4483987bc94e9bf3b987e0f5c0dec92b",
+      "title": "(LEAD) Bessent stresses Trump's 'redlines' in Iran negotiations amid report of tentative deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000251315",
+      "published_date": "2026-05-28T19:56:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a3ec6058e4ffd0ea247f76c0d7d63ede",
+      "title": "North Korea expands rice-paddy fish farming drive, farm workers push back",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-paddy-fish-farming-south-hwanghae/",
+      "published_date": "2026-05-28T17:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "77ce57b9c0a130447b56fec50c9d871b",
+      "title": "U.S., Iranian negotiators reach deal, await Trump's final approval: Axios",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000200315",
+      "published_date": "2026-05-28T15:52:56Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d9ca635ed1aecf7be24fc6fe0dc78267",
       "title": "(2nd LD) Lee calls for stern punishment for those responsible for fatal overpass collapse in Seoul",
@@ -64,113 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260528009300315",
       "published_date": "2026-05-28T07:55:21Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "291dda4b15124867f5f013f22c38bc56",
-      "title": "Unification minister proposes EU-led initiative to resume inter-Korean dialogue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528009700315",
-      "published_date": "2026-05-28T07:54:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "96f31955a15b7fae3a8a284e177643e6",
-      "title": "Seoul denies OPCON transfer will lead to dissolution of joint US-ROK command",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/seoul-denies-opcon-transfer-will-lead-to-dissolution-of-joint-us-rok-command/",
-      "published_date": "2026-05-28T07:43:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8b289e13edfb7a4d2ee3805204e35b2d",
-      "title": "Chinese Embassy criticizes USFK chief's remarks describing S. Korea as 'dagger' in Asia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528008600315",
-      "published_date": "2026-05-28T07:23:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4ccd7a66231eabeafc1c79841d2682ac",
-      "title": "National security adviser discusses security situation on Korean Peninsula with Singaporean FM",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528008400315",
-      "published_date": "2026-05-28T07:06:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "432211abc2d60d9ade77036e40b5dd26",
-      "title": "Gov't receives record dividends in 2026 from state-invested companies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528006700320",
-      "published_date": "2026-05-28T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ee4dcdff55ae9703f33179ce60c2fa77",
-      "title": "(LEAD) Industry minister highlights S. Korea's competitive edge in Canadian submarine project race",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528002951320",
-      "published_date": "2026-05-28T06:22:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a733e1d1c8da48c366b1046f2a09d600",
-      "title": "Lee calls for stern punishment for those responsible for fatal overpass collapse in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528006900315",
-      "published_date": "2026-05-28T06:17:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a6413b79645197b32b5185c3eb6c12c9",
-      "title": "(LEAD) Kakao CEO apologizes for failing to ease concerns over wage talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528005451315",
-      "published_date": "2026-05-28T05:43:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5da9ba6f6f0df99ce38ea48bff78ac2a",
-      "title": "(LEAD) N. Korea slams Quad statement calling for Pyongyang's denuclearization",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528001251315",
-      "published_date": "2026-05-28T05:30:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e140e296ab1e57cf364d6b85f32f891e",
-      "title": "Regulator to ramp up efforts to detect, crack down on online phishing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528005600320",
-      "published_date": "2026-05-28T05:00:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7b0bf2a604c86e9ee27e949375fb106d",
-      "title": "FM Cho seeks Singapore's support for dialogue with N. Korea, peace on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528005500315",
-      "published_date": "2026-05-28T04:26:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b546d51dbe780ef1f1198f6fce9b500a",
-      "title": "Kakao CEO apologizes for failing to ease concerns over wage talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528005400315",
-      "published_date": "2026-05-28T03:27:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c42a3e1b725689ad43d400eab2473c66",
-      "title": "(URGENT) Kakao CEO apologizes for failing to ease concerns over wage talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528005300315",
-      "published_date": "2026-05-28T03:14:49Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "c429effb287c3c60b85466f2e82e4023",
+      "title": "Defense minister to depart for Singapore to attend security forum",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000900315",
+      "published_date": "2026-05-28T22:25:34Z",
+      "category": "Military"
+    },
+    {
+      "id": "65ce5d6f066c1db742d78f0d728c539e",
+      "title": "House draft of 2027 U.S. defense bill reinforces language on maintaining USFK troop levels",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000300315",
+      "published_date": "2026-05-28T17:50:38Z",
+      "category": "Military"
+    },
     {
       "id": "5455aecd9686608bd8310257a227062d",
       "title": "(LEAD) S. Korea stages live-fire drills involving advanced, homegrown assets",
@@ -314,25 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260526003053315",
       "published_date": "2026-05-26T07:51:22Z",
       "category": "Military"
-    },
-    {
-      "id": "ffb1081b6bff68367a713f524cde4a88",
-      "title": "(LEAD) S. Korea aims to launch 1st nuclear-powered submarine in mid-2030s: defense minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260526007951315",
-      "published_date": "2026-05-26T07:21:41Z",
-      "category": "Military"
-    },
-    {
-      "id": "840e3c99a05ff2238bcaad61f9bc9c5f",
-      "title": "(URGENT) S. Korea to comply with nonproliferation obligations in nuclear-powered submarine project: defense minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260526008100315",
-      "published_date": "2026-05-26T06:21:12Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "f13e4ccf640ef45c6330239ae54b5674",
+      "title": "(EDITORIAL from The Korea Times on May 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000700315",
+      "published_date": "2026-05-28T22:04:17Z",
+      "category": "Energy"
+    },
     {
       "id": "b8ff9f5461991b9ebcb42b04ccd9ffae",
       "title": "S. Korean players submit solid rounds at LIV Golf event on home soil",
@@ -455,6 +463,30 @@
     }
   ],
   "Economy": [
+    {
+      "id": "513f106e5d6919c3b0f6790cdc83be56",
+      "title": "Banks' bad-loan ratio up in Q1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528006400320",
+      "published_date": "2026-05-28T21:00:14Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ee66313876131fa0b862aae12f0b2b3c",
+      "title": "Foreigners extend sell-offs of Korean stocks to 4th month in April",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528006600320",
+      "published_date": "2026-05-28T21:00:14Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5c6bfe833cdb9e678ae9882638df405e",
+      "title": "S. Korea's non-IT exports to U.S. fall 12.8 pct after U.S. tariffs: BOK report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528010000320",
+      "published_date": "2026-05-28T21:00:09Z",
+      "category": "Economy"
+    },
     {
       "id": "3ffcd46f231d15961acd12d7b3c5d765",
       "title": "Gov't to foster cosmetics as new export growth engine: finance minister",
@@ -590,33 +622,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260527010900320",
       "published_date": "2026-05-27T13:34:04Z",
       "category": "Economy"
-    },
-    {
-      "id": "d9850a1c9206e27b329b35d28449a67a",
-      "title": "Twins manager appreciates catcher's value despite hitting slump",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527010500315",
-      "published_date": "2026-05-27T08:48:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9b9cf1581e88a92395c797e249c7234d",
-      "title": "Budget ministry vows proactive support for AI industry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527006800320",
-      "published_date": "2026-05-27T05:22:56Z",
-      "category": "Economy"
-    },
-    {
-      "id": "fba9be3efd54e351dbbf828dc9946842",
-      "title": "KOTRA hosts biz conference to promote cooperation between S. Korea, Japanese firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527006000320",
-      "published_date": "2026-05-27T05:00:06Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "275913dd11411d20ed523834a96eec62",
+      "title": "Seoul Subway Line 2 resumes normal operations after safety inspection over overpass demolition",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529001100315",
+      "published_date": "2026-05-28T22:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a00d82a0269e0052bf48f400ec61ec4d",
+      "title": "(EDITORIAL from The Korea Herald on May 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000600315",
+      "published_date": "2026-05-28T22:04:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3d302eb9fe63990717a8a20517000e93",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529000500315",
+      "published_date": "2026-05-28T22:03:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7a3d7f196605f0175115ef4e35ac8b88",
+      "title": "S. Korea kicks off 2-day early voting for June 3 local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528006100315",
+      "published_date": "2026-05-28T21:00:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f4d96b01d820e8217749c6a9f65ffa9e",
+      "title": "(Yonhap Interview) S. Korea conveys willingness for dialogue with N. Korea, seeks peaceful coexistence: FM",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528010600315",
+      "published_date": "2026-05-28T21:00:03Z",
+      "category": "Local Events"
+    },
     {
       "id": "b535e60de7679a8faf21e7d618eb21a1",
       "title": "LIV Golf star DeChambeau enjoying S. Korean culture -- including skincare",
@@ -735,46 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260528002300315",
       "published_date": "2026-05-28T06:30:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "10ce707522fc11a1f352ce717a5172eb",
-      "title": "Ex-presidential secretary sentenced to 1 1/2 yrs in prison for drafting false martial law document",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528007200315",
-      "published_date": "2026-05-28T06:29:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dc8d44fd77a9e4e59f78f85dd66aeb94",
-      "title": "Tigers sign new pitcher Shirakawa; Heroes extend deal with starter Rosenberg",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528007000315",
-      "published_date": "2026-05-28T06:23:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "487f7c2ba4fa2fceeb434350e1d4c736",
-      "title": "Four out of 10 S. Koreans used generative AI in 2025: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528006500320",
-      "published_date": "2026-05-28T05:49:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "50a867b04a968a22a42eb1553efcc585",
-      "title": "BTS' 'Arirang' stays in top 10 of Billboard 200 for 9th straight week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528006000315",
-      "published_date": "2026-05-28T05:03:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "111f5afbbceb2077fe1bbcd0170abc4f",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528000800315",
-      "published_date": "2026-05-28T05:00:10Z",
       "category": "Local Events"
     }
   ]
