@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-29T14:09:36Z",
+  "generated_at": "2026-05-30T00:02:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "825e343efde215101a7923663ad20bc8",
+      "title": "S. Korea, U.S., other countries call for designation of vessels over N.K. sanctions breaches",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530000300315",
+      "published_date": "2026-05-29T17:11:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c18465e4d340ba28fb85ca26c2358cf9",
+      "title": "(LEAD) Trump says he will hold Situation Room meeting to make 'final determination' on Iran negotiations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530000251315",
+      "published_date": "2026-05-29T16:24:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "52a35e153952666b839293e9c9155e1c",
+      "title": "Trump says he will hold Situation Room meeting to make 'final determination' on Iran negotiations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530000200315",
+      "published_date": "2026-05-29T15:16:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "55fa908b2e91eafbabd87fa983b66078",
+      "title": "S. Korea attends G7 digital ministers meeting in Paris",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529007200320",
+      "published_date": "2026-05-29T15:01:01Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "595242e3e965ec5c6a2fae0bba037c71",
       "title": "North Korea’s AFC women’s title sparks curiosity about South Korea at home",
@@ -135,38 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/05/singapores-top-diplomat-briefs-seoul-officials-on-his-north-korea-visit/",
       "published_date": "2026-05-29T04:33:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e6f5321f23e336d045eb951bd397707f",
-      "title": "How Seoul can transform inter-Korean ties by abandoning the name ‘North Korea’",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/how-seoul-can-transform-inter-korean-ties-by-abandoning-the-name-north-korea/",
-      "published_date": "2026-05-29T03:07:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c0c61b7c234ef413ef802193f4db05a3",
-      "title": "Foreign currency deposits rebound in April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529003300320",
-      "published_date": "2026-05-29T03:00:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6f5727ae4e6169f7999530d5522e7522",
-      "title": "S. Korea rolls out measures to counter cybersecurity threats",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529003700320",
-      "published_date": "2026-05-29T03:00:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f5eaf3bc6b15e2bada491f34cea75e97",
-      "title": "Unwavering self-belief pays off for ex-World Cup hero",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529004500315",
-      "published_date": "2026-05-29T02:15:42Z",
       "category": "Diplomacy"
     }
   ],
@@ -444,33 +444,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260526006700315",
       "published_date": "2026-05-26T05:24:10Z",
       "category": "Energy"
-    },
-    {
-      "id": "241a043a377687b081b2b854d0fb4c90",
-      "title": "'I've always believed I could hit': ex-MLB slugger Hiura ready to showcase what he has in KBO",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260522003100315",
-      "published_date": "2026-05-22T23:00:09Z",
-      "category": "Energy"
-    },
-    {
-      "id": "9c75872627389cdd1d6a32a57ba70a04",
-      "title": "(LEAD) Warsh sworn in as Fed chair; Trump says he wants him to be 'totally independent'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260523000251315",
-      "published_date": "2026-05-22T18:10:45Z",
-      "category": "Energy"
-    },
-    {
-      "id": "572d1ba2d925053cc7072e50d5bcedb5",
-      "title": "Warsh sworn in as Fed chair; Trump says he wants him to be 'totally independent'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260523000200315",
-      "published_date": "2026-05-22T17:21:36Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "a45d8fe2a923cd58c77578190c03ff83",
+      "title": "North Korea grain prices fall across markets as imported supply increases",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-market-grain-prices-fall-may-2026/",
+      "published_date": "2026-05-29T23:57:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e5d916b3b9fc4738fa857e5fc6340110",
+      "title": "Counterfeit Russian rubles flood Rason market as North Korea-Russia trade expands",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/counterfeit-rubles-north-korea-rason-russia-trade/",
+      "published_date": "2026-05-29T17:50:00Z",
+      "category": "Economy"
+    },
     {
       "id": "7dc5e4594c9537a68ae6c2f68bd0c36d",
       "title": "Samyang Group to acquire Japanese chemical firm for 390 bln won",
@@ -614,25 +606,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260528007500320",
       "published_date": "2026-05-28T08:00:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "b2fafb6ec3255fae2afff0c2454b91e1",
-      "title": "Trade minister conveys Seoul's concerns over EU's trade protectionist measures to European Parliament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528009100320",
-      "published_date": "2026-05-28T07:53:03Z",
-      "category": "Economy"
-    },
-    {
-      "id": "e9764a61e6cd99b9f948535e96799cd5",
-      "title": "Culture minister says seeks 400 tln-won 'K-culture' market by 2030",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528006200315",
-      "published_date": "2026-05-28T06:08:13Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "fe15106bba0804ac0b26d28535100d89",
+      "title": "(3rd LD) Trump will make only 'good' Iran deal that satisfies his 'redlines': White House official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530000253315",
+      "published_date": "2026-05-29T22:22:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8638cebfa623728dff6854aca84584f8",
+      "title": "(URGENT) Trump will make only 'good' Iran deal that satisfies his 'redlines': White House official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530000400315",
+      "published_date": "2026-05-29T22:09:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8e2c9142165f4af8b9666a4145bbc9d9",
+      "title": "(2nd LD) Trump makes no decision on Iran deal during Situation Room meeting: NYT",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530000252315",
+      "published_date": "2026-05-29T20:39:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a9d05a6aaca356776dafced0e9219455",
+      "title": "North Korean women no longer want to marry police officers. Here’s why.",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-women-avoid-marrying-police-officers/",
+      "published_date": "2026-05-29T19:53:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5d73f39336c82d021ae5c2e19289dc63",
+      "title": "(LEAD) Demolition of collapsed Seoul overpass completed",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529010251315",
+      "published_date": "2026-05-29T14:12:12Z",
+      "category": "Local Events"
+    },
     {
       "id": "91955a8ce99c3d93e7fb80753fbd86e2",
       "title": "Demolition of collapsed Seoul overpass completed",
@@ -751,46 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260528006152315",
       "published_date": "2026-05-29T06:17:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6d5509d8466aad383d8929b4a0d64326",
-      "title": "Samsung Electronics' minority union to continue challenging wage deal at court",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529005200320",
-      "published_date": "2026-05-29T05:06:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2d70eb3a1e70444a4b21cdfd6d9cfc93",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529002700315",
-      "published_date": "2026-05-29T05:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "810fc0777d633da2aebfe5dace573745",
-      "title": "(LEAD) Lee, first lady cast ballots in early voting near Cheong Wa Dae for June 3 elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529003051315",
-      "published_date": "2026-05-29T04:33:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3c7c8c7d1d6f061843d78d8a6abcefc2",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529005000315",
-      "published_date": "2026-05-29T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "460ae30a1bf438f0ba4c585d1a6c350f",
-      "title": "Lee, first lady cast ballots in early voting near Cheong Wa Dae for June 3 elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529003000315",
-      "published_date": "2026-05-29T03:54:27Z",
       "category": "Local Events"
     }
   ]
