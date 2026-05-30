@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-05-30T12:05:20Z",
+  "generated_at": "2026-05-30T23:51:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ced69a5afdbd793f4aea00101685fe00",
+      "title": "(News Focus) Lee's 'pragmatic' diplomacy coasts through bumps in 1st year; N. Korea ties remain stalled",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528009400315",
+      "published_date": "2026-05-30T21:00:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1774f17ccca472c32e407e33792f48bd",
+      "title": "(News Focus) 1 year in office, Lee shakes off shadow of martial law, but daunting tasks remain",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529007900315",
+      "published_date": "2026-05-30T21:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7a3ad0d4cfd509115f154b4bb369ab7c",
+      "title": "South Korea, Japan stress Korean Peninsula security, resume maritime drills",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/05/south-korea-japan-stress-korean-peninsula-security-resume-maritime-drills/",
+      "published_date": "2026-05-30T13:07:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c53f6186d3f1de05892778ec732b2604",
+      "title": "(LEAD) Defense minister discusses expanding cooperation with Philippines, Norway counterparts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530004051315",
+      "published_date": "2026-05-30T12:17:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b6ba46da7a54b68ae8cdb2210bb88298",
+      "title": "Defense minister discusses expanding cooperation with Philippines, Norway counterparts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260530004000315",
+      "published_date": "2026-05-30T12:11:47Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b535458ba9e193676b73ebb212b28007",
       "title": "Co-leaders at LIV Golf Korea adopting attack mindset for final round",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260530000251315",
       "published_date": "2026-05-29T16:24:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "52a35e153952666b839293e9c9155e1c",
-      "title": "Trump says he will hold Situation Room meeting to make 'final determination' on Iran negotiations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260530000200315",
-      "published_date": "2026-05-29T15:16:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "55fa908b2e91eafbabd87fa983b66078",
-      "title": "S. Korea attends G7 digital ministers meeting in Paris",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529007200320",
-      "published_date": "2026-05-29T15:01:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "595242e3e965ec5c6a2fae0bba037c71",
-      "title": "North Korea’s AFC women’s title sparks curiosity about South Korea at home",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-afc-womens-champions-league-south-korea-reaction/",
-      "published_date": "2026-05-29T13:33:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c886a051bf0d7b988fb6eb17a871ffe4",
-      "title": "In hunt for LIV Golf title in debut, Mun Do-yeob trying to stay present",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529009700315",
-      "published_date": "2026-05-29T10:17:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "022008daa013eb2696543774ac12de35",
-      "title": "Lions hand Australian pitcher O'Loughlin 2nd extension",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529009400315",
-      "published_date": "2026-05-29T09:09:06Z",
       "category": "Diplomacy"
     }
   ],
@@ -448,6 +448,14 @@
   ],
   "Economy": [
     {
+      "id": "ad5fe894f875da91e1fb8c5576055fba",
+      "title": "(News Focus) Despite stock market rally, S. Korean president faces economic challenges amid Middle East uncertainties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260529005500320",
+      "published_date": "2026-05-30T21:00:11Z",
+      "category": "Economy"
+    },
+    {
       "id": "a45d8fe2a923cd58c77578190c03ff83",
       "title": "North Korea grain prices fall across markets as imported supply increases",
       "source": "Daily NK",
@@ -598,17 +606,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260528010000320",
       "published_date": "2026-05-28T21:00:09Z",
       "category": "Economy"
-    },
-    {
-      "id": "3ffcd46f231d15961acd12d7b3c5d765",
-      "title": "Gov't to foster cosmetics as new export growth engine: finance minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260528007500320",
-      "published_date": "2026-05-28T08:00:02Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "21ed1b9950d529f7eac235abc283755a",
+      "title": "PSG defend Champions League title with Lee Kang-in benched",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260531000200315",
+      "published_date": "2026-05-30T23:44:57Z",
+      "category": "Local Events"
+    },
     {
       "id": "20e3c4706124a39cf8feca77f531b91e",
       "title": "Main opposition files complaint against Lee over alleged election law violation",
@@ -759,14 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260529010200315",
       "published_date": "2026-05-29T13:33:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ee6b8fc77b83e2dfaa5734025df29eb0",
-      "title": "Arrest warrant issued for suspect in stabbing of 2 men",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529010000315",
-      "published_date": "2026-05-29T11:07:33Z",
       "category": "Local Events"
     }
   ]
