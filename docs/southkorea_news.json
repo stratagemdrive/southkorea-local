@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-01T16:40:05Z",
+  "generated_at": "2026-06-02T00:05:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "3382d0f628876e07bfebff25fe4a58d0",
+      "title": "Nvidia chief, SK Group Chey meet in Taipei to discuss AI memory chip cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602001500320",
+      "published_date": "2026-06-02T00:03:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f456c8fecd1565bef1bcb5cf47ddab2c",
+      "title": "S. Korea seeking momentum-building win vs. El Salvador in final World Cup tuneup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602001600315",
+      "published_date": "2026-06-02T00:02:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ee05c7a4e29db602a4fbb14b5e3ddbe6",
+      "title": "Unheralded defender goes from 2nd division to final World Cup squad",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602001400315",
+      "published_date": "2026-06-01T23:46:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b4a244724c333625e6ff148624123154",
+      "title": "(LEAD) Consumer prices rise 3.1 pct in May on soaring fuel prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602000951320",
+      "published_date": "2026-06-01T23:33:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "18e5966f29dfa6cbf0ce6bff3f18e595",
+      "title": "Consumer prices rise 3.1 pct in May on soaring fuel prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602000900320",
+      "published_date": "2026-06-01T23:00:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "60d077b756c0f78037754c621acc0a5e",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602000600320",
+      "published_date": "2026-06-01T22:07:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d81d421518feb842aa5b96ad48b0b925",
+      "title": "(EDITORIAL from The Korea Times on June 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602000500320",
+      "published_date": "2026-06-01T22:07:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "20a1f3585ff748dc39fa050c4455e63c",
+      "title": "(EDITORIAL from The Korea Herald on June 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602000400320",
+      "published_date": "2026-06-01T22:07:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "859d93f5ddf440da73ed41792947f09b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602000300320",
+      "published_date": "2026-06-01T22:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8905ed3541ad0cd61e68acecafb0d9ed",
+      "title": "Corporate direct financing spikes over 13 pct in April on increased debt sale",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260601007300320",
+      "published_date": "2026-06-01T21:00:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0ab47a02ce4baa1cd8492c3b41fce977",
+      "title": "North Korea makes parents pay to feed students forced into rice planting labor",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-students-rice-planting-mobilization-food-burden/",
+      "published_date": "2026-06-01T20:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c179e02c95cb9854f01a17b82068f67e",
+      "title": "(LEAD) Trump says Iran talks continuing 'at rapid pace,' Israel, Hezbollah won't attack each other",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260601012551315",
+      "published_date": "2026-06-01T18:15:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "99170317ec281c1474f2ca2ef225f32c",
+      "title": "Young North Koreans turn to flexible 8·3 labor as state wages fail to cover basic needs",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-83-labor-young-workers-private-income/",
+      "published_date": "2026-06-01T17:32:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "07d6a9c77bf9b69738dccc561842f98b",
       "title": "Trump says Iran deal will be 'good' for U.S., berates critics for 'negatively chirping'",
@@ -63,110 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260601005055315",
       "published_date": "2026-06-01T09:25:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "15c8f116dd5ea2d3fd43d3e11a9a8fc7",
-      "title": "GM Korea's May sales fall 5.9 pct on weak demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601011800320",
-      "published_date": "2026-06-01T08:20:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c51499cb41311492004df3d0bcc593a3",
-      "title": "Takaichi seeks ‘courageous’ summit with Kim Jong Un to resolve abduction issue",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/takaichi-seeks-courageous-summit-with-kim-jong-un-to-resolve-abduction-issue/",
-      "published_date": "2026-06-01T08:18:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4bf86e7c96435d5679ea01fb226caf4c",
-      "title": "Booker Prize winner Yang says hopes literature will serve as lasting force in changing society",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601010000315",
-      "published_date": "2026-06-01T07:50:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "86ef8921220ae23d1c23dc87b8c35cb6",
-      "title": "Renault Korea's May sales drop 40 pct on weak demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601010400320",
-      "published_date": "2026-06-01T07:48:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0c03b3c7764f92174964ffbfca53171d",
-      "title": "Defense minister vows assistance in probe into Hanwha Aerospace plant explosion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601010100315",
-      "published_date": "2026-06-01T07:39:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "12ddad62dd472bd3cca7dd8f856e1326",
-      "title": "Global sales of Hyundai Motor down in May amid production decline",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601010300320",
-      "published_date": "2026-06-01T07:37:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a6f4ea8317e76f9c36d31b8d791212f9",
-      "title": "Ex-President Yoon made preparations for martial law since late 2023: special counsel",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601009500315",
-      "published_date": "2026-06-01T07:33:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "990a979b3bb16204d1e96671847726a6",
-      "title": "Top North Korean officials join unveiling of memorial to late Russian envoy",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/top-north-korean-officials-join-unveiling-of-memorial-to-late-russian-envoy/",
-      "published_date": "2026-06-01T07:27:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7338a381329df4cf965bcccbfcad5a0b",
-      "title": "Kia's global sales rise in May on robust overseas demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601009800320",
-      "published_date": "2026-06-01T07:24:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2835fa1da202aa701aa9625454c75014",
-      "title": "S. Korea, U.S. to begin inaugural talks on security initiatives from summit agreements on Tues.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601009600315",
-      "published_date": "2026-06-01T07:20:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5f596cdb92daf9ff1ab040ac3c5208e6",
-      "title": "Over 23,000 drug offenders rounded up last year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601009300315",
-      "published_date": "2026-06-01T07:06:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "51b2c38cb3050692a4737b14d0a44504",
-      "title": "Industry minister discusses energy, logistics cooperation with Oman official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601006900320",
-      "published_date": "2026-06-01T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "52a4b4ceaeb98dbf427591fef13b03e1",
-      "title": "Kim Jong Un renews vow for ‘radical’ improvement to rural living conditions",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/kim-jong-un-renews-vow-for-radical-improvement-to-rural-living-conditions/",
-      "published_date": "2026-06-01T06:46:11Z",
       "category": "Diplomacy"
     }
   ],
@@ -626,6 +626,30 @@
   ],
   "Local Events": [
     {
+      "id": "a78e6d829d34f7d1dfb4e184518fa65c",
+      "title": "(URGENT) Seoul shares open at record high of above 8,800 as tech rally continues",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602001700320",
+      "published_date": "2026-06-02T00:01:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7938d6dbd9c688895d810171bf233b08",
+      "title": "Alcohol spending posts sharpest decline in 7 yrs in Q1 amid changing drinking culture",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602001300320",
+      "published_date": "2026-06-01T23:51:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0d967214de81fc3ff521b26cbb7a6a2d",
+      "title": "(URGENT) Consumer prices up 3.1 pct in May amid Middle East war, highest in more than 2 years",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602000800320",
+      "published_date": "2026-06-01T23:00:03Z",
+      "category": "Local Events"
+    },
+    {
       "id": "58b010cd3c3af28bd33c5e95f5f0c888",
       "title": "Hyundai Mobis' India plant damaged by fire, raising supply concerns",
       "source": "Yonhap News Agency",
@@ -759,30 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260601004500320",
       "published_date": "2026-06-01T02:33:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0fe9254f942a222841bfe992cc392bd4",
-      "title": "(URGENT) Explosion reported at Hanwha Aerospace's Daejeon facility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601005000315",
-      "published_date": "2026-06-01T02:20:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a70ec4b10e3632bea0bc32d02903692a",
-      "title": "(LEAD) Seoul shares open at record high on extended tech rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601001451320",
-      "published_date": "2026-06-01T00:24:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fc427be49bf46b631e5f1885ecc55b23",
-      "title": "Seoul shares open at record high on extended tech rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601001400320",
-      "published_date": "2026-06-01T00:06:51Z",
       "category": "Local Events"
     }
   ]
