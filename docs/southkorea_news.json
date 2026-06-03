@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-02T14:55:33Z",
+  "generated_at": "2026-06-03T00:22:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "8715434224899a5126dc131ce827dc49",
+      "title": "(EDITORIAL from The Korea Times on June 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000700320",
+      "published_date": "2026-06-02T23:40:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0c8d19bfc02bf65492be0e0158a781e2",
+      "title": "(EDITORIAL from The Korea Herald on June 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000600320",
+      "published_date": "2026-06-02T23:40:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a0cac4b96bfddd5abc70122fb7cd2c26",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000500320",
+      "published_date": "2026-06-02T23:40:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "91fa6a8cbd3457c8c214442a690829c1",
+      "title": "Unification Minister Chung heads to Ulaanbaatar Dialogue for security talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602009600315",
+      "published_date": "2026-06-02T21:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "513e919a941617bbea99b358ec0b2fb1",
+      "title": "North Korean soldiers in Ukraine face forced return — a civilian delegation went to fight for them",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-pow-ukraine-repatriation-human-rights-kang-dong-wan/",
+      "published_date": "2026-06-02T20:47:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5ba45de24781e20828ac9ef70460a5ea",
+      "title": "USTR says U.S. will release results of Section 301 trade investigations over coming weeks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000200315",
+      "published_date": "2026-06-02T18:38:41Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "a2344159938f80727cc29aa0c122f724",
       "title": "(4th LD) Nvidia chief, SK Group's Chey meet in Taipei to discuss AI memory chip cooperation",
@@ -119,54 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260602008200315",
       "published_date": "2026-06-02T07:33:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "17d818480308531e533f286939f3b558",
-      "title": "S. Korean, Turkish FMs to hold talks this week on bilateral ties, regional issues",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602008000315",
-      "published_date": "2026-06-02T07:18:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6ce876da24f5c8a587a4cb7b5508d95a",
-      "title": "(2nd LD) Lee orders prompt action to stabilize prices, warns against market cornering",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602004152315",
-      "published_date": "2026-06-02T06:59:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "94a9c97a04969bea9a519bab395278bd",
-      "title": "(LEAD) S. Korea, U.S. begin talks on nuclear-powered submarine, other security initiatives from summit agreements",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602003751315",
-      "published_date": "2026-06-02T06:57:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f59a21cf8d5b4c5cfe8c16f41b5155a2",
-      "title": "Senior U.S. diplomat voices optimism over security cooperation talks with S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602007700315",
-      "published_date": "2026-06-02T06:52:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "74a76b2819c928e1e00e9387eeac2a16",
-      "title": "(URGENT) Seoul shares again end at record high on Samsung",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602006600320",
-      "published_date": "2026-06-02T06:33:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "98f5c1c2b9f0c842f675402c4c23c64e",
-      "title": "Cabinet approves revised labor law allowing hourly use of paid annual leave",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602006500315",
-      "published_date": "2026-06-02T06:18:27Z",
       "category": "Diplomacy"
     }
   ],
@@ -440,6 +440,14 @@
   ],
   "Economy": [
     {
+      "id": "fa7119d42193574d18546db0b1736e78",
+      "title": "USTR points to S. Korea's steel industry as he defends Trump's tariff policy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000300315",
+      "published_date": "2026-06-02T20:15:09Z",
+      "category": "Economy"
+    },
+    {
       "id": "d1021c3ef99e5e1c1c33c9d6bed59aa6",
       "title": "North Korea’s donju hand over rice and cash to the state — and call it insurance",
       "source": "Daily NK",
@@ -590,17 +598,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260529009500320",
       "published_date": "2026-05-29T09:31:49Z",
       "category": "Economy"
-    },
-    {
-      "id": "4226ceb06c48114c4f6e1d4388dfae05",
-      "title": "North Korea imports $4M worth of Russian rye wheat flour through April: Data",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/05/north-korea-imports-4m-worth-of-russian-rye-wheat-flour-through-april-data/",
-      "published_date": "2026-05-29T08:48:16Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "da43967dd8541431f29f63f3ed24e861",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000800320",
+      "published_date": "2026-06-02T23:40:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "53793e56294842e374494ba551fb6ca2",
+      "title": "S. Koreans head to polls in local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260602008300315",
+      "published_date": "2026-06-02T21:00:05Z",
+      "category": "Local Events"
+    },
     {
       "id": "c8fe7c2b6b535e41cc740d0fc3e5a3c2",
       "title": "Yonhap News Summary",
@@ -743,22 +759,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260601007900320",
       "published_date": "2026-06-01T06:35:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a4986c72534eda0bea9f1800d7d837f9",
-      "title": "4 suspects booked in police probe into Seoul overpass collapse",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601008000315",
-      "published_date": "2026-06-01T06:21:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a132eb9a783fd76dd60c79ef0c54a370",
-      "title": "Hanwha Aerospace vows full investigation into deadly explosion at Daejeon facility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601007700320",
-      "published_date": "2026-06-01T05:55:54Z",
       "category": "Local Events"
     }
   ]
