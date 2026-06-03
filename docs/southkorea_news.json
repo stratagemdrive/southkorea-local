@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-03T00:22:44Z",
+  "generated_at": "2026-06-03T15:27:36Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,126 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e3c20d912421d367f4e383e71e33473c",
+      "title": "Personal info of Tving users leaked",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603006700315",
+      "published_date": "2026-06-03T13:01:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7d02af85626e1034577e90be2d8b74cc",
+      "title": "Lee's chief of staff makes all-out efforts to support Seoul's push to win Canadian submarine deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603006400315",
+      "published_date": "2026-06-03T11:46:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "467c356fcc4559eab801c92dafa0be63",
+      "title": "(LEAD) S. Korea, U.S. discuss 'timeline' for talks on nuclear-powered subs, nuclear energy cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603002951315",
+      "published_date": "2026-06-03T08:18:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b881325f4cf6e4ed6aee6212addaf2e2",
+      "title": "Top US diplomat consults with Seoul on North Korea, nuclear submarines",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/top-us-diplomat-consults-with-seoul-on-north-korea-nuclear-submarines/",
+      "published_date": "2026-06-03T07:49:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cf78188d25eae775a465c759c96351e4",
+      "title": "North Korean, Russian military medics sharing know-how from Ukraine war: Doctor",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/north-korean-russian-military-medics-sharing-know-how-from-ukraine-war-doctor/",
+      "published_date": "2026-06-03T07:45:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28cddd0ee493e2d3e4ce3c710fda50f8",
+      "title": "OECD revises up S. Korea's 2026 growth outlook to 2.6 pct",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603003000320",
+      "published_date": "2026-06-03T07:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5b20b068d85960ae1e3760b26eb8d312",
+      "title": "North Korea lambasts US commander for calling South a ‘dagger’ aimed at China",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/north-korea-lambasts-us-commander-for-calling-south-a-dagger-aimed-at-china/",
+      "published_date": "2026-06-03T06:41:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c6ac4646be292f05862bc2687d178249",
+      "title": "Chinese cargo plane flies to North Korea amid reports of imminent Xi visit",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/chinese-cargo-plane-flies-to-north-korea-amid-reports-of-imminent-xi-visit/",
+      "published_date": "2026-06-03T05:00:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "756f91f5b7ece6834b9e04c7e178bb40",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000900320",
+      "published_date": "2026-06-03T05:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "784746697c141071fbeb7d53456594ab",
+      "title": "S. Korea, U.S. continue security talks for 2nd day with uranium enrichment rights in focus",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603002900315",
+      "published_date": "2026-06-03T04:20:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ea6c83e1409a43946750be1bc4c0d22a",
+      "title": "KBO-leading Twins sign new pitcher Rios, cut Chirinos",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603002700315",
+      "published_date": "2026-06-03T02:24:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "108a8f5d0e7b076f40f67cf6a088f835",
+      "title": "Sidecar activations on main bourse hit highest since 2008 financial crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603001600320",
+      "published_date": "2026-06-03T01:13:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "08f3a0b565a5eda8a7ec87ca9de63249",
+      "title": "4 robot-related firms' stocks jump 155 pct this year amid physical AI boom",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603001500320",
+      "published_date": "2026-06-03T00:57:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "57b17c0f48ff2f1474db0921db7fc0f2",
+      "title": "N. Korea slams USFK commander's 'dagger' remark on S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603000400315",
+      "published_date": "2026-06-03T00:50:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0a0dd17203f407895fe76141d77923ba",
+      "title": "Veteran midfielder gearing up for final World Cup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603001000315",
+      "published_date": "2026-06-03T00:25:07Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8715434224899a5126dc131ce827dc49",
       "title": "(EDITORIAL from The Korea Times on June 3)",
@@ -47,126 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korean-pow-ukraine-repatriation-human-rights-kang-dong-wan/",
       "published_date": "2026-06-02T20:47:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5ba45de24781e20828ac9ef70460a5ea",
-      "title": "USTR says U.S. will release results of Section 301 trade investigations over coming weeks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260603000200315",
-      "published_date": "2026-06-02T18:38:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a2344159938f80727cc29aa0c122f724",
-      "title": "(4th LD) Nvidia chief, SK Group's Chey meet in Taipei to discuss AI memory chip cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602001554320",
-      "published_date": "2026-06-02T12:21:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "89a732252e596ba7a29d8ff5bac94db7",
-      "title": "(LEAD) Nat'l security adviser meets U.S. under secretary of state for talks on security",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602003351315",
-      "published_date": "2026-06-02T11:12:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cf614f2a87785062a38b548b9f80f9f7",
-      "title": "(3rd LD) Nvidia chief, SK Group's Chey meet in Taipei to discuss AI memory chip cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602001553320",
-      "published_date": "2026-06-02T10:09:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8f96bf9d6f31253e4272d3f481daae80",
-      "title": "Mass livestock deaths at Kim Jong Un’s model farm trigger political crisis in Kangwon province",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-sepho-livestock-farm-mass-die-off-investigation/",
-      "published_date": "2026-06-02T09:08:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f1cccf490da5d3f2eb19b723c95df5b8",
-      "title": "World No. 3 Kim Hyo-joo headlines S. Korean contingent at LPGA major",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602009500315",
-      "published_date": "2026-06-02T08:49:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "373076c4b91d30c336b0a63b115f9d2e",
-      "title": "Cabinet passes bill to strengthen self-reliance of semiconductors in defense systems",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602009200315",
-      "published_date": "2026-06-02T08:39:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "edfb05669446f85de4e173c7d1257183",
-      "title": "(2nd LD) S. Korea, U.S. wrap up 1st day of security talks on nuclear-powered submarine",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602003752315",
-      "published_date": "2026-06-02T08:38:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bf24be50b7df9e301608f5fbbde8adb6",
-      "title": "JCS chief inspects readiness posture at coastal, riverine units",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602009100315",
-      "published_date": "2026-06-02T08:19:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "30bb6a7261995d21d29dfc9f9eaa53e9",
-      "title": "(2nd LD) Nvidia chief, SK Group's Chey meet in Taipei to discuss AI memory chip cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602001552320",
-      "published_date": "2026-06-02T08:07:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "406702e59f5f62426fb39aaac70294da",
-      "title": "(LEAD) S. Korea, Canada discuss stronger space, defense cooperation amid submarine bidding race",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602002751320",
-      "published_date": "2026-06-02T08:02:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "939b2733a400eaa3564787c4615c2f4c",
-      "title": "Lee meets African FMs, expresses hope for regular summit with African leaders",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602008700315",
-      "published_date": "2026-06-02T08:01:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "64fd27042f418f1cb218e67e27bb5d93",
-      "title": "SK Group to double wafer production cap over next 5 yrs, says chairman",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602008500320",
-      "published_date": "2026-06-02T07:50:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "45e331a5aea146554954be19f5192c48",
-      "title": "Kim Jong Un denounces elites’ love of ‘corrupt wealth’ in speech to cadres",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/kim-jong-un-denounces-elites-love-of-corrupt-wealth-in-speech-to-cadres/",
-      "published_date": "2026-06-02T07:43:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "63dc310bd28104b835483db093f9cd33",
-      "title": "U.S. scholar under probe for defaming Lee files suit against travel ban",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602008200315",
-      "published_date": "2026-06-02T07:33:37Z",
       "category": "Diplomacy"
     }
   ],
@@ -420,25 +420,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260528002100320",
       "published_date": "2026-05-28T00:50:05Z",
       "category": "Energy"
-    },
-    {
-      "id": "9cf20bbfb7afe6c74157d97b39f98d2b",
-      "title": "(URGENT) S. Korea to lodge \"strong protest\" over attack on Korean vessel, demand preventive measures by Iran",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527010200315",
-      "published_date": "2026-05-27T08:10:16Z",
-      "category": "Energy"
-    },
-    {
-      "id": "49ad15b1a47aafdcf74ceede2d21099b",
-      "title": "Retail sales rise 7.2 in April",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260527002300320",
-      "published_date": "2026-05-27T02:00:08Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "3db38ab7ad86cba10ef08e1bcb88e5ff",
+      "title": "(URGENT) DP candidate Chong Won-o wins Seoul mayoral race against incumbent Oh Se-hoon of PPP: JTBC exit poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603005200315",
+      "published_date": "2026-06-03T09:06:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "eaf5b8cb9e4a57a3c8b531bdc8a7f73c",
+      "title": "S. Korea vows to protect trade interests after U.S. proposes forced labor-linked tariffs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260603004500315",
+      "published_date": "2026-06-03T08:49:58Z",
+      "category": "Economy"
+    },
     {
       "id": "fa7119d42193574d18546db0b1736e78",
       "title": "USTR points to S. Korea's steel industry as he defends Trump's tariff policy",
@@ -582,183 +582,167 @@
       "url": "https://www.dailynk.com/english/north-korea-market-grain-prices-fall-may-2026/",
       "published_date": "2026-05-29T23:57:00Z",
       "category": "Economy"
-    },
-    {
-      "id": "e5d916b3b9fc4738fa857e5fc6340110",
-      "title": "Counterfeit Russian rubles flood Rason market as North Korea-Russia trade expands",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/counterfeit-rubles-north-korea-rason-russia-trade/",
-      "published_date": "2026-05-29T17:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7dc5e4594c9537a68ae6c2f68bd0c36d",
-      "title": "Samyang Group to acquire Japanese chemical firm for 390 bln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529009500320",
-      "published_date": "2026-05-29T09:31:49Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "id": "da43967dd8541431f29f63f3ed24e861",
-      "title": "(EDITORIAL from Korea JoongAng Daily on June 3)",
+      "id": "fbe3b3b76c742ce974b232961d38f127",
+      "title": "(URGENT) Tentative final turnout in local elections tallied at 61 pct: NEC",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260603000800320",
-      "published_date": "2026-06-02T23:40:45Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603006800315",
+      "published_date": "2026-06-03T14:58:43Z",
       "category": "Local Events"
     },
     {
-      "id": "53793e56294842e374494ba551fb6ca2",
-      "title": "S. Koreans head to polls in local elections",
+      "id": "abc4803fa85a030c8abf45a50cc6a2f4",
+      "title": "(2nd LD) Election watchdog apologizes to public for ballot shortage in local elections",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602008300315",
-      "published_date": "2026-06-02T21:00:05Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005852315",
+      "published_date": "2026-06-03T14:11:21Z",
       "category": "Local Events"
     },
     {
-      "id": "c8fe7c2b6b535e41cc740d0fc3e5a3c2",
-      "title": "Yonhap News Summary",
+      "id": "43e9e1a28c944100a2e0cb6e379e2f63",
+      "title": "(LEAD) Election watchdog apologizes to public for ballot shortage in local elections",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602009000315",
-      "published_date": "2026-06-02T08:06:22Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005851315",
+      "published_date": "2026-06-03T13:05:34Z",
       "category": "Local Events"
     },
     {
-      "id": "7d7ac2d2a15bedab29096b7667527b39",
-      "title": "Rival parties make final push for support on eve of local elections",
+      "id": "e435053c40447f9c366766cc95793452",
+      "title": "(3rd LD) Ruling DP projected to win high-stakes local elections seen as key test for president",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602006400315",
-      "published_date": "2026-06-02T06:41:40Z",
+      "url": "https://en.yna.co.kr/view/AEN20260602008353315",
+      "published_date": "2026-06-03T11:09:41Z",
       "category": "Local Events"
     },
     {
-      "id": "725256fd6e0c269d9cdd4ba13ffd3717",
-      "title": "BTS to release special vinyl to mark 13th anniversary",
+      "id": "8ae2cb7dd7b897c9a00d01c42078be18",
+      "title": "(4th LD) Turnout in local elections surpasses 60 pct: NEC",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602006100315",
-      "published_date": "2026-06-02T05:22:09Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603001754315",
+      "published_date": "2026-06-03T10:34:38Z",
       "category": "Local Events"
     },
     {
-      "id": "6294923da24d843d0418a1de40d557f8",
-      "title": "Yonhap News Summary",
+      "id": "7e9f63a0f7fa6cf3c46c87ded7d33359",
+      "title": "(URGENT) Turnout in local elections surpasses 60 pct: NEC",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602005800320",
-      "published_date": "2026-06-02T04:30:00Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005900315",
+      "published_date": "2026-06-03T10:21:19Z",
       "category": "Local Events"
     },
     {
-      "id": "253f8272874a7285e98ce02ab60ef904",
-      "title": "Hanwha Aerospace partially suspends Daejeon factory following deadly explosion",
+      "id": "5a0d6d826174e26a330d01f9cb34ecaf",
+      "title": "Ballot shortages prompt voting to halt at some polling stations in Songpa Ward",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602005600320",
-      "published_date": "2026-06-02T02:58:11Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005800315",
+      "published_date": "2026-06-03T10:16:18Z",
       "category": "Local Events"
     },
     {
-      "id": "20bd97b14590378031c4c120b513e019",
-      "title": "Arrest warrant sought for factory owner over alleged assault of foreign workers",
+      "id": "72a78bc97ebf9f9db7732c15ca361cbd",
+      "title": "(2nd LD) Ruling DP projected to win at least 10 of 16 key local election races: exit polls",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602005200315",
-      "published_date": "2026-06-02T02:48:25Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005352315",
+      "published_date": "2026-06-03T10:13:54Z",
       "category": "Local Events"
     },
     {
-      "id": "f5cde1bbffe2f4529129d6f3c9a516c5",
-      "title": "Police launch joint inspection of Hanwha Aerospace plant after deadly explosion",
+      "id": "0668ed557031905d04f7226f1455a351",
+      "title": "(LEAD) Ruling DP projected to win at least 10 of 16 key local election races: exit polls",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602004500315",
-      "published_date": "2026-06-02T02:23:55Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005351315",
+      "published_date": "2026-06-03T09:36:50Z",
       "category": "Local Events"
     },
     {
-      "id": "982ee6a30f6853977834a2e7a896c896",
-      "title": "Seoul shares open at record high above 8,800 as tech rally continues",
+      "id": "364dc5cca43e4b6347ce07acae8dc35b",
+      "title": "(URGENT) Ruling DP wins 11 key races against main opposition PPP's 1: KBS-MBC-SBS exit poll",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602001800320",
-      "published_date": "2026-06-02T00:04:18Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005600315",
+      "published_date": "2026-06-03T09:14:26Z",
       "category": "Local Events"
     },
     {
-      "id": "a78e6d829d34f7d1dfb4e184518fa65c",
-      "title": "(URGENT) Seoul shares open at record high of above 8,800 as tech rally continues",
+      "id": "2d97eb5d5ed38d466ab4f27fdd9a16b7",
+      "title": "(URGENT) Former PPP leader Han Dong-hoon wins parliamentary by-election in Busan: JTBC exit poll",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602001700320",
-      "published_date": "2026-06-02T00:01:35Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005500315",
+      "published_date": "2026-06-03T09:11:34Z",
       "category": "Local Events"
     },
     {
-      "id": "7938d6dbd9c688895d810171bf233b08",
-      "title": "Alcohol spending posts sharpest decline in 7 yrs in Q1 amid changing drinking culture",
+      "id": "6dd1668def629d5ebac58b7c509b7ba4",
+      "title": "Ruling DP projected to win 10 of 16 key local election races: JTBC exit poll",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602001300320",
-      "published_date": "2026-06-01T23:51:08Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005300315",
+      "published_date": "2026-06-03T09:10:15Z",
       "category": "Local Events"
     },
     {
-      "id": "0d967214de81fc3ff521b26cbb7a6a2d",
-      "title": "(URGENT) Consumer prices up 3.1 pct in May amid Middle East war, highest in more than 2 years",
+      "id": "9bd778467554b6ac2ee9b0f96b455989",
+      "title": "(URGENT) DP candidate Jeon Jae-soo wins Busan mayoral race against PPP's Park Heong-joon: JTBC exit poll",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602000800320",
-      "published_date": "2026-06-01T23:00:03Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005400315",
+      "published_date": "2026-06-03T09:09:41Z",
       "category": "Local Events"
     },
     {
-      "id": "58b010cd3c3af28bd33c5e95f5f0c888",
-      "title": "Hyundai Mobis' India plant damaged by fire, raising supply concerns",
+      "id": "ac12627b16074f266c67cfd3d9ca1254",
+      "title": "(URGENT) Ruling DP wins 10 key local election races against main opposition PPP's 1: JTBC exit poll",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601011700320",
-      "published_date": "2026-06-01T08:17:40Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005100315",
+      "published_date": "2026-06-03T09:03:35Z",
       "category": "Local Events"
     },
     {
-      "id": "14f1fd2c3afead25f0973e8cd665dcf7",
-      "title": "Yonhap News Summary",
+      "id": "d3da759febf8b0197cdb6d2b321ac1e7",
+      "title": "Police receive 312 voting-related reports on election day",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601010900315",
-      "published_date": "2026-06-01T08:00:00Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603005000315",
+      "published_date": "2026-06-03T09:02:25Z",
       "category": "Local Events"
     },
     {
-      "id": "b87c8085025715ad1200f982653b6e08",
-      "title": "(2nd LD) Seoul shares close at new high on tech rally amid AI optimism",
+      "id": "23ffb4d6a9446e81a4324f390a880e3a",
+      "title": "(3rd LD) Voter turnout hits 51.9 pct as of 3 p.m.",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601009251320",
-      "published_date": "2026-06-01T07:50:02Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603001753315",
+      "published_date": "2026-06-03T06:29:44Z",
       "category": "Local Events"
     },
     {
-      "id": "b0402d35c23df04bf779f93d9a70b95a",
-      "title": "Police seek exit ban on U.S. scholar for allegedly defaming Lee",
+      "id": "55327b01c2aad39a7cf0888004e47247",
+      "title": "(2nd LD) S. Koreans vote in high-stakes local elections seen as key test for Lee",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601009400315",
-      "published_date": "2026-06-01T07:14:57Z",
+      "url": "https://en.yna.co.kr/view/AEN20260602008352315",
+      "published_date": "2026-06-03T05:10:04Z",
       "category": "Local Events"
     },
     {
-      "id": "86ecefae14fbfea55946b62829bcc4cf",
-      "title": "(LEAD) Seoul shares close at new high on tech rally amid AI optimism",
+      "id": "1049dad0acb84783beaab90ec18d56d4",
+      "title": "(2nd LD) Voter turnout hits 46 pct as of 1 p.m., highest on record",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601009200320",
-      "published_date": "2026-06-01T07:02:59Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603001752315",
+      "published_date": "2026-06-03T05:05:40Z",
       "category": "Local Events"
     },
     {
-      "id": "73e72bac39a23f50e6363fa86e8ad97a",
-      "title": "Seoul shares close at new high on AI-driven tech rally",
+      "id": "5ac1696135a3e9be4f889819d8c5ed7b",
+      "title": "(LEAD) Voter turnout at 15 pct as of 11 a.m.",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601008100320",
-      "published_date": "2026-06-01T06:35:55Z",
+      "url": "https://en.yna.co.kr/view/AEN20260603001751315",
+      "published_date": "2026-06-03T04:21:41Z",
       "category": "Local Events"
     },
     {
-      "id": "159530b53617094252fc24fb4b0c5621",
-      "title": "(URGENT) Seoul shares close at new high on AI-driven tech rally",
+      "id": "c64d327fb7e9950acd12f419dc19e96c",
+      "title": "(LEAD) S. Koreans head to polls in local elections",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601007900320",
-      "published_date": "2026-06-01T06:35:46Z",
+      "url": "https://en.yna.co.kr/view/AEN20260602008351315",
+      "published_date": "2026-06-03T01:42:32Z",
       "category": "Local Events"
     }
   ]
