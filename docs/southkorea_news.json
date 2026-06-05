@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-04T23:59:00Z",
+  "generated_at": "2026-06-05T13:54:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,183 @@
   ],
   "Diplomacy": [
     {
-      "id": "09c8d78ec261da8643b12e1a3ea81514",
-      "title": "Gov't taking 'extra vigilance' on FX volatility: finance minister",
+      "id": "2bd84529bb9106b2f33f073258c6d1c4",
+      "title": "(3rd LD) Nvidia's Jensen Huang holds 'samgyeopsal' dinner with Korean biz leaders",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001900320",
-      "published_date": "2026-06-04T23:49:41Z",
+      "url": "https://en.yna.co.kr/view/AEN20260605007553320",
+      "published_date": "2026-06-05T12:17:32Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0784a267422a4d5188dbda69602a1a5a",
-      "title": "Giants' Lee Jung-hoo pushes hitting streak to career-best 12 games",
+      "id": "0395ac90524e426c90d43b2cbd578486",
+      "title": "S. Korea condemns threats to U.N. peacekeeping mission after Serbian peacekeeper killed in Lebanon",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001800315",
-      "published_date": "2026-06-04T23:39:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20260605011700315",
+      "published_date": "2026-06-05T11:48:22Z",
       "category": "Diplomacy"
     },
     {
-      "id": "59f94792cf7c30a2115e581293437211",
-      "title": "S. Korea posts 2nd-largest current account surplus in April: BOK",
+      "id": "9955be901386e8b3ff03e4f2c5235e98",
+      "title": "(2nd LD) Nvidia's Jensen Huang holds 'samgyeopsal' dinner with Korean biz leaders",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001300320",
-      "published_date": "2026-06-04T23:00:10Z",
+      "url": "https://en.yna.co.kr/view/AEN20260605007552320",
+      "published_date": "2026-06-05T10:43:46Z",
       "category": "Diplomacy"
     },
     {
-      "id": "7b2a6d0402f893de8d589b98e71aac68",
-      "title": "(URGENT) S. Korea posts 2nd-largest current account surplus in April: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001200320",
-      "published_date": "2026-06-04T23:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6aa2f086c70ea9936e00624f06ec2048",
-      "title": "Senate panel approves nomination for U.S. ambassador to S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001100315",
-      "published_date": "2026-06-04T22:27:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "648cb821c70c95407b72518045858316",
-      "title": "(EDITORIAL from The Korea Times on June 5)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605000800315",
-      "published_date": "2026-06-04T22:07:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c9bcefe25bfdfddba9fcffffae08961f",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605000600315",
-      "published_date": "2026-06-04T22:06:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5a11efd7c40e9e2cbb23c1952064d52a",
-      "title": "Trade minister shares Seoul's industrial policies at OECD ministerial meeting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604012300320",
-      "published_date": "2026-06-04T21:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f830288f644e43ec419a56f238f70825",
-      "title": "(LEAD) U.S. open to dialogue with N. Korea, committed to complete denuclearization: State Dept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605000451315",
-      "published_date": "2026-06-04T19:19:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bd9d9593a931255eae4322dc5ce63d26",
-      "title": "U.S. open to dialogue with N. Korea, committed to complete denuclearization: State Dept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605000400315",
-      "published_date": "2026-06-04T19:07:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3afac946c4e838cf542820218577c53d",
-      "title": "(LEAD) Ex-U.S. diplomat says wartime OPCON transfer not end of S. Korea-U.S. alliance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605000251315",
-      "published_date": "2026-06-04T19:04:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "35dd663659b15bcb86f14db92ec358bc",
-      "title": "Ex-U.S. diplomat says wartime OPCON transfer not end of S. Korea-U.S. alliance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605000200315",
-      "published_date": "2026-06-04T16:47:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cbdbf2b10204cf3d3a8c41490a57b1cf",
-      "title": "S. Korea sweetens Canada submarine bid with hydrogen truck proposal: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604013000320",
-      "published_date": "2026-06-04T13:48:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d57d9304f2c8a633e5104b6add3ba527",
-      "title": "(2nd LD) Nvidia's Huang to arrive in S. Korea on Friday for 4-day trip",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604004652320",
-      "published_date": "2026-06-04T11:47:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "05cc37029e245f13f37ad616ed50df6e",
-      "title": "Japanese auteur Kore-eda wants viewers to imagine through 'Sheep in the Box'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604012200315",
-      "published_date": "2026-06-04T10:24:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "94eb6128d7dc1fa49c87f233b8440db8",
-      "title": "S. Korean, Turkish FMs discuss investment, nuclear energy, regional issues",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604012100315",
-      "published_date": "2026-06-04T10:07:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dae522af05cbc6e929cb53a60c3bb89b",
-      "title": "S. Korea, New Zealand hold vice-ministerial talks to discuss energy ties, regional security",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604012000315",
-      "published_date": "2026-06-04T09:46:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c5d00f823fc1e6386c7b94b7fdf1f633",
-      "title": "Top swimmers eye more medals, records at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604011900315",
-      "published_date": "2026-06-04T09:43:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dd88e99604a5084bff3ea2e1b00a21d5",
-      "title": "Russian ship tied to North Korean arms smuggling docks at Indian port",
+      "id": "7768ab4ed34a2c9811c84f12df3eaabe",
+      "title": "Otto Warmbier’s parents seek $17M seized from North Korea-linked nuclear network",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/russian-ship-tied-to-north-korean-arms-smuggling-docks-at-indian-port/",
-      "published_date": "2026-06-04T08:58:30Z",
+      "url": "https://www.nknews.org/2026/06/otto-warmbiers-parents-seek-17m-seized-from-north-korea-linked-nuclear-network/",
+      "published_date": "2026-06-05T08:58:44Z",
       "category": "Diplomacy"
     },
     {
-      "id": "eeb4057cd531e8810951e7e459a0950a",
-      "title": "Seoul’s unification minister proposes four-way talks with North Korea, US, China",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/seouls-unification-minister-proposes-four-way-talks-with-north-korea-us-china/",
-      "published_date": "2026-06-04T08:07:59Z",
+      "id": "9c25be5b7a7188ae07df94efb87e93bf",
+      "title": "Lee calls joint Korean War remains repatriation 'testament' to S. Korea-U.S. alliance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605011300315",
+      "published_date": "2026-06-05T08:56:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "285da58dbb8b3721344da68a06d146f9",
+      "title": "(2nd LD) Lee to visit Europe from June 9-18, attend G7 summit in France's Evian",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007052315",
+      "published_date": "2026-06-05T08:04:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "99072d38e8a5872b498de835b2187ccc",
+      "title": "(4th LD) China's Xi to visit N. Korea next week for 1st time since 2019",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605004754315",
+      "published_date": "2026-06-05T07:47:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c0930f16b94f8c0d0b2b14916e6cd18f",
+      "title": "(LEAD) Six-term lawmaker Cho Jeong-sik elected new Nat'l Assembly speaker",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008151315",
+      "published_date": "2026-06-05T07:46:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3d0e93a2083baea7322022cb4890c78b",
+      "title": "(LEAD) Nvidia's Jensen Huang sees robotics as next major sector for S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007551320",
+      "published_date": "2026-06-05T07:14:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "12f2e5bb4798b295e8b3a6457e35ffb2",
+      "title": "Summary of inter-Korean news this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008500315",
+      "published_date": "2026-06-05T07:00:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ad52251641d1cb42b33c3d1190f48a56",
+      "title": "Summary of external news of North Korea this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008400315",
+      "published_date": "2026-06-05T07:00:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "871380b38c6aeb4ca606517f982ae159",
+      "title": "Summary of domestic news in North Korea this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008300315",
+      "published_date": "2026-06-05T07:00:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eeec8635d9ba385ad28e2d82009d9a45",
+      "title": "Key developments on North Korea this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008200315",
+      "published_date": "2026-06-05T07:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ed5c47e83ca5614986e9d53df10bb620",
+      "title": "S. Korean opponents win final friendlies before World Cup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605009000315",
+      "published_date": "2026-06-05T06:46:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9d9f2b5827d8b6f3614bd48fde5ae82c",
+      "title": "(3rd LD) China's Xi to visit N. Korea next week for 1st time since 2019",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605004753315",
+      "published_date": "2026-06-05T06:36:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "08f83e8267ada0d7d95665afc28facb9",
+      "title": "PM office forms confirmation hearing preparation team for incoming PM nominee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008600315",
+      "published_date": "2026-06-05T06:33:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "07247362a4a6bdbf0728229ca9fcedd9",
+      "title": "(URGENT) Seoul shares tumble over 5 pct on tech losses amid Iran uncertainty; won sharply down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008000320",
+      "published_date": "2026-06-05T06:31:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "26ceab3e130e5792b1c3fec2a934582d",
+      "title": "Six-term lawmaker Cho Jeong-sik elected new Nat'l Assembly speaker",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605008100315",
+      "published_date": "2026-06-05T06:23:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "945deff140f902361615ae827c02aa52",
+      "title": "(LEAD)(News Focus) Jensen Huang's S. Korea visit signals Nvidia's broader bet on AI ecosystem",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605001651320",
+      "published_date": "2026-06-05T05:48:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "887dd4ac3ccbed843f9e1c8def2de132",
+      "title": "(LEAD) Lee to visit Europe from June 9-18, attend G7 summit in France's Evian",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007051315",
+      "published_date": "2026-06-05T05:47:15Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "6c804558472db865675e09d6b8f7f960",
+      "title": "Navy service member dies after being found unconscious during combat drill in Yellow Sea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605011600315",
+      "published_date": "2026-06-05T09:40:13Z",
+      "category": "Military"
+    },
+    {
+      "id": "c3d155ce61a670bf79ced1c54852ea8f",
+      "title": "S. Korea maintains goal of building nuclear-powered submarines at home: official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605011500315",
+      "published_date": "2026-06-05T09:36:02Z",
+      "category": "Military"
+    },
     {
       "id": "83f3537a1ca99ca9d5c4a587144eada2",
       "title": "Defense minister highlights S. Korea's submarine bid in call with Canadian counterpart",
@@ -298,25 +314,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260530001000315",
       "published_date": "2026-05-30T01:38:52Z",
       "category": "Military"
-    },
-    {
-      "id": "b0c2a83f1fb47f5c71a808f019d53e53",
-      "title": "(LEAD) Defense minister leaves for Singapore to attend regional security forum",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529000951315",
-      "published_date": "2026-05-29T05:37:50Z",
-      "category": "Military"
-    },
-    {
-      "id": "3d3ef5ee7b989e88cbddc7865737244c",
-      "title": "4 Navy officers killed in plane crash awarded posthumous decorations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529003400315",
-      "published_date": "2026-05-29T02:17:12Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "66a7114be0ea19f25044a9c0634974a3",
+      "title": "S. Korea diversifying LNG imports to ease Middle East dependence: KOGAS chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605004800320",
+      "published_date": "2026-06-05T03:00:06Z",
+      "category": "Energy"
+    },
     {
       "id": "2583039e521817fd70d44f1093972ac6",
       "title": "S. Korea wins $2.8 bln deal for U.S. LNG offshore plant project",
@@ -340,25 +348,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260531002000320",
       "published_date": "2026-05-31T02:38:35Z",
       "category": "Energy"
-    },
-    {
-      "id": "37f454e8be09407fcfa5174b140e0129",
-      "title": "S. Korea to hold literature events in Paris marking 140 years of ties with France",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529005800315",
-      "published_date": "2026-05-29T06:16:25Z",
-      "category": "Energy"
-    },
-    {
-      "id": "52b20fbd60233fce00aa8320c91eda83",
-      "title": "Gov't to revise policies to facilitate reshoring of S. Korean firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260529002400320",
-      "published_date": "2026-05-29T00:16:53Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "df7e1e99285de75bfd60c24d7d891736",
+      "title": "(2nd LD) Seoul shares sink over 5 pct on tech losses amid Iran uncertainty; won sharply down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007952320",
+      "published_date": "2026-06-05T07:47:04Z",
+      "category": "Economy"
+    },
+    {
+      "id": "91810002be9045f1ceec914fa64756e7",
+      "title": "(LEAD) S. Korea's currency tumbles to 17-year low on foreign stock selloff",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605004451320",
+      "published_date": "2026-06-05T07:32:07Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1f57bcc6bef8a0fb6d0ea87ba2bb825d",
+      "title": "(LEAD) Seoul shares sink over 5 pct on tech losses amid Iran uncertainty; won sharply down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007951320",
+      "published_date": "2026-06-05T06:53:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "bfec4b167fafe464e50976bcf4823945",
+      "title": "Seoul shares sink over 5 pct on tech losses amid Iran uncertainty; won sharply down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007900320",
+      "published_date": "2026-06-05T06:35:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c5c74b302e9ddac7730a905057b1b04b",
+      "title": "S. Korea's currency drops to weakest level since 2009 on renewed Middle East tension, foreign stock selling",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605004400320",
+      "published_date": "2026-06-05T02:02:46Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9eef646babc063a31f1298ebd857d4d8",
+      "title": "S. Korea strikes free trade deal with Serbia, first with Balkan nation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605003600320",
+      "published_date": "2026-06-05T02:00:02Z",
+      "category": "Economy"
+    },
     {
       "id": "4255d9927064b33f1604bff929853241",
       "title": "USTR says U.S. will respect tariff caps in trade deals with EU, Japan, other countries: reports",
@@ -470,57 +510,121 @@
       "url": "https://en.yna.co.kr/view/AEN20260603005200315",
       "published_date": "2026-06-03T09:06:00Z",
       "category": "Economy"
-    },
-    {
-      "id": "eaf5b8cb9e4a57a3c8b531bdc8a7f73c",
-      "title": "S. Korea vows to protect trade interests after U.S. proposes forced labor-linked tariffs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260603004500315",
-      "published_date": "2026-06-03T08:49:58Z",
-      "category": "Economy"
-    },
-    {
-      "id": "fa7119d42193574d18546db0b1736e78",
-      "title": "USTR points to S. Korea's steel industry as he defends Trump's tariff policy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260603000300315",
-      "published_date": "2026-06-02T20:15:09Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d1021c3ef99e5e1c1c33c9d6bed59aa6",
-      "title": "North Korea’s donju hand over rice and cash to the state — and call it insurance",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-donju-patriotic-rice-forced-donations/",
-      "published_date": "2026-06-02T13:28:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0b93a319626cbceef8fc662207a7f2e1",
-      "title": "(2nd LD) Seoul shares again end at record high on Samsung's performance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602007851320",
-      "published_date": "2026-06-02T07:47:29Z",
-      "category": "Economy"
-    },
-    {
-      "id": "665092aad241c4b17a4f87dfb49b8751",
-      "title": "(LEAD) Seoul shares again end at record high on Samsung's performance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602007800320",
-      "published_date": "2026-06-02T06:59:45Z",
-      "category": "Economy"
-    },
-    {
-      "id": "2fbbb31c385dd6a8955d40b211652679",
-      "title": "Seoul shares again end at record high on Samsung's performance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602006700320",
-      "published_date": "2026-06-02T06:46:36Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "0ec4df5cfaa1a73296606a91a881bfd6",
+      "title": "(3rd LD) Angry protesters block vote-counting facility over ballot shortages",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605001753315",
+      "published_date": "2026-06-05T11:12:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e72a609ec9b1f1c5fdbdece69c031d92",
+      "title": "(2nd LD) Election watchdog chief offers to resign over ballot shortages in local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605005052315",
+      "published_date": "2026-06-05T09:41:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "795f6ae4996c6a31afb798bb0a0e2250",
+      "title": "(LEAD) Election watchdog chief offers to resign over ballot shortages in local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605005051315",
+      "published_date": "2026-06-05T08:03:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "59ad676c7f380bca43194d85647ffa60",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605011200315",
+      "published_date": "2026-06-05T08:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "de42f39cc88c2a83898d774dbdb43692",
+      "title": "Final tally for local elections completed after counting omitted ballots",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605009800315",
+      "published_date": "2026-06-05T07:35:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fe46302ebbe9d18f45fce8909cc3b143",
+      "title": "(2nd LD) Police secure ballot boxes from Seoul polling station after dispersing protesters",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605001752315",
+      "published_date": "2026-06-05T07:20:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c894eb43b50fcfacb8a0e1ecb6b300a3",
+      "title": "(URGENT) Election watchdog chief offers to step down over ballot shortages in local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605009900315",
+      "published_date": "2026-06-05T07:17:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d578b91648064fb4daa26bd94d8291cc",
+      "title": "PPP floor leader offers to resign over local elections defeat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007700315",
+      "published_date": "2026-06-05T05:44:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2ee4435427ef9e0ea423e3f552733ea4",
+      "title": "ADOR reduces damages claim against ex-CEO, ex-NewJeans member by 10 bln won",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605007100315",
+      "published_date": "2026-06-05T05:32:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8ecf313991d25fcabbc2bd8f5fb10461",
+      "title": "School drama 'Teach You a Lesson' aims to add reality, depth to original webtoon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605006600315",
+      "published_date": "2026-06-05T05:27:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0511dba33c6480362dcea9eeb13572af",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605005600315",
+      "published_date": "2026-06-05T04:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "85cd83753c448295f5a3ec7166cb6cda",
+      "title": "Election watchdog head to apologize over ballot shortages in local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605005000315",
+      "published_date": "2026-06-05T02:32:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "18831cf1eec4f122066b2d46b1307f99",
+      "title": "(LEAD) Police secure ballot boxes from Seoul polling station after dispersing protesters",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605001751315",
+      "published_date": "2026-06-05T00:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b5aab271032f492d06355f62c8a2330a",
+      "title": "(URGENT) KRX issues sell-side sidecar for KOSPI on sharp fall",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605002400320",
+      "published_date": "2026-06-05T00:09:36Z",
+      "category": "Local Events"
+    },
     {
       "id": "84c5b2bda9436bfba4d5b4d34ae3f639",
       "title": "Police begin dispersing protesters at Seoul polling station",
@@ -567,118 +671,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260604010200315",
       "published_date": "2026-06-04T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "025b490786c049577b71ae08b54b93b4",
-      "title": "Former NCT member Mark co-founds K-pop agency",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604009500315",
-      "published_date": "2026-06-04T07:22:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c704bbef1e405156d74a01defcf86c46",
-      "title": "Climate minister stresses need to lower industrial electricity rates to boost S. Korea's competitiveness",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604009300320",
-      "published_date": "2026-06-04T07:20:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "20da353bc15f7a9e6b247ad17a602031",
-      "title": "(LEAD) Lee says will humbly accept public sentiment reflected in local election results",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604007351315",
-      "published_date": "2026-06-04T06:44:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0f825c1e1f4d2fe096b060a278b8a11b",
-      "title": "Lee says will humbly accept public sentiment reflected in local election results",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604007300315",
-      "published_date": "2026-06-04T05:33:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0c97474bab4d6fba8d6e22e7c017e50e",
-      "title": "Investigators question Shincheonji sect leader over suspicious ties to opposition party",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604007000315",
-      "published_date": "2026-06-04T05:25:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9f6cbc7eb817a087d28c859dec1457c8",
-      "title": "(URGENT) Lee says will actively cooperate with new local governments regardless of political affiliation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604007200315",
-      "published_date": "2026-06-04T05:17:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0eef530a8c7f3a41b9279af778fed6d1",
-      "title": "(URGENT) Lee says will humbly accept public sentiment reflected in local election results",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604006900315",
-      "published_date": "2026-06-04T05:16:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "04dd327c476afbe5faab62ad0d9eb557",
-      "title": "(URGENT) Lee expresses regret over ballot shortage in local elections; calls for accountability",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604006800315",
-      "published_date": "2026-06-04T05:13:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4eccdd13dd4e97b279be0ee5116efd6f",
-      "title": "Hanwha Aerospace raided over deadly factory fire",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604006700315",
-      "published_date": "2026-06-04T05:11:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "973612ca91252bbe33d92fc548ca28d0",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604005700320",
-      "published_date": "2026-06-04T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "97563859a9c21180094a3aa88144c7d0",
-      "title": "(ROUNDUP) Ruling party wins landslide in local elections despite losing Seoul to incumbent mayor",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602008360315",
-      "published_date": "2026-06-04T02:47:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2fae446ff9428f0f7f5d81e0e85d1189",
-      "title": "Police identify over 4,000 election law suspects in local election crackdown",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604005100315",
-      "published_date": "2026-06-04T02:28:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dffaf68842fa6153a0306d1b7b177567",
-      "title": "(LEAD) (News Focus) Lee gains stronger mandate as ruling party scores landslide victory in local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604000251315",
-      "published_date": "2026-06-04T02:18:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "08c82f490a3b63f33fb8ff4c11ed6f42",
-      "title": "(4th LD) Ruling party wins landslide in local elections despite losing Seoul to incumbent mayor",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260602008359315",
-      "published_date": "2026-06-04T02:15:08Z",
       "category": "Local Events"
     }
   ]
