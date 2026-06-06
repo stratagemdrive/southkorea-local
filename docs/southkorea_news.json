@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-05T13:54:34Z",
+  "generated_at": "2026-06-06T00:00:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "981122e4be621f41d7ed258f2bc83eb3",
+      "title": "U.S. approves potential sale of JDAM precision bombs to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260606000400315",
+      "published_date": "2026-06-05T17:52:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "318c3ad647480cef457b8246eab38040",
+      "title": "U.S. highlights Trump, Xi's shared goal of denuclearizing N. Korea ahead of Xi's Pyongyang trip",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260606000300315",
+      "published_date": "2026-06-05T16:33:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8a0115df706ad93661acaa5de08ee869",
+      "title": "Xi's planned N.K. trip partly driven by desire to weaken Russia-N.K. ties, U.S. calls for Chinese cooperation: expert",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260606000200315",
+      "published_date": "2026-06-05T16:21:42Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "2bd84529bb9106b2f33f073258c6d1c4",
       "title": "(3rd LD) Nvidia's Jensen Huang holds 'samgyeopsal' dinner with Korean biz leaders",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260605008000320",
       "published_date": "2026-06-05T06:31:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "26ceab3e130e5792b1c3fec2a934582d",
-      "title": "Six-term lawmaker Cho Jeong-sik elected new Nat'l Assembly speaker",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605008100315",
-      "published_date": "2026-06-05T06:23:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "945deff140f902361615ae827c02aa52",
-      "title": "(LEAD)(News Focus) Jensen Huang's S. Korea visit signals Nvidia's broader bet on AI ecosystem",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001651320",
-      "published_date": "2026-06-05T05:48:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "887dd4ac3ccbed843f9e1c8def2de132",
-      "title": "(LEAD) Lee to visit Europe from June 9-18, attend G7 summit in France's Evian",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605007051315",
-      "published_date": "2026-06-05T05:47:15Z",
       "category": "Diplomacy"
     }
   ],
@@ -514,6 +514,14 @@
   ],
   "Local Events": [
     {
+      "id": "e2853537923fdd43845590f55ed23bad",
+      "title": "(Yonhap Interview) Korean American chef Austin Kang bringing MLB food culture to S. Korean fans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605009600315",
+      "published_date": "2026-06-05T23:00:02Z",
+      "category": "Local Events"
+    },
+    {
       "id": "0ec4df5cfaa1a73296606a91a881bfd6",
       "title": "(3rd LD) Angry protesters block vote-counting facility over ballot shortages",
       "source": "Yonhap News Agency",
@@ -663,14 +671,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260604010000315",
       "published_date": "2026-06-04T08:03:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cbe487aa8c9a69d652d3d39e2e904b31",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604010200315",
-      "published_date": "2026-06-04T08:00:00Z",
       "category": "Local Events"
     }
   ]
