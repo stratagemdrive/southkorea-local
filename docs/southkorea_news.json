@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-06T12:06:48Z",
+  "generated_at": "2026-06-06T23:58:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "77edb09afed9a10485a32dcd8187f7a3",
+      "title": "(LEAD) N.K. leader's sister says Pyongyang's nuclear status 'irreversible'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260607000252315",
+      "published_date": "2026-06-06T22:24:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0f1ae38af99c48237c4f45a05426376e",
+      "title": "N.K. leader's sister says Pyongyang's nuclear status 'irreversible'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260607000251315",
+      "published_date": "2026-06-06T21:44:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bc2d7636e442b23edef7ac5ad561464e",
+      "title": "(URGENT) N. Korean leader's sister says country's nuclear status irreversible, vows not to tolerate any threats",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260607000200315",
+      "published_date": "2026-06-06T21:27:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1c7bad7293612ba9fed428bd4679f5db",
+      "title": "(3rd LD) Ex-President Yoon questioned over messages to justify failed imposition of martial law",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260606001753315",
+      "published_date": "2026-06-06T12:19:43Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5f4f32e67e22d543bd558a87d4b2d8ff",
       "title": "(2nd LD) Ex-President Yoon questioned over messages to justify failed imposition of martial law",
@@ -135,38 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260606000400315",
       "published_date": "2026-06-05T17:52:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "318c3ad647480cef457b8246eab38040",
-      "title": "U.S. highlights Trump, Xi's shared goal of denuclearizing N. Korea ahead of Xi's Pyongyang trip",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260606000300315",
-      "published_date": "2026-06-05T16:33:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a0115df706ad93661acaa5de08ee869",
-      "title": "Xi's planned N.K. trip partly driven by desire to weaken Russia-N.K. ties, U.S. calls for Chinese cooperation: expert",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260606000200315",
-      "published_date": "2026-06-05T16:21:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2bd84529bb9106b2f33f073258c6d1c4",
-      "title": "(3rd LD) Nvidia's Jensen Huang holds 'samgyeopsal' dinner with Korean biz leaders",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605007553320",
-      "published_date": "2026-06-05T12:17:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0395ac90524e426c90d43b2cbd578486",
-      "title": "S. Korea condemns threats to U.N. peacekeeping mission after Serbian peacekeeper killed in Lebanon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605011700315",
-      "published_date": "2026-06-05T11:48:22Z",
       "category": "Diplomacy"
     }
   ],
