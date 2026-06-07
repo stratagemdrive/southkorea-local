@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-07T12:24:23Z",
+  "generated_at": "2026-06-07T23:57:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "efb6599fe39165663fd6da0d4bbf2f39",
+      "title": "'Colony' tops weekend box-office chart for 3rd week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001300315",
+      "published_date": "2026-06-07T23:51:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9e59d6257d007ca40d2f4c62d87e9bb1",
+      "title": "SK hynix announces multiyear deal with Nvidia for AI factories",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001400320",
+      "published_date": "2026-06-07T23:50:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "061e4d3711e61a056c12d023c97b1f1b",
+      "title": "(LEAD) Xi calls for multipolarity, inclusive globalization ahead of Pyongyang visit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000551315",
+      "published_date": "2026-06-07T22:24:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "20deba2c74389e9c20dbe2db83b4660f",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 8)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000900315",
+      "published_date": "2026-06-07T22:10:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1f80abb3a17dc4d58caa945d9b7a0ea0",
+      "title": "(EDITORIAL from The Korea Herald on June 8)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000700315",
+      "published_date": "2026-06-07T22:06:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "597a0062eaccc6ba06b794d94530bfba",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000600315",
+      "published_date": "2026-06-07T22:02:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "262446f5884f52762a748b4f6a7d3a44",
+      "title": "Xi calls for multipolarity, inclusive globalization ahead of Pyongyang visit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000500315",
+      "published_date": "2026-06-07T21:37:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "16e99526fa5be126471d5d5150fb2511",
+      "title": "(URGENT) Xi advocates multipolarity, inclusive economic globalization in Rodong Sinmun piece",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000300315",
+      "published_date": "2026-06-07T21:16:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6a818cc1b44a4ec87b4394b945a12952",
+      "title": "Lee set to hold press conference marking 1st anniversary of inauguration",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260607004100315",
+      "published_date": "2026-06-07T21:00:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d3800a54caf002b77fd5eb19fbcf8e9a",
+      "title": "(2nd LD) Lee expresses deep regret over ballot shortage, orders thorough investigation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260607005453320",
+      "published_date": "2026-06-07T12:22:32Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "4e4171d29732c86bbcb8b09c7788abcb",
       "title": "(3rd LD) Nvidia's Jensen Huang meets chiefs of S. Korean gaming firms",
@@ -87,86 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260607002651315",
       "published_date": "2026-06-07T05:45:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2bf41440a171a7eba6381d2e71f40786",
-      "title": "Lee nominates SME Minister Han Seong-sook as new prime minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607002600315",
-      "published_date": "2026-06-07T05:10:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4d97c259b35d4a6564dad1506c4688e4",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001400315",
-      "published_date": "2026-06-07T05:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0cffc3a034e421cdb9f3894dac47d1e6",
-      "title": "Kim Yo Jong slams US over claims of denuclearization cooperation with China",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/kim-yo-jong-slams-us-over-claims-of-denuclearization-cooperation-with-china/",
-      "published_date": "2026-06-07T03:26:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "746db244339040e5049f51cd7f294aea",
-      "title": "Cosmetic exports top US$5.6 bln in Jan.-May, Seoul's top consumer export item",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001200320",
-      "published_date": "2026-06-07T02:30:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "03a28feab6e62fa7582bd1f3a4d6f16d",
-      "title": "Nvidia's Jensen Huang to meet chiefs of S. Korea's 2 major gaming firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001100320",
-      "published_date": "2026-06-07T01:53:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ea7ffad4be8299de8bfeceba744e8ce8",
-      "title": "(2nd LD) N.K. leader's sister says Pyongyang's nuclear status 'irreversible'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607000253315",
-      "published_date": "2026-06-07T01:40:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a11ad7c230b0c44729d630835bde0907",
-      "title": "N. Korea exports 1.5 mln tons of coal in 2025 despite sanctions: lawmaker",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001000315",
-      "published_date": "2026-06-07T01:23:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ccb2a700fb6ef042c75b816bf71e30cf",
-      "title": "OECD projects S. Korea's potential growth rate to hit record low in 2027",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607000900320",
-      "published_date": "2026-06-07T01:02:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0d0661e62ea3c3506e0e9a3cca52f4d2",
-      "title": "Kim Jong Un pushes missile production boost in factory visit before Xi summit",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/kim-jong-un-pushes-missile-production-boost-in-factory-visit-before-xi-summit/",
-      "published_date": "2026-06-07T00:59:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "98872a7c20f601e4b3a10d167420edbb",
-      "title": "Career-best hitting streak reaches 14 games for SF Giants' Lee Jung-hoo",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607000800315",
-      "published_date": "2026-06-07T00:58:32Z",
       "category": "Diplomacy"
     }
   ],
@@ -426,6 +426,46 @@
   ],
   "Local Events": [
     {
+      "id": "28458fdd93f7680470a20345fac345ed",
+      "title": "Aespa's 'Lemonade' debuts at No. 9 on Billboard 200",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001000315",
+      "published_date": "2026-06-07T23:12:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b0b18c08e95e3800016c299f355426f0",
+      "title": "Hybe girl groups Le Sserafim, Illit, Katseye to release joint single",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001100315",
+      "published_date": "2026-06-07T23:09:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "77f2c5f53a621c2b26a6cb8780f513b7",
+      "title": "Boynextdoor bares its soul in first studio album 'Home'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260605004300315",
+      "published_date": "2026-06-07T23:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "aca99a9e68e9e55c9ef68441f67ba9f8",
+      "title": "(EDITORIAL from The Korea Times on June 8)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000800315",
+      "published_date": "2026-06-07T22:08:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "161a178e344a5968be91a464dad7935d",
+      "title": "(URGENT) Xi says China-N. Korea ties should continue to grow in turbulent, complex era",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608000400315",
+      "published_date": "2026-06-07T21:20:07Z",
+      "category": "Local Events"
+    },
+    {
       "id": "5be7d09829570e999edb1a6902c21499",
       "title": "(URGENT) Lee orders thorough investigation into ballot shortage",
       "source": "Yonhap News Agency",
@@ -543,46 +583,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260605001752315",
       "published_date": "2026-06-05T07:20:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c894eb43b50fcfacb8a0e1ecb6b300a3",
-      "title": "(URGENT) Election watchdog chief offers to step down over ballot shortages in local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605009900315",
-      "published_date": "2026-06-05T07:17:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d578b91648064fb4daa26bd94d8291cc",
-      "title": "PPP floor leader offers to resign over local elections defeat",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605007700315",
-      "published_date": "2026-06-05T05:44:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2ee4435427ef9e0ea423e3f552733ea4",
-      "title": "ADOR reduces damages claim against ex-CEO, ex-NewJeans member by 10 bln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605007100315",
-      "published_date": "2026-06-05T05:32:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8ecf313991d25fcabbc2bd8f5fb10461",
-      "title": "School drama 'Teach You a Lesson' aims to add reality, depth to original webtoon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605006600315",
-      "published_date": "2026-06-05T05:27:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0511dba33c6480362dcea9eeb13572af",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605005600315",
-      "published_date": "2026-06-05T04:30:00Z",
       "category": "Local Events"
     }
   ]
