@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-07T23:57:34Z",
+  "generated_at": "2026-06-08T14:49:32Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,223 @@
   ],
   "Diplomacy": [
     {
-      "id": "efb6599fe39165663fd6da0d4bbf2f39",
-      "title": "'Colony' tops weekend box-office chart for 3rd week",
+      "id": "483afeaa8079653718962952310ee891",
+      "title": "(2nd LD) Science minister discusses physical AI cooperation with Nvidia chief",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608001300315",
-      "published_date": "2026-06-07T23:51:04Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608010152320",
+      "published_date": "2026-06-08T14:00:24Z",
       "category": "Diplomacy"
     },
     {
-      "id": "9e59d6257d007ca40d2f4c62d87e9bb1",
-      "title": "SK hynix announces multiyear deal with Nvidia for AI factories",
+      "id": "7d9e502ee0311a210e89b0bd6a1af7eb",
+      "title": "(2nd LD) N. Korea's Kim calls enhancing ties with China top priority: report",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608001400320",
-      "published_date": "2026-06-07T23:50:34Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608013052315",
+      "published_date": "2026-06-08T13:57:12Z",
       "category": "Diplomacy"
     },
     {
-      "id": "061e4d3711e61a056c12d023c97b1f1b",
-      "title": "(LEAD) Xi calls for multipolarity, inclusive globalization ahead of Pyongyang visit",
+      "id": "1c0146a3f3ee8c6cb317f5c6ff806f86",
+      "title": "(LEAD) Science minister discusses physical AI cooperation with Nvidia chief",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000551315",
-      "published_date": "2026-06-07T22:24:34Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608010151320",
+      "published_date": "2026-06-08T11:49:58Z",
       "category": "Diplomacy"
     },
     {
-      "id": "20deba2c74389e9c20dbe2db83b4660f",
-      "title": "(EDITORIAL from Korea JoongAng Daily on June 8)",
+      "id": "a568985e2693cc38b6141b90cd25a312",
+      "title": "(LEAD) N. Korea's Kim calls enhancing ties with China top priority: report",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000900315",
-      "published_date": "2026-06-07T22:10:36Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608013051315",
+      "published_date": "2026-06-08T11:36:24Z",
       "category": "Diplomacy"
     },
     {
-      "id": "1f80abb3a17dc4d58caa945d9b7a0ea0",
-      "title": "(EDITORIAL from The Korea Herald on June 8)",
+      "id": "1b8f636c3a5402be0411e031b86a6202",
+      "title": "Samsung memory chief, Nvidia CEO discuss next-generation HBM cooperation",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000700315",
-      "published_date": "2026-06-07T22:06:52Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608013200320",
+      "published_date": "2026-06-08T11:13:26Z",
       "category": "Diplomacy"
     },
     {
-      "id": "597a0062eaccc6ba06b794d94530bfba",
-      "title": "Top headlines in major S. Korean newspapers",
+      "id": "33779b603bde306ffc969dd339a26cac",
+      "title": "N. Korea's Kim, Xi hold summit in Pyongyang, reaffirm strong ties: report",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000600315",
-      "published_date": "2026-06-07T22:02:05Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608013000315",
+      "published_date": "2026-06-08T10:43:58Z",
       "category": "Diplomacy"
     },
     {
-      "id": "262446f5884f52762a748b4f6a7d3a44",
-      "title": "Xi calls for multipolarity, inclusive globalization ahead of Pyongyang visit",
+      "id": "6d366ad79e338ee9658689ae53a518fe",
+      "title": "(URGENT) Kim calls strengthening N. Korea-China ties top strategic priority: Xinhua",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000500315",
-      "published_date": "2026-06-07T21:37:58Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608012800315",
+      "published_date": "2026-06-08T10:09:36Z",
       "category": "Diplomacy"
     },
     {
-      "id": "16e99526fa5be126471d5d5150fb2511",
-      "title": "(URGENT) Xi advocates multipolarity, inclusive economic globalization in Rodong Sinmun piece",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000300315",
-      "published_date": "2026-06-07T21:16:54Z",
+      "id": "6790b7993a91f720a6368af17c88ad4c",
+      "title": "Kim Jong Un, Xi Jinping hold talks on boosting ties, but ignore denuclearization",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/kim-jong-un-xi-jinping-kick-off-summit-talks-in-north-korean-capital/",
+      "published_date": "2026-06-08T09:55:29Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6a818cc1b44a4ec87b4394b945a12952",
-      "title": "Lee set to hold press conference marking 1st anniversary of inauguration",
+      "id": "22a3479591600ff50717ed18e5b4bbf7",
+      "title": "(6th LD) N. Korea's Kim, Xi begin summit in Pyongyang: Chinese media",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607004100315",
-      "published_date": "2026-06-07T21:00:07Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608002756315",
+      "published_date": "2026-06-08T09:36:52Z",
       "category": "Diplomacy"
     },
     {
-      "id": "d3800a54caf002b77fd5eb19fbcf8e9a",
-      "title": "(2nd LD) Lee expresses deep regret over ballot shortage, orders thorough investigation",
+      "id": "e92d08bb7c98536592d1bed56a441815",
+      "title": "Science minister meets Jensen Huang, discusses AI ecosystem partnerships",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607005453320",
-      "published_date": "2026-06-07T12:22:32Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608010100320",
+      "published_date": "2026-06-08T09:30:01Z",
       "category": "Diplomacy"
     },
     {
-      "id": "4e4171d29732c86bbcb8b09c7788abcb",
-      "title": "(3rd LD) Nvidia's Jensen Huang meets chiefs of S. Korean gaming firms",
+      "id": "a18b4221df104fd494fc16d072b564dc",
+      "title": "(URGENT) N. Korea's Kim, Xi begin summit in Pyongyang: Chinese media",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001153320",
-      "published_date": "2026-06-07T11:19:46Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608012300320",
+      "published_date": "2026-06-08T09:22:12Z",
       "category": "Diplomacy"
     },
     {
-      "id": "d8f15a114e37125e9afb5753b2046f8b",
-      "title": "(LEAD) Jensen Huang throws out ceremonial pitch before KBO game",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607005051315",
-      "published_date": "2026-06-07T10:52:50Z",
+      "id": "f014125042aef2072470b4a422e8dc89",
+      "title": "South Korea’s resort island of Jeju says it sent $100K in goods to North Korea",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/south-koreas-resort-island-of-jeju-says-it-sent-100k-in-goods-to-north-korea/",
+      "published_date": "2026-06-08T08:45:29Z",
       "category": "Diplomacy"
     },
     {
-      "id": "59808560646d109d974b280da12b9654",
-      "title": "(LEAD) Lee expresses deep regret over ballot shortage, orders thorough investigation",
+      "id": "f6a70ee171c936c12aaca744dabeee71",
+      "title": "(LEAD) Jensen Huang visits Naver, eyes building AI cloud in S. Korea",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607005452320",
-      "published_date": "2026-06-07T10:40:40Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608005451320",
+      "published_date": "2026-06-08T08:42:45Z",
       "category": "Diplomacy"
     },
     {
-      "id": "767c823c360b6b530f2a24dc61efe57b",
-      "title": "S. Korea, Japan hold joint maritime search drills for 1st time in 9 yrs",
+      "id": "50660e9e232b0e75c5d6d2b5ab22a097",
+      "title": "(LEAD) Hyundai Motor, Nvidia discuss expanding cooperation in physical AI, future mobility",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607005500320",
-      "published_date": "2026-06-07T10:04:07Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608010251320",
+      "published_date": "2026-06-08T08:25:28Z",
       "category": "Diplomacy"
     },
     {
-      "id": "d2f8397202ae277a256776e40688e3d7",
-      "title": "Lee orders thorough investigation into ballot shortage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607005451320",
-      "published_date": "2026-06-07T09:54:04Z",
+      "id": "55c143e560000390ede9cfb3f9a09ecf",
+      "title": "Lee calls for talks with North Korea on nuclear moratorium as Xi meets Kim",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/lee-calls-for-talks-with-north-korea-on-nuclear-moratorium-as-xi-meets-kim/",
+      "published_date": "2026-06-08T07:37:48Z",
       "category": "Diplomacy"
     },
     {
-      "id": "3524b4c9ec34892657f8e11daabeb2d3",
-      "title": "(2nd LD) Nvidia's Jensen Huang meets chiefs of S. Korean gaming firms",
+      "id": "4695a9712fed77fd860e1195e73050c2",
+      "title": "Ruling party to pick new leader at national convention in August",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001152320",
-      "published_date": "2026-06-07T08:49:16Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608011200315",
+      "published_date": "2026-06-08T07:29:58Z",
       "category": "Diplomacy"
     },
     {
-      "id": "1c804f162b827b5a2c4251f6387fbe04",
-      "title": "Jensen Huang throws out ceremonial pitch before KBO game",
+      "id": "84ae3c65ecd317a5a984fed8a4b82223",
+      "title": "Nvidia, Hyundai Motor discuss expanding cooperation in AI, future mobility",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607005000315",
-      "published_date": "2026-06-07T08:18:54Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608010200320",
+      "published_date": "2026-06-08T07:14:32Z",
       "category": "Diplomacy"
     },
     {
-      "id": "e02901da5133077be7451c60e202261b",
-      "title": "(LEAD) Nvidia's Jensen Huang meets chiefs of S. Korean gaming firms",
+      "id": "933c21f3b4ddad890c51348461700498",
+      "title": "Hanwha Aerospace CEO booked over deadly explosion at Daejeon factory",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001151320",
-      "published_date": "2026-06-07T06:43:12Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608008700315",
+      "published_date": "2026-06-08T07:13:57Z",
       "category": "Diplomacy"
     },
     {
-      "id": "be7acdc0cc974dfb10d9060608031ce8",
-      "title": "(profile) IT pioneer Han tapped as next prime minister",
+      "id": "8c68ea0c758e082909457bdba24ee674",
+      "title": "(5th LD) Xi arrives in Pyongyang as N. Korea leader offers personal welcome",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607003600320",
-      "published_date": "2026-06-07T05:57:22Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608002755315",
+      "published_date": "2026-06-08T07:07:15Z",
       "category": "Diplomacy"
     },
     {
-      "id": "33cde61a98f6f2eb6fe69bb7806dc9c7",
-      "title": "(LEAD) Lee nominates SME Minister Han Seong-sook as new prime minister",
+      "id": "69d1133263ccebdd1beebee004cfa7b1",
+      "title": "(2nd LD) Financial authorities vow stern action against excessive volatility, one-sided FX market moves",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607002651315",
-      "published_date": "2026-06-07T05:45:12Z",
+      "url": "https://en.yna.co.kr/view/AEN20260608006752320",
+      "published_date": "2026-06-08T06:55:34Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "21ae2f0fb6173ee905eb776d9404cf45",
+      "title": "(LEAD) S. Korea's nuclear-powered submarine program poses no proliferation concerns: IAEA chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608013751315",
+      "published_date": "2026-06-08T14:18:54Z",
+      "category": "Military"
+    },
+    {
+      "id": "fffe2a2672e74b32e6cbdbe37191c225",
+      "title": "S. Korea's nuclear-powered submarine program poses no proliferation concerns: IAEA chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608013700315",
+      "published_date": "2026-06-08T14:00:00Z",
+      "category": "Military"
+    },
+    {
+      "id": "4aea3bea230573913872cf7ba66e3b93",
+      "title": "(URGENT) Xi says China, N. Korea need to strengthen exchanges in diplomacy, law enforcement, military: Xinhua",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608012700315",
+      "published_date": "2026-06-08T10:03:59Z",
+      "category": "Military"
+    },
+    {
+      "id": "bcd0c195b26a8437f754a21d8e26189a",
+      "title": "Lee reiterates need to halt N.K.'s nuclear, missile buildup as 'realistic' short-term goal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608010000315",
+      "published_date": "2026-06-08T07:02:26Z",
+      "category": "Military"
+    },
+    {
+      "id": "134735ab8c3ddbc557ca5d05d61336a8",
+      "title": "Vice defense chief calls for military readiness against summer disasters",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608004200315",
+      "published_date": "2026-06-08T07:00:01Z",
+      "category": "Military"
+    },
+    {
+      "id": "a2b381041e34056e8f28b7deb9ec5f3f",
+      "title": "(URGENT) Lee vows to seek concrete outcome in securing nuclear-powered subs, wartime troop control",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608003700315",
+      "published_date": "2026-06-08T01:11:15Z",
+      "category": "Military"
+    },
+    {
+      "id": "824ae9de93f8fa43db3a5cdd6f6ad9c8",
+      "title": "English chatbot service launched for multicultural conscripts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608002600315",
+      "published_date": "2026-06-08T00:21:53Z",
+      "category": "Military"
+    },
     {
       "id": "7b5cff9a69b2a0548a203d33658fa913",
       "title": "Kim inspects nuclear-capable 5,000-ton warship, one year after capsizing",
@@ -226,14 +282,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260604000900320",
       "published_date": "2026-06-03T21:06:12Z",
       "category": "Military"
-    },
-    {
-      "id": "95393a79acf99450fcd9c4141311679c",
-      "title": "Aegis destroyer Jeongjo the Great leaves for RIMPAC exercise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601004400315",
-      "published_date": "2026-06-01T02:18:07Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -252,17 +300,105 @@
       "url": "https://en.yna.co.kr/view/AEN20260604007400320",
       "published_date": "2026-06-04T05:43:22Z",
       "category": "Energy"
-    },
-    {
-      "id": "0f0e6057de03799acb1f573cbfe3a825",
-      "title": "(URGENT) S. Korea's monthly chip exports soar to all-time high of US$37.2 bln in May",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260601002300320",
-      "published_date": "2026-06-01T00:03:59Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "ec34d518456ca7d5eae5b16dd4605ba0",
+      "title": "SK hynix orders new equipment worth 44.2 bln won for next-gen HBM4",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608012500320",
+      "published_date": "2026-06-08T10:03:27Z",
+      "category": "Economy"
+    },
+    {
+      "id": "28c8bfd753375ff97fc70845bfa5515c",
+      "title": "Samsung Heavy signs 3.6 trillion-won FLNG deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608012200320",
+      "published_date": "2026-06-08T08:49:55Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8ec6f1cd7c19b0c47e69165d0e8ea9c9",
+      "title": "(2nd LD) KOSPI crashes over 8 pct on tech hemorrhage, U.S. rate woes; won rises after verbal intervention",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608008652320",
+      "published_date": "2026-06-08T07:43:23Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e35cc23b8651bf703001150a47e90b72",
+      "title": "(LEAD) KOSPI crashes over 8 pct on tech hemorrhage, U.S. rate woes; won rises after verbal intervention",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608008651320",
+      "published_date": "2026-06-08T07:12:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9d008182ce34c9d6c50568a34ffd545c",
+      "title": "(URGENT) KOSPI crashes over 8 pct on tech hemorrhage, U.S. rate woes; won rises",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608008500320",
+      "published_date": "2026-06-08T06:33:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e20d49a4607998cff61f9d2d53e05eab",
+      "title": "Economy continues 'gradual improvement' on strong chip exports: KDI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608006200320",
+      "published_date": "2026-06-08T03:00:03Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7a04f113661437f7e1874ddfb11672a1",
+      "title": "(2nd LD) Seoul shares open over 8 pct lower on inflation, tech slump woes; trading halted for 20 minutes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001952320",
+      "published_date": "2026-06-08T01:26:15Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e07418115fd97729dd100ee0364ade7b",
+      "title": "(URGENT) Lee says will soon unveil 'large-scale investment project' as part of growth strategy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608003500315",
+      "published_date": "2026-06-08T01:10:15Z",
+      "category": "Economy"
+    },
+    {
+      "id": "807cdba67f3093f42695059952610124",
+      "title": "(URGENT) Lee says 'fruits of growth' should not be limited to certain firms, regions, sectors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608003600315",
+      "published_date": "2026-06-08T01:10:04Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7fc44ea22412223386958f50502eed40",
+      "title": "(LEAD) Seoul shares open over 8 pct lower on inflation, tech slump woes; trading halted for 20 minutes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001951320",
+      "published_date": "2026-06-08T00:57:36Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e250ec90e1d8452799dbf14622a98bc5",
+      "title": "Seoul shares open 1.38 pct lower on woes over inflation, tech slump",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001900320",
+      "published_date": "2026-06-08T00:03:51Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5545c25fae20d9db6fca84254fe66854",
+      "title": "(URGENT) Seoul shares open sharply lower on inflation, tech slump woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001600320",
+      "published_date": "2026-06-08T00:01:56Z",
+      "category": "Economy"
+    },
     {
       "id": "e96156be4a07a5fce0f54c7c916ec7ce",
       "title": "Top policymakers vow stern action against speculative FX market activities as won weakens",
@@ -326,105 +462,153 @@
       "url": "https://en.yna.co.kr/view/AEN20260605003600320",
       "published_date": "2026-06-05T02:00:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "4255d9927064b33f1604bff929853241",
-      "title": "USTR says U.S. will respect tariff caps in trade deals with EU, Japan, other countries: reports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605000300315",
-      "published_date": "2026-06-04T18:24:19Z",
-      "category": "Economy"
-    },
-    {
-      "id": "dafb525187d91fce725560c48e67f16e",
-      "title": "(LEAD) S. Korea's currency hits over 2-month low on renewed tension in Middle East",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604003651320",
-      "published_date": "2026-06-04T07:31:55Z",
-      "category": "Economy"
-    },
-    {
-      "id": "79f3f27d42428fc7fa919c7e0022a4c9",
-      "title": "(2nd LD) KOSPI snaps 3-day rise on profit-taking; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604008052320",
-      "published_date": "2026-06-04T07:31:42Z",
-      "category": "Economy"
-    },
-    {
-      "id": "599a9e6ef9fd801153e63c944e0dc109",
-      "title": "(LEAD) KOSPI snaps 3-day rise on profit-taking; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604008051320",
-      "published_date": "2026-06-04T07:07:52Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d8c6d9450f3bbf487a182adda41f3ae1",
-      "title": "KOSPI snaps 3-day rise amid renewed Iran tensions; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604008000320",
-      "published_date": "2026-06-04T06:35:20Z",
-      "category": "Economy"
-    },
-    {
-      "id": "2c50e09aab2906bc984e9d5551da03f4",
-      "title": "(URGENT) Seoul shares snap 3-day winning streak amid renewed Iran tensions; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604007900320",
-      "published_date": "2026-06-04T06:33:15Z",
-      "category": "Economy"
-    },
-    {
-      "id": "92bada8e0f07c0de7ae3c713aa199a5e",
-      "title": "(LEAD) U.S. reaffirms tariff rate no greater for S. Korea than agreed under bilateral trade deal: minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604003351320",
-      "published_date": "2026-06-04T05:12:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f8eded43786fd6b24e490be286a7b1e3",
-      "title": "Gov't vows to utilize tariff-rate quotas, reserve releases to tackle inflation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604002100320",
-      "published_date": "2026-06-04T05:00:05Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a334338dbc4d5bdbdfd3a7d2df879951",
-      "title": "Watchdog sharply cuts penalties on 5 banks over mis-selling of HK-tied derivatives",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604006200320",
-      "published_date": "2026-06-04T04:13:17Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0109e1987292da7969b59a89db756336",
-      "title": "Seoul shares sharply down late Thu. morning on renewed Iran tensions; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604005300320",
-      "published_date": "2026-06-04T02:30:58Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f5420a364db2547ff4c7e4110e0949fc",
-      "title": "S. Korea's currency hits over 2-month low on renewed tension in Middle East",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604003600320",
-      "published_date": "2026-06-04T01:08:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "845eaaa259d58cde7e322e2dd848189c",
-      "title": "Trade minister calls for protection of balance of interests secured through S. Korea-U.S. tariff deal in meeting with USTR",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260604003300320",
-      "published_date": "2026-06-04T00:50:16Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "4e46ad0d02a86785f3e87add44655f3c",
+      "title": "(LEAD) Supreme Court chief justice accepts election watchdog head's resignation amid ballot shortage controversy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608012952320",
+      "published_date": "2026-06-08T12:56:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "725a8d57f4dbea236da3b7f962ae259b",
+      "title": "Supreme Court chief justice accepts election watchdog head's resignation amid ballot shortage controversy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608012951320",
+      "published_date": "2026-06-08T10:33:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7362eb9cb75c7d66e203566f61d75162",
+      "title": "(URGENT) Supreme Court chief justice accepts resignation of election watchdog head over ballot shortage fiasco",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608012900320",
+      "published_date": "2026-06-08T10:19:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "770e07100115ff94a3c4dafa894cb9f4",
+      "title": "(URGENT) Xi says ready to work with Kim to advance stronger China-N. Korea ties: Xinhua",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608012600315",
+      "published_date": "2026-06-08T10:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "073eb2dbdef08f358e460cddd72e128d",
+      "title": "Lee vows sweeping reforms to election administration following ballot shortage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608011900315",
+      "published_date": "2026-06-08T08:53:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "39b4e357d35f215ff6a9c1e3cf98dad1",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608011700320",
+      "published_date": "2026-06-08T08:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "755bf007443aaffb058d4c7142a16148",
+      "title": "Special counsel seeks 2-yr prison term for ex-President Yoon in election law case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608011400315",
+      "published_date": "2026-06-08T07:58:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c2434f8d01aa4072baa82414524c06ea",
+      "title": "Girl group izna sets its own tempo with 3rd EP",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608011300315",
+      "published_date": "2026-06-08T07:48:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "87089f1d135b4a7c7ec327cf49f96228",
+      "title": "(LEAD) Jeju Province sends dialysis machines, citrus saplings, other supplies to N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608008051315",
+      "published_date": "2026-06-08T07:19:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a43ad2c94f41de4272872fc5e8e30b41",
+      "title": "Rival parties request parliamentary probe into ballot shortage in local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608008800315",
+      "published_date": "2026-06-08T06:47:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a4e6e64e7436c81d922112ae57125884",
+      "title": "Jeju Province sends dialysis machines, citrus saplings, other supplies to N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608008000315",
+      "published_date": "2026-06-08T06:32:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "207aa2f0f3488cc52e254c4862ffdc64",
+      "title": "(LEAD) Protest over ballot shortage in local elections continues for 4th day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608005951315",
+      "published_date": "2026-06-08T05:40:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "08b2c424d4b212245f3b16c537fa90aa",
+      "title": "(URGENT) N. Korea's Kim, his wife seen greeting China's Xi at Pyongyang airport: CCTV",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608007400315",
+      "published_date": "2026-06-08T04:45:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c3d5733035d1e27478a33a183a2017ee",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608007100315",
+      "published_date": "2026-06-08T04:30:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5df0f2c284aa44951098f91027d7232f",
+      "title": "Protest over ballot shortage in local elections enters 4th day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608005900315",
+      "published_date": "2026-06-08T02:09:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "77c523f849f470198c9e2b81f40dcd31",
+      "title": "(URGENT) Lee vows to secure 'absolute competitiveness' in advanced technologies by mobilizing all resources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608003400315",
+      "published_date": "2026-06-08T01:09:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5f987d5489899c6b98fd4a101835cb91",
+      "title": "Lee's approval rating dips amid controversy over ballot shortage in local elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608003300315",
+      "published_date": "2026-06-08T00:55:57Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7b678e829ad3012c4ddf8bdc1c890256",
+      "title": "(URGENT) KRX issues circuit breaker for KOSPI on steep fall, halting trading for 20 minutes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260608001700320",
+      "published_date": "2026-06-08T00:08:38Z",
+      "category": "Local Events"
+    },
     {
       "id": "28458fdd93f7680470a20345fac345ed",
       "title": "Aespa's 'Lemonade' debuts at No. 9 on Billboard 200",
@@ -439,150 +623,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260608001100315",
       "published_date": "2026-06-07T23:09:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "77f2c5f53a621c2b26a6cb8780f513b7",
-      "title": "Boynextdoor bares its soul in first studio album 'Home'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605004300315",
-      "published_date": "2026-06-07T23:00:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "aca99a9e68e9e55c9ef68441f67ba9f8",
-      "title": "(EDITORIAL from The Korea Times on June 8)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000800315",
-      "published_date": "2026-06-07T22:08:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "161a178e344a5968be91a464dad7935d",
-      "title": "(URGENT) Xi says China-N. Korea ties should continue to grow in turbulent, complex era",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608000400315",
-      "published_date": "2026-06-07T21:20:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5be7d09829570e999edb1a6902c21499",
-      "title": "(URGENT) Lee orders thorough investigation into ballot shortage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607005400320",
-      "published_date": "2026-06-07T09:45:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dbc8b506afedf3ef686b243f1cd3a858",
-      "title": "Thousands rally for 3rd day demanding new election over ballot shortages",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607002300315",
-      "published_date": "2026-06-07T05:13:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7307d16a7e104191c1cbd5ef07b7168d",
-      "title": "(URGENT) Lee nominates SME Minister Han Seong-sook as new prime minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607002400315",
-      "published_date": "2026-06-07T05:01:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e06732de59603b30d632e9056b2da667",
-      "title": "More stocks fall despite KOSPI rally amid chip-sector concentration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607001500320",
-      "published_date": "2026-06-07T03:01:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b277c64cbd73321ed6c501015e4c5d45",
-      "title": "Court set to rule on ex-President Yoon's drone infiltration charges this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260607000700315",
-      "published_date": "2026-06-07T00:51:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "74ef5d540cc5df88875706c189fb2bd7",
-      "title": "BTS tops Billboard Japan's H1 album sales chart; 6 K-pop acts make Top 20",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260606003200315",
-      "published_date": "2026-06-06T10:15:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "045e91b4c7d2d8cd3686905d667182a8",
-      "title": "Protest against ballot paper shortages enters 2nd day, demanding new election",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260606002000315",
-      "published_date": "2026-06-06T05:50:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9bb0397ea3bfc65c68f48e0a5ab8eec1",
-      "title": "(URGENT) Lee says honoring those killed in service is 'social duty'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260606001000315",
-      "published_date": "2026-06-06T01:24:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e2853537923fdd43845590f55ed23bad",
-      "title": "(Yonhap Interview) Korean American chef Austin Kang bringing MLB food culture to S. Korean fans",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605009600315",
-      "published_date": "2026-06-05T23:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0ec4df5cfaa1a73296606a91a881bfd6",
-      "title": "(3rd LD) Angry protesters block vote-counting facility over ballot shortages",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001753315",
-      "published_date": "2026-06-05T11:12:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e72a609ec9b1f1c5fdbdece69c031d92",
-      "title": "(2nd LD) Election watchdog chief offers to resign over ballot shortages in local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605005052315",
-      "published_date": "2026-06-05T09:41:55Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "795f6ae4996c6a31afb798bb0a0e2250",
-      "title": "(LEAD) Election watchdog chief offers to resign over ballot shortages in local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605005051315",
-      "published_date": "2026-06-05T08:03:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "59ad676c7f380bca43194d85647ffa60",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605011200315",
-      "published_date": "2026-06-05T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "de42f39cc88c2a83898d774dbdb43692",
-      "title": "Final tally for local elections completed after counting omitted ballots",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605009800315",
-      "published_date": "2026-06-05T07:35:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fe46302ebbe9d18f45fce8909cc3b143",
-      "title": "(2nd LD) Police secure ballot boxes from Seoul polling station after dispersing protesters",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605001752315",
-      "published_date": "2026-06-05T07:20:51Z",
       "category": "Local Events"
     }
   ]
