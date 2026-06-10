@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-09T13:45:12Z",
+  "generated_at": "2026-06-10T00:04:11Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,150 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "774f7191d466c7c2823ea73f65010d74",
+      "title": "Households' financial expenditures rise at fastest clip in 24 yrs in Q1: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610001600320",
+      "published_date": "2026-06-09T23:50:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c288ec77ee9dcb9d01d2026b3a738123",
+      "title": "Unionized members at Kakao to stage first-ever strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610001500320",
+      "published_date": "2026-06-09T23:39:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "23cd61a62d4278d9912d2d1e45ae3fb2",
+      "title": "Hyundai Motor's Tucson SUV sales up 15 pct through April",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610001200320",
+      "published_date": "2026-06-09T23:16:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0987869b338354a837bd312271a1ce84",
+      "title": "(World Cup) S. Korea train behind closed doors in prep for World Cup opener",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610001100315",
+      "published_date": "2026-06-09T22:51:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c82f1d5204bc9c3c48379380e5ebe865",
+      "title": "Xi thanks Kim for 'fruitful' summit: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610001000315",
+      "published_date": "2026-06-09T22:14:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "116959f7b869030f271a83cf4e59d56e",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000500320",
+      "published_date": "2026-06-09T22:02:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bc0451175d9979c1afccd1f20d3abd86",
+      "title": "(World Cup) S. Korea looking to take care of business in opener vs. Czechia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260609005400315",
+      "published_date": "2026-06-09T22:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f4ffb69b17dbe3222b84e6e60f02444",
+      "title": "Xi’s North Korea visit fuels Chinese tourism revival hopes",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-tourism-china-xi-visit-2026/",
+      "published_date": "2026-06-09T21:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "50c579cad1d296af5ccc38a99d3d07c4",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000800320",
+      "published_date": "2026-06-09T21:36:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "99477cb21dfc03cef95b470ea351a18b",
+      "title": "(EDITORIAL from The Korea Times on June 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000700320",
+      "published_date": "2026-06-09T21:36:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1e78289855c1876f7e3e3d15feb599b6",
+      "title": "(2nd LD) (News Focus) Summit shows China more focused on countering U.S. influence than curbing N.K. nukes: experts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000352315",
+      "published_date": "2026-06-09T21:12:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a954099dca5e2041125baf0a7ab5d256",
+      "title": "(LEAD) (News Focus) Summit shows China more focused on countering U.S. influence than curbing N.K. nukes: experts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000351315",
+      "published_date": "2026-06-09T20:51:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f23ccdc9207214861c58bae7c0c10ec",
+      "title": "(News Focus) Summit shows China more focused on countering U.S. influence than curbing N.K. nukes: expert",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000300315",
+      "published_date": "2026-06-09T19:46:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "341ed26010c9e1f7f297a318fb08166b",
+      "title": "North Korea bans border gatherings, criminalizes talk of South Korea",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-border-crackdown-gatherings-south-korea-speech/",
+      "published_date": "2026-06-09T19:37:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bc8e998bba306a8f086d4a3b048b9d22",
+      "title": "(LEAD) Lee arrives in Brussels for summits with Belgian, EU leaders",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260609001451315",
+      "published_date": "2026-06-09T17:52:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e759875bed69409b256b9f65e8a34d33",
+      "title": "House passes bill aimed at establishing inter-parliamentary dialogue among S. Korea, U.S., Japan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000200315",
+      "published_date": "2026-06-09T17:39:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4ef81c774f216d2d32bd8f48565b84a",
+      "title": "North Koreans skip state mobilization to run private gold operations from their homes",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-private-gold-mining-unsan-county-mobilization/",
+      "published_date": "2026-06-09T17:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "18c28b6dbdcc3207d5a37f915ad199e6",
+      "title": "Lee arrives in Brussels for summits with Belgian, EU leaders",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260609001400315",
+      "published_date": "2026-06-09T14:24:26Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "55381d4b8f2b8a691ea0877fede96e36",
       "title": "Kim Jong Un saves air force commander’s nephew from execution, fueling anger over double standards",
@@ -24,153 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260609011600320",
       "published_date": "2026-06-09T11:38:31Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "a627f2651caad554ab7ef6a71084e796",
-      "title": "North Korean farms grind to a halt as fuel shortages cripple rice planting season",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-fuel-shortage-rice-planting-season/",
-      "published_date": "2026-06-09T10:59:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4c6c5061f181c162a96b929fd7815a16",
-      "title": "(LEAD) Controversy erupts over war memorial agency's use of China's Korean War propaganda",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609009551315",
-      "published_date": "2026-06-09T10:28:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7c22877b2f692ed1b3ee5acf0961c4c0",
-      "title": "Why Xi Jinping brought a ‘star team’ of top officials for talks with Kim Jong Un",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/why-xi-jinping-brought-a-star-team-of-top-officials-for-talks-with-kim-jong-un/",
-      "published_date": "2026-06-09T10:20:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "af52afa528fed306c5e816bb54d8d848",
-      "title": "Xi wraps up North Korea trip with visits to friendship tower, cadre school",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/xi-wraps-up-north-korea-trip-with-visits-to-friendship-tower-cadre-school/",
-      "published_date": "2026-06-09T10:10:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cc71a33889c546202e2de57507d1a0d7",
-      "title": "What Xi Jinping’s motorcade said about North Korea-China ties",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/what-xi-jinpings-motorcade-said-about-north-korea-china-ties/",
-      "published_date": "2026-06-09T10:05:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4becd7710a92eeae351f4a616c13f662",
-      "title": "(News Focus) N. Korea, China reaffirm ties, silent on nuclear issues",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609009700315",
-      "published_date": "2026-06-09T08:35:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "060fc1b6bb7f54947bc8b6c949361af2",
-      "title": "Man sentenced to 7 yrs in prison for attempted armed robbery of actress Nana's home",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609009900315",
-      "published_date": "2026-06-09T08:15:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e0acbb173c68baa3c1797aa6f07c163e",
-      "title": "Unification ministry takes note of Xi's call for expanded military ties with Pyongyang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609010400315",
-      "published_date": "2026-06-09T08:13:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "64e3c8c1304e78d32eecb5acd54eb6c8",
-      "title": "Jung Kyung-ho, Choi Soo-young part ways after 14 years of dating",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609011200315",
-      "published_date": "2026-06-09T08:12:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "49ff4a3d7f22930d724c20af48514684",
-      "title": "BIFAN to mark 30th edition with record 321 films",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609010000315",
-      "published_date": "2026-06-09T07:44:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c2cf14474e264231cc3fd92021142530",
-      "title": "Seoul reaffirms goal of denuclearizing Korean Peninsula following Kim-Xi summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609009800315",
-      "published_date": "2026-06-09T07:31:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d3f01b041e9bb7d5ddd458051d6d7c99",
-      "title": "Korean won strengthens sharply against dollar after authorities' verbal intervention",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609009600320",
-      "published_date": "2026-06-09T07:30:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a8a4e8a1ab23f0001e9943b9589ef0f1",
-      "title": "North Korea illegally exported 1.5M tons of coal last year: ROK lawmaker",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korea-illegally-exported-1-5m-tons-of-coal-last-year-rok-lawmaker/",
-      "published_date": "2026-06-09T07:07:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2de3330addb3541abb2cd3b7a267f05c",
-      "title": "Ex-interior minister, 3 others indicted over alleged irregularities in presidential residence relocation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609009300315",
-      "published_date": "2026-06-09T07:06:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ed0a44ad4137d518ac1683a060678ca6",
-      "title": "Key art fairs Kiaf, Frieze to open in Sept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609007900315",
-      "published_date": "2026-06-09T07:02:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "18868c838721924be8b5fc35720e9b22",
-      "title": "Controversy erupts over war memorial agency's use of China's Korean War propaganda",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609009500315",
-      "published_date": "2026-06-09T07:01:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e1b969368c9f9441abf22d28fd074844",
-      "title": "PM says suffrage is foundation of democracy amid outrage over ballot shortages",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609008400315",
-      "published_date": "2026-06-09T06:52:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8e5a430c80c01ee354b5eeae0118107b",
-      "title": "Exhibition celebrates human-crafted still life photography in the age of AI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609007700315",
-      "published_date": "2026-06-09T06:26:52Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "cbbe85eef13934393f9237cb91c31ba2",
+      "title": "(LEAD) Defense chief calls for military reform to respond to changing security environment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260609011451315",
+      "published_date": "2026-06-09T13:41:05Z",
+      "category": "Military"
+    },
     {
       "id": "2f735e1893c3b99dc47feaef2923761e",
       "title": "Defense chief calls for military reform to respond to changing security environment",
@@ -302,6 +310,14 @@
   ],
   "Energy": [
     {
+      "id": "56069cb7d76d6a06b26299818f6e8429",
+      "title": "Hanhwa QCells begins solar cell production at U.S. factory",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610001700320",
+      "published_date": "2026-06-09T23:57:23Z",
+      "category": "Energy"
+    },
+    {
       "id": "433f25a93ca1cb1af65e879168293e77",
       "title": "Solar power touted as fix for North Korea’s electricity crisis, but few can afford it",
       "source": "Daily NK",
@@ -327,6 +343,22 @@
     }
   ],
   "Economy": [
+    {
+      "id": "3e108ea6a6b2724e83878386e54fbc10",
+      "title": "Samsung becomes largest shareholder in Element Biosciences with US$175 mln investment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610001400320",
+      "published_date": "2026-06-09T23:48:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "b9a71015c767b1d5dc2af33c4c6e9c10",
+      "title": "(EDITORIAL from The Korea Herald on June 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260610000600320",
+      "published_date": "2026-06-09T21:35:39Z",
+      "category": "Economy"
+    },
     {
       "id": "1edf3e35cf6b4cd2fe2b2e03a09894af",
       "title": "(2nd LD) Seoul shares surge over 8 pct on AI confidence, Iran-Israel ceasefire; won sharply up",
@@ -469,22 +501,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260607001300315",
       "published_date": "2026-06-07T02:42:25Z",
-      "category": "Economy"
-    },
-    {
-      "id": "df7e1e99285de75bfd60c24d7d891736",
-      "title": "(2nd LD) Seoul shares sink over 5 pct on tech losses amid Iran uncertainty; won sharply down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605007952320",
-      "published_date": "2026-06-05T07:47:04Z",
-      "category": "Economy"
-    },
-    {
-      "id": "91810002be9045f1ceec914fa64756e7",
-      "title": "(LEAD) S. Korea's currency tumbles to 17-year low on foreign stock selloff",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260605004451320",
-      "published_date": "2026-06-05T07:32:07Z",
       "category": "Economy"
     }
   ],
