@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-11T14:39:47Z",
+  "generated_at": "2026-06-12T00:13:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,163 +10,163 @@
   ],
   "Diplomacy": [
     {
-      "id": "5dc07c1538d5befa99811004cf2a6c9e",
-      "title": "North Korea targets unlicensed home restaurants as cheap eateries multiply",
+      "id": "fab96e39c26dc7e25992ea0ed0e7bc4c",
+      "title": "Seoul stocks open sharply higher on possible Iran deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612002000320",
+      "published_date": "2026-06-12T00:03:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ce7713ba1b84511cef7463275ad1b8bc",
+      "title": "SK hynix considers broader AI adoption for workplace innovation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612001700320",
+      "published_date": "2026-06-11T23:49:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "968142618b540f0df17b577aae8710a6",
+      "title": "(LEAD) N. Korea's Kim reaffirms alliance with Russia in letter to Putin",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612001051315",
+      "published_date": "2026-06-11T23:16:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9548e39edbab3545b88c2ed1f6d6a9e5",
+      "title": "Officers’ wives brawl over rations as money trumps rank in North Korea",
       "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-unlicensed-home-restaurants-crackdown/",
-      "published_date": "2026-06-11T14:34:00Z",
+      "url": "https://www.dailynk.com/english/north-korean-military-families-hierarchy/",
+      "published_date": "2026-06-11T23:05:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "00328862eae95df4d3b54f5817600400",
-      "title": "(LEAD) Lee, Mattarella agree to elevate S. Korea-Italy ties into special strategic partnership",
+      "id": "1ffddbffc743bc7ec59e68c495368789",
+      "title": "N. Korea's Kim reaffirms alliance with Russia in letter to Putin",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010651315",
-      "published_date": "2026-06-11T14:16:40Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612001000315",
+      "published_date": "2026-06-11T22:26:43Z",
       "category": "Diplomacy"
     },
     {
-      "id": "4b4f63682f2e7564fa7b587695579057",
-      "title": "Stop watching Kim Ju Ae and start watching North Korea-China ties",
+      "id": "c7921f339ab53a580e5957015af7f528",
+      "title": "To denuclearize North Korea, Xi must make Kim an offer he cannot refuse",
       "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/kim-ju-ae-succession-xi-jinping-pyongyang-visit/",
-      "published_date": "2026-06-11T13:38:00Z",
+      "url": "https://www.dailynk.com/english/denuclearize-north-korea-xi-offer/",
+      "published_date": "2026-06-11T22:20:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "bc4d1cad298bacb0a130eb7b9a64a5f8",
-      "title": "Lee asks EU for favorable treatment of S. Korean steel: presidential official",
+      "id": "3873c559660e3fcf9d3a15128bd351b2",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 12)",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010900315",
-      "published_date": "2026-06-11T13:12:09Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000900315",
+      "published_date": "2026-06-11T22:10:09Z",
       "category": "Diplomacy"
     },
     {
-      "id": "d5e3ec99b6f2b7c796fa24ab19f17329",
-      "title": "(LEAD) PM urges speedy, rigorous probe into ballot shortage",
+      "id": "4300dc49b8ddcf8f741d980c5629ab7c",
+      "title": "(EDITORIAL from Korea Times on June 12)",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611006851315",
-      "published_date": "2026-06-11T13:10:21Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000800315",
+      "published_date": "2026-06-11T22:09:55Z",
       "category": "Diplomacy"
     },
     {
-      "id": "eb063bafba54e29271bb4619c22244c3",
-      "title": "N. Korea's Kim sends message to Putin ahead of Russia's national day: KCNA",
+      "id": "32eda7a93f152fdf57612541eb6e3cee",
+      "title": "(EDITORIAL from Korea Herald on June 12)",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010700320",
-      "published_date": "2026-06-11T12:15:57Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000700315",
+      "published_date": "2026-06-11T22:09:39Z",
       "category": "Diplomacy"
     },
     {
-      "id": "7558aad6323fe4bae6537ea73294c1f6",
-      "title": "Lee, Mattarella agree to elevate S. Korea-Italy ties into special strategic partnership",
+      "id": "e1dc2b59dfd69f71b4c97d6a4fc282d7",
+      "title": "Top headlines in major S. Korean newspapers",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010600315",
-      "published_date": "2026-06-11T12:08:41Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000600315",
+      "published_date": "2026-06-11T22:06:40Z",
       "category": "Diplomacy"
     },
     {
-      "id": "3b1988b7d6e642b45bf5e4b6c4a72276",
-      "title": "S. Korea, U.S. reaffirm goal of N.K. denuclearization at key nuclear deterrence meeting",
+      "id": "192fb680b6b7604e24d3e5ff7ba08979",
+      "title": "North Korea-China trade contacts surge as officials flock to Dandong",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-china-trade-contacts-surge/",
+      "published_date": "2026-06-11T21:12:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bcc91d677b834af3a7bd5bc87bf30858",
+      "title": "Securities firms' Q1 net spikes 77 pct on increased commission income",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010300315",
-      "published_date": "2026-06-11T10:34:20Z",
+      "url": "https://en.yna.co.kr/view/AEN20260611008500320",
+      "published_date": "2026-06-11T21:00:07Z",
       "category": "Diplomacy"
     },
     {
-      "id": "3b7cec9fdf9729604ecdf3e8425dcd32",
-      "title": "Samsung office raided over alleged insider trading tied to takeover of robotics firm",
+      "id": "0981ddf7755b278f94589cd98f6f5243",
+      "title": "S. Korea, Morocco to push for launch of CEPA talks for deeper economic cooperation",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010400320",
-      "published_date": "2026-06-11T10:28:24Z",
+      "url": "https://en.yna.co.kr/view/AEN20260611008900320",
+      "published_date": "2026-06-11T21:00:07Z",
       "category": "Diplomacy"
     },
     {
-      "id": "5c76c1d1f91d58309347a267dfcdf9dc",
-      "title": "Jeju’s aid shipment to North Korea puts a shadowy broker back in the spotlight",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/jejus-aid-shipment-to-north-korea-puts-a-shadowy-broker-back-in-the-spotlight/",
-      "published_date": "2026-06-11T10:27:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "87c21a8b4fbf294172cb5d391a9a5a92",
-      "title": "Why Xi Jinping wants closer military ties with North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/why-xi-jinping-wants-closer-military-ties-with-north-korea/",
-      "published_date": "2026-06-11T10:19:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "79ad1ff06a40ca4438ee2bf95a24aa0c",
-      "title": "Aespa's 2nd LP 'Lemonade' becomes 8th million-seller",
+      "id": "0b19e979b7f023c974d65cb401284123",
+      "title": "S. Korea, Kyrgyzstan hold 1st trade-investment cooperation committee",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010200320",
-      "published_date": "2026-06-11T10:03:15Z",
+      "url": "https://en.yna.co.kr/view/AEN20260611009800320",
+      "published_date": "2026-06-11T21:00:05Z",
       "category": "Diplomacy"
     },
     {
-      "id": "126affe3fafb1d057c9265c1b1d5d0e4",
-      "title": "Hanwha Ocean likely to win 7.8 tln-won project to build next-generation destroyers: sources",
+      "id": "56eb8c4275b03a89521045901905be8e",
+      "title": "(2nd LD) Trump says Iran deal is in 'pretty final shape,' could be signed in Europe this weekend",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611010100320",
-      "published_date": "2026-06-11T09:32:19Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000452315",
+      "published_date": "2026-06-11T20:32:58Z",
       "category": "Diplomacy"
     },
     {
-      "id": "75e38c56b667f98e1c741781fc48d0c5",
-      "title": "U.S. air base in Gunsan raided over alleged fraud by local employee",
+      "id": "1c6fe0b7b5c8ce5fc6bbaac20397dd4b",
+      "title": "(2nd LD) Lee, Mattarella agree to elevate S. Korea-Italy ties into special strategic partnership",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611008800315",
-      "published_date": "2026-06-11T08:01:47Z",
+      "url": "https://en.yna.co.kr/view/AEN20260611010652315",
+      "published_date": "2026-06-11T19:08:14Z",
       "category": "Diplomacy"
     },
     {
-      "id": "935ab6e3c283758ae49214b28ddc7ba6",
-      "title": "Lee says depending on U.S. for defense no longer valid, will boost economic ties",
+      "id": "62c7050ec00c6f200f6b994c0b2edcf4",
+      "title": "(LEAD) Lee to receive Italy's highest decoration for promoting bilateral ties",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611008300315",
-      "published_date": "2026-06-11T07:53:05Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000351315",
+      "published_date": "2026-06-11T18:53:11Z",
       "category": "Diplomacy"
     },
     {
-      "id": "4a33aa89f1bfccd40e59ddf9f55dc3da",
-      "title": "Why the real focus of Xi’s state visit to North Korea was Taiwan, not Russia",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/why-the-real-focus-of-xis-state-visit-to-north-korea-was-taiwan-not-russia/",
-      "published_date": "2026-06-11T07:48:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b50e4485b9d96d79227c6af26db40295",
-      "title": "(2nd LD) Seoul shares close higher as AI woes ease amid Middle East uncertainties",
+      "id": "226582c923136f212a5f6d672afb6fc0",
+      "title": "(LEAD) Trump calls off Iran strikes, says Iranian leadership 'approved' peace discussions",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611006952320",
-      "published_date": "2026-06-11T07:44:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000451315",
+      "published_date": "2026-06-11T18:32:53Z",
       "category": "Diplomacy"
     },
     {
-      "id": "a1ff7f181639d68988d22d933cfb8e0e",
-      "title": "US officials meet with son of missionary detained in North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/us-officials-meet-with-son-of-missionary-detained-in-north-korea/",
-      "published_date": "2026-06-11T07:27:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "306790d2c1e1c6d2a038f585bf57835d",
-      "title": "South Korea, EU express ‘grave concern’ over North Korea’s nuclear arsenal",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/south-korea-eu-express-grave-concern-over-north-koreas-nuclear-arsenal/",
-      "published_date": "2026-06-11T07:25:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "13576febd102c12a9fe3d3d3e2016f1d",
-      "title": "(LEAD) Seoul shares close higher as AI woes ease amid Middle East uncertainties",
+      "id": "9734924d7cb0856a15dc9073be5b0601",
+      "title": "Trump calls off Iran strikes, says Iranian leadership 'approved' peace discussions",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611006951320",
-      "published_date": "2026-06-11T07:02:10Z",
+      "url": "https://en.yna.co.kr/view/AEN20260612000400315",
+      "published_date": "2026-06-11T18:14:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8ab9eb94b08a7ec9f6d2b67e56f473bd",
+      "title": "Lee to receive Italy's highest decoration for promoting bilateral ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612000300315",
+      "published_date": "2026-06-11T17:52:44Z",
       "category": "Diplomacy"
     }
   ],
@@ -320,6 +320,30 @@
   ],
   "Economy": [
     {
+      "id": "2e7183d4fa3d86e17de6e74fecd4950b",
+      "title": "(URGENT) Seoul stocks open 6.44 pct higher as Trump says Iran deal could be signed soon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612001600320",
+      "published_date": "2026-06-12T00:01:39Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ed5c843aaaa3609503ece207d413a4e7",
+      "title": "Gov't remains vigilant on inflation, job market challenges: finance minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612001900320",
+      "published_date": "2026-06-11T23:50:52Z",
+      "category": "Economy"
+    },
+    {
+      "id": "bf6d165a479706f4449161d85ae42f1a",
+      "title": "USTR rebuts Washington Post editorial on proposed tariffs targeting S. Korea, others over forced labor concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612000200315",
+      "published_date": "2026-06-11T16:45:13Z",
+      "category": "Economy"
+    },
+    {
       "id": "d3b91fecabc316405fc59ca32a18e234",
       "title": "Samsung tops S. Korea's brand rankings; SK hynix enters top 10",
       "source": "Yonhap News Agency",
@@ -454,33 +478,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260608008652320",
       "published_date": "2026-06-08T07:43:23Z",
       "category": "Economy"
-    },
-    {
-      "id": "e35cc23b8651bf703001150a47e90b72",
-      "title": "(LEAD) KOSPI crashes over 8 pct on tech hemorrhage, U.S. rate woes; won rises after verbal intervention",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608008651320",
-      "published_date": "2026-06-08T07:12:30Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9d008182ce34c9d6c50568a34ffd545c",
-      "title": "(URGENT) KOSPI crashes over 8 pct on tech hemorrhage, U.S. rate woes; won rises",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608008500320",
-      "published_date": "2026-06-08T06:33:30Z",
-      "category": "Economy"
-    },
-    {
-      "id": "e20d49a4607998cff61f9d2d53e05eab",
-      "title": "Economy continues 'gradual improvement' on strong chip exports: KDI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608006200320",
-      "published_date": "2026-06-08T03:00:03Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "26b2b518b8988417b65082f139a6b996",
+      "title": "(URGENT) Bourse operator issues buy-side sidecar on KOSPI's sharp rise.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612002100320",
+      "published_date": "2026-06-12T00:07:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "901ff8322e1843f6dfaf18a85e2e3a3c",
+      "title": "BTS to release new digital single 'Come Over'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612001400315",
+      "published_date": "2026-06-11T23:11:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "58600c5ab52e57bd0eb503631c41a3bf",
+      "title": "Court set to rule on ex-President Yoon's drone infiltration case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612001300315",
+      "published_date": "2026-06-11T23:03:41Z",
+      "category": "Local Events"
+    },
     {
       "id": "4e390fe8b4965a3ac8ea48cd53f4757e",
       "title": "(2nd LD) Police raid election watchdog over ballot shortages during local elections",
@@ -615,30 +639,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260610010300315",
       "published_date": "2026-06-10T08:22:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "98b757034ed165e9bb570675db9dab4e",
-      "title": "Unification adviser hopes for N. Korea-U.S. dialogue after U.S. midterm election",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610009300315",
-      "published_date": "2026-06-10T08:12:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "74b8f9cd6333782832d3915ff329490c",
-      "title": "Court officials fail to secure key evidence at polling station over ballot shortage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610008800315",
-      "published_date": "2026-06-10T07:58:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "37d0ef4d81fb67c6e1d47a390693b44f",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610009200315",
-      "published_date": "2026-06-10T07:56:51Z",
       "category": "Local Events"
     }
   ]
