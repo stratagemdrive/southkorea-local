@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-12T14:10:40Z",
+  "generated_at": "2026-06-13T00:12:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "fdb4d43958a903e3ccb4f804cf3a1d48",
+      "title": "S. Korea, other U.N. members launch group to address technology-facilitated trafficking in persons",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613000600315",
+      "published_date": "2026-06-12T21:51:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0242685545b4d5e81215a2a6f1e8d56f",
+      "title": "(2nd LD) Lee says S. Korea, Italy are 'optimal partners' for business cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612012052315",
+      "published_date": "2026-06-12T19:11:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a728410b36facef5c643ee8d2b10d913",
+      "title": "U.S. tightens licensing requirements for certain medical device exports to N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613000400315",
+      "published_date": "2026-06-12T18:11:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "73914eeb0cfe0fec88e39f3cec4c6e26",
+      "title": "(LEAD) Lee says S. Korea, Italy are 'optimal partners' for business cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612012051315",
+      "published_date": "2026-06-12T17:45:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0af9538224aec65ad70cb4a5f2bf3f3c",
+      "title": "Satellites show North Korea’s rice planting running ahead of schedule",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-transplanting-2026/",
+      "published_date": "2026-06-12T17:27:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7ea5c5a0682ad0ad93666bf00cfbbfb6",
+      "title": "Lee hopes S. Korea, Italy will work together to promote free trade, multilateralism",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613000300315",
+      "published_date": "2026-06-12T16:59:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8363549199618492da06230b7193b872",
+      "title": "Congresswoman submits House resolution honoring late U.S. politician's contribution to S. Korea-U.S. alliance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613000200315",
+      "published_date": "2026-06-12T16:09:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9228ecbbac4f3bce8f68fc609852a333",
+      "title": "First lady hopes S. Korea will warmly host global youth at 2027 Catholic festival",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612012300315",
+      "published_date": "2026-06-12T14:40:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "299ccd11b916596732009abe736203b6",
+      "title": "Connections decide North Korea’s top children’s award, parents complain",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-childrens-honor-award-nepotism/",
+      "published_date": "2026-06-12T14:16:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "793aacd3052fc9679265c6ae07e2b8fc",
       "title": "(LEAD) S. Korea, Italy sign MOUs to enhance advanced science cooperation, explore joint projects in Africa",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260612007852320",
       "published_date": "2026-06-12T07:37:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "64657c586660d4fb3212a47f80704a46",
-      "title": "(LEAD) Korean won gains on renewed hope of U.S.-Iran peace deal, foreign net buying",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612004851320",
-      "published_date": "2026-06-12T07:36:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "353ae5888860f7a4e58f4ef85f71a5f1",
-      "title": "Tigers unable to come to terms with injury replacement player Rodriguez",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612009600315",
-      "published_date": "2026-06-12T07:18:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a06d6cdbca59ea079f0e2acc3e52a586",
-      "title": "(LEAD) Seoul stocks spike over 4 pct to settle again in 8,000 territory on hopes for end to Mideast crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612007851320",
-      "published_date": "2026-06-12T07:10:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "269a3195266336bb3ebf5c8b20c1ffbf",
-      "title": "Le Sserafim, Illit, Katseye release joint single",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612009300315",
-      "published_date": "2026-06-12T07:03:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a3b8e802ae0beed3523fb9f2f5c4f3aa",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612005600315",
-      "published_date": "2026-06-12T07:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bdd833aabffc8ea6dfdc90e1644b7f27",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612005700315",
-      "published_date": "2026-06-12T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f7853853df4bff1a24cb1c394e15aaaa",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612005800315",
-      "published_date": "2026-06-12T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f54c96835cfc5f408028c3a92a047033",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612005900315",
-      "published_date": "2026-06-12T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7d95247b08f84fc1258397f3d6100607",
-      "title": "KT Wiz sign Allen as injury replacement for ace Boushley",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612009400315",
-      "published_date": "2026-06-12T06:58:45Z",
       "category": "Diplomacy"
     }
   ],
