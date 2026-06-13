@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-13T12:27:24Z",
+  "generated_at": "2026-06-13T23:57:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "8158ff85a47ac812373869c4f787941a",
+      "title": "IAEA chief highlights verification role in potential U.S.-Iran nuclear deal, says NPT remains effective tool",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613003300315",
+      "published_date": "2026-06-13T22:00:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "22046058fc12c776e34f1fe7977ed5bc",
+      "title": "National Museum of Korea, Uffizi Galleries sign MOU on collection exchanges",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613003900315",
+      "published_date": "2026-06-13T16:25:47Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "f739fd951928c6402e83ef364c0870de",
       "title": "N. Korea blasts S. Korea-EU statement on illegal military cooperation with Russia",
@@ -151,22 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-childrens-honor-award-nepotism/",
       "published_date": "2026-06-12T14:16:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "793aacd3052fc9679265c6ae07e2b8fc",
-      "title": "(LEAD) S. Korea, Italy sign MOUs to enhance advanced science cooperation, explore joint projects in Africa",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612012151315",
-      "published_date": "2026-06-12T13:47:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cfb307f097c71197ce35bf312a14f403",
-      "title": "S. Korea, Italy sign MOUs to enhance advanced science cooperation, explore joint projects in Africa",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612012100315",
-      "published_date": "2026-06-12T13:23:46Z",
       "category": "Diplomacy"
     }
   ],
@@ -482,6 +482,14 @@
   ],
   "Local Events": [
     {
+      "id": "ca62d41a56798d821fb8cb7636989058",
+      "title": "BTS wraps up Busan tour stop on 13th anniv. with tribute to fans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613003800315",
+      "published_date": "2026-06-13T14:05:18Z",
+      "category": "Local Events"
+    },
+    {
       "id": "80732c22714efa827639d40cd317dcb7",
       "title": "(LEAD) Justice ministry looking into possibly missing 100 rounds of live ammunition at Daejeon prison",
       "source": "Yonhap News Agency",
@@ -631,14 +639,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260612001352315",
       "published_date": "2026-06-12T02:12:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b1c82f21fec74f12dcfa4224bcdf9a0b",
-      "title": "(URGENT) Court sentences ex-President Yoon to 30 years in prison over drone infiltration into N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612005200315",
-      "published_date": "2026-06-12T01:59:58Z",
       "category": "Local Events"
     }
   ]
