@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-13T00:12:27Z",
+  "generated_at": "2026-06-13T12:27:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "f739fd951928c6402e83ef364c0870de",
+      "title": "N. Korea blasts S. Korea-EU statement on illegal military cooperation with Russia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613003200315",
+      "published_date": "2026-06-13T10:32:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "10f1050f7beaadb5aef8a5f53542d737",
+      "title": "S. Korea, U.S., Japan hold talks on N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613003000315",
+      "published_date": "2026-06-13T08:40:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "57c748c968de730097bc14e6cf8b9f42",
+      "title": "Career-best hitting streak snapped at 18 games for SF Giants' Lee Jung-hoo",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613002900315",
+      "published_date": "2026-06-13T08:08:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4d47a50a1fd693a424ef54e65aed0e77",
+      "title": "(LEAD) Military suspends flight of Miron choppers over defective engines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613001551320",
+      "published_date": "2026-06-13T07:18:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "64084a27b04cd790068fb2ae9ea81907",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613002100320",
+      "published_date": "2026-06-13T05:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "70698b5fc98136de8d2270ada4e16414",
+      "title": "It is too early to say whether S. Korea, U.S. would hold summit during G7 summit: Seoul official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613000700315",
+      "published_date": "2026-06-13T03:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a9aad7f5caa2a1263d2f5ffd7f5dc338",
+      "title": "Military suspends flight of Miron choppers over defective engines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613001500320",
+      "published_date": "2026-06-13T02:25:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b64295085fa4bf4878d543fe61a22aaf",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613001100320",
+      "published_date": "2026-06-13T00:18:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ecf1f9a559cc0331f0b4cb45b1fb54f1",
+      "title": "(World Cup) Injured defender recovering quickly, available in group stage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613000800315",
+      "published_date": "2026-06-13T00:12:10Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "fdb4d43958a903e3ccb4f804cf3a1d48",
       "title": "S. Korea, other U.N. members launch group to address technology-facilitated trafficking in persons",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260612012100315",
       "published_date": "2026-06-12T13:23:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4cc3128d815247b2b5900d0add021911",
-      "title": "Lee to attend business roundtable in Rome to explore S. Korea-Italy economic cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612012000315",
-      "published_date": "2026-06-12T11:56:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "543d1de009bc0490d2586da1df666163",
-      "title": "S. Korea, Britain sign revised nuclear cooperation protocol, discuss partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612011800315",
-      "published_date": "2026-06-12T10:43:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ee1650443e8fefff6a85b14cdd70a9a2",
-      "title": "Jeju’s ‘Vitamin C diplomacy’ revives a dormant model of North Korea engagement",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/jejus-vitamin-c-diplomacy-revives-a-dormant-model-of-north-korea-engagement/",
-      "published_date": "2026-06-12T09:44:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3c5cc8165d7464d17d603cc39acc6905",
-      "title": "(World Cup) Lee touts S. Korean nat'l team for opening win at World Cup",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612010700315",
-      "published_date": "2026-06-12T09:06:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2fe18f4500b0481a0f66b27bebe8456b",
-      "title": "S. Korean special envoy calls for peaceful solutions to Middle East conflicts at U.N.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612010600315",
-      "published_date": "2026-06-12T08:53:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "95ae3abd78d229c8105d5f6fa04e6c88",
-      "title": "Senior diplomats of S. Korea, Ecuador discuss energy, defense cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612010100315",
-      "published_date": "2026-06-12T08:14:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ff518e59b9e7ed1d90b80b65df250b9a",
-      "title": "Russian man arrested for taking photo of North Korean Embassy in Moscow",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/russian-man-arrested-for-taking-photo-of-north-korean-embassy-in-moscow/",
-      "published_date": "2026-06-12T08:07:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c8c2f18bb7ba0dbcb93e24dde55f06dc",
-      "title": "OpenAI's Sam Altman postpones visit to S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612009800320",
-      "published_date": "2026-06-12T07:48:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b918fe9bf5209c25547705ee3d5b1a7c",
-      "title": "(2nd LD) Seoul stocks spike over 4 pct to settle again in 8,000 territory on hopes for end to Mideast crisis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612007852320",
-      "published_date": "2026-06-12T07:37:26Z",
       "category": "Diplomacy"
     }
   ],
@@ -289,14 +289,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260608002600315",
       "published_date": "2026-06-08T00:21:53Z",
-      "category": "Military"
-    },
-    {
-      "id": "7b5cff9a69b2a0548a203d33658fa913",
-      "title": "Kim inspects nuclear-capable 5,000-ton warship, one year after capsizing",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/kim-inspects-nuclear-capable-5000-ton-warship-one-year-after-capsizing/",
-      "published_date": "2026-06-06T01:08:39Z",
       "category": "Military"
     }
   ],
@@ -490,6 +482,54 @@
   ],
   "Local Events": [
     {
+      "id": "80732c22714efa827639d40cd317dcb7",
+      "title": "(LEAD) Justice ministry looking into possibly missing 100 rounds of live ammunition at Daejeon prison",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613002551320",
+      "published_date": "2026-06-13T07:36:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b9d716dc16ed9775d0322f87653d615e",
+      "title": "Justice ministry looking into missing 100 rounds of live ammunition at Daejeon prison",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613002500320",
+      "published_date": "2026-06-13T07:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7c5bd3883d7a3f4c47d0d3054b72d616",
+      "title": "(LEAD) Protests over ballot shortages continue for 9th day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613001351315",
+      "published_date": "2026-06-13T04:42:32Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ee9f4b1fe5184ae2129fa33d367f9b55",
+      "title": "Arrest warrants sought for ex-Shincheonji officials over suspicious ties to opposition party",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613001400315",
+      "published_date": "2026-06-13T02:05:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "42fc4ccdcd35a636ef7431bf8bd59c95",
+      "title": "Protests over ballot shortages continue for 9th day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613001300315",
+      "published_date": "2026-06-13T01:29:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a905e2f0b2953c40603a1f75eed4ef96",
+      "title": "Hybe apologizes for delay on 1st night of BTS world tour in Busan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613001200320",
+      "published_date": "2026-06-13T00:58:13Z",
+      "category": "Local Events"
+    },
+    {
       "id": "b5bfa4152a61fe3b7db6d09a02297140",
       "title": "(5th LD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case",
       "source": "Yonhap News Agency",
@@ -599,54 +639,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260612005200315",
       "published_date": "2026-06-12T01:59:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "83ffffdd9eeccdd22a8b8f87edb8083d",
-      "title": "BTS to launch Busan shows for 'Arirang' world tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612004900315",
-      "published_date": "2026-06-12T01:40:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "26b2b518b8988417b65082f139a6b996",
-      "title": "(URGENT) Bourse operator issues buy-side sidecar on KOSPI's sharp rise.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612002100320",
-      "published_date": "2026-06-12T00:07:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "901ff8322e1843f6dfaf18a85e2e3a3c",
-      "title": "BTS to release new digital single 'Come Over'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001400315",
-      "published_date": "2026-06-11T23:11:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "58600c5ab52e57bd0eb503631c41a3bf",
-      "title": "Court set to rule on ex-President Yoon's drone infiltration case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001300315",
-      "published_date": "2026-06-11T23:03:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4e390fe8b4965a3ac8ea48cd53f4757e",
-      "title": "(2nd LD) Police raid election watchdog over ballot shortages during local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611002253315",
-      "published_date": "2026-06-11T13:32:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1168a8ad2193a618d830e7f4c253476c",
-      "title": "(LEAD) Nat'l Assembly begins procedure for potential probe on election ballot shortage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260611006451315",
-      "published_date": "2026-06-11T08:00:49Z",
       "category": "Local Events"
     }
   ]
