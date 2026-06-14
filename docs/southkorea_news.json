@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-13T23:57:25Z",
+  "generated_at": "2026-06-14T12:59:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,118 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "bd45f18165610b0cc844117796ebbc41",
+      "title": "Presidential office reaffirms N.K.'s denuclearization as int'l community's 'consistent goal'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614004200320",
+      "published_date": "2026-06-14T12:45:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0f3d9f1d86ca8aa3d8b04f7adca45478",
+      "title": "S. Korea, Saudi Arabia sign agreement on crude oil, gas cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614001300320",
+      "published_date": "2026-06-14T10:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c6486a994d865d24d60af957591eb94a",
+      "title": "(LEAD) Lee says ember of hope for dialogue, cooperation with N. Korea still exists",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614003451315",
+      "published_date": "2026-06-14T09:03:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28a5f0d5fbca539cbf50610adcdecd37",
+      "title": "Lee says ember of hope for dialogue, cooperation with N. Korea still exists",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614003400315",
+      "published_date": "2026-06-14T08:59:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "034a862edec0c4128a4dc822c7e64250",
+      "title": "(URGENT) Lee says Seoul will not seek unification by absorption, continue efforts to restore trust",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614003800315",
+      "published_date": "2026-06-14T08:59:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c39bff868d9380e2275c62e6c08d78b8",
+      "title": "(URGENT) Lee says ember of hope still exists for dialogue, cooperation with N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614002900315",
+      "published_date": "2026-06-14T08:58:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "87867ea0a0f3e17fb9259f41eeb0519d",
+      "title": "Le Mans race offers chance to prove Genesis' durability, quality: Hyundai Motor CEO",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614002700320",
+      "published_date": "2026-06-14T06:32:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f081fe666702402b3f8c9eda2ec3bd8",
+      "title": "9th S. Korean oil tanker successfully transits Red Sea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614002600320",
+      "published_date": "2026-06-14T05:35:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2f989e85d82393c3b01b7354b8aec5e7",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614000300320",
+      "published_date": "2026-06-14T05:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8908ed6a8120dba271974d3423964387",
+      "title": "Foreigners' medical expenditures hit fresh high in May: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614001200320",
+      "published_date": "2026-06-14T02:05:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "da5de788e358f381778f4b994ea078eb",
+      "title": "S. Korea's ICT exports for May hit all-time high amid AI chip demand: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260612009900320",
+      "published_date": "2026-06-14T02:00:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "116438b1f5fc28914df4409039b88b28",
+      "title": "N. Korea calls denuclearization an 'irreversibly finalized' matter",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614000700315",
+      "published_date": "2026-06-14T00:46:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2691319c9ec27874e4da9573d82e6bd0",
+      "title": "1 out of 3 S. Koreans obese, highest among men in 30s, 40s: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614000600320",
+      "published_date": "2026-06-14T00:43:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9ca0d81f3706a8ddab7b0d3facf6715b",
+      "title": "(World Cup) Lee Kang-in gearing up for match vs. ex-club coach: 'He's just an opponent'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614000200315",
+      "published_date": "2026-06-14T00:10:35Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8158ff85a47ac812373869c4f787941a",
       "title": "IAEA chief highlights verification role in potential U.S.-Iran nuclear deal, says NPT remains effective tool",
@@ -55,118 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260613001551320",
       "published_date": "2026-06-13T07:18:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "64084a27b04cd790068fb2ae9ea81907",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613002100320",
-      "published_date": "2026-06-13T05:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "70698b5fc98136de8d2270ada4e16414",
-      "title": "It is too early to say whether S. Korea, U.S. would hold summit during G7 summit: Seoul official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613000700315",
-      "published_date": "2026-06-13T03:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a9aad7f5caa2a1263d2f5ffd7f5dc338",
-      "title": "Military suspends flight of Miron choppers over defective engines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613001500320",
-      "published_date": "2026-06-13T02:25:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b64295085fa4bf4878d543fe61a22aaf",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613001100320",
-      "published_date": "2026-06-13T00:18:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ecf1f9a559cc0331f0b4cb45b1fb54f1",
-      "title": "(World Cup) Injured defender recovering quickly, available in group stage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613000800315",
-      "published_date": "2026-06-13T00:12:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fdb4d43958a903e3ccb4f804cf3a1d48",
-      "title": "S. Korea, other U.N. members launch group to address technology-facilitated trafficking in persons",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613000600315",
-      "published_date": "2026-06-12T21:51:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0242685545b4d5e81215a2a6f1e8d56f",
-      "title": "(2nd LD) Lee says S. Korea, Italy are 'optimal partners' for business cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612012052315",
-      "published_date": "2026-06-12T19:11:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a728410b36facef5c643ee8d2b10d913",
-      "title": "U.S. tightens licensing requirements for certain medical device exports to N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613000400315",
-      "published_date": "2026-06-12T18:11:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "73914eeb0cfe0fec88e39f3cec4c6e26",
-      "title": "(LEAD) Lee says S. Korea, Italy are 'optimal partners' for business cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612012051315",
-      "published_date": "2026-06-12T17:45:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0af9538224aec65ad70cb4a5f2bf3f3c",
-      "title": "Satellites show North Korea’s rice planting running ahead of schedule",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-rice-transplanting-2026/",
-      "published_date": "2026-06-12T17:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7ea5c5a0682ad0ad93666bf00cfbbfb6",
-      "title": "Lee hopes S. Korea, Italy will work together to promote free trade, multilateralism",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613000300315",
-      "published_date": "2026-06-12T16:59:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8363549199618492da06230b7193b872",
-      "title": "Congresswoman submits House resolution honoring late U.S. politician's contribution to S. Korea-U.S. alliance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613000200315",
-      "published_date": "2026-06-12T16:09:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9228ecbbac4f3bce8f68fc609852a333",
-      "title": "First lady hopes S. Korea will warmly host global youth at 2027 Catholic festival",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612012300315",
-      "published_date": "2026-06-12T14:40:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "299ccd11b916596732009abe736203b6",
-      "title": "Connections decide North Korea’s top children’s award, parents complain",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-childrens-honor-award-nepotism/",
-      "published_date": "2026-06-12T14:16:00Z",
       "category": "Diplomacy"
     }
   ],
@@ -294,6 +294,14 @@
   ],
   "Energy": [
     {
+      "id": "e8662440ff7544a837d7c5e42ce6df19",
+      "title": "(URGENT) Lee says Korean Peninsula has regressed to era of severance; distrust, tension",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614003600315",
+      "published_date": "2026-06-14T08:57:40Z",
+      "category": "Energy"
+    },
+    {
       "id": "fcdda370e8800ded49423e38cd477125",
       "title": "Solar energy gap widens in North Korea as only the wealthy can afford the upfront cost",
       "source": "Daily NK",
@@ -319,6 +327,30 @@
     }
   ],
   "Economy": [
+    {
+      "id": "c7a44411c4fb50994fb326dfb1e2c921",
+      "title": "SK chief calls for use of personal AI agents amid AI transformation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614001000320",
+      "published_date": "2026-06-14T01:49:25Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6ab93e029ebf5e22417b99adb760959e",
+      "title": "Hyundai Motor Group takes up 11.8 pct of U.S. market through April: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614000800320",
+      "published_date": "2026-06-14T00:58:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "558a181f79978d0b72bf0d65fb4530ae",
+      "title": "SK hynix adds more than 2,000 positions amid job market slowdown",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614000500320",
+      "published_date": "2026-06-14T00:26:49Z",
+      "category": "Economy"
+    },
     {
       "id": "b8fcedbf8c6f53a56ca1e1c27d401918",
       "title": "(URGENT) Seoul stocks spike over 4 pct to settle again in 8,000-point territory on hopes for end to Iran war",
@@ -454,33 +486,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260610000600320",
       "published_date": "2026-06-09T21:35:39Z",
       "category": "Economy"
-    },
-    {
-      "id": "1edf3e35cf6b4cd2fe2b2e03a09894af",
-      "title": "(2nd LD) Seoul shares surge over 8 pct on AI confidence, Iran-Israel ceasefire; won sharply up",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609007552320",
-      "published_date": "2026-06-09T07:48:44Z",
-      "category": "Economy"
-    },
-    {
-      "id": "932bd69108255480147df1acc7481297",
-      "title": "(LEAD) Seoul shares surge over 8 pct on AI confidence, Iran-Israel ceasefire; won sharply up",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609007551320",
-      "published_date": "2026-06-09T07:11:56Z",
-      "category": "Economy"
-    },
-    {
-      "id": "21e647cabac08952bfbf7dd9acbb9413",
-      "title": "Fair trade watchdog slaps 500 mln-won fine on Coupang for misleading ads",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260609004900320",
-      "published_date": "2026-06-09T03:00:13Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "12f380221caf5a32db21eb166fd3bacb",
+      "title": "(LEAD) Investigators likely to question election watchdog officials soon over local election ballot shortage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614002451315",
+      "published_date": "2026-06-14T04:46:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a5e16bccf2c17fa1caaaecb6432c1555",
+      "title": "Hanwha Aerospace launches independent safety committee following fatal fire",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614002500320",
+      "published_date": "2026-06-14T04:41:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "46dbbfedc294b532751454210a2f2526",
+      "title": "Investigators likely to question election watchdog officials soon over local election ballot shortage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614002400315",
+      "published_date": "2026-06-14T04:00:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1198e3f8bfa722c30fe6bbfd51cac021",
+      "title": "Defense chief to propose target year for wartime OPCON transfer to S. Korean, U.S. presidents at year-end",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614001100315",
+      "published_date": "2026-06-14T01:51:42Z",
+      "category": "Local Events"
+    },
     {
       "id": "ca62d41a56798d821fb8cb7636989058",
       "title": "BTS wraps up Busan tour stop on 13th anniv. with tribute to fans",
@@ -607,38 +647,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260612007200320",
       "published_date": "2026-06-12T05:14:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b42b825cf4225baec601d55cf319253d",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612006700315",
-      "published_date": "2026-06-12T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "929c6e52ed120fdae57e2de7fc4db0ad",
-      "title": "(3rd LD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001354315",
-      "published_date": "2026-06-12T04:26:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e434fc4b6d195d2084090255c2d01838",
-      "title": "(2nd LD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001353315",
-      "published_date": "2026-06-12T02:45:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "90ff02971408f0dcc4db42e6b5fa7a48",
-      "title": "(LEAD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001352315",
-      "published_date": "2026-06-12T02:12:51Z",
       "category": "Local Events"
     }
   ]
