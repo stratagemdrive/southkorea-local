@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-14T12:59:48Z",
+  "generated_at": "2026-06-15T00:00:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,118 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "632015eec0ec688dca0b8c4d0145f7da",
+      "title": "'Colony' breaks 5 mln admissions, tops weekend box-office chart for 4th week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615001300315",
+      "published_date": "2026-06-14T23:22:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e9501f632a9ead14a8cc79c45fbd47ae",
+      "title": "Lee Jung-hoo collects 2 hits, flashes leather for SF Giants",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615001200315",
+      "published_date": "2026-06-14T23:18:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "713546908807da665ecabb3da3c3b980",
+      "title": "(LEAD) Trump says Iran deal complete, Strait of Hormuz to reopen upon signing Friday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615000851315",
+      "published_date": "2026-06-14T23:13:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6b00bf0eb1a9010863ab8f782494318c",
+      "title": "N. Korea, Vietnam hold talks over cooperation on public security, law enforcement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615001000315",
+      "published_date": "2026-06-14T22:38:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "31cd99798c74ba7d6898611eaf9602dd",
+      "title": "S. Korean duo finishes 2nd at LPGA team event",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615000900315",
+      "published_date": "2026-06-14T22:31:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f2a9881c8586a1f9c1584df5561e0e36",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615000600315",
+      "published_date": "2026-06-14T22:14:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0ac16deceeec189731090e46a98115f7",
+      "title": "(EDITORIAL from The Korea Times on June 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615000500315",
+      "published_date": "2026-06-14T22:13:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f20a720d3f16142bf76bfaece4ed8e74",
+      "title": "(EDITORIAL from The Korea Herald on June 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615000400315",
+      "published_date": "2026-06-14T22:13:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "525ebbde5276686b80df133e0bbffa99",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615000300315",
+      "published_date": "2026-06-14T22:13:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "186f9cd867cf28716cc3bd4573d58572",
+      "title": "Trump says Iran deal 'complete,' authorizes toll-free opening of Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615000800315",
+      "published_date": "2026-06-14T22:11:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1283c89e6a569605384661ae7fc73766",
+      "title": "(Yonhap Interview) N.K. nuclear issue increasingly intertwined with global topics amid weakening 'Vienna spirit': S. Korean envoy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260613003700315",
+      "published_date": "2026-06-14T20:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "36603c6420d96c8f0363bfc86e28bfa5",
+      "title": "(LEAD) Lee says accepts complaints about voting rights infringement, but rejects election fraud claims",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614004551315",
+      "published_date": "2026-06-14T14:53:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "27a80f1a6fca3d4cd9e602a3541f6843",
+      "title": "Lee says accepts complaints about voting rights infringement, but rejects election fraud claims",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614004500315",
+      "published_date": "2026-06-14T14:44:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ba6f0afdb4d0ca91167a6f0c84138749",
+      "title": "Presidential office expresses hope for U.S.-Iran deal, reopening of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614004300315",
+      "published_date": "2026-06-14T14:03:18Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "bd45f18165610b0cc844117796ebbc41",
       "title": "Presidential office reaffirms N.K.'s denuclearization as int'l community's 'consistent goal'",
@@ -55,118 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260614002900315",
       "published_date": "2026-06-14T08:58:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "87867ea0a0f3e17fb9259f41eeb0519d",
-      "title": "Le Mans race offers chance to prove Genesis' durability, quality: Hyundai Motor CEO",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614002700320",
-      "published_date": "2026-06-14T06:32:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9f081fe666702402b3f8c9eda2ec3bd8",
-      "title": "9th S. Korean oil tanker successfully transits Red Sea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614002600320",
-      "published_date": "2026-06-14T05:35:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2f989e85d82393c3b01b7354b8aec5e7",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614000300320",
-      "published_date": "2026-06-14T05:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8908ed6a8120dba271974d3423964387",
-      "title": "Foreigners' medical expenditures hit fresh high in May: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614001200320",
-      "published_date": "2026-06-14T02:05:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "da5de788e358f381778f4b994ea078eb",
-      "title": "S. Korea's ICT exports for May hit all-time high amid AI chip demand: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612009900320",
-      "published_date": "2026-06-14T02:00:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "116438b1f5fc28914df4409039b88b28",
-      "title": "N. Korea calls denuclearization an 'irreversibly finalized' matter",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614000700315",
-      "published_date": "2026-06-14T00:46:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2691319c9ec27874e4da9573d82e6bd0",
-      "title": "1 out of 3 S. Koreans obese, highest among men in 30s, 40s: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614000600320",
-      "published_date": "2026-06-14T00:43:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9ca0d81f3706a8ddab7b0d3facf6715b",
-      "title": "(World Cup) Lee Kang-in gearing up for match vs. ex-club coach: 'He's just an opponent'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614000200315",
-      "published_date": "2026-06-14T00:10:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8158ff85a47ac812373869c4f787941a",
-      "title": "IAEA chief highlights verification role in potential U.S.-Iran nuclear deal, says NPT remains effective tool",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613003300315",
-      "published_date": "2026-06-13T22:00:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "22046058fc12c776e34f1fe7977ed5bc",
-      "title": "National Museum of Korea, Uffizi Galleries sign MOU on collection exchanges",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613003900315",
-      "published_date": "2026-06-13T16:25:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f739fd951928c6402e83ef364c0870de",
-      "title": "N. Korea blasts S. Korea-EU statement on illegal military cooperation with Russia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613003200315",
-      "published_date": "2026-06-13T10:32:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "10f1050f7beaadb5aef8a5f53542d737",
-      "title": "S. Korea, U.S., Japan hold talks on N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613003000315",
-      "published_date": "2026-06-13T08:40:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "57c748c968de730097bc14e6cf8b9f42",
-      "title": "Career-best hitting streak snapped at 18 games for SF Giants' Lee Jung-hoo",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613002900315",
-      "published_date": "2026-06-13T08:08:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4d47a50a1fd693a424ef54e65aed0e77",
-      "title": "(LEAD) Military suspends flight of Miron choppers over defective engines",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613001551320",
-      "published_date": "2026-06-13T07:18:15Z",
       "category": "Diplomacy"
     }
   ],
@@ -490,6 +490,14 @@
   ],
   "Local Events": [
     {
+      "id": "01c86e7c472839b58ff21bb189918ec3",
+      "title": "(URGENT) Lee says complaints about voting rights infringement may be valid, but not election fraud claims",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260614004400315",
+      "published_date": "2026-06-14T14:11:24Z",
+      "category": "Local Events"
+    },
+    {
       "id": "12f380221caf5a32db21eb166fd3bacb",
       "title": "(LEAD) Investigators likely to question election watchdog officials soon over local election ballot shortage",
       "source": "Yonhap News Agency",
@@ -639,14 +647,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260612004951315",
       "published_date": "2026-06-12T05:43:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c89315a83ee03c523c573da4477e820b",
-      "title": "S. Korea, U.S. customs agencies vow closer ties in drug, firearms crackdown",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612007200320",
-      "published_date": "2026-06-12T05:14:37Z",
       "category": "Local Events"
     }
   ]
