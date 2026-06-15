@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-15T00:00:27Z",
+  "generated_at": "2026-06-15T16:18:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,183 @@
   ],
   "Diplomacy": [
     {
-      "id": "632015eec0ec688dca0b8c4d0145f7da",
-      "title": "'Colony' breaks 5 mln admissions, tops weekend box-office chart for 4th week",
+      "id": "43bb785a86786fc06288f1a6c5443fe5",
+      "title": "Trump says ships starting to move out of Strait of Hormuz following Iran deal",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615001300315",
-      "published_date": "2026-06-14T23:22:35Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615010900315",
+      "published_date": "2026-06-15T13:45:46Z",
       "category": "Diplomacy"
     },
     {
-      "id": "e9501f632a9ead14a8cc79c45fbd47ae",
-      "title": "Lee Jung-hoo collects 2 hits, flashes leather for SF Giants",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615001200315",
-      "published_date": "2026-06-14T23:18:22Z",
+      "id": "62949c5819d754e6f77ac46d1020f7bf",
+      "title": "North Korea charges teacher with ‘destruction of state property’ over scratched tablet screen",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-teacher-state-property-tablet-chongjin/",
+      "published_date": "2026-06-15T13:29:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "713546908807da665ecabb3da3c3b980",
-      "title": "(LEAD) Trump says Iran deal complete, Strait of Hormuz to reopen upon signing Friday",
+      "id": "da5dcb086a0a1d1a70fae6de234b81ee",
+      "title": "Lee vows to ensure proper overseas voting rights of Koreans abroad",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615000851315",
-      "published_date": "2026-06-14T23:13:05Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615010800315",
+      "published_date": "2026-06-15T12:49:39Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6b00bf0eb1a9010863ab8f782494318c",
-      "title": "N. Korea, Vietnam hold talks over cooperation on public security, law enforcement",
+      "id": "f001f26b4d0a540042aadefa9f1d9590",
+      "title": "S. Korea welcomes U.S.-Iran peace deal, voices hope for safe Hormuz vessel passage",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615001000315",
-      "published_date": "2026-06-14T22:38:06Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615010700315",
+      "published_date": "2026-06-15T12:21:55Z",
       "category": "Diplomacy"
     },
     {
-      "id": "31cd99798c74ba7d6898611eaf9602dd",
-      "title": "S. Korean duo finishes 2nd at LPGA team event",
+      "id": "027188de8e4f8cf50a76616923ddd085",
+      "title": "S. Korean presidential office expresses cautious optimism on U.S.-Iran deal",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615000900315",
-      "published_date": "2026-06-14T22:31:25Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615010500315",
+      "published_date": "2026-06-15T11:49:25Z",
       "category": "Diplomacy"
     },
     {
-      "id": "f2a9881c8586a1f9c1584df5561e0e36",
-      "title": "(EDITORIAL from Korea JoongAng Daily on June 15)",
+      "id": "119b236321930702a5f8f2042a51f962",
+      "title": "(3rd LD) Lee invites Pope Leo XIV to visit S. Korea for World Youth Day 2027",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615000600315",
-      "published_date": "2026-06-14T22:14:07Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615006453315",
+      "published_date": "2026-06-15T11:11:29Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0ac16deceeec189731090e46a98115f7",
-      "title": "(EDITORIAL from The Korea Times on June 15)",
+      "id": "a442fe6df86d686df2ffbbc59340aa2c",
+      "title": "Pope Leo XIV's visit to N. Korea depends on Pyongyang's determination: cardinal",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615000500315",
-      "published_date": "2026-06-14T22:13:59Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615010300315",
+      "published_date": "2026-06-15T10:35:39Z",
       "category": "Diplomacy"
     },
     {
-      "id": "f20a720d3f16142bf76bfaece4ed8e74",
-      "title": "(EDITORIAL from The Korea Herald on June 15)",
+      "id": "804118f7d80ade816e01a0837a8eaa3a",
+      "title": "(2nd LD) Lee invites Pope Leo XIV to visit S. Korea for World Youth Day 2027",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615000400315",
-      "published_date": "2026-06-14T22:13:48Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615006452315",
+      "published_date": "2026-06-15T10:09:56Z",
       "category": "Diplomacy"
     },
     {
-      "id": "525ebbde5276686b80df133e0bbffa99",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615000300315",
-      "published_date": "2026-06-14T22:13:36Z",
+      "id": "68d508a98ae3254d44785357e626cc71",
+      "title": "US imposes new restrictions on export of medical devices to North Korea",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/us-imposes-new-restrictions-on-export-of-medical-devices-to-north-korea/",
+      "published_date": "2026-06-15T09:58:27Z",
       "category": "Diplomacy"
     },
     {
-      "id": "186f9cd867cf28716cc3bd4573d58572",
-      "title": "Trump says Iran deal 'complete,' authorizes toll-free opening of Strait of Hormuz",
+      "id": "095ad4f4e7b4311fcfab1d0a9b1a297b",
+      "title": "(URGENT) Lee invites Pope Leo XIV to visit S. Korea for World Youth Day 2027",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615000800315",
-      "published_date": "2026-06-14T22:11:14Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615010100315",
+      "published_date": "2026-06-15T09:53:57Z",
       "category": "Diplomacy"
     },
     {
-      "id": "1283c89e6a569605384661ae7fc73766",
-      "title": "(Yonhap Interview) N.K. nuclear issue increasingly intertwined with global topics amid weakening 'Vienna spirit': S. Korean envoy",
+      "id": "adaa6f0a61e151d665826ad652cbfc44",
+      "title": "Doosan Enerbility wins 530 bln-won power plant contract in Oman",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613003700315",
-      "published_date": "2026-06-14T20:00:01Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615010000315",
+      "published_date": "2026-06-15T09:35:26Z",
       "category": "Diplomacy"
     },
     {
-      "id": "36603c6420d96c8f0363bfc86e28bfa5",
-      "title": "(LEAD) Lee says accepts complaints about voting rights infringement, but rejects election fraud claims",
+      "id": "ed03e542aab1505054ab791a8a8766de",
+      "title": "S. Korea, Qatar discuss energy cooperation amid supply disruptions",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614004551315",
-      "published_date": "2026-06-14T14:53:14Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615007300320",
+      "published_date": "2026-06-15T09:30:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "27a80f1a6fca3d4cd9e602a3541f6843",
-      "title": "Lee says accepts complaints about voting rights infringement, but rejects election fraud claims",
+      "id": "4e956830b12b7ea6a5df1743a34d90d9",
+      "title": "Defense chief visits Air Force academy amid talks over establishing integrated military academy",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614004500315",
-      "published_date": "2026-06-14T14:44:50Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615009600315",
+      "published_date": "2026-06-15T08:16:12Z",
       "category": "Diplomacy"
     },
     {
-      "id": "ba6f0afdb4d0ca91167a6f0c84138749",
-      "title": "Presidential office expresses hope for U.S.-Iran deal, reopening of Hormuz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614004300315",
-      "published_date": "2026-06-14T14:03:18Z",
+      "id": "ee484a7d336a4bb6f9881a4cbeb99971",
+      "title": "North Korea slams calls for its denuclearization in series of weekend statements",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/north-korea-slams-calls-for-its-denuclearization-in-series-of-weekend-statements/",
+      "published_date": "2026-06-15T08:05:25Z",
       "category": "Diplomacy"
     },
     {
-      "id": "bd45f18165610b0cc844117796ebbc41",
-      "title": "Presidential office reaffirms N.K.'s denuclearization as int'l community's 'consistent goal'",
+      "id": "81705a34fe9d835ec5269b2601269fa0",
+      "title": "(LEAD) SK Group chief, ex-wife fail to reach agreement in court mediation for asset division",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614004200320",
-      "published_date": "2026-06-14T12:45:09Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615007151315",
+      "published_date": "2026-06-15T07:59:30Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0f3d9f1d86ca8aa3d8b04f7adca45478",
-      "title": "S. Korea, Saudi Arabia sign agreement on crude oil, gas cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614001300320",
-      "published_date": "2026-06-14T10:00:01Z",
+      "id": "6931c0740eb5d776db4108168c48d9a1",
+      "title": "Trump posts summit photo with Kim Jong Un before announcing Iran deal",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/trump-posts-summit-photo-with-kim-jong-un-before-announcing-iran-deal/",
+      "published_date": "2026-06-15T07:55:57Z",
       "category": "Diplomacy"
     },
     {
-      "id": "c6486a994d865d24d60af957591eb94a",
-      "title": "(LEAD) Lee says ember of hope for dialogue, cooperation with N. Korea still exists",
+      "id": "b9adb6bb61a3c406719996658be8875f",
+      "title": "(2nd LD) Seoul stocks up for 3rd day to land above 8,500 on U.S.-Iran deal",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614003451315",
-      "published_date": "2026-06-14T09:03:10Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615007052320",
+      "published_date": "2026-06-15T07:33:49Z",
       "category": "Diplomacy"
     },
     {
-      "id": "28a5f0d5fbca539cbf50610adcdecd37",
-      "title": "Lee says ember of hope for dialogue, cooperation with N. Korea still exists",
+      "id": "1d1d017a3115bb534b25ac945236eef4",
+      "title": "(LEAD) Lee meets Pope Leo XIV at Vatican",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614003400315",
-      "published_date": "2026-06-14T08:59:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615006451315",
+      "published_date": "2026-06-15T07:31:05Z",
       "category": "Diplomacy"
     },
     {
-      "id": "034a862edec0c4128a4dc822c7e64250",
-      "title": "(URGENT) Lee says Seoul will not seek unification by absorption, continue efforts to restore trust",
+      "id": "2b8cce77e063984fd8d2dfeff1b19370",
+      "title": "Lee vows ceaseless efforts for inter-Korean peace",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614003800315",
-      "published_date": "2026-06-14T08:59:02Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615008300315",
+      "published_date": "2026-06-15T07:10:55Z",
       "category": "Diplomacy"
     },
     {
-      "id": "c39bff868d9380e2275c62e6c08d78b8",
-      "title": "(URGENT) Lee says ember of hope still exists for dialogue, cooperation with N. Korea",
+      "id": "08b2c5ec2e54ae61c2745ac045a83b3a",
+      "title": "(LEAD) Seoul stocks up for 3rd day to land above 8,500 on U.S.-Iran deal",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614002900315",
-      "published_date": "2026-06-14T08:58:32Z",
+      "url": "https://en.yna.co.kr/view/AEN20260615007051320",
+      "published_date": "2026-06-15T07:00:51Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "d84fb5541f0738932617f695a17a6711",
+      "title": "Inspection launched into teachers' training program related to China's Korean War propaganda",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615007700315",
+      "published_date": "2026-06-15T07:12:32Z",
+      "category": "Military"
+    },
+    {
+      "id": "af41f40d4c8a1863762855a218bd1189",
+      "title": "Russia using North Korean missile tech to upgrade its weapons, Kyiv says",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/russia-using-north-korean-missile-tech-to-upgrade-its-weapons-kyiv-says/",
+      "published_date": "2026-06-15T05:55:24Z",
+      "category": "Military"
+    },
     {
       "id": "f3633f24fa47fd9922dc42a4fd8c9e3e",
       "title": "(LEAD) Air Force begins regular Soaring Eagle exercise",
@@ -234,62 +250,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260609007200315",
       "published_date": "2026-06-09T06:09:28Z",
       "category": "Military"
-    },
-    {
-      "id": "21ae2f0fb6173ee905eb776d9404cf45",
-      "title": "(LEAD) S. Korea's nuclear-powered submarine program poses no proliferation concerns: IAEA chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608013751315",
-      "published_date": "2026-06-08T14:18:54Z",
-      "category": "Military"
-    },
-    {
-      "id": "fffe2a2672e74b32e6cbdbe37191c225",
-      "title": "S. Korea's nuclear-powered submarine program poses no proliferation concerns: IAEA chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608013700315",
-      "published_date": "2026-06-08T14:00:00Z",
-      "category": "Military"
-    },
-    {
-      "id": "4aea3bea230573913872cf7ba66e3b93",
-      "title": "(URGENT) Xi says China, N. Korea need to strengthen exchanges in diplomacy, law enforcement, military: Xinhua",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608012700315",
-      "published_date": "2026-06-08T10:03:59Z",
-      "category": "Military"
-    },
-    {
-      "id": "bcd0c195b26a8437f754a21d8e26189a",
-      "title": "Lee reiterates need to halt N.K.'s nuclear, missile buildup as 'realistic' short-term goal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608010000315",
-      "published_date": "2026-06-08T07:02:26Z",
-      "category": "Military"
-    },
-    {
-      "id": "134735ab8c3ddbc557ca5d05d61336a8",
-      "title": "Vice defense chief calls for military readiness against summer disasters",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608004200315",
-      "published_date": "2026-06-08T07:00:01Z",
-      "category": "Military"
-    },
-    {
-      "id": "a2b381041e34056e8f28b7deb9ec5f3f",
-      "title": "(URGENT) Lee vows to seek concrete outcome in securing nuclear-powered subs, wartime troop control",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608003700315",
-      "published_date": "2026-06-08T01:11:15Z",
-      "category": "Military"
-    },
-    {
-      "id": "824ae9de93f8fa43db3a5cdd6f6ad9c8",
-      "title": "English chatbot service launched for multicultural conscripts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260608002600315",
-      "published_date": "2026-06-08T00:21:53Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -316,17 +276,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260610001700320",
       "published_date": "2026-06-09T23:57:23Z",
       "category": "Energy"
-    },
-    {
-      "id": "433f25a93ca1cb1af65e879168293e77",
-      "title": "Solar power touted as fix for North Korea’s electricity crisis, but few can afford it",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-solar-power-electricity-shortage-costs/",
-      "published_date": "2026-06-08T10:00:00Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "369ae1983e11c336df2822c4718dab5f",
+      "title": "(LEAD) S. Korea's currency hits 2-week high after U.S., Iran agree on preliminary peace deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615003351320",
+      "published_date": "2026-06-15T07:38:41Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f685e01e94a6f1bf18b228d5021e35cf",
+      "title": "(URGENT) Seoul stocks up for 3rd day to settle above 8,500 on U.S.-Iran deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615006800320",
+      "published_date": "2026-06-15T06:33:40Z",
+      "category": "Economy"
+    },
+    {
+      "id": "fe8f915fa64e88b87b22df8dad3ee1ef",
+      "title": "SK Group chief, ex-wife attend court mediation session for asset division",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615007100315",
+      "published_date": "2026-06-15T06:28:50Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0ad8a2947d195f8571fd2c9e643ed68d",
+      "title": "S. Korea's currency strengthens on U.S.-Iran peace deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615003300320",
+      "published_date": "2026-06-15T01:02:11Z",
+      "category": "Economy"
+    },
     {
       "id": "c7a44411c4fb50994fb326dfb1e2c921",
       "title": "SK chief calls for use of personal AI agents amid AI transformation",
@@ -454,41 +438,121 @@
       "url": "https://en.yna.co.kr/view/AEN20260610006852320",
       "published_date": "2026-06-10T07:45:09Z",
       "category": "Economy"
-    },
-    {
-      "id": "5cd96302ff112c6baa63e4d24e6bbdd9",
-      "title": "(LEAD) Seoul shares again dip over 4 pct amid U.S.-Iran tensions, tech sell-off; won down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610006851320",
-      "published_date": "2026-06-10T07:04:21Z",
-      "category": "Economy"
-    },
-    {
-      "id": "45c8d1314a861a76a1ec6187e95ac097",
-      "title": "Samsung tops global chipmakers with nearly 90 tln won in investment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610003200320",
-      "published_date": "2026-06-10T00:58:29Z",
-      "category": "Economy"
-    },
-    {
-      "id": "3e108ea6a6b2724e83878386e54fbc10",
-      "title": "Samsung becomes largest shareholder in Element Biosciences with US$175 mln investment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610001400320",
-      "published_date": "2026-06-09T23:48:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "b9a71015c767b1d5dc2af33c4c6e9c10",
-      "title": "(EDITORIAL from The Korea Herald on June 10)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610000600320",
-      "published_date": "2026-06-09T21:35:39Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "2f1c22625a028867ade545e1de23401d",
+      "title": "(LEAD) Lee welcomes U.S.-Iran ceasefire deal, hopes for resumption of safe Hormuz shipping",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615010551315",
+      "published_date": "2026-06-15T14:41:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "66e00020adea07e18fd1e1fb79e0d62b",
+      "title": "(LEAD) Court rejects arrest warrant for ex-JCS chief in martial law involvement case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615004051315",
+      "published_date": "2026-06-15T14:23:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "11d5a15606fbd5128f83548148cadaea",
+      "title": "22 police officers disciplined over alleged involvement in martial law bid",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615010400315",
+      "published_date": "2026-06-15T11:24:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fcc6689954a8e2f3fb65b299f2160fbf",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615009000315",
+      "published_date": "2026-06-15T08:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e1060d4113bdc025c8b8a1bf7dadf2ba",
+      "title": "Olympic committee demands gov't action on election protesters blocking entry to sports offices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615008700315",
+      "published_date": "2026-06-15T07:51:32Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5307408c2c91659ff96f728a4af9d6ca",
+      "title": "JTBC files for corporate rehabilitation amid liquidity crisis",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615008400315",
+      "published_date": "2026-06-15T07:32:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1871e386a291b7c6a8f5eca6fbddc804",
+      "title": "(LEAD) Protests over ballot shortages continue for 11th day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615005751315",
+      "published_date": "2026-06-15T05:08:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e146ea340a98497e0890318c2f147051",
+      "title": "Boy group Riize to drop 2nd EP 'II'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615006500315",
+      "published_date": "2026-06-15T04:43:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "70a6a546df2b7a757a7ab9862938cd9e",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615006300315",
+      "published_date": "2026-06-15T04:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3de1978f41ec9eff52eb71842e933b8b",
+      "title": "Protests over ballot shortages continue for 11th day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615005700315",
+      "published_date": "2026-06-15T02:38:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "92bed400d9f0dba9ee369228de0944d6",
+      "title": "S. Korea to offer express bus fare discounts to foreign tourists",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615004300315",
+      "published_date": "2026-06-15T01:49:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5d23bc2dcb7f3433b4596d567f20fd60",
+      "title": "Seventeen's Hoshi to drop new digital single during military service",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615002600315",
+      "published_date": "2026-06-15T00:35:49Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "abb8a1fcda0622171c9b898c2a23ddc2",
+      "title": "S. Korea to host Korean culture expo in France",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615002400315",
+      "published_date": "2026-06-15T00:35:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f5656df0b601a0a1c59dfc28face1d79",
+      "title": "(URGENT) Bourse operator issues buy-side sidecar on KOSPI's sharp rise.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260615001600320",
+      "published_date": "2026-06-15T00:07:14Z",
+      "category": "Local Events"
+    },
     {
       "id": "01c86e7c472839b58ff21bb189918ec3",
       "title": "(URGENT) Lee says complaints about voting rights infringement may be valid, but not election fraud claims",
@@ -535,118 +599,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260613003800315",
       "published_date": "2026-06-13T14:05:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "80732c22714efa827639d40cd317dcb7",
-      "title": "(LEAD) Justice ministry looking into possibly missing 100 rounds of live ammunition at Daejeon prison",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613002551320",
-      "published_date": "2026-06-13T07:36:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b9d716dc16ed9775d0322f87653d615e",
-      "title": "Justice ministry looking into missing 100 rounds of live ammunition at Daejeon prison",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613002500320",
-      "published_date": "2026-06-13T07:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7c5bd3883d7a3f4c47d0d3054b72d616",
-      "title": "(LEAD) Protests over ballot shortages continue for 9th day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613001351315",
-      "published_date": "2026-06-13T04:42:32Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ee9f4b1fe5184ae2129fa33d367f9b55",
-      "title": "Arrest warrants sought for ex-Shincheonji officials over suspicious ties to opposition party",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613001400315",
-      "published_date": "2026-06-13T02:05:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "42fc4ccdcd35a636ef7431bf8bd59c95",
-      "title": "Protests over ballot shortages continue for 9th day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613001300315",
-      "published_date": "2026-06-13T01:29:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a905e2f0b2953c40603a1f75eed4ef96",
-      "title": "Hybe apologizes for delay on 1st night of BTS world tour in Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260613001200320",
-      "published_date": "2026-06-13T00:58:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b5bfa4152a61fe3b7db6d09a02297140",
-      "title": "(5th LD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001356315",
-      "published_date": "2026-06-12T12:49:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ee5c62ad5d7a63664074f70fb04fa6e2",
-      "title": "Ex-election watchdog chief banned from leaving country amid ballot shortage probe",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612011900315",
-      "published_date": "2026-06-12T11:01:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b86090919cfae328abda21acf6ea0071",
-      "title": "Ex-KBO All-Star Lee Yong-kyu retires after DUI accident",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612011700315",
-      "published_date": "2026-06-12T09:30:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "70b9567324c95c7371ee9b86b00dadd1",
-      "title": "S. Korea's Kim Jae-youl reelected as head of top global skating body",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612011100315",
-      "published_date": "2026-06-12T09:13:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "778ec6fd3abd15d1dd08d73a02003b97",
-      "title": "Yoon provoked North Korea with drones as part of martial law plot, court rules",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/yoon-provoked-north-korea-with-drones-as-part-of-martial-law-plot-court-rules/",
-      "published_date": "2026-06-12T08:13:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4ff758d4ddbfd2d4118d109438866f9e",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612010500315",
-      "published_date": "2026-06-12T08:01:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a099d6b51f49a4ca413ce3744e4a6a04",
-      "title": "(4th LD) Ex-President Yoon sentenced to 30 yrs in prison in drone infiltration case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001355315",
-      "published_date": "2026-06-12T07:37:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "773ce09624ab111525aa910e4043cefc",
-      "title": "(LEAD) BTS to launch Busan shows for 'Arirang' world tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612004951315",
-      "published_date": "2026-06-12T05:43:21Z",
       "category": "Local Events"
     }
   ]
