@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-15T16:18:10Z",
+  "generated_at": "2026-06-16T00:22:30Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,126 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "002ae74b199d9f679919b31e32a475d7",
+      "title": "Seoul stocks open higher on Wall Street gains following U.S.-Iran deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616001500320",
+      "published_date": "2026-06-16T00:03:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "32d028284882c827140b32df2a3c1eb6",
+      "title": "(World Cup) S. Korea team psychologist says players in 'stable' spot",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616001800315",
+      "published_date": "2026-06-15T23:48:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "71e75c6e087a116a44a6d31c5b23190c",
+      "title": "(World Cup) Injured players return to training for S. Korea ahead of Mexico match",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616001100315",
+      "published_date": "2026-06-15T22:29:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e0a66ff473c144d363d63b55764de4a3",
+      "title": "N. Korea's Kim congratulates Xi's 73rd birthday with message, flowers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616001000315",
+      "published_date": "2026-06-15T22:17:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9fd18784d432f901387e658c4868753c",
+      "title": "(3rd LD) U.S. says Iran deal signed, expects toll-free Strait of Hormuz transit as part of final pact",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000253315",
+      "published_date": "2026-06-15T22:14:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c0e0f7cebbbd10534402b604ebd380bf",
+      "title": "Import prices down for 2nd month in May on decline in oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000900320",
+      "published_date": "2026-06-15T22:10:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "22ec604ab0e168b83162324e7b845e08",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000800315",
+      "published_date": "2026-06-15T22:09:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "32169cdde106e94ba80e1a2b8a73e3a8",
+      "title": "(EDITORIAL from The Korea Times on June 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000700315",
+      "published_date": "2026-06-15T22:09:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "62e812a685b67472265514fcd819e80f",
+      "title": "(EDITORIAL from The Korea Herald on June 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000600315",
+      "published_date": "2026-06-15T22:09:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eb41eed0ead9ae9c5bdf6ddbc61cd963",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000500315",
+      "published_date": "2026-06-15T22:09:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "422b80bcb4b4061679c86841bd3bb100",
+      "title": "Lee set to attend G7 summit in Evian to discuss global challenges",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000300315",
+      "published_date": "2026-06-15T20:12:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "aa8497849be12e4456cdeea011f0a8f6",
+      "title": "(2nd LD) U.S. says Iran deal signed, expects toll-free Strait of Hormuz transit as part of final pact",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000252315",
+      "published_date": "2026-06-15T19:23:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9d62f06c7e537b0ccb3eea92332d51bf",
+      "title": "North Korea’s grain stores look more stable, but a good harvest deserves the credit",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-grain-stores-food-distribution-harvest-2026/",
+      "published_date": "2026-06-15T19:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bc58fd7745416698f4f652930014b885",
+      "title": "(LEAD) U.S. says Iran deal signed, expects toll-free Strait of Hormuz transit as part of final pact",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000251315",
+      "published_date": "2026-06-15T18:46:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1523ec54663658daf9c75f68ab764ecc",
+      "title": "U.S. says Iran deal signed, expects toll-free Strait of Hormuz transit as part of final pact",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000200315",
+      "published_date": "2026-06-15T18:15:20Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "43bb785a86786fc06288f1a6c5443fe5",
       "title": "Trump says ships starting to move out of Strait of Hormuz following Iran deal",
@@ -47,126 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260615010500315",
       "published_date": "2026-06-15T11:49:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "119b236321930702a5f8f2042a51f962",
-      "title": "(3rd LD) Lee invites Pope Leo XIV to visit S. Korea for World Youth Day 2027",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615006453315",
-      "published_date": "2026-06-15T11:11:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a442fe6df86d686df2ffbbc59340aa2c",
-      "title": "Pope Leo XIV's visit to N. Korea depends on Pyongyang's determination: cardinal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615010300315",
-      "published_date": "2026-06-15T10:35:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "804118f7d80ade816e01a0837a8eaa3a",
-      "title": "(2nd LD) Lee invites Pope Leo XIV to visit S. Korea for World Youth Day 2027",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615006452315",
-      "published_date": "2026-06-15T10:09:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "68d508a98ae3254d44785357e626cc71",
-      "title": "US imposes new restrictions on export of medical devices to North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/us-imposes-new-restrictions-on-export-of-medical-devices-to-north-korea/",
-      "published_date": "2026-06-15T09:58:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "095ad4f4e7b4311fcfab1d0a9b1a297b",
-      "title": "(URGENT) Lee invites Pope Leo XIV to visit S. Korea for World Youth Day 2027",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615010100315",
-      "published_date": "2026-06-15T09:53:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "adaa6f0a61e151d665826ad652cbfc44",
-      "title": "Doosan Enerbility wins 530 bln-won power plant contract in Oman",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615010000315",
-      "published_date": "2026-06-15T09:35:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ed03e542aab1505054ab791a8a8766de",
-      "title": "S. Korea, Qatar discuss energy cooperation amid supply disruptions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615007300320",
-      "published_date": "2026-06-15T09:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4e956830b12b7ea6a5df1743a34d90d9",
-      "title": "Defense chief visits Air Force academy amid talks over establishing integrated military academy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615009600315",
-      "published_date": "2026-06-15T08:16:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ee484a7d336a4bb6f9881a4cbeb99971",
-      "title": "North Korea slams calls for its denuclearization in series of weekend statements",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korea-slams-calls-for-its-denuclearization-in-series-of-weekend-statements/",
-      "published_date": "2026-06-15T08:05:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "81705a34fe9d835ec5269b2601269fa0",
-      "title": "(LEAD) SK Group chief, ex-wife fail to reach agreement in court mediation for asset division",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615007151315",
-      "published_date": "2026-06-15T07:59:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6931c0740eb5d776db4108168c48d9a1",
-      "title": "Trump posts summit photo with Kim Jong Un before announcing Iran deal",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/trump-posts-summit-photo-with-kim-jong-un-before-announcing-iran-deal/",
-      "published_date": "2026-06-15T07:55:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b9adb6bb61a3c406719996658be8875f",
-      "title": "(2nd LD) Seoul stocks up for 3rd day to land above 8,500 on U.S.-Iran deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615007052320",
-      "published_date": "2026-06-15T07:33:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1d1d017a3115bb534b25ac945236eef4",
-      "title": "(LEAD) Lee meets Pope Leo XIV at Vatican",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615006451315",
-      "published_date": "2026-06-15T07:31:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2b8cce77e063984fd8d2dfeff1b19370",
-      "title": "Lee vows ceaseless efforts for inter-Korean peace",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615008300315",
-      "published_date": "2026-06-15T07:10:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "08b2c5ec2e54ae61c2745ac045a83b3a",
-      "title": "(LEAD) Seoul stocks up for 3rd day to land above 8,500 on U.S.-Iran deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260615007051320",
-      "published_date": "2026-06-15T07:00:51Z",
       "category": "Diplomacy"
     }
   ],
@@ -279,6 +279,22 @@
     }
   ],
   "Economy": [
+    {
+      "id": "e6a5bbb2b69a09cf21b85969bb564e39",
+      "title": "(URGENT) Seoul stocks open 1.76 pct higher on Wall Street gains following U.S.-Iran deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616001600320",
+      "published_date": "2026-06-16T00:01:40Z",
+      "category": "Economy"
+    },
+    {
+      "id": "bab7e717a296c949b24396f5a40abc17",
+      "title": "Dyed dogs and goats: North Korean traders exploit summer livestock craze",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-livestock-fraud-sambok-summer/",
+      "published_date": "2026-06-15T21:32:02Z",
+      "category": "Economy"
+    },
     {
       "id": "369ae1983e11c336df2822c4718dab5f",
       "title": "(LEAD) S. Korea's currency hits 2-week high after U.S., Iran agree on preliminary peace deal",
@@ -421,22 +437,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260610010751315",
       "published_date": "2026-06-10T10:41:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ec426e3aa54e559021a1ebfcca4fe44b",
-      "title": "Lee, Belgian PM agree to expand investment in batteries, energy, boost market access",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610010700315",
-      "published_date": "2026-06-10T10:02:49Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6519d852fe764b11592d888864fcc3dd",
-      "title": "(2nd LD) Seoul shares again dip over 4 pct amid U.S.-Iran tensions, tech sell-off; won down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610006852320",
-      "published_date": "2026-06-10T07:45:09Z",
       "category": "Economy"
     }
   ],
