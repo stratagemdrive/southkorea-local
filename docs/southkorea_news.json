@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-16T15:56:47Z",
+  "generated_at": "2026-06-17T00:08:11Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "9864a3062c0691e8423e2e073f7a9185",
+      "title": "S. Korea vows tailored job support measures for individual sectors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617001300320",
+      "published_date": "2026-06-17T00:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "421a73d55dfb00cb947bde7676a2ee1d",
+      "title": "(World Cup) S. Korea taking on co-host Mexico in pursuit of 2nd straight win",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617001400315",
+      "published_date": "2026-06-16T23:34:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1550a04a7eaf25316ac0ef7e250a9e35",
+      "title": "(World Cup) S. Koreans train behind closed doors with Mexico looming",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000900315",
+      "published_date": "2026-06-16T22:27:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8af6add0fd49dafddb1b8554412db36e",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000700315",
+      "published_date": "2026-06-16T22:01:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "37a8adc3161caa7c9cd15e375f6b132b",
+      "title": "(EDITORIAL from The Korea Times on June 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000600315",
+      "published_date": "2026-06-16T22:01:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1dab7c8446a2bb3f11bab2fea4d8d633",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000500315",
+      "published_date": "2026-06-16T22:01:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "42aeffc7be214eade89c758b19996e08",
+      "title": "(2nd LD) Lee says ties with Canada advancing quickly in mutually beneficial manner",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000352315",
+      "published_date": "2026-06-16T20:46:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6006b635c860a62b2868789fed45e880",
+      "title": "(2nd LD) Lee calls for efforts to advance S. Korea-Germany ties to 'new level'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000253315",
+      "published_date": "2026-06-16T20:06:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "31b9435a6c589b88d2c2f25d20d57ecd",
+      "title": "North Korea cracks down on moonshine as grain prices spike",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-moonshine-crackdown-food-shortage-hyesan/",
+      "published_date": "2026-06-16T18:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f12789c6a282618f3dc1b27e7978c341",
+      "title": "(3rd LD) Lee attends G7 summit in Evian, has brief encounter with Trump",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616000353315",
+      "published_date": "2026-06-16T17:44:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "27082afd386a3c890934175fe183580a",
+      "title": "(LEAD) Lee says ties with Canada advancing quickly in mutually beneficial manner",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000351315",
+      "published_date": "2026-06-16T17:14:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a765625399d0dc8165f81cfd9083d0f6",
+      "title": "(LEAD) Lee calls for efforts to advance S. Korea-Germany ties to 'new level'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000252315",
+      "published_date": "2026-06-16T16:37:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cdb77a42db14708f94fb41f2488b443f",
+      "title": "Lee, Canadian PM Carney hold talks on sidelines of G7 summit in France",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617000300315",
+      "published_date": "2026-06-16T16:04:50Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b4726dd05f099557e15d3adf5190cd38",
       "title": "Lee, German leader Merz hold talks on sidelines of G7 summit in Evian",
@@ -63,110 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260616010900315",
       "published_date": "2026-06-16T12:16:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7ef0b32641acaa53bcd77812f3ab3ab0",
-      "title": "(LEAD) Lee arrives in France for G7 summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616006451315",
-      "published_date": "2026-06-16T12:14:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3e6df46233d43f8e41d4adf5591c405c",
-      "title": "North Korea tightens grip on China trade by requiring traders to report their partners’ identities",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-china-trade-controls-identity-reporting/",
-      "published_date": "2026-06-16T11:59:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "51a5df73b0ec099e104320aee7f8404b",
-      "title": "Kim Si-woo seeking major success at U.S. Open in midst of best PGA Tour season",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616010700315",
-      "published_date": "2026-06-16T09:45:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "21a1281434637e7dca445da209d3ad4c",
-      "title": "S. Korea, UAE discuss energy supply ties amid supply chain uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616006800320",
-      "published_date": "2026-06-16T09:30:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4f61a79fec7557eb2e8a500dd75de40a",
-      "title": "Lee arrives at Geneva Airport for G7 summit in France",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616006400315",
-      "published_date": "2026-06-16T09:14:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ed769f2003a26477e110f19ec363cce4",
-      "title": "Wiz slugger embracing injury layoff as learning experience",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616010600315",
-      "published_date": "2026-06-16T09:09:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7be69116c4ebb785b0daa337c920f818",
-      "title": "Manager for KBO's best team in June trying to stay in present",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616010500315",
-      "published_date": "2026-06-16T08:41:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b2b0cf8a63fea771994472ce28fb7e72",
-      "title": "Hanwha Aerospace to acquire additional KAI shares for 500 bln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616009600320",
-      "published_date": "2026-06-16T08:30:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "29d09d59ca08e2eef0d40386b304ff6b",
-      "title": "(2nd LD) Seoul stocks up for 4th day to finish above 8,700 on U.S.-Iran deal optimism",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616007552320",
-      "published_date": "2026-06-16T07:52:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c452f21b1c15ac33043f86bc68fe6b8b",
-      "title": "S. Korea in consultations with U.S., Iran on Hormuz transit following peace deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616008800315",
-      "published_date": "2026-06-16T07:29:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d2548673af22658f1d4785d7d80de05b",
-      "title": "Lee wraps up visit to Italy, heads to France to attend G7 summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616006300315",
-      "published_date": "2026-06-16T07:26:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "261dac4f4648d2a915cdb9560195ad23",
-      "title": "(LEAD) Seoul stocks up for 4th day to finish above 8,700 on U.S.-Iran deal optimism",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616007551320",
-      "published_date": "2026-06-16T06:50:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "86337b672b10523ef178a5d4b8411cf2",
-      "title": "Seoul stocks up for 4th day to finish above 8,700 on U.S.-Iran deal optimism",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616007500320",
-      "published_date": "2026-06-16T06:34:59Z",
       "category": "Diplomacy"
     }
   ],
@@ -268,17 +268,33 @@
       "url": "https://www.dailynk.com/english/north-korea-solar-power-electricity-shortage-cost/",
       "published_date": "2026-06-10T13:09:00Z",
       "category": "Energy"
-    },
-    {
-      "id": "56069cb7d76d6a06b26299818f6e8429",
-      "title": "Hanhwa QCells begins solar cell production at U.S. factory",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260610001700320",
-      "published_date": "2026-06-09T23:57:23Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "99baebef25f2b301d53af7454bfbdbf7",
+      "title": "(URGENT) Seoul stocks open 1.2 pct lower after surging for four consecutive sessions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617001500320",
+      "published_date": "2026-06-17T00:02:43Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f19f456486cccdfd6e7722920a9d1263",
+      "title": "LG Innotek eyes 1 tln-won operating profit in package solutions business by 2031",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260616007200320",
+      "published_date": "2026-06-16T23:00:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "70f3d3b499e24b1206fb4d9e1ddc9198",
+      "title": "North Korea’s provincial firms need autonomy, not new specifications",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-provincial-factory-product-quality/",
+      "published_date": "2026-06-16T22:46:04Z",
+      "category": "Economy"
+    },
     {
       "id": "dffcd745045abee8f1d896405017f6ec",
       "title": "(LEAD) Value of SK Group's listed firms exceeds 2,000 tln won",
@@ -414,33 +430,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260611010500320",
       "published_date": "2026-06-12T01:00:04Z",
       "category": "Economy"
-    },
-    {
-      "id": "7ee7748aafebc2e6ea146f37e3b4e61b",
-      "title": "S. Korea feared to face inflation, slower job market amid Middle East war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612003200320",
-      "published_date": "2026-06-12T01:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "2e7183d4fa3d86e17de6e74fecd4950b",
-      "title": "(URGENT) Seoul stocks open 6.44 pct higher as Trump says Iran deal could be signed soon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001600320",
-      "published_date": "2026-06-12T00:01:39Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ed5c843aaaa3609503ece207d413a4e7",
-      "title": "Gov't remains vigilant on inflation, job market challenges: finance minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260612001900320",
-      "published_date": "2026-06-11T23:50:52Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "5596184785c8e34d74040afac56c7fc8",
+      "title": "'Teach You a Lesson' tops Netflix's weekly non-English chart for 2nd week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617001200315",
+      "published_date": "2026-06-16T23:31:40Z",
+      "category": "Local Events"
+    },
     {
       "id": "64e02dae45c61e6ebcbf39c411f4b2d3",
       "title": "(2nd LD) PM vows to deal sternly with illegal acts by ballot protesters",
@@ -591,14 +591,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-education-gap-pyongyang-vocational-colleges/",
       "published_date": "2026-06-16T01:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d63d179e961e86fb9f19bf3d3a107383",
-      "title": "Seventeen's Joshua to speak at UNESCO headquarters in Paris next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260616003500315",
-      "published_date": "2026-06-16T01:25:54Z",
       "category": "Local Events"
     }
   ]
