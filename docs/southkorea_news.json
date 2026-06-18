@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-17T14:26:35Z",
+  "generated_at": "2026-06-18T00:06:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,163 +10,163 @@
   ],
   "Diplomacy": [
     {
+      "id": "90a481201d9b219e7531bc59e270bb80",
+      "title": "(World Cup) S. Korea coach voices regret over drone incident",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618001800315",
+      "published_date": "2026-06-17T23:54:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "74b1345a5e025bc9acc63edc2f78d9a6",
+      "title": "Senate confirms Michelle Steel as U.S. ambassador to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618001500315",
+      "published_date": "2026-06-17T23:38:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "613d864e4a80867357fc9ba4411f8fc6",
+      "title": "(World Cup) S. Korea coach hoping team will go beyond semifinals",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618001400315",
+      "published_date": "2026-06-17T22:52:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "99dfba555a947473c62107c69a737014",
+      "title": "Anthropic launches Seoul office amid Washington's AI export controls",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617009000320",
+      "published_date": "2026-06-17T22:06:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "40f85e144c4fb0e907ac8f7698e3aba6",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618001100315",
+      "published_date": "2026-06-17T21:57:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9e04794db7ba1d015231ed2d01903c87",
+      "title": "(EDITORIAL from The Korea Times on June 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618001000315",
+      "published_date": "2026-06-17T21:57:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d2103643e6e3f7a458542144729aab79",
+      "title": "(EDITORIAL from The Korea Herald on June 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000900315",
+      "published_date": "2026-06-17T21:56:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "66038e766c400bca4096713ced0e7436",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000800315",
+      "published_date": "2026-06-17T21:56:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a6812753b8c3df7ec272a5a6ed560b89",
+      "title": "U.S. releases Iran MOU text, including 60 days of no-charge Hormuz transit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000600315",
+      "published_date": "2026-06-17T21:15:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bd1db6001c8bb5dbc9fb5bd693795565",
+      "title": "Delinquency ratio on bank loans up in April",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617007600320",
+      "published_date": "2026-06-17T21:00:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4a1d95f2518f4398aebd8e93f9dfd4ed",
+      "title": "North Korea’s pet boom puts new spotlight on wealth gap",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-pet-culture-wealth-gap/",
+      "published_date": "2026-06-17T19:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5649d18040fb781cbf8df3368cdddc5a",
+      "title": "(2nd LD) Fed holds key rate steady under new Chair Warsh; policymakers project rate increase this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000552315",
+      "published_date": "2026-06-17T19:32:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "911d0771c2e52ec353ac49ac778b4e6c",
+      "title": "(LEAD) Fed holds key interest rate steady under new Chair Warsh, projects higher rate this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000551315",
+      "published_date": "2026-06-17T18:29:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4d112ffbc8940fbe4b07b25c786f348",
+      "title": "Fed holds key interest rate steady for 4th straight time under new Chair Warsh",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000500315",
+      "published_date": "2026-06-17T18:02:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "82f65a61e4fdd085bd8d29ca6c29d5e7",
+      "title": "(URGENT) Fed holds key interest rate steady for 4th straight time under new Chair Warsh",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000400315",
+      "published_date": "2026-06-17T18:01:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bc0621e00d76fadb4bce9542e1945b98",
+      "title": "Pentagon renames Indo-Pacific Command back to Pacific Command",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000300315",
+      "published_date": "2026-06-17T17:27:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6fe4cfec20f6f10594a5aac830eb4afc",
+      "title": "North Korea demands detailed rice-planting reports from Hwanghae farms",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/rice-transplanting-report-hwanghae-fear/",
+      "published_date": "2026-06-17T17:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9df0194c8930f7f05a2b93b40f5ce728",
+      "title": "G7 leaders reaffirm commitment to 'complete denuclearization' of N. Korea in joint statement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618000200315",
+      "published_date": "2026-06-17T16:27:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1bb7b2af52fa41cfb6a311720e84c997",
+      "title": "Lee heads home after wrapping up trip to Europe",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260617009200315",
+      "published_date": "2026-06-17T15:32:18Z",
+      "category": "Diplomacy"
+    },
+    {
       "id": "8d672c3a21be5bf961a3e9dd9681aadb",
       "title": "North Korea quietly softens foreign content penalties for officials’ families",
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-foreign-content-law-enforcement-directive/",
       "published_date": "2026-06-17T14:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c076add23c465b290a54bf7e54d08550",
-      "title": "(News Focus) Lee broadens diplomatic outreach to Europe in 1st trip to region",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617008800315",
-      "published_date": "2026-06-17T14:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "850d951e80eaf59ac7b0e06fd39d6424",
-      "title": "Leaders of S. Korea, Kenya hold talks on cooperation in economy, development",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617009900315",
-      "published_date": "2026-06-17T13:57:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aeff8e1ca884be7834c3d791d435c52b",
-      "title": "KBO surpasses 6 mln fans in record-breaking fashion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617009800315",
-      "published_date": "2026-06-17T13:49:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6e361804472bb40ce4bec23bf05c2057",
-      "title": "(LEAD) Lee calls for int'l cooperation to strengthen resilience of energy supply chains at G7 summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617006851315",
-      "published_date": "2026-06-17T13:17:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f51eb5ab79901b7ce2acb84bf39289ab",
-      "title": "(LEAD) Trump vows to play role in advancing Korean Peninsula issues: Seoul official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617009751315",
-      "published_date": "2026-06-17T12:26:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7c688e1270b8aae16e8388f602aa0b95",
-      "title": "Trump vows to play role in advancing Korean Peninsula issues: Seoul official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617009700315",
-      "published_date": "2026-06-17T11:54:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "48a19e7b200681b45425a2a27bdf3ba4",
-      "title": "(URGENT) Lee, Trump share importance of 3-way cooperation with Japan: Seoul presidential office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617009600315",
-      "published_date": "2026-06-17T11:38:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "429e5f2ce932bafae7a08434d004d5f9",
-      "title": "(URGENT) Trump vows to play role in advancing Korean Peninsula issues in talks with Lee at G7 summit: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617009500315",
-      "published_date": "2026-06-17T11:38:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0a8b741402e7c9e180a277c4d4648e67",
-      "title": "Hyesan residents see hope for economic relief in Xi Jinping’s visit",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/xi-jinpings-visit-to-north-korea-sparks-hope/",
-      "published_date": "2026-06-17T10:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6b533c93595a1a97986657714639f112",
-      "title": "North Korea uses older Nvidia, Qualcomm tech to boost AI capabilities: report",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korea-uses-older-nvidia-qualcomm-tech-to-boost-ai-capabilities-report/",
-      "published_date": "2026-06-17T09:04:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "052ce2f20a52a5a1d4260e19aafd5381",
-      "title": "North Korea confirms recalling its UK ambassador after a month in post",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korea-confirms-recalling-its-uk-ambassador-after-a-month-in-post/",
-      "published_date": "2026-06-17T09:01:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0f20e6f3f3b42bde6dc7dab5e1df2520",
-      "title": "2 Koreas, not external actors, should lead peninsular issues: unification minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617008900315",
-      "published_date": "2026-06-17T08:47:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8f3622c57ad97de91c2d3c5de4a61f42",
-      "title": "Lee reiterates need for Trump to take lead in lowering North Korea tensions",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/lee-reiterates-need-for-trump-to-take-lead-in-lowering-north-korea-tensions/",
-      "published_date": "2026-06-17T08:08:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "eeea013ba7a422413cdccb3e4a7c1d10",
-      "title": "(2nd LD) 18-month prison term sought for Seoul mayor on charges of accepting illegal funds",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617006452315",
-      "published_date": "2026-06-17T07:49:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8d086bcda846b5dd35d7a7b4a6498871",
-      "title": "(LEAD) 18-month prison term sought for Seoul mayor on charges of accepting illegal funds",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617006451315",
-      "published_date": "2026-06-17T06:55:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "085f89ac8fcf5984bddd3fbc8b351572",
-      "title": "Lee to attend G7 summit sessions on global economic imbalances, AI emergence",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617006800315",
-      "published_date": "2026-06-17T06:49:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e410961875c1500c817fb28f8fffafdd",
-      "title": "18-month prison term sought for Seoul mayor on charges of accepting illegal funds",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617006400315",
-      "published_date": "2026-06-17T06:25:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8106649fc92199e58996366860455765",
-      "title": "(URGENT) Special counsel seeks 18-month prison term for Seoul mayor over alleged proxy payment for opinion polls",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260617006300315",
-      "published_date": "2026-06-17T06:14:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "492ff9764b1691178b9d3c2795aba661",
-      "title": "North Korea bans US dual nationals from entering country: Travel firm",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korea-bans-us-dual-nationals-from-entering-country-travel-firm/",
-      "published_date": "2026-06-17T06:10:18Z",
       "category": "Diplomacy"
     }
   ],
@@ -246,6 +246,14 @@
   ],
   "Energy": [
     {
+      "id": "613a52088780a787050eb853febb05e4",
+      "title": "North Korea’s new mining and farm housing turns vacant within years",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/newly-built-homes-north-korea-turn-into-ruins/",
+      "published_date": "2026-06-17T20:42:00Z",
+      "category": "Energy"
+    },
+    {
       "id": "bd812f407efd410ad709d63e23dd9245",
       "title": "KHNP selects candidate sites for new nuclear reactors",
       "source": "Yonhap News Agency",
@@ -279,6 +287,14 @@
     }
   ],
   "Economy": [
+    {
+      "id": "c1b3e84e74a2f3b8b9e150c8fe717fad",
+      "title": "S. Korea to apply zero tariffs on LNG, LPG under quota scheme to tackle inflation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260618001300320",
+      "published_date": "2026-06-18T00:00:03Z",
+      "category": "Economy"
+    },
     {
       "id": "80027c93f0c7c0ff1cdcd4346016a189",
       "title": "(2nd LD) BOK chief vows proactive efforts to tame inflation",
@@ -429,14 +445,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260614001000320",
       "published_date": "2026-06-14T01:49:25Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6ab93e029ebf5e22417b99adb760959e",
-      "title": "Hyundai Motor Group takes up 11.8 pct of U.S. market through April: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260614000800320",
-      "published_date": "2026-06-14T00:58:00Z",
       "category": "Economy"
     }
   ],
