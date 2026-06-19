@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-19T14:13:46Z",
+  "generated_at": "2026-06-19T23:59:01Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5dacb69028b814339bf1ecc02faa4eec",
+      "title": "Before debating how Korea unifies, Seoul needs to decide what it wants",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/south-korea-unification-policy-absorption-debate-lee-jae-myung/",
+      "published_date": "2026-06-19T20:35:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6e1b599fb61aec47181e9edcbdc1007d",
+      "title": "North Korea police caught singing banned songs and using slang, authorities crack down",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-police-discipline-crackdown-parody-songs-slang/",
+      "published_date": "2026-06-19T17:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "71777001b863ba824eafff81aae304ec",
+      "title": "Chinese language tutoring surges in North Korea as Pyongyang and Beijing restore ties",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-chinese-language-tutoring-surge-north-china-relations/",
+      "published_date": "2026-06-19T14:17:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "97871c8356b7b9a80fda8ae2880928d3",
       "title": "Lee calls inflation top policy priority, urges 'extraordinary' measures to stabilize prices",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260619006551320",
       "published_date": "2026-06-19T06:12:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8eca8073f70b9c513b4c9436fbf98190",
-      "title": "(LEAD) Lee says told Trump cannot deal with N. Korean nuclear issue the same way as others",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619006251315",
-      "published_date": "2026-06-19T06:10:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "402275182274fd340e73a3a028cb6e90",
-      "title": "Gov't to seek dismissal of heads of 2 public firms following review",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619006500320",
-      "published_date": "2026-06-19T05:53:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e9d19b4ad789bea78d96e31f6b656c2e",
-      "title": "(LEAD) (World Cup) Unlucky S. Korea lack precision in loss to Mexico",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619005451315",
-      "published_date": "2026-06-19T05:40:41Z",
       "category": "Diplomacy"
     }
   ],
