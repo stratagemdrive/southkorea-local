@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-20T12:27:06Z",
+  "generated_at": "2026-06-20T23:58:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ffe8a8ce71282f2283d3c84f19aabe6c",
+      "title": "(2nd LD) Heavy rain soaks Gangwon Province, southern regions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000852315",
+      "published_date": "2026-06-20T13:35:57Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5e4942ba63b0c57f3ac2b062bce68ff3",
       "title": "(LEAD) Heavy rain soaks Gangwon Province; access to Mt. Seorak restricted",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260619005351315",
       "published_date": "2026-06-19T07:59:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "baafcf4431ef22b61d3977e49f37194c",
-      "title": "(3rd LD) Lee says told Trump cannot deal with N. Korean nuclear issue the same way as others",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619006253315",
-      "published_date": "2026-06-19T07:41:55Z",
       "category": "Diplomacy"
     }
   ],
