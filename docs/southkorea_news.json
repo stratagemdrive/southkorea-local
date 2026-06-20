@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-19T23:59:01Z",
+  "generated_at": "2026-06-20T12:27:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5e4942ba63b0c57f3ac2b062bce68ff3",
+      "title": "(LEAD) Heavy rain soaks Gangwon Province; access to Mt. Seorak restricted",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000851315",
+      "published_date": "2026-06-20T11:28:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ae6220e44a12d74b0bd4ea684da1df3a",
+      "title": "(LEAD) Ex-vice Gyeonggi gov. found guilty of perjury over claims of 'drinking party' during interrogation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000951315",
+      "published_date": "2026-06-20T07:56:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6e46584cb33b6d30a2c72f3297cb22b8",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000600315",
+      "published_date": "2026-06-20T05:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8f5990e1a3131046b74aecbe25c75984",
+      "title": "Ex-vice Gyeonggi gov. found guilty of perjury over claims of 'drinking party' during interrogation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000900315",
+      "published_date": "2026-06-20T02:36:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "50ed4bc8ca1ede8fa4eacb3ee625ae74",
+      "title": "Rain to continue nationwide through evening after heavy downpours",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000800315",
+      "published_date": "2026-06-20T01:56:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4bd09421ddef7cb9708a55d6d0abee6c",
+      "title": "BTS' RM named global ambassador of Nat'l Museum of Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000700315",
+      "published_date": "2026-06-20T00:49:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ac111444c36bbcf7903a8e67bb00823d",
+      "title": "(World Cup) Midfielder blames S. Korean loss on bad luck",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000300315",
+      "published_date": "2026-06-20T00:20:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "38e9e4f471459952d040036e8eb3923b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260620000400315",
+      "published_date": "2026-06-20T00:03:35Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5dacb69028b814339bf1ecc02faa4eec",
       "title": "Before debating how Korea unifies, Seoul needs to decide what it wants",
@@ -103,70 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260619006253315",
       "published_date": "2026-06-19T07:41:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b4936df28b0a971b521e6e503377c0b2",
-      "title": "(2nd LD) Seoul stocks take breather after 6-day rise on profit-taking",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619007052320",
-      "published_date": "2026-06-19T07:32:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a8264ff02082c03acffb71dd703a477b",
-      "title": "(2nd LD) Lee says told Trump cannot deal with N. Korean nuclear issue the same way as others",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619006252315",
-      "published_date": "2026-06-19T07:24:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9fc03c00a35125f31b6daa0ff9fb779a",
-      "title": "Assembly speaker urges diplomatic efforts to ensure safe return of S. Korean vessels from Hormuz Strait",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619008300315",
-      "published_date": "2026-06-19T07:03:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "283c222f58a8d20d74a57dd0a85776df",
-      "title": "S. Korea says in close talks with U.S. after Senate bill signals tougher OPCON transfer oversight",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619008100315",
-      "published_date": "2026-06-19T07:02:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e46a9c88f30799b3eb1a81763bd84921",
-      "title": "(LEAD) Seoul stocks take breather after 6-day rise on profit-taking",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619007051320",
-      "published_date": "2026-06-19T07:01:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0c8707eb57218dd29fa67445576d06ad",
-      "title": "Seoul stocks take breather after 6-day rise on profit-taking",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619007000320",
-      "published_date": "2026-06-19T06:41:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "76a5a9eab2802880ed935ba97e9b0fd1",
-      "title": "(URGENT) Seoul stocks snap 6-day winning streak on profit-taking, Iran uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619006600320",
-      "published_date": "2026-06-19T06:33:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ac4813ab50046992e3c89e452ba39897",
-      "title": "(LEAD) Gov't to seek dismissal of heads of 2 public firms following review",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260619006551320",
-      "published_date": "2026-06-19T06:12:45Z",
       "category": "Diplomacy"
     }
   ],
