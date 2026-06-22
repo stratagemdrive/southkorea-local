@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-21T13:08:33Z",
+  "generated_at": "2026-06-22T00:02:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "093730bd04a73f73641d304e3afbd629",
+      "title": "Starbucks Korea to close all stores early to carry out history training after 'Tank Day' promotion backlash",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622001300320",
+      "published_date": "2026-06-21T23:56:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "aa4882ec3865308f8cede34d2f7623f4",
+      "title": "'Toy Story 5' tops weekend box office, dethroning 'Colony'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622001100315",
+      "published_date": "2026-06-21T23:35:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "370c10609dd128e379e3329433135026",
+      "title": "Tom Kim finishes 3rd at U.S. Open",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622000900315",
+      "published_date": "2026-06-21T23:07:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b817a7defe183494cb7874f43a1a8da6",
+      "title": "Asset managers' Q1 net nearly doubles on commission income gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622000700320",
+      "published_date": "2026-06-21T22:07:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fd82b23f3efff5865c9c063b314da269",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622000500320",
+      "published_date": "2026-06-21T22:06:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "587e4ac58999188059aaec3fcb93d67b",
+      "title": "(EDITORIAL from The Korea Times on June 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622000400320",
+      "published_date": "2026-06-21T22:05:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d107d28952acac25c4dd9aa2e12cbae9",
+      "title": "(EDITORIAL from The Korea Herald on June 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622000300320",
+      "published_date": "2026-06-21T22:05:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ace4f0a6daba55023205be685d85751b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622000200320",
+      "published_date": "2026-06-21T22:05:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bd140269886642b9dc6df51b44654def",
+      "title": "Behind Pyongyang’s showcase streets, satellite images reveal neighborhoods left behind",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongyang-redevelopment-satellite-imagery-blighted-neighborhoods/",
+      "published_date": "2026-06-21T20:59:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "9d43238fbee9dcd97aa80405080e472e",
       "title": "All 6 THAAD launchers return to Seongju from Osan",
@@ -96,78 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260621000800315",
       "published_date": "2026-06-21T01:17:47Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "acd723e8532c0d522a1f3df24a5556b2",
-      "title": "(URGENT) Lee appoints new senior secretaries for communication, civil affairs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260621000700315",
-      "published_date": "2026-06-21T01:05:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d4d85e9d68e79907228f577af71bfff2",
-      "title": "Household lending at banks jumps in Q2 on leveraged investing, mortgage demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260621000400320",
-      "published_date": "2026-06-21T01:01:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "201edbc6070ae372cb11fe0db2a90cf9",
-      "title": "Scams targeting foreigners rise nearly 4-fold over 2 yrs: lawmaker",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260621000500315",
-      "published_date": "2026-06-21T00:57:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cb82ddc074fe280b8bde1a623484280f",
-      "title": "(World Cup) Sports analytics firm gives S. Korea 90 pct chance of reaching knockouts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260621000300315",
-      "published_date": "2026-06-21T00:17:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ffe8a8ce71282f2283d3c84f19aabe6c",
-      "title": "(2nd LD) Heavy rain soaks Gangwon Province, southern regions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260620000852315",
-      "published_date": "2026-06-20T13:35:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5e4942ba63b0c57f3ac2b062bce68ff3",
-      "title": "(LEAD) Heavy rain soaks Gangwon Province; access to Mt. Seorak restricted",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260620000851315",
-      "published_date": "2026-06-20T11:28:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ae6220e44a12d74b0bd4ea684da1df3a",
-      "title": "(LEAD) Ex-vice Gyeonggi gov. found guilty of perjury over claims of 'drinking party' during interrogation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260620000951315",
-      "published_date": "2026-06-20T07:56:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6e46584cb33b6d30a2c72f3297cb22b8",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260620000600315",
-      "published_date": "2026-06-20T05:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8f5990e1a3131046b74aecbe25c75984",
-      "title": "Ex-vice Gyeonggi gov. found guilty of perjury over claims of 'drinking party' during interrogation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260620000900315",
-      "published_date": "2026-06-20T02:36:53Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -253,6 +253,14 @@
     }
   ],
   "Energy": [
+    {
+      "id": "552cdc297f48bfcc2ca6c3d5cfb3b353",
+      "title": "KEPCO to keep electricity rates frozen for Q3",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260622001000320",
+      "published_date": "2026-06-21T23:34:13Z",
+      "category": "Energy"
+    },
     {
       "id": "613a52088780a787050eb853febb05e4",
       "title": "North Korea’s new mining and farm housing turns vacant within years",
