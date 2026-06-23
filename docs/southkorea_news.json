@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-23T13:43:51Z",
+  "generated_at": "2026-06-23T23:47:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,134 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "53e9b786bedda8f066c2012f6711a6be",
+      "title": "Kim Jong Un commissions North Korea’s largest warship, vows naval expansion",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/06/kim-jong-un-commissions-north-koreas-largest-warship-vows-naval-expansion/",
+      "published_date": "2026-06-23T23:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ee68677d098f53bcd54f48bc2fed0532",
+      "title": "(World Cup) Defender Kim Min-jae wary of skilled, speedy South African players",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624001200315",
+      "published_date": "2026-06-23T23:05:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8cf0460880c84645bcced05c624093a5",
+      "title": "(LEAD) Seoul to continue push for MSCI developed market status bid after remaining in emerging category",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000951320",
+      "published_date": "2026-06-23T22:52:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "863506c480f7d8cb070049978b946f12",
+      "title": "(World Cup) S. Korea coach says team won't settle for draw in final group match",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624001000315",
+      "published_date": "2026-06-23T22:39:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f9346a202273f78fbd5f1753a1991e0",
+      "title": "S. Korea remains at emerging market status under MSCI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000900320",
+      "published_date": "2026-06-23T22:21:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "41e6d42009209e6bc8f065a979c36550",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000800315",
+      "published_date": "2026-06-23T22:12:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6a91ed99359672d804aca1ce8ed38810",
+      "title": "(EDITORIAL from The Korea Times on June 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000700315",
+      "published_date": "2026-06-23T22:12:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8c2590bdb74eee8965c6ed8d82acf1ff",
+      "title": "(EDITORIAL from The Korea Herald on June 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000600315",
+      "published_date": "2026-06-23T22:11:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a0a325795b7ad05569ae2b60ce3abb04",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000500315",
+      "published_date": "2026-06-23T22:11:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "42116f9ac4e39107e10a62e20b589707",
+      "title": "Seoul Int'l Book Fair set to open amid 'text-hip' boom",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260623003100315",
+      "published_date": "2026-06-23T22:00:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2de81e702a1f5f176bc328a8c3114270",
+      "title": "Rubio says no country allowed to charge tolls on Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000400315",
+      "published_date": "2026-06-23T21:14:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a8ed0a37c51cc9bfa13322a676bc47f6",
+      "title": "U.S. official cites network separation, data localization policies as 'barriers' to S. Korea's AI rise",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260624000200315",
+      "published_date": "2026-06-23T20:57:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0e8760fd4013b276134c05d0d66718b9",
+      "title": "Kim family fashion drives custom tailoring boom among North Korea’s wealthy elite",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-family-fashion-drives-custom-tailoring-boom-among-north-koreas-wealthy-elite/",
+      "published_date": "2026-06-23T20:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "36302c81d7ed13f31c3590e0b1623f05",
+      "title": "Tumen River bridge delay fuels frustration inside North Korea",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/tumen-river-bridge-delay-north-korea-russia/",
+      "published_date": "2026-06-23T17:08:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a55c0fb1de66dde8f1e6888c43677f1a",
+      "title": "(2nd LD) Lee hosts foreign envoys for K-barbecue dinner at Cheong Wa Dae",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260623009452315",
+      "published_date": "2026-06-23T14:34:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f12a6b880a72cb65651a6345fb080ba0",
+      "title": "(LEAD) Lee hosts foreign envoys for K-barbecue dinner at Cheong Wa Dae",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260623009451315",
+      "published_date": "2026-06-23T13:41:17Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6774691cd75118df879b538b26b616a7",
       "title": "(LEAD) PM calls for China's role to foster conditions for inter-Korean, U.S.-N.K. talks",
@@ -39,134 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260623012100315",
       "published_date": "2026-06-23T11:03:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d949f61502e22c810bff4e14bbc1d242",
-      "title": "North Korean UNESCO official removed from Jeju Forum speaker lineup",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korean-unesco-official-removed-from-jeju-forum-speaker-lineup/",
-      "published_date": "2026-06-23T10:18:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "babe07a537278dcf401a0c2b0e58a088",
-      "title": "Jeju governor-elect proposes table tennis diplomacy with North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/jeju-governor-elect-proposes-table-tennis-diplomacy-with-north-korea/",
-      "published_date": "2026-06-23T09:49:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aab76fb64b906fe5d036f78de87c2f78",
-      "title": "Foreign minister, MPA chairman discuss cooperation in content industry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623012300320",
-      "published_date": "2026-06-23T09:30:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2b3b5202f4df3074162097aa06edba9a",
-      "title": "S. Korea seeks int'l support for UNESCO heritage committee session in Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623011500315",
-      "published_date": "2026-06-23T07:57:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dd52809c34eafa4cccca3986aac109c8",
-      "title": "Acquittals of former officials confirmed in N.K. border murder cover-up case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623011300315",
-      "published_date": "2026-06-23T07:52:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7673940986e37bf7f7f1c34df4e6e4cd",
-      "title": "(LEAD) American booked for assaulting 2 U.S. soldiers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623003851315",
-      "published_date": "2026-06-23T07:48:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "db6d34773d7eda456770cbb8b1fc22e6",
-      "title": "(2nd LD) KOSPI crashes nearly 10 pct on massive tech sell-offs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623008252320",
-      "published_date": "2026-06-23T07:38:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "185833e55ae2b59a9ef0a2c59beb3396",
-      "title": "(LEAD) Korean won slumps against U.S. dollar on expectations of Fed rate hike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623002851320",
-      "published_date": "2026-06-23T07:34:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "552cd354a08499d51475a752df428fae",
-      "title": "Vice FM to attend U.S.-hosted AI summit to discuss supply chain cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623009900315",
-      "published_date": "2026-06-23T07:32:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fb48e2d007a9f6be46bc9e212b4fcc23",
-      "title": "S. Korea, Philippines hold joint committee on logistics, defense cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623009800315",
-      "published_date": "2026-06-23T07:27:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "03c88df8fb41912db042ee51f39e4c81",
-      "title": "Prime Minister Kim visits alma mater in Beijing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623009700315",
-      "published_date": "2026-06-23T07:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8c0608425097698fb5bc7e1a2966f167",
-      "title": "S. Korea defends extended deterrence cooperation with U.S., urges China's constructive role",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623009500315",
-      "published_date": "2026-06-23T07:07:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "03da9f20180325dc92c53b80d25de4e4",
-      "title": "(LEAD) KOSPI crashes nearly 10 pct on massive tech sell-offs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623008251320",
-      "published_date": "2026-06-23T07:05:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d93b9d2074bc4bb4d3d61743001dad1d",
-      "title": "Lee set to host banquet with foreign ambassadors at Cheong Wa Dae",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623009400315",
-      "published_date": "2026-06-23T07:00:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4249a5aba516388f0fdd1d4ae41a6fa6",
-      "title": "S. Korea, Turkey discuss closer economic ties building on FTA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623007200320",
-      "published_date": "2026-06-23T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a727558fa8f8854b0ba5373c031f6638",
-      "title": "KOSPI crashes nearly 10 pct on massive tech sell-offs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260623008200320",
-      "published_date": "2026-06-23T06:38:47Z",
       "category": "Diplomacy"
     }
   ],
