@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-26T13:13:22Z",
+  "generated_at": "2026-06-26T23:53:22Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "91031288e5eba01fe05bbdb87d78641e",
+      "title": "Two officers seriously injured as North Korea’s new anti-aircraft gun fails rapid-fire test",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-anti-aircraft-gun-barrel-rupture-test-chongjin-2026/",
+      "published_date": "2026-06-26T20:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f9a367b0d9ff27d4a8b0f676185c300",
+      "title": "Satellite imagery reveals North Korea’s transmission tower network",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-transmission-towers-satellite-imagery-analysis-2026/",
+      "published_date": "2026-06-26T18:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0bd717ae3e3fd2d378ae50dfb74f73c5",
+      "title": "Seoul envoy says Korean War veterans' sacrifices remain foundation of S. Korea-U.S. alliance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627000200315",
+      "published_date": "2026-06-26T17:49:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b0a1d5001249a90bab87b3409436d9f3",
+      "title": "S. Korea, Mekong River nations discuss expanding cooperation on transnational crime response",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260626011000315",
+      "published_date": "2026-06-26T14:14:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bcd5b5b757433586a5f2b678eeaa90b8",
+      "title": "U.S. extends national emergency declaration over N. Korean threats for another year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260626010900315",
+      "published_date": "2026-06-26T14:08:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4fce90081cd643ed47c63e2638a9bf15",
+      "title": "North Korea grain prices dip from record highs but remain near all-time peaks",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-grain-prices-record-high-june-2026/",
+      "published_date": "2026-06-26T13:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bfd23be5bf2979ba2dd1d916e97c7101",
+      "title": "North Korea preps factories for Chinese investor visit",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-chinese-investment-delegation-august-2026/",
+      "published_date": "2026-06-26T13:18:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "95de95c51f8f97dd0eb545b2fe1233ff",
       "title": "Lee meets Japanese chair of bilateral lawmakers' union, calls for closer ties",
@@ -112,62 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260626008500315",
       "published_date": "2026-06-26T07:29:18Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "b2b6720da33dee36e981a8ab6b4f62fc",
-      "title": "(2nd LD) Seoul shares nosedive nearly 6 pct on profit hunting after AI-led rallies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626006952320",
-      "published_date": "2026-06-26T07:27:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5c33b1c36345a667ba76a8b6b5b5d738",
-      "title": "Unification minister calls for moving away from 'denuclearization first' policy for N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626008300315",
-      "published_date": "2026-06-26T07:13:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ac195672050c019c54d5a87756726375",
-      "title": "(LEAD) Seoul shares nosedive nearly 6 pct on profit hunting after AI-led rallies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626006951320",
-      "published_date": "2026-06-26T06:53:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "67eb077b3f4e2abe3b8ec9f285322616",
-      "title": "Seoul shares nosedive nearly 6 pct on profit hunting after AI-led rallies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626006900320",
-      "published_date": "2026-06-26T06:35:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "18f2473f855dd0619bfa974a9b7f155e",
-      "title": "Lee says 3 more S. Korean vessels expected to exit Strait of Hormuz over weekend",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626007100315",
-      "published_date": "2026-06-26T06:34:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9c45b27980e0e69ac5a6195008cd2edd",
-      "title": "(URGENT) Seoul shares nosedive nearly 6 pct on profit hunting after AI-led rallies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626006800320",
-      "published_date": "2026-06-26T06:34:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7542d2036d02b7c70d7092e1141d63df",
-      "title": "(LEAD) Yonhap hosts forum on shifting alliances, economic security challenges",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626001251315",
-      "published_date": "2026-06-26T06:31:39Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -245,6 +245,14 @@
     }
   ],
   "Energy": [
+    {
+      "id": "9a52f1b79f2af120f8112cc217c04439",
+      "title": "Soaring fuel costs are pushing North Koreans toward electric bikes and motorcycles",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-electric-bikes-motorcycles-fuel-prices-2026/",
+      "published_date": "2026-06-26T17:15:00Z",
+      "category": "Energy"
+    },
     {
       "id": "7298432f0f494cba32b07f60e1316c4f",
       "title": "Gov't lowers fuel price caps amid easing energy market volatility",
