@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-27T12:10:19Z",
+  "generated_at": "2026-06-27T23:52:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -171,6 +171,14 @@
     }
   ],
   "Military": [
+    {
+      "id": "ff33dcf09ec64e68d58a3961d452c376",
+      "title": "(2nd LD) Nearly 10 Chinese, Russian military aircraft briefly enter S. Korea's air defense zone: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001352315",
+      "published_date": "2026-06-27T12:22:57Z",
+      "category": "Military"
+    },
     {
       "id": "d71a3306716bd8f605104230e1af12e9",
       "title": "(LEAD) Nearly 10 Chinese, Russian military aircraft briefly enter S. Korea's air defense zone: JCS",
@@ -506,6 +514,14 @@
   ],
   "Local Events": [
     {
+      "id": "cec18332cfccd3e5f4a3215ca7c69e18",
+      "title": "Protests over ballot shortage continue for 23rd day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627002300315",
+      "published_date": "2026-06-27T13:18:42Z",
+      "category": "Local Events"
+    },
+    {
       "id": "3ca8dd1f1d8f681bf27544c82c669112",
       "title": "Police seek arrest warrant for suspect behind stabbing at Seoul museum",
       "source": "Yonhap News Agency",
@@ -655,14 +671,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260625011000315",
       "published_date": "2026-06-25T08:27:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d649d1b267b939922c78c29bbdb734c9",
-      "title": "(2nd LD) 1 dead, 2 missing after fishing boat sinks off Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260625006852315",
-      "published_date": "2026-06-25T08:18:13Z",
       "category": "Local Events"
     }
   ]
