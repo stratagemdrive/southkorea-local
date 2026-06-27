@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-26T23:53:22Z",
+  "generated_at": "2026-06-27T12:10:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d2abb20ea2003bc87f0239a134916df5",
+      "title": "(LEAD) Japan's defense chief in S. Korea for deeper defense ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001651315",
+      "published_date": "2026-06-27T09:55:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "636ab9bc15c2663b6355aed6975a9d9f",
+      "title": "Ex-justice minister appeals 25-yr prison sentence in martial law trial",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627002100315",
+      "published_date": "2026-06-27T08:58:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4dff88a7c7d765c268c272ce41492db3",
+      "title": "Japan's defense chief in S. Korea for deeper defense ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001600315",
+      "published_date": "2026-06-27T07:55:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "81fda8eefdfb76e7bdf4c93b34ad48e6",
+      "title": "(World Cup) S. Korea clinging to last spot to qualify for knockouts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001500315",
+      "published_date": "2026-06-27T05:40:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "270a610a52f62145d9fe3fabcb73da52",
+      "title": "Vice FM attends Pax Silica Summit in Washington, discusses AI, chip supply chains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001400315",
+      "published_date": "2026-06-27T05:19:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "846f6d703d275a512688d22ead0e645b",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627000500315",
+      "published_date": "2026-06-27T05:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5fb426d8eafd8ef718a1c47cbf1741cc",
+      "title": "2 more Korean vessels clear Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627000600315",
+      "published_date": "2026-06-27T01:32:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7eaf9651e119792cee0ae8cc1c01d2e6",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627000400315",
+      "published_date": "2026-06-27T00:08:37Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "91031288e5eba01fe05bbdb87d78641e",
       "title": "Two officers seriously injured as North Korea’s new anti-aircraft gun fails rapid-fire test",
@@ -104,73 +168,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260626001252315",
       "published_date": "2026-06-26T09:33:53Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "2c14dcfcee0f76bad69a6e87a7756bdb",
-      "title": "Ex-nuclear envoy says potential Kim-Trump summit 'most important' to resolve N. Korean nuclear issue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626010400315",
-      "published_date": "2026-06-26T09:30:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "917626446d65be49a8feeb2fc2fe7b90",
-      "title": "China seeks to 'substantialize' ties with N. Korea, but maintains denuclearization policy: expert",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626010200315",
-      "published_date": "2026-06-26T09:00:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4e978a6b9933be16b24f25ac5c323167",
-      "title": "S. Korean, Iranian FMs discuss Hormuz transit, Mideast situation over phone",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626010100315",
-      "published_date": "2026-06-26T08:47:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9e5284038aa578463cf02bd07ddf8c63",
-      "title": "US lawmakers aim to renew bill supporting defectors, aid to North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/us-lawmakers-aim-to-renew-bill-supporting-defectors-aid-to-north-korea/",
-      "published_date": "2026-06-26T08:16:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7b8601b84c25b43decacf1790765b4bb",
-      "title": "N. Korea talks not yet ripe, yet future engagement possible: ex-Trump adviser",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626009100315",
-      "published_date": "2026-06-26T08:16:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e2ee3ac1c429819f6dbbaf2bb48e0e71",
-      "title": "Lee says technology key to nat'l security, calls for fostering innovative firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626008600315",
-      "published_date": "2026-06-26T07:55:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a1055f3d12c10adb2586446c977e6522",
-      "title": "U.S. professor questioned over alleged defamation of President Lee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626008400315",
-      "published_date": "2026-06-26T07:36:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "30006012bd47218e7de9c53e43ef6a93",
-      "title": "Dinos release ex-KBO home run king Davidson",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626008500315",
-      "published_date": "2026-06-26T07:29:18Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "d71a3306716bd8f605104230e1af12e9",
+      "title": "(LEAD) Nearly 10 Chinese, Russian military aircraft briefly enter S. Korea's air defense zone: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001351315",
+      "published_date": "2026-06-27T05:26:41Z",
+      "category": "Military"
+    },
+    {
+      "id": "eee4671d40821b6b738452a773711a01",
+      "title": "Nearly 10 Chinese, Russian military aircraft briefly enter S. Korea's air defense zone: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001300315",
+      "published_date": "2026-06-27T05:00:21Z",
+      "category": "Military"
+    },
+    {
+      "id": "012cef8ee507190a2a19fad8630461a0",
+      "title": "(URGENT) Chinese, Russian military aircrafts briefly enter S. Korea's air defense zone: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627001200315",
+      "published_date": "2026-06-27T04:38:04Z",
+      "category": "Military"
+    },
     {
       "id": "44f70792c56764a3838dcb5f26cfe7c7",
       "title": "Seoul plans complete overhaul of drone operations to combat North Korean threats",
@@ -482,6 +506,14 @@
   ],
   "Local Events": [
     {
+      "id": "3ca8dd1f1d8f681bf27544c82c669112",
+      "title": "Police seek arrest warrant for suspect behind stabbing at Seoul museum",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627002200315",
+      "published_date": "2026-06-27T10:17:47Z",
+      "category": "Local Events"
+    },
+    {
       "id": "2f4f923fd6d6ef7d2293be045ac45fe5",
       "title": "Police capture suspect behind stabbing at museum in central Seoul",
       "source": "Yonhap News Agency",
@@ -631,14 +663,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260625006852315",
       "published_date": "2026-06-25T08:18:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "41029122d38a845e7f45f1d43ef381a4",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260625010200320",
-      "published_date": "2026-06-25T08:00:00Z",
       "category": "Local Events"
     }
   ]
