@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-28T12:17:08Z",
+  "generated_at": "2026-06-28T23:59:28Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "aced7cceec416b1ecf5317db902f560a",
+      "title": "(LEAD) Ryu Hae-ran wins 1st LPGA major title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629001251315",
+      "published_date": "2026-06-28T23:29:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c16cb1ced5052f2cefa073e0d04a0773",
+      "title": "Ryu Hae-ran wins 1st LPGA major title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629001200315",
+      "published_date": "2026-06-28T23:12:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e6ef326714d1a858e958b487e913b2ce",
+      "title": "N. Korea slams Japan-U.S. military drills as 'war rehearsal'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629000800315",
+      "published_date": "2026-06-28T22:49:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e595c2c45e31ac6b6d22535471a2e277",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629000700315",
+      "published_date": "2026-06-28T22:01:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3c31fe13d62e65f5691a98807ccf7067",
+      "title": "(EDITORIAL from Korea Times on June 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629000600315",
+      "published_date": "2026-06-28T22:01:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4e865c4bc64353d8e3fcf7d9922541f",
+      "title": "(EDITORIAL from Korea Herald on June 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629000500315",
+      "published_date": "2026-06-28T22:01:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "53af52bfc3a340fc9c848b5c53395e90",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629000400315",
+      "published_date": "2026-06-28T22:01:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "444a560a0dacbfabe46dfc7d1e3ce4d0",
+      "title": "Financial sector's overseas real estate investment up in Q4",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260627000800320",
+      "published_date": "2026-06-28T21:00:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a919428180ce0d06d6d2265de40c77a2",
+      "title": "(Yonhap Interview) EU envoy sees 'productive' outcome on steel dispute, warns of risks from N.K.-Russia ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260628002400315",
+      "published_date": "2026-06-28T21:00:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d00d5cb7a8f7ee9f91bae757afcea7a0",
+      "title": "(LEAD) (World Cup) Hong Myung-bo steps down as S. Korea coach after early exit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629000251315",
+      "published_date": "2026-06-28T16:32:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ccdc958357406e2aee460da2591c1077",
+      "title": "(World Cup) Hong Myung-bo steps down as S. Korea coach after early exit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629000200315",
+      "published_date": "2026-06-28T15:35:22Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "85adb3a1efbfd455537dd1c9f3b502c6",
       "title": "(3rd LD) S. Korea, Japan agree to continue defense exchanges, cooperation, including in AI: Seoul",
@@ -79,94 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260628000852315",
       "published_date": "2026-06-28T04:42:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3f30ca67e5ffb5a68ea2eb02aae4be03",
-      "title": "(2nd LD) S. Korea, Japan agree to continue defense exchanges, cooperation, including in AI: Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628002251315",
-      "published_date": "2026-06-28T04:40:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "23268ad528815784b688cf9092d1aa35",
-      "title": "Gov't seeks to lower age threshold for minors in criminal cases on conditional basis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628002300315",
-      "published_date": "2026-06-28T04:27:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7fbb3ba0b6a5da5b95f94d33e7a248d8",
-      "title": "(LEAD) S. Korea, Japan agree to continue defense exchanges, cooperation, including in AI: Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628002200315",
-      "published_date": "2026-06-28T03:42:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "45bdda94fdd4e5817d5817dc88af329c",
-      "title": "(URGENT) Top defense chiefs of S. Korea, Japan agree to continue defense cooperation, including in AI technology: Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628002100315",
-      "published_date": "2026-06-28T03:23:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6da47c6508246ed4c90576f7412ea274",
-      "title": "Loans from private money lenders gain in 2nd half",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260627000900320",
-      "published_date": "2026-06-28T03:00:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7d7ed167d4fa8403ec4c3a784e2ad3ff",
-      "title": "KOTRA hosts K-food promotion event in Colombia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628001900320",
-      "published_date": "2026-06-28T02:55:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "acd5f51dcf696d56c93e13aebca6ff76",
-      "title": "(World Cup) Son Heung-min ends 4th World Cup with another group stage exit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628001200315",
-      "published_date": "2026-06-28T02:31:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e6f163136370d0047a8acb3024bfd049",
-      "title": "Gas prices fall under 2,000 won for 1st time in nearly 2 months",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628001100320",
-      "published_date": "2026-06-28T02:21:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "79a9b41e8104b0119c26125df8faeb90",
-      "title": "(LEAD) (World Cup) S. Korea eliminated from group stage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628000851315",
-      "published_date": "2026-06-28T01:50:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1129adab13644cb21f540668209bb937",
-      "title": "(World Cup) S. Korea coach fails to capitalize on 2nd chance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628000900315",
-      "published_date": "2026-06-28T01:43:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0ce09a1acac0d6674b678a3730612eda",
-      "title": "(World Cup) S. Korea eliminated from group stage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628000800315",
-      "published_date": "2026-06-28T01:38:04Z",
       "category": "Diplomacy"
     }
   ],
@@ -347,14 +347,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260622001051320",
       "published_date": "2026-06-21T23:59:58Z",
-      "category": "Energy"
-    },
-    {
-      "id": "552cdc297f48bfcc2ca6c3d5cfb3b353",
-      "title": "KEPCO to keep electricity rates frozen for Q3",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260622001000320",
-      "published_date": "2026-06-21T23:34:13Z",
       "category": "Energy"
     }
   ],
