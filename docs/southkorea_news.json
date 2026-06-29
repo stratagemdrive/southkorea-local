@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-29T14:47:57Z",
+  "generated_at": "2026-06-29T23:52:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,102 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "2fb76f44485156642ed63f820ebe882f",
+      "title": "Latest LPGA major winner Ryu Hae-ran cracks top 10 in world rankings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630001200315",
+      "published_date": "2026-06-29T23:14:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1287b89c01a5c58a69dec86f98c7268c",
+      "title": "(LEAD) Industrial output down in May due to sluggish memory production",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630001151320",
+      "published_date": "2026-06-29T23:13:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7218f2609e142e57d91134c469a1297a",
+      "title": "Industrial output down in May due to sluggish manufacturing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630001100320",
+      "published_date": "2026-06-29T23:00:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "95d3a58f5736f4001a9f1cae134fe6cb",
+      "title": "(URGENT) Industrial output declines, retail sales rebound in May",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630001000320",
+      "published_date": "2026-06-29T23:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "773f765f66595ee6538024b60098bb74",
+      "title": "(EDITORIAL from Korea JoongAng Daily on June 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630000700315",
+      "published_date": "2026-06-29T22:17:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "55df14cabad61baa4d4e948ae5273918",
+      "title": "(EDITORIAL from Korea Times on June 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630000600315",
+      "published_date": "2026-06-29T22:17:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6f68996f748d670a99f1637280641f83",
+      "title": "(EDITORIAL from Korea Herald on June 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630000500315",
+      "published_date": "2026-06-29T22:16:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "72700f15c9615b89a340a07f6a2e1102",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630000400315",
+      "published_date": "2026-06-29T22:16:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6fffd2c4eee36b6c3ec7b7df1ecc04c8",
+      "title": "Outgoing coach, nat'l team players return home to boos after early World Cup exit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630000300315",
+      "published_date": "2026-06-29T22:10:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "360d3dda98e05c7158271cc6dda07114",
+      "title": "Corporate direct financing dips 11 pct in May on decreased debt sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260629005600320",
+      "published_date": "2026-06-29T21:00:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "318dd9f31e1563be503ca9caa41f226e",
+      "title": "North Korea and China launch Myohyang beer brand in Chinese market",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-china-joint-venture-myohyang-beer/",
+      "published_date": "2026-06-29T20:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dd4cb2b85e4ea50419853ce04b1a4a54",
+      "title": "Stricter border controls leave Hyesan foragers with nowhere to sell their harvest",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-border-controls-mushroom-smuggling-hyesan/",
+      "published_date": "2026-06-29T17:56:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8e300b33b60215b1b4ae9976b46fad55",
       "title": "North Korea bans mobile phones for children under 14",
@@ -71,102 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260629006153315",
       "published_date": "2026-06-29T07:55:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "325c8a8ac841ca9b7071194ece598400",
-      "title": "Ruling party vows to complete parliamentary committee formation by Tues. despite PPP opposition",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629008600315",
-      "published_date": "2026-06-29T07:44:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4f25ab573666d4387c53b03c6efd122a",
-      "title": "(2nd LD) Seoul shares end tad lower on tech losses, Iran uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629007352320",
-      "published_date": "2026-06-29T07:43:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e84a58bfa7fedf52f89f63c4c72b004d",
-      "title": "20 first-timers highlight list of KBO All-Star reserves",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629009400315",
-      "published_date": "2026-06-29T07:42:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1035dcb84716430e273578052237ae97",
-      "title": "US, ROK and Japan call for crackdown on cybercrime funding North Korea nukes",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/us-rok-and-japan-call-for-crackdown-on-cybercrime-funding-north-korea-nukes/",
-      "published_date": "2026-06-29T07:41:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fd514ef3e0495f41d3d9ed244b50c4d5",
-      "title": "(2nd LD) Lee vows to secure chip, AI supremacy through large-scale investment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629006152315",
-      "published_date": "2026-06-29T07:39:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b91a04afa188d8f2603aaa03453f47e0",
-      "title": "3 PPP lawmakers booked for obstructing Yoon's arrest over martial law bid",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629007800315",
-      "published_date": "2026-06-29T07:38:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d1f428d192527c1718d8fbbb81e2ad50",
-      "title": "Lee, outgoing PM hold what could be last weekly meeting before Kim leaves office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629008500315",
-      "published_date": "2026-06-29T07:30:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8d4dffb8cf5bd9cbe5ded94c62c83903",
-      "title": "(LEAD) Seoul shares end tad lower on tech losses, Iran uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629007351320",
-      "published_date": "2026-06-29T07:01:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2d55301b5990bcfc7bd8fea4a110c650",
-      "title": "Seoul shares end tad lower on tech losses, Iran uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629007300320",
-      "published_date": "2026-06-29T06:38:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a17a26b14842e60ba281a7c429686d4",
-      "title": "Damien Hirst exhibition at MMCA attracts 540,000 visitors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629007400315",
-      "published_date": "2026-06-29T06:36:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a9196ffd2bc2f3ffd8c1669788de6c6",
-      "title": "(URGENT) Seoul shares end tad lower on tech losses, Iran uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629007000320",
-      "published_date": "2026-06-29T06:33:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "20d5a6ea92ec990f58869cc6d5935fa7",
-      "title": "Samsung to expand financial support for suppliers, help 6,700 firms expand overseas",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629005200320",
-      "published_date": "2026-06-29T06:30:01Z",
       "category": "Diplomacy"
     }
   ],
