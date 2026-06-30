@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-06-30T13:09:34Z",
+  "generated_at": "2026-06-30T23:57:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,102 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5c71d402ca9a62f83932d62352fcdd2e",
+      "title": "N. Korea's Kim vows strong ties with China on founding anniv. of Chinese Communist Party",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701000800315",
+      "published_date": "2026-06-30T23:46:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f7dbc2e21a4a946d1bffbbbb7c188356",
+      "title": "Son Heung-min, other players greeted by encouraging fans in return from World Cup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701000900315",
+      "published_date": "2026-06-30T23:17:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2c841bb0ad7716698a9a4dbca63a7e37",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701000700315",
+      "published_date": "2026-06-30T22:01:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "703c88a5ed40438f47f5cebbde4e8aee",
+      "title": "(EDITORIAL from Korea Times on July 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701000600315",
+      "published_date": "2026-06-30T22:01:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1df8a05d09e955ee508f9721f72b587e",
+      "title": "North Korean dried seafood and produce flow into China as luggage checks ease",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/china-eases-customs-checks-north-korean-goods/",
+      "published_date": "2026-06-30T18:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f11828e1db854bd6f56574751e4e6a8",
+      "title": "Supreme Court rejects Trump's attempt to limit birthright citizenship, upholds transgender athlete bans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701000200315",
+      "published_date": "2026-06-30T16:51:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8c09bc3b64e85132ae9136c3d2dcaa15",
+      "title": "(LEAD) National Assembly passes confirmation motion for PM nominee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630011151315",
+      "published_date": "2026-06-30T14:24:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7cb6252114151c6bf2cd897d810a669f",
+      "title": "Ex-U.S. official calls for diversification strategy for S. Korea's chip sector amid Hormuz disruptions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630011300315",
+      "published_date": "2026-06-30T14:13:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8d9591cdfb46b1cd5318562b2094dcf8",
+      "title": "KBO tops 7 mln fans in fewest games ever",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630011200315",
+      "published_date": "2026-06-30T13:44:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "38206bbafdcc2dc7fdd514dcd8694645",
+      "title": "(2nd LD) Nat'l Assembly elects parliamentary committee chairs amid PPP opposition",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630007452315",
+      "published_date": "2026-06-30T13:42:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "20f731372cd8083103f3c9ed1dc55ff2",
+      "title": "National Assembly passes confirmation motion for PM nominee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630011100315",
+      "published_date": "2026-06-30T13:37:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "12143ceff1045d21ba8f55128617ebe5",
+      "title": "Unlikely offensive hero enjoys rare outburst for Bears",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630010900315",
+      "published_date": "2026-06-30T13:13:34Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d4ac19814d42e6b6b0a81dbc04a93e87",
       "title": "Bears shut out Giants to begin new week in KBO",
@@ -71,102 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260630008600320",
       "published_date": "2026-06-30T08:30:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b71cb8466acb2a84a6d84dec6a5744aa",
-      "title": "S. Korean authorities sell net US$13.6 bln in Q1 to stabilize FX market",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630010200320",
-      "published_date": "2026-06-30T08:16:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "66653d30bda431cbb67d4ed7e5d9ab52",
-      "title": "North Korean illicit coal exports rising due to lax sanctions monitoring: report",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korean-illicit-coal-exports-rising-due-to-lax-sanctions-monitoring-report/",
-      "published_date": "2026-06-30T08:16:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "31cab628aef4c3f9102db49432093e32",
-      "title": "Foreign ministry mulls dispatching relief team to quake-devastated Venezuela",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630009100315",
-      "published_date": "2026-06-30T08:03:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dfb19fd62b63fa08aee40bd86b89f25c",
-      "title": "(LEAD) Lee says gov't will actively support chip cluster project in southwest",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630005851315",
-      "published_date": "2026-06-30T07:53:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "faf5184afa2a434760065818650681df",
-      "title": "Bears hoping to bring back temporary pitcher on full contract",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630008900315",
-      "published_date": "2026-06-30T07:48:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8b57a044cbe1c4ac85b556a031c093f8",
-      "title": "(2nd LD) Seoul shares rise nearly 1 pct on tech gains, with upcoming U.S.-Iran talks in focus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630007252320",
-      "published_date": "2026-06-30T07:46:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2a96c01c728300e381ade235890d1661",
-      "title": "(LEAD) S. Korean won hits fresh 17-yr low on fund outflows",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630003451320",
-      "published_date": "2026-06-30T07:24:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "26694ab3522d1243e40de510c7f6d1dc",
-      "title": "Outgoing North Chungcheong governor raided over bribery allegations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630007900315",
-      "published_date": "2026-06-30T07:06:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a4becaf169f4bdfb5678a9ea701c3dd6",
-      "title": "(LEAD) Seoul shares rise nearly 1 pct on tech gains, with upcoming U.S.-Iran talks in focus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630007251320",
-      "published_date": "2026-06-30T06:52:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c4156db2133937931d7425ca5be8d18b",
-      "title": "Seoul shares rise nearly 1 pct on tech gains, with upcoming U.S.-Iran talks in focus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630007200320",
-      "published_date": "2026-06-30T06:35:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e64f45e7b4eea7c384c739b1b70a0bb5",
-      "title": "(URGENT) Seoul shares end 0.97 pct higher on tech gains, with upcoming U.S.-Iran talks in focus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630007300320",
-      "published_date": "2026-06-30T06:33:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "88b48b27944a8af689d184f34f7c81b2",
-      "title": "Rival parties fail to agree on parliamentary committee formation ahead of plenary meeting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260630007400315",
-      "published_date": "2026-06-30T06:30:47Z",
       "category": "Diplomacy"
     }
   ],
@@ -306,17 +306,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260624005400315",
       "published_date": "2026-06-24T02:39:39Z",
       "category": "Military"
-    },
-    {
-      "id": "53e9b786bedda8f066c2012f6711a6be",
-      "title": "Kim Jong Un commissions North Korea’s largest warship, vows naval expansion",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/kim-jong-un-commissions-north-koreas-largest-warship-vows-naval-expansion/",
-      "published_date": "2026-06-23T23:15:00Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "9e0f5045196e328ca3dd212e9865139a",
+      "title": "(EDITORIAL from Korea Herald on July 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701000500315",
+      "published_date": "2026-06-30T22:01:04Z",
+      "category": "Energy"
+    },
     {
       "id": "fa952133d3dfe243043b724b03323182",
       "title": "(3rd LD) S. Korea to build semiconductor cluster in southwest with 800 tln won in corporate investment",
@@ -586,6 +586,54 @@
   ],
   "Local Events": [
     {
+      "id": "f87de48440c55f9815af70b39b1dcd30",
+      "title": "S. Korea to create additional domestic demand for steel amid EU safeguard",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701001000320",
+      "published_date": "2026-06-30T23:51:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7f6943e22cdfc9c37af218261f9d9c65",
+      "title": "Poor numbers aside, new Japanese pitcher Iimura enjoying life in KBO",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701001300315",
+      "published_date": "2026-06-30T23:39:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ac785d10bc7c960208b9a0b672f1ba4f",
+      "title": "'Teach You a Lesson' tops Netflix's weekly non-English chart for 4th week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701001100315",
+      "published_date": "2026-06-30T23:34:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9e786a7c87e3709f1bb89be38e373738",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701000400315",
+      "published_date": "2026-06-30T22:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7f05037dcd256fbd779dd5b1c87e000d",
+      "title": "Family of four found dead in North Korea’s Sakju county amid severe poverty",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/family-four-found-dead-sakju-county-north-korea-poverty/",
+      "published_date": "2026-06-30T21:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "43dce287858d9e2ba2ac28c3e1452c41",
+      "title": "(URGENT) National Assembly passes confirmation motion for PM nominee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260630011000315",
+      "published_date": "2026-06-30T13:13:50Z",
+      "category": "Local Events"
+    },
+    {
       "id": "1219c985048b02b6a58c8724013e4473",
       "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
@@ -695,54 +743,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260629003500315",
       "published_date": "2026-06-29T02:16:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "65fc79838d4fe7bcace2a51e96145c1f",
-      "title": "U-Know Yunho to release new single next month",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629003100315",
-      "published_date": "2026-06-29T01:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1a4037a4eef9bcfe7679c9d4986a04b4",
-      "title": "Court issues arrest warrant for suspect in Seoul museum stabbing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628003500320",
-      "published_date": "2026-06-28T08:06:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8c839de61c29442e45e8b1fb3b0a21e1",
-      "title": "Int'l council for capital police launched in Seoul to foster joint response to transnational crimes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260628001000315",
-      "published_date": "2026-06-28T01:52:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cec18332cfccd3e5f4a3215ca7c69e18",
-      "title": "Protests over ballot shortage continue for 23rd day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260627002300315",
-      "published_date": "2026-06-27T13:18:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3ca8dd1f1d8f681bf27544c82c669112",
-      "title": "Police seek arrest warrant for suspect behind stabbing at Seoul museum",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260627002200315",
-      "published_date": "2026-06-27T10:17:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2f4f923fd6d6ef7d2293be045ac45fe5",
-      "title": "Police capture suspect behind stabbing at museum in central Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626010700315",
-      "published_date": "2026-06-26T10:19:19Z",
       "category": "Local Events"
     }
   ]
