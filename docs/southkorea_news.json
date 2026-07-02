@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-02T12:58:59Z",
+  "generated_at": "2026-07-02T23:54:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "041e30b34469eb5a0af3fc099ad96baa",
+      "title": "White House official says Coupang 'singled out' by Lee gov't, warns against 'unfair' trade practices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703001100315",
+      "published_date": "2026-07-02T22:39:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d04374f400d76ddc5488cf3e1f9f2f21",
+      "title": "(EDITORIAL from Korea Times on July 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703000700320",
+      "published_date": "2026-07-02T21:59:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cee279e9ace39e9f0ef1586de5459bde",
+      "title": "(EDITORIAL from Korea Herald on July 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703000600320",
+      "published_date": "2026-07-02T21:59:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "20c71be330ca2b6e108a567a77bbc040",
+      "title": "Ex-Trump official warns Coupang dispute could strain S. Korea-U.S. alliance amid security threats",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703001000315",
+      "published_date": "2026-07-02T21:55:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e575c46985d0cfe83db656a86d085ce2",
+      "title": "S. Korea's foreign reserves rise in June despite FX market-stabilizing measures",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702007600320",
+      "published_date": "2026-07-02T21:00:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fedf712ce263b6db51d52cffbe81aa00",
+      "title": "North Korea orders probe into wave of prison deaths",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-orders-probe-into-wave-of-prison-deaths/",
+      "published_date": "2026-07-02T20:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a8ed282ff1649a46be64099ea8638e05",
+      "title": "Financial watchdog set to punish MBK Partners over Homeplus management",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702008800315",
+      "published_date": "2026-07-02T14:47:39Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "50573c85baaa2962833e79e9d5b66c06",
       "title": "Special counsel indicts ex-JCS chief over martial law involvement",
@@ -111,62 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260702005400320",
       "published_date": "2026-07-02T06:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "edc49722afbec41974f0831a84785e8d",
-      "title": "(LEAD) Lee vows to turn Chungcheong region into center of AI-led innovation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702004551315",
-      "published_date": "2026-07-02T06:14:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "83e184dae06e9b1fe53414d75e57c5b3",
-      "title": "North Korea leads global crypto crime with theft of $643M in first half of 2026",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-korea-leads-global-crypto-crime-with-theft-of-643m-in-first-half-of-2026/",
-      "published_date": "2026-07-02T05:57:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d49ef54bb2ef35b43f59800dd33374a7",
-      "title": "Doosan Bears sign temporary replacement pitcher to full contract, acquire new infielder",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702005800315",
-      "published_date": "2026-07-02T05:50:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "89a9b8265b7a122ef72c7786dbd5f3df",
-      "title": "(LEAD) Parliamentary committee enters blockaded ballot counting site for inspection",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702004751315",
-      "published_date": "2026-07-02T05:15:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2b00635c7c01faaaa46e15372388799d",
-      "title": "Russia trains North Korean experts to combat drug trafficking",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/russia-trains-north-korean-experts-to-combat-drug-trafficking/",
-      "published_date": "2026-07-02T05:14:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ecd443130de13d677f80086580e6ee01",
-      "title": "Lee vows to turn Chungcheong region into center of AI-led innovation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702004500315",
-      "published_date": "2026-07-02T02:37:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2892c8c45cae6e2a5ca1067293653ed9",
-      "title": "BIFAN set to open for 11-day run with record 321 films",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702004200315",
-      "published_date": "2026-07-02T02:12:37Z",
       "category": "Diplomacy"
     }
   ],
@@ -472,6 +472,22 @@
   ],
   "Economy": [
     {
+      "id": "7ec0c2a728d5643a1a4bf7d9ebd46862",
+      "title": "Investment expert named to head Commerce Dept. agency overseeing investment commitments by S. Korea, Japan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703000300315",
+      "published_date": "2026-07-02T20:13:44Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ac4bf042a1a2b2e633508f3b6b2a4573",
+      "title": "Chinese travel agencies cool on North Korea tourism restart",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/china-agencies-north-korea-tourism-restart/",
+      "published_date": "2026-07-02T17:42:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "e6e2bc065fca4cc5d2a67404ff10d73f",
       "title": "(LEAD) S. Korean won slides further against U.S. dollar on foreign selloff of local stocks",
       "source": "Yonhap News Agency",
@@ -614,25 +630,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260701004500320",
       "published_date": "2026-07-01T02:34:47Z",
       "category": "Economy"
-    },
-    {
-      "id": "29b48795b0eb8f054a55767adc6d79c7",
-      "title": "National Growth Fund to scale up investment in physical AI sector",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701002800320",
-      "published_date": "2026-07-01T02:00:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5fb9eefa5a2aa8215774a76a9f66cd7a",
-      "title": "Kim leaves office as prime minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701003000315",
-      "published_date": "2026-07-01T01:33:29Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "4053ff491716248b09a3fe09e672bb7f",
+      "title": "KBO clubs shutting down key pitchers as All-Star break nears",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703001600315",
+      "published_date": "2026-07-02T23:47:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "65a33ace2b53051ebdbd291f0f2bc746",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703000800320",
+      "published_date": "2026-07-02T21:59:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9fa508ca2d0505db7ae7da373bae1358",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703000500320",
+      "published_date": "2026-07-02T21:59:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "25187a553828c876e767ac746d3ea541",
+      "title": "Trump says U.S. spends more on NATO than any other member without any benefit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703000200315",
+      "published_date": "2026-07-02T18:23:48Z",
+      "category": "Local Events"
+    },
     {
       "id": "c771a32616e1ba71772f0fdead2b4aae",
       "title": "(2nd LD) S. Korea expresses regret over U.S. House report alleging discriminatory treatment of Coupang",
@@ -759,38 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260702000400320",
       "published_date": "2026-07-01T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5980772a29ba3238d8b3e23445d38207",
-      "title": "House committee issues report accusing S. Korea of 'discriminatory attacks' on Coupang, other U.S. firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702000200315",
-      "published_date": "2026-07-01T18:38:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2fca2740a4080ce8c8ae518a378e7470",
-      "title": "(LEAD) Local tax services normalized after system glitch: ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701006151315",
-      "published_date": "2026-07-01T14:40:57Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "420d4f0051d3d05f9371a817717dedec",
-      "title": "New PM orders thorough measures with heavy rain forecast to hit southern region",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701010100320",
-      "published_date": "2026-07-01T11:12:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bca87a8172fff5609fc88025a7479f0a",
-      "title": "High school baseball team banned for insensitive trash talk",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701009500315",
-      "published_date": "2026-07-01T09:07:46Z",
       "category": "Local Events"
     }
   ]
