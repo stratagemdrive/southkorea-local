@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-01T13:34:53Z",
+  "generated_at": "2026-07-02T00:00:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "35202a4f40e0650ebbe74c1083b4501f",
+      "title": "Padres' Song Sung-mun hits 1st MLB home run in loss",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001500315",
+      "published_date": "2026-07-01T23:32:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "327b0fc91284e4477511a61d306db814",
+      "title": "(Yonhap Feature) Inside Hyundai Motor's Namyang R&D Center: Building the future of mobility",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702000500320",
+      "published_date": "2026-07-01T23:30:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3b4819c2ca619a397843de8d485b612b",
+      "title": "Hyundai, Kia's U.S. H1 sales hit record highs on strong hybrid demand",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001400320",
+      "published_date": "2026-07-01T23:13:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "62034993515f04a2ffd79585522829a9",
+      "title": "(LEAD) Consumer prices rise to highest in 30 months in June on Middle East war impact",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001251320",
+      "published_date": "2026-07-01T23:11:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3cf3ac1b6673112399a0d8d9f7ca2071",
+      "title": "6 carmakers to recall over 146,000 vehicles due to faulty parts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001300320",
+      "published_date": "2026-07-01T23:02:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "01542066822f6a08fa72fa5bd9ad0433",
+      "title": "Consumer prices rise 3.2 pct in June amid lingering Middle East war impact",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001200320",
+      "published_date": "2026-07-01T23:00:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5f0b81c783bc9e72dfb2762de2f9bde9",
+      "title": "(URGENT) Consumer prices up 3.2 pct in June on high oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001100320",
+      "published_date": "2026-07-01T23:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0ba7edce822d0f42c3a8a5f73e3e0297",
+      "title": "(EDITORIAL from Korea Times on July 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702000700320",
+      "published_date": "2026-07-01T22:00:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "10a9d9a7527239efb64db2f1f36b33cf",
+      "title": "Kwon Soon-woo eliminated in 2nd round of Wimbledon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701010700315",
+      "published_date": "2026-07-01T13:58:02Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "46f6f3fd29f5251fa2b30f11e1d31824",
       "title": "Lee asks for swift passage of key bills in meeting with DP leadership",
@@ -96,81 +168,33 @@
       "url": "https://www.nknews.org/2026/07/russia-to-launch-bus-route-to-north-korea-by-end-of-2026-official/",
       "published_date": "2026-07-01T07:58:58Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "ca73b3c2df23c3bdd611eb3267b08a67",
-      "title": "FM says nuclear, tech cooperation will bring greater benefits to S. Korea-U.S. alliance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701008300315",
-      "published_date": "2026-07-01T07:56:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b14e2ed55c92efcf10a4ecaea16072d7",
-      "title": "Lee offers consolation to national football team after World Cup group-stage elimination",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701008100315",
-      "published_date": "2026-07-01T07:51:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cdd3255817fc56272dcef58d07308548",
-      "title": "Presidential unification body adds over 2,000 advisers, plans overseas expansion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701008000315",
-      "published_date": "2026-07-01T07:43:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7c0ac8bdc9ba0101b12873468909bb47",
-      "title": "(2nd LD) Seoul shares dip over 2 pct on tech losses amid Iran deal uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701006552320",
-      "published_date": "2026-07-01T07:41:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2110a29bebb64890ff1df86a1410130d",
-      "title": "Dinos sign new infielder Crim",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701007900315",
-      "published_date": "2026-07-01T07:41:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b8dba24d421b18b72f77700e4c7927c9",
-      "title": "North Korea set to export more beer to Russia as allies’ commercial ties bolster",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-korea-set-to-export-more-beer-to-russia-as-allies-commercial-ties-bolster/",
-      "published_date": "2026-07-01T07:32:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "93b53b579d5b43ff05edb1234214afc5",
-      "title": "Kia's global sales rise 9.5 pct in June on robust overseas demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701007600320",
-      "published_date": "2026-07-01T07:08:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "80de13e9056f6b2febe7a160d73c3f8c",
-      "title": "(LEAD) Seoul shares dip over 2 pct on tech losses amid Iran deal uncertainty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701006551320",
-      "published_date": "2026-07-01T06:52:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "82d103f21fa4f501c9535068dfdfbb9f",
-      "title": "(2nd LD) Lee calls for ruling party unity in meeting with ex-President Moon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701001252315",
-      "published_date": "2026-07-01T06:39:47Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "dcd488eadd5e0fd575173660c65e6447",
+      "title": "Hanwha Ocean picked as preferred bidder for 7.8 tln-won Navy destroyer project",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001600320",
+      "published_date": "2026-07-01T23:38:18Z",
+      "category": "Military"
+    },
+    {
+      "id": "a4337566a21f70dbbbc6cc911ea86a5d",
+      "title": "208 kg of heavy water leaked from Wolsong-4 reactor; no radiation issue reported",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702001000320",
+      "published_date": "2026-07-01T22:53:05Z",
+      "category": "Military"
+    },
+    {
+      "id": "1092003d0446a4ccc189cdb3ac3386e6",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702000800320",
+      "published_date": "2026-07-01T22:00:10Z",
+      "category": "Military"
+    },
     {
       "id": "92b2e952525935be4074412c488ffd7c",
       "title": "Defense ministry reviews progress on conditions for OPCON transfer",
@@ -306,30 +330,6 @@
       "url": "https://www.nknews.org/2026/06/seoul-plans-complete-overhaul-of-drone-operations-to-combat-north-korean-threats/",
       "published_date": "2026-06-26T09:15:31Z",
       "category": "Military"
-    },
-    {
-      "id": "0a34bdd30f6f60eec1351cef631e17e7",
-      "title": "(URGENT) S. Korea to push for deployment of 'K-Lucas' suicide drones: defense minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260626003300315",
-      "published_date": "2026-06-26T00:37:48Z",
-      "category": "Military"
-    },
-    {
-      "id": "00d4b6ab526d6d03412d9e7f17b5d086",
-      "title": "North Korea tests ability to strike ROK power stations with tactical nukes: KCNA",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korea-tests-ability-to-strike-rok-power-stations-with-tactical-nukes-kcna/",
-      "published_date": "2026-06-25T22:49:11Z",
-      "category": "Military"
-    },
-    {
-      "id": "47626b6c8aa55e1f59f1ecc99d169808",
-      "title": "North Korean construction near border is ‘civil,’ not armistice breach: UNC",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/06/north-korean-construction-near-border-is-civil-not-armistice-breach-unc/",
-      "published_date": "2026-06-25T08:58:24Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -463,6 +463,22 @@
     }
   ],
   "Economy": [
+    {
+      "id": "4d44c46525f7e90e24e7e380e16392c6",
+      "title": "(EDITORIAL from Korea Herald on July 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702000600320",
+      "published_date": "2026-07-01T22:00:05Z",
+      "category": "Economy"
+    },
+    {
+      "id": "cee447266ebb05aae2acc2f9bc37cb49",
+      "title": "(Yonhap Interview) Guatemala sees Korea-Central America FTA as catalyst for investment growth, export diversification: top diplomat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701010000315",
+      "published_date": "2026-07-01T21:00:03Z",
+      "category": "Economy"
+    },
     {
       "id": "203b01b6584b562a166643051b5bee0a",
       "title": "SK Group retains top spot in operating profit over Samsung Group in 2025: data",
@@ -606,25 +622,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260629006351320",
       "published_date": "2026-06-29T06:20:24Z",
       "category": "Economy"
-    },
-    {
-      "id": "d4b33e71639365a8a126fb1ecc9e4e12",
-      "title": "(URGENT) SK hynix to newly invest 1,100 tln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629006900320",
-      "published_date": "2026-06-29T06:12:11Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f65d9ed8d58bd1c5d492d2e8bdfefefb",
-      "title": "(URGENT) Industry minister unveils 800 tln-won semiconductor investment plan for S. Korea's southwest",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629005900320",
-      "published_date": "2026-06-29T05:29:09Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "cec0e08dd80610a9b0bfac060ef05489",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702000400320",
+      "published_date": "2026-07-01T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5980772a29ba3238d8b3e23445d38207",
+      "title": "House committee issues report accusing S. Korea of 'discriminatory attacks' on Coupang, other U.S. firms",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702000200315",
+      "published_date": "2026-07-01T18:38:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2fca2740a4080ce8c8ae518a378e7470",
+      "title": "(LEAD) Local tax services normalized after system glitch: ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260701006151315",
+      "published_date": "2026-07-01T14:40:57Z",
+      "category": "Local Events"
+    },
     {
       "id": "420d4f0051d3d05f9371a817717dedec",
       "title": "New PM orders thorough measures with heavy rain forecast to hit southern region",
@@ -759,30 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260701001400320",
       "published_date": "2026-07-01T00:01:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f87de48440c55f9815af70b39b1dcd30",
-      "title": "S. Korea to create additional domestic demand for steel amid EU safeguard",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701001000320",
-      "published_date": "2026-06-30T23:51:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7f6943e22cdfc9c37af218261f9d9c65",
-      "title": "Poor numbers aside, new Japanese pitcher Iimura enjoying life in KBO",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701001300315",
-      "published_date": "2026-06-30T23:39:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ac785d10bc7c960208b9a0b672f1ba4f",
-      "title": "'Teach You a Lesson' tops Netflix's weekly non-English chart for 4th week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701001100315",
-      "published_date": "2026-06-30T23:34:44Z",
       "category": "Local Events"
     }
   ]
