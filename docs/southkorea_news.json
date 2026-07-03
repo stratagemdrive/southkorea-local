@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-03T12:56:55Z",
+  "generated_at": "2026-07-03T23:56:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "6c309f9d6a4486825ad95ec5e38fb70f",
+      "title": "North Korea’s rural transit gap leaves a daughter unable to say goodbye",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rural-transit-funeral-derailment/",
+      "published_date": "2026-07-03T13:15:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "71eeb6135ef511f576d74477831d1ab4",
       "title": "(LEAD) S. Korea to establish low-Earth orbit communications network by 2035",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260703006900315",
       "published_date": "2026-07-03T05:36:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a0a0eae4cca44f198990889b3445095",
-      "title": "Lee to visit Turkey, Mongolia next week for NATO summit, talks with Mongolian president",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703006300315",
-      "published_date": "2026-07-03T05:15:59Z",
       "category": "Diplomacy"
     }
   ],
