@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-03T23:56:06Z",
+  "generated_at": "2026-07-04T12:08:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "edddfe7880056d7df5fbb4714251ea60",
+      "title": "Lee says mega development projects are for future, not approval ratings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704001800315",
+      "published_date": "2026-07-04T06:57:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4fa05a46debd49da3f1d660d06eb6db",
+      "title": "Landers release slumping starter Veneziano",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704001500315",
+      "published_date": "2026-07-04T04:33:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2a76abd67404d39df7a75b3a71ffb036",
+      "title": "2 illegal gambling network operators extradited from UAE in joint gov't operation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704000700315",
+      "published_date": "2026-07-04T01:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6c309f9d6a4486825ad95ec5e38fb70f",
       "title": "North Korea’s rural transit gap leaves a daughter unable to say goodbye",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260703007300315",
       "published_date": "2026-07-03T06:11:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cbb960f2c4bdafda35b6bd9bd642850c",
-      "title": "(2nd LD) Lee to visit Turkey, Mongolia next week for NATO summit, talks with Mongolian president",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703006352315",
-      "published_date": "2026-07-03T06:07:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "013e8834be395deefa4801c4e190e37a",
-      "title": "(LEAD) Lee to visit Turkey, Mongolia next week for NATO summit, talks with Mongolian president",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703006351315",
-      "published_date": "2026-07-03T05:39:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d20bc1cae16b451f856d8fe24349a068",
-      "title": "Unification ministry gauges public opinion on using N. Korea's official name",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703006900315",
-      "published_date": "2026-07-03T05:36:35Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "278c7cb0c679f9cd4f789ece8855df96",
+      "title": "(Yonhap Interview) After successful Dunamu exit, Kakao Ventures eyes 300 bln in returns amid renewed global interest in K-startups",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260703011600320",
+      "published_date": "2026-07-04T00:00:02Z",
+      "category": "Economy"
+    },
+    {
       "id": "8b7e90fbe70523f6be3cf1e67dbb8d7a",
       "title": "(LEAD) S. Korean won sharply strengthens on weaker U.S. employment growth",
       "source": "Yonhap News Agency",
@@ -646,17 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260702002600320",
       "published_date": "2026-07-02T01:21:22Z",
       "category": "Economy"
-    },
-    {
-      "id": "f4fad402ec81b850304134659d96ce29",
-      "title": "Korean won rises against U.S. dollar after Fed's Warsh remarks on inflation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702003100320",
-      "published_date": "2026-07-02T01:16:58Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "aeac17923fe77a3939b0a649e8002d7d",
+      "title": "New PM stresses need for more youth housing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704002000320",
+      "published_date": "2026-07-04T09:13:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d47f216dcd37873343e8e34c315b2537",
+      "title": "Ruling DP expresses 'strong regret' over recent U.S. House report regarding Coupang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704001700315",
+      "published_date": "2026-07-04T06:25:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3803272ca5e4a6b51533868d6c67dabc",
+      "title": "Police search Gwangju high school after bomb threat amid baseball trash talk controversy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704001600315",
+      "published_date": "2026-07-04T05:17:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "499ac6c4376e9e9c6e64ae899f04a124",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704000600315",
+      "published_date": "2026-07-04T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f7422f3b354c0236c78d3011a5401386",
+      "title": "BTS named La Plata 'honored guest' ahead of Argentina concerts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704000800315",
+      "published_date": "2026-07-04T01:56:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bab810a0edf315d5eb9796f7662ce3ae",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260704000500315",
+      "published_date": "2026-07-04T00:21:39Z",
+      "category": "Local Events"
+    },
     {
       "id": "2a6c1332a6a60a07a03d3f0615655144",
       "title": "(LEAD) Cheong Wa Dae refutes U.S. House committee report alleging discrimination against Coupang",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260703006500320",
       "published_date": "2026-07-03T04:57:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "28b890190119413bc6f079f9d311a077",
-      "title": "PM calls for anti-flood measures as monsoon season begins",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703006400315",
-      "published_date": "2026-07-03T04:33:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "da34eeb62577bc22e175368d16df82f4",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703005800320",
-      "published_date": "2026-07-03T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "32c1cc40a865c8d2b8f43ca9a171c87c",
-      "title": "(LEAD) Court ends rehabilitation process for troubled retailer Homeplus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703004952315",
-      "published_date": "2026-07-03T04:01:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b1373f5ae9388c6f2ef55688b8605afc",
-      "title": "Court scraps rehabilitation proceedings for Homeplus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703004951315",
-      "published_date": "2026-07-03T02:41:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "17d29443577c01bea0da52d6b283524d",
-      "title": "Ex-Coast Guard chief attends arrest warrant hearing over alleged martial law role",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703005000315",
-      "published_date": "2026-07-03T02:33:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4a6c3911625e1c907f0fda00753f3632",
-      "title": "(URGENT) Court decides to scrap rehabilitation proceedings for Homeplus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703004900315",
-      "published_date": "2026-07-03T02:17:35Z",
       "category": "Local Events"
     }
   ]
