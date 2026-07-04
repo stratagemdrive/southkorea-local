@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-04T12:08:06Z",
+  "generated_at": "2026-07-04T23:52:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "99ab2aeafc36685b49c65dc35ce8419c",
+      "title": "N. Korea's Kim observes weapons tests from naval destroyer Kang Kon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260705000400315",
+      "published_date": "2026-07-04T22:27:53Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "edddfe7880056d7df5fbb4714251ea60",
       "title": "Lee says mega development projects are for future, not approval ratings",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260703007500320",
       "published_date": "2026-07-03T06:34:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "482bac6d6f2c58b168d824d7d4d284f8",
-      "title": "Veterans ministry hosts exchange camp for descendants of Korean War veterans of foreign countries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703007300315",
-      "published_date": "2026-07-03T06:11:37Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "be5901387a12bcdc3488204baa3427cb",
+      "title": "Trump's financial disclosure reveals 18 Coupang stock trades since late last year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260705000200315",
+      "published_date": "2026-07-04T21:24:05Z",
+      "category": "Economy"
+    },
+    {
       "id": "278c7cb0c679f9cd4f789ece8855df96",
       "title": "(Yonhap Interview) After successful Dunamu exit, Kakao Ventures eyes 300 bln in returns amid renewed global interest in K-startups",
       "source": "Yonhap News Agency",
@@ -645,14 +653,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260702002651320",
       "published_date": "2026-07-02T01:56:03Z",
-      "category": "Economy"
-    },
-    {
-      "id": "16e5e24cb55f2eb575e05ad400a788d5",
-      "title": "Samsung, SK hynix to build HBM packaging fabs in Chungcheong region as part of 392 tln won in total investment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702002600320",
-      "published_date": "2026-07-02T01:21:22Z",
       "category": "Economy"
     }
   ],
