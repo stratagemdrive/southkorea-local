@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-05T12:17:59Z",
+  "generated_at": "2026-07-05T23:55:49Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "4a9861ea3282c66ec31a8e34d083f289",
+      "title": "Foreign cruise visitors to S. Korea top 200,000 in May",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706001400315",
+      "published_date": "2026-07-05T23:35:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e1071477180f3f59e1c0fdd4a0ece4a1",
+      "title": "N. Korea's new ambassador to Austria assumes post: state media",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706001300315",
+      "published_date": "2026-07-05T23:32:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "58042a1450cf32bed889bfb1daf9c2c3",
+      "title": "S. Korea launches around-the-clock FX trading, vows to improve access to won",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706001100320",
+      "published_date": "2026-07-05T23:30:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3b4c5551b472930d6b540352b1fc2d24",
       "title": "Iran invited S. Korea to late supreme leader's funeral, later canceled plan: sources",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260703010000320",
       "published_date": "2026-07-03T07:51:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ab0e7cd5b020facca9749fd729b85078",
-      "title": "(2nd LD) Seoul stocks jump nearly 6 pct as bargain buying lifts chipmakers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703007752320",
-      "published_date": "2026-07-03T07:48:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f3e48344ba6a578a374c9c1a46857346",
-      "title": "North Korean traders fall victim to Russian corn supply scam: records",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-korean-traders-fall-victim-to-russian-corn-supply-scam-records/",
-      "published_date": "2026-07-03T07:35:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1ea43ce7e6166362fb09b0413ef8b84a",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703005100315",
-      "published_date": "2026-07-03T07:00:01Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "afbad05fe1e693ad58a9618ddfdf0415",
+      "title": "(EDITORIAL from Korea Herald on July 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706000400320",
+      "published_date": "2026-07-05T22:00:01Z",
+      "category": "Energy"
+    },
+    {
       "id": "fe030e125dc9093c930b042401a974ba",
       "title": "(LEAD) Trump touts America's achievements, potential on its 250th anniv. amid challenges at home and abroad",
       "source": "Yonhap News Agency",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260629006252320",
       "published_date": "2026-06-29T07:37:07Z",
       "category": "Energy"
-    },
-    {
-      "id": "00ebf635959bb63fe3ad148086a9d109",
-      "title": "(LEAD) S. Korea unveils large-scale investment projects to spearhead chip, AI development",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260629006151315",
-      "published_date": "2026-06-29T06:30:12Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "bdb46cbc9f1fcde144b1844340aadcfd",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706000600320",
+      "published_date": "2026-07-05T22:00:01Z",
+      "category": "Economy"
+    },
     {
       "id": "5866b553baf2ab2a71749d1e70981670",
       "title": "Japanese beer imports top 100,000 tons for 1st time in 2025 on rising demand",
@@ -646,17 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260702005600320",
       "published_date": "2026-07-02T06:00:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "d8be9b1ba54625cd41d400f1c3e0e213",
-      "title": "S. Korea's drug exports top $10 bln for 1st time in 2025: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702004800320",
-      "published_date": "2026-07-02T02:53:06Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "d9229da1a25ca797a4967bd009e0f6d1",
+      "title": "KBO's top 2 clubs set for clash in final series before break",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706001200315",
+      "published_date": "2026-07-05T23:24:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "28b19bf0ee4c70b1ea63e2c27a9cdc5d",
+      "title": "Ateez scores 3rd No. 1 on Billboard 200 with 'Golden Hour: Part. 5'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706000800315",
+      "published_date": "2026-07-05T22:41:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f102a4912036fb5134223085a7fc0b6c",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706000300320",
+      "published_date": "2026-07-05T22:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "592bef8bd10be998f89e15009b4dc74d",
+      "title": "(EDITORIAL from Korea Times on July 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706000500320",
+      "published_date": "2026-07-05T22:00:01Z",
+      "category": "Local Events"
+    },
     {
       "id": "a13176bc67a674bad90ade1b6bd8f1c9",
       "title": "Braves' Kim Ha-seong out with finger injury",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260703009800315",
       "published_date": "2026-07-03T07:58:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b22a80a63fa38da893ae843bddb1652c",
-      "title": "Cheong Wa Dae refutes U.S. House committee report alleging discrimination against Coupang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703009700315",
-      "published_date": "2026-07-03T07:36:28Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b08174867fa5780ee6ea8e6d24fee691",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703005600315",
-      "published_date": "2026-07-03T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b3a2b6e73292d71ccab255fbcc709d2d",
-      "title": "(LEAD) Alumni plead for leniency for high school banned over baseball trash talk",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703006851315",
-      "published_date": "2026-07-03T06:50:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0f00cd8a14c39aa367aecfe5a17be9f9",
-      "title": "S. Korea, China to hold public diplomacy forum in Seoul next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703007400315",
-      "published_date": "2026-07-03T06:10:10Z",
       "category": "Local Events"
     }
   ]
