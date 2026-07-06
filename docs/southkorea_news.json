@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-06T14:27:58Z",
+  "generated_at": "2026-07-06T23:57:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "450f26a0d54edd6266e6d4297b392bd6",
+      "title": "(LEAD) Lee departs for Turkey to attend NATO summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001051315",
+      "published_date": "2026-07-06T23:46:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e3447363487d86f316b5cb5209090ba8",
+      "title": "S. Korea, Singapore hold 2nd round of talks to upgrade bilateral FTA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001200320",
+      "published_date": "2026-07-06T22:29:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "58e61268aa19db24d21ceee4bedd0278",
+      "title": "Monsta X's Kihyun takes bold step beyond comfort in new solo project",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260702006600315",
+      "published_date": "2026-07-06T22:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "786e348d2309dd5699f50ae3952bff0d",
+      "title": "(EDITORIAL from Korea Times on July 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707000700320",
+      "published_date": "2026-07-06T21:57:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "be03d8f14fb3133530a3aa5683806d4d",
+      "title": "(EDITORIAL from Korea Herald on July 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707000600320",
+      "published_date": "2026-07-06T21:57:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "22a559aff5fa7a7ab533df8fc7338bea",
+      "title": "Lee set to depart for Turkey to attend NATO summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001000315",
+      "published_date": "2026-07-06T21:41:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9317a5c99b573c3efd82c9ddca2f588e",
+      "title": "Bus crossing hints at New Yalu River Bridge opening",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/new-yalu-river-bridge-china-north-korea-opening/",
+      "published_date": "2026-07-06T20:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e24283dc15aa05cabc08d92675ab3311",
+      "title": "Dalian eyes trade with North Korea despite sanctions",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/dalian-china-north-korea-trade-sanctions/",
+      "published_date": "2026-07-06T17:07:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5479023b0c53eb7ccd7c4055be402750",
       "title": "Pyongyang residents balk at overseas labor dispatch",
@@ -104,73 +168,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260706003351315",
       "published_date": "2026-07-06T02:37:37Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "71caa47109343f774d844de569731df1",
-      "title": "Chung Mong-gyu resigns as nat'l football chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706004400315",
-      "published_date": "2026-07-06T02:36:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "babc591e0b7ce24d74deb06ee6f35bb8",
-      "title": "Ex-PM Kim announces bid for ruling party leadership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706004100315",
-      "published_date": "2026-07-06T02:21:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4593e0b47a9e1cb6259572c6bb7b8926",
-      "title": "Foreign delivery workers using borrowed accounts surge 11-fold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706003100315",
-      "published_date": "2026-07-06T02:13:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3e313b5c9ab0ababf2c3d2d561b70694",
-      "title": "Lee calls for prompt execution of chip cluster, AI investment projects",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706003300315",
-      "published_date": "2026-07-06T02:12:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "36b9615af8deca71046fe199270cae55",
-      "title": "KT to invest 18 tln won in AI platform company transformation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706002700320",
-      "published_date": "2026-07-06T01:57:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4be831a4bab64b8cb153dccd56140985",
-      "title": "(URGENT) Seoul stocks open 1.06 pct higher on bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706002300320",
-      "published_date": "2026-07-06T00:13:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e1d70fb1a8452c40c3c55877bc0419ad",
-      "title": "Lee's approval rating inches up after 6-week decline: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706002100315",
-      "published_date": "2026-07-06T00:13:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4a9861ea3282c66ec31a8e34d083f289",
-      "title": "Foreign cruise visitors to S. Korea top 200,000 in May",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706001400315",
-      "published_date": "2026-07-05T23:35:30Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "c01b54ce39bc5df808161b0abb5281a4",
+      "title": "(3rd LD) S. Korea loses bid for Canadian submarine program to Germany's TKMS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706008753320",
+      "published_date": "2026-07-06T22:11:32Z",
+      "category": "Military"
+    },
+    {
+      "id": "43f9af61377334ea9b2383d756ec7245",
+      "title": "(2nd LD) S. Korea loses bid for Canadian submarine program to Germany's TKMS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706008752320",
+      "published_date": "2026-07-06T21:48:08Z",
+      "category": "Military"
+    },
+    {
+      "id": "64caed3462e17b691d03490627631fae",
+      "title": "(LEAD) S. Korea loses bid for Canadian submarine program to Germany's TKMS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706008751320",
+      "published_date": "2026-07-06T21:16:29Z",
+      "category": "Military"
+    },
+    {
+      "id": "1e83b2250742f1b782ababe23f941ae0",
+      "title": "S. Korea loses bid for Canadian submarine program to Germany's TKMS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260706008700320",
+      "published_date": "2026-07-06T20:18:17Z",
+      "category": "Military"
+    },
     {
       "id": "e54033819da32cb6f1844a8d0326936c",
       "title": "Defense ministry yet to work out details of relocation plan for Gwangju military airport",
@@ -298,41 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260702001000320",
       "published_date": "2026-07-01T22:53:05Z",
       "category": "Military"
-    },
-    {
-      "id": "1092003d0446a4ccc189cdb3ac3386e6",
-      "title": "(EDITORIAL from Korea JoongAng Daily on July 2)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702000800320",
-      "published_date": "2026-07-01T22:00:10Z",
-      "category": "Military"
-    },
-    {
-      "id": "92b2e952525935be4074412c488ffd7c",
-      "title": "Defense ministry reviews progress on conditions for OPCON transfer",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701007700315",
-      "published_date": "2026-07-01T08:06:00Z",
-      "category": "Military"
-    },
-    {
-      "id": "6d2af9fcc4e4868889ad99e5eafe012f",
-      "title": "Navy chief to visit Hawaii this week for RIMPAC exercise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260701007500315",
-      "published_date": "2026-07-01T07:03:10Z",
-      "category": "Military"
-    },
-    {
-      "id": "a8d44749aa1475f3a3927ebcc2f16803",
-      "title": "Destroyer deployment, missile tests, drone warfare and North Korea’s near misses",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/destroyer-deployment-missile-tests-drone-warfare-and-north-koreas-near-misses/",
-      "published_date": "2026-07-01T05:32:48Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "3589e71678ae84a224fc32582095052a",
+      "title": "Ex-champion Kim Hyo-joo goes for 2nd LPGA major title at Evian Championship",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001700315",
+      "published_date": "2026-07-06T23:32:00Z",
+      "category": "Energy"
+    },
     {
       "id": "33759c44125cdc41411dd9cc2fdbc3e9",
       "title": "PPP holds ethics committee meeting to review disciplinary measures against lawmakers",
@@ -484,17 +492,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260702005500320",
       "published_date": "2026-07-02T06:00:03Z",
       "category": "Energy"
-    },
-    {
-      "id": "30ac0fc0ed7d0cfed78487a95306162d",
-      "title": "BOK expects inflation to ease in July on lower crude oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260702003000320",
-      "published_date": "2026-07-02T01:04:40Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "e97ba2ad5fc0fcff9ca19b10544d4e63",
+      "title": "Major investment banks' average forecast for S. Korea's 2026 growth reaches 3 pct: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001900320",
+      "published_date": "2026-07-06T23:53:19Z",
+      "category": "Economy"
+    },
+    {
+      "id": "936db9d44148564ffaa2a3f95ec46cef",
+      "title": "(2nd LD) Samsung's Q2 operating profit reaches 89.4 tln won, sets fresh high",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001651320",
+      "published_date": "2026-07-06T23:47:24Z",
+      "category": "Economy"
+    },
+    {
+      "id": "899fbd60ba6d677e0670a3ab58c6c6ac",
+      "title": "(LEAD) Samsung's Q2 operating profit reaches 89.4 tln won, sets fresh high",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001600320",
+      "published_date": "2026-07-06T23:12:49Z",
+      "category": "Economy"
+    },
+    {
+      "id": "555a104306c9d96e1ca8f1606a7a42f1",
+      "title": "(URGENT) Samsung's Q2 operating profit reaches 89.4 tln won, sets fresh high",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707001300320",
+      "published_date": "2026-07-06T22:42:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6fb8a66583ed5423a2f63b9efdd05372",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707000800320",
+      "published_date": "2026-07-06T21:57:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "93c6a8eb53e00d928b0fc30d727e616f",
+      "title": "S. Korean trade association urges USTR to defer or lower proposed forced labor tariff",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707000300315",
+      "published_date": "2026-07-06T20:31:37Z",
+      "category": "Economy"
+    },
+    {
+      "id": "55693e32a7d39e0294854250d82520a1",
+      "title": "Trump restates tariffs have driven S. Korean, Japanese, other auto firms to build plants in U.S.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707000200315",
+      "published_date": "2026-07-06T17:20:00Z",
+      "category": "Economy"
+    },
     {
       "id": "f68a9fe6b0f37847af060babc1e725d7",
       "title": "SK hynix lowers Nasdaq ADR offering to 43 tln won",
@@ -598,65 +654,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260705000800320",
       "published_date": "2026-07-05T00:58:45Z",
       "category": "Economy"
-    },
-    {
-      "id": "be5901387a12bcdc3488204baa3427cb",
-      "title": "Trump's financial disclosure reveals 18 Coupang stock trades since late last year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260705000200315",
-      "published_date": "2026-07-04T21:24:05Z",
-      "category": "Economy"
-    },
-    {
-      "id": "278c7cb0c679f9cd4f789ece8855df96",
-      "title": "(Yonhap Interview) After successful Dunamu exit, Kakao Ventures eyes 300 bln in returns amid renewed global interest in K-startups",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703011600320",
-      "published_date": "2026-07-04T00:00:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8b7e90fbe70523f6be3cf1e67dbb8d7a",
-      "title": "(LEAD) S. Korean won sharply strengthens on weaker U.S. employment growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703002751320",
-      "published_date": "2026-07-03T07:37:58Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6b8ecd090d0c0ff52f359568aed4df38",
-      "title": "SKT to invest 140 tln won for 'hyperscale' AI data centers in Yeongnam",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703009600320",
-      "published_date": "2026-07-03T07:30:26Z",
-      "category": "Economy"
-    },
-    {
-      "id": "270cd0dd7aa18cb78aa383b000b05db8",
-      "title": "Hyundai Motor to invest 42 tln won in southeast to develop mobility, physical AI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703009400320",
-      "published_date": "2026-07-03T07:26:36Z",
-      "category": "Economy"
-    },
-    {
-      "id": "42843713f656c29028106a9b33b12f91",
-      "title": "Conglomerates to invest 312 tln won in southeast for AI, SMR sectors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703002800320",
-      "published_date": "2026-07-03T06:51:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "2db68ad981bff5a962bfbb76948bc61d",
-      "title": "(URGENT) Hanwha to invest 55 tln won in aerospace, AI by 2040",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703007800320",
-      "published_date": "2026-07-03T06:14:02Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "d3f351fc2aa4b5faac92701730efa55d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260707000500320",
+      "published_date": "2026-07-06T21:56:59Z",
+      "category": "Local Events"
+    },
     {
       "id": "37c8a60b7f971b56c714e5391b59f2af",
       "title": "I-dle brings heat to summer with sensual 'Gimme Dat Love'",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260706001200315",
       "published_date": "2026-07-05T23:24:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "28b19bf0ee4c70b1ea63e2c27a9cdc5d",
-      "title": "Ateez scores 3rd No. 1 on Billboard 200 with 'Golden Hour: Part. 5'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706000800315",
-      "published_date": "2026-07-05T22:41:36Z",
       "category": "Local Events"
     }
   ]
