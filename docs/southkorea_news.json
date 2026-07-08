@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-08T12:22:22Z",
+  "generated_at": "2026-07-08T23:58:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "969a7488a86cc848270d942fb2807d00",
+      "title": "Youn Yuh-jung nominated for best supporting actress at Emmys",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709001300315",
+      "published_date": "2026-07-08T23:45:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d991b56ffce5660115c45e28458fb900",
+      "title": "SK Group chief to visit U.S. for SK hynix's listing debut on Nasdaq",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709001200320",
+      "published_date": "2026-07-08T23:32:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cf4bf9ba977b2e50371068f7c833d98b",
+      "title": "N. Korea slams S. Korea-Japan military cooperation as 'self-destruction'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709001000315",
+      "published_date": "2026-07-08T23:09:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ed4376070e65c9321d64b7720c8a1085",
+      "title": "Lee arrives in Ulaanbaatar for summit with Mongolian president",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260708012100315",
+      "published_date": "2026-07-08T22:25:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dc8b0791473ca03f3f983ca42db77628",
+      "title": "(EDITORIAL from Korea Times on July 9)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709000700320",
+      "published_date": "2026-07-08T22:04:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6f1c412e29fb7bb5589022a425e6997d",
+      "title": "(LEAD) Trump says Iran war unlikely to resume, U.S. not seeking 'long-term' conflict",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709000251315",
+      "published_date": "2026-07-08T17:34:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "48eb05ae24fd3f7a865aa340f160fb00",
+      "title": "S. Korea, U.S. share need to 'stably' manage Coupang issue: Seoul envoy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709000300315",
+      "published_date": "2026-07-08T16:47:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7e7938a806edae84522c37256b4f9444",
+      "title": "Lee wraps up trip to Ankra, heads to Ulaanbaatar for summit with Mongolian president",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260708011300315",
+      "published_date": "2026-07-08T15:08:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3236272244e8b15234cb4ed03c45525f",
+      "title": "Smugglers in Hyesan take up Chinese lessons",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-smugglers-learn-chinese-hyesan/",
+      "published_date": "2026-07-08T14:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cc188b0ce3ad2efb32699cc1d58018b9",
+      "title": "Lee says S. Korea hopes to expand cooperation with Romania beyond defense sector",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260708012000315",
+      "published_date": "2026-07-08T13:21:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d070a435601ff1000c5dcf9efd9bcce4",
+      "title": "IMF revises up S. Korea's economic growth outlook as chips offset war impact",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260708008200320",
+      "published_date": "2026-07-08T13:00:02Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ff793108b357a0e8739227b501f4a3fd",
       "title": "(2nd LD) Lee, Zelenskyy agree to handle N. Korean POWs in Ukraine on humanitarian grounds",
@@ -79,94 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260708011200320",
       "published_date": "2026-07-08T08:05:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "22b64796b22f6a3534defa463adc6af4",
-      "title": "Major banks to offer financial support to Homeplus suppliers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708010300320",
-      "published_date": "2026-07-08T07:56:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ebd6096e65dae7b8a84b8c89c7f40edb",
-      "title": "Former sex workers near U.S. bases seek truth panel probe into rights violations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708009400315",
-      "published_date": "2026-07-08T07:40:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f85023b270f2a0e3747aada528d8a40b",
-      "title": "Lee Byung-hun, Go Youn-jung cast in upcoming Joseon-era action film",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708009300315",
-      "published_date": "2026-07-08T07:28:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0f9415afa6f4f4a4c8a61e7407464f8c",
-      "title": "Lee, Norway PM Store discuss deepening cooperation in security, technology",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708009200315",
-      "published_date": "2026-07-08T07:26:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "11ebbecafc93cf84d45931a466511862",
-      "title": "Landers acquire ex-MLB, NPB pitcher Avila",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708009100315",
-      "published_date": "2026-07-08T07:15:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8b18e96e3d886d8970e3dfa53d2a5e42",
-      "title": "North Korea’s new destroyers, China border trade and Seoul’s coexistence dilemma",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-koreas-new-destroyers-china-border-trade-and-seouls-coexistence-dilemma/",
-      "published_date": "2026-07-08T06:03:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9b748e5a00c71ab4efe55884326035e4",
-      "title": "'The East Palace' seeks to blend in beauty of Korean tradition while keeping story universal: director",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708006900315",
-      "published_date": "2026-07-08T05:31:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c75191427add63df8eb9e1405a22dbf2",
-      "title": "3 family members found dead at apartment in Osan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708007100315",
-      "published_date": "2026-07-08T05:24:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d52eb0dad046fc7fb74bd6b459a10cda",
-      "title": "Twins slugger Austin Dean voted KBO's top player for June",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708007200315",
-      "published_date": "2026-07-08T05:21:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "02fce212df04def033712516c9b9a48a",
-      "title": "Kim Jong Un visits mausoleum to mark 32nd death anniversary of Kim Il Sung",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/kim-jong-un-visits-mausoleum-to-mark-32nd-death-anniversary-of-kim-il-sung/",
-      "published_date": "2026-07-08T05:09:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c2fedc4ac72b45ce68057ca0d2fad2b2",
-      "title": "Samsung Heavy's orders top US$10 bln this year with oil tanker deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708006200320",
-      "published_date": "2026-07-08T04:41:55Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "f5fc5576737dd280c54948c2259bf089",
+      "title": "S. Korea, Malaysia agree to enhance nuclear energy, strategic ties during high-level talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260708011900315",
+      "published_date": "2026-07-08T12:17:17Z",
+      "category": "Energy"
+    },
+    {
       "id": "1a7aee13650843e63a64b42014dd8874",
       "title": "8 platform operators subject to new Network Act revision",
       "source": "Yonhap News Agency",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260705000600315",
       "published_date": "2026-07-05T00:28:14Z",
       "category": "Energy"
-    },
-    {
-      "id": "9336ba2e25c1cc1c77f6869c7f9b2fca",
-      "title": "Lee to review mega chip cluster project next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703011800315",
-      "published_date": "2026-07-03T12:35:39Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "f7276435f86967d77a43ddf41f2b385c",
+      "title": "ADB revises up S. Korea's growth projection for 2026 to 2.6 pct",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260708009500320",
+      "published_date": "2026-07-08T15:30:02Z",
+      "category": "Economy"
+    },
     {
       "id": "008f20b8aaf28774f82b39b4707fe892",
       "title": "S. Korea's digital industry expands 9.3 pct in 2024: report",
@@ -646,17 +654,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260707001900320",
       "published_date": "2026-07-06T23:53:19Z",
       "category": "Economy"
-    },
-    {
-      "id": "936db9d44148564ffaa2a3f95ec46cef",
-      "title": "(2nd LD) Samsung's Q2 operating profit reaches 89.4 tln won, sets fresh high",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260707001651320",
-      "published_date": "2026-07-06T23:47:24Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "20fa9f3e6aafec6dafb1fed1c5434eec",
+      "title": "Supreme Court set to rule on ex-President Yoon's obstruction of justice charges",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709001100315",
+      "published_date": "2026-07-08T23:11:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0131a67ebf28bd39ff06cb1521f023f3",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 9)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709000800320",
+      "published_date": "2026-07-08T22:04:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "55093261c155f613a850e319986cc8c1",
+      "title": "(EDITORIAL from Korea Herald on July 9)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709000600320",
+      "published_date": "2026-07-08T22:03:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b91c930c2e2137db4a484477aa63bd46",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709000500320",
+      "published_date": "2026-07-08T22:03:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b224285c43865a47779e7693731d583a",
+      "title": "Trump says Iran MOU is over, warns U.S. may reimpose naval blockade",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709000200315",
+      "published_date": "2026-07-08T16:08:37Z",
+      "category": "Local Events"
+    },
     {
       "id": "8fb5ee0bf50e69c883c97515db3d5c1a",
       "title": "(2nd LD) Acting police chief to cut short U.S. trip amid murder case probe controversy",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260708001852315",
       "published_date": "2026-07-08T04:53:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "46a0b2ce2750ac0c78999bfbc038ea43",
-      "title": "KRX issues sell-side sidecar for KOSPI on sharp fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708006800320",
-      "published_date": "2026-07-08T04:50:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "27ce2b7bf246d3cf797278355ee9b009",
-      "title": "(URGENT) Bourse operator issues sell-side sidecar on KOSPI's sharp decline",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708006600320",
-      "published_date": "2026-07-08T04:37:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d87f32abf7762c72c7c1343a0530be4e",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708006300315",
-      "published_date": "2026-07-08T04:29:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b417ec2893e687882fd986e9a9e2a48d",
-      "title": "(LEAD) Power outage causes morning commute chaos on Seoul Subway Line 1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708004051315",
-      "published_date": "2026-07-08T03:16:30Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6a82a82035e967aa3da310926d159472",
-      "title": "Court recognizes employee status of delivery riders for 1st time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708005800315",
-      "published_date": "2026-07-08T03:04:54Z",
       "category": "Local Events"
     }
   ]
