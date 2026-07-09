@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-09T13:50:48Z",
+  "generated_at": "2026-07-09T23:56:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "26d3d3130de2a1fbce47574c39a52b61",
+      "title": "N. Korea to expand intelligence agency's role against 'potential enemies'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710001100315",
+      "published_date": "2026-07-09T23:06:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "25ad5751a98d178c0af4e8b78f76a364",
+      "title": "Go Woo-suk surrenders home run in MLB debut for Minnesota",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710001000315",
+      "published_date": "2026-07-09T22:35:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d1370d0ca4fda69f352b90ca94a916f2",
+      "title": "(EDITORIAL from Korea Herald on July 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710000700315",
+      "published_date": "2026-07-09T21:53:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "65a8a1d8a9132e48e6693bf76e5eb789",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710000600315",
+      "published_date": "2026-07-09T21:53:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6f36f0574377b3e2c22e0afbaabb33eb",
+      "title": "U.S. calls on S. Korea not to impose 'disproportionate' burdens on U.S. firms under revised network act",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710000400315",
+      "published_date": "2026-07-09T21:01:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "745b006f0a2ba6fe46d0cb641d91322f",
+      "title": "New Russia-tied directive stuns Nampo officials",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/nampo-russia-ties-directive/",
+      "published_date": "2026-07-09T19:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "396158d11eb9966dacd4ce2490087718",
+      "title": "Satellite images reveal flooded rail line in Ryanggang province",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-railway-flooded-dam-ryanggang/",
+      "published_date": "2026-07-09T18:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1a0c81d73dd78d8381fb760802088860",
+      "title": "(News Focus) Debate grows over how to tackle N. Korea's nuclear threats amid stalled dialogue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710000200315",
+      "published_date": "2026-07-09T18:05:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "38111781b78e2702dbc235ebadfb1983",
+      "title": "(LEAD) Lee, Mongolian president pledge closer cooperation on critical minerals, trade, advanced tech",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709008852315",
+      "published_date": "2026-07-09T14:41:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cadcfcca4df91bb966d7ae0437fbac6d",
+      "title": "KBO sets first-half attendance record",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709009300315",
+      "published_date": "2026-07-09T13:53:06Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "651c31f79b1fae939be45f272a112852",
       "title": "North Korea shifts China ventures toward learning",
@@ -88,89 +168,25 @@
       "url": "https://www.nknews.org/2026/07/north-korean-abductee-rejects-28k-settlement-demands-apology-from-seoul/",
       "published_date": "2026-07-09T08:53:17Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "5b88aea09059b4c6dbea77df7a79ffc2",
-      "title": "(LEAD) N. Korea's premier to visit China to mark 65th anniv. of signing of friendship treaty: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709007451315",
-      "published_date": "2026-07-09T08:05:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7cd82ef8978a7eb225f63dd5440fa501",
-      "title": "North Korea’s premier to visit China to celebrate alliance treaty",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-koreas-premier-to-visit-china-to-celebrate-alliance-treaty/",
-      "published_date": "2026-07-09T07:50:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "91055b4f6d48024d9a2b68d3cf9721ee",
-      "title": "N. Korea's premier to visit China to mark 65th anniv. of signing of friendship treaty: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709007400315",
-      "published_date": "2026-07-09T07:31:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "382bb62b5a3ff8f62fb3c3394ae1f781",
-      "title": "(URGENT) N. Korea's premier to visit China to attend event marking 65th anniv. of signing of friendship treaty: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709007300315",
-      "published_date": "2026-07-09T07:19:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e89eb396f2fd058fceedfd3cebe2cc73",
-      "title": "Lee calls on Mongolia to play greater role in spurring dialogue with North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/lee-calls-on-mongolia-to-play-greater-role-in-spurring-dialogue-with-north-korea/",
-      "published_date": "2026-07-09T06:06:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "affc161863a74a69c6b620c7428b0405",
-      "title": "Apologetic ex-nat'l football coach Hong Myung-bo vows to attend parliamentary hearing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709005700315",
-      "published_date": "2026-07-09T05:46:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1063e9a6b9d3bc861a5111fdae1e9a57",
-      "title": "S. Korea, India's Andhra Pradesh discuss cooperation, support for Korean businesses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709005600315",
-      "published_date": "2026-07-09T05:37:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7c28227429fa153608fdbd2e90f85dfb",
-      "title": "Hyundai Motor completes waste-to-hydrogen facility in Cheongju",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709005400320",
-      "published_date": "2026-07-09T05:20:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b63d42a34063fa8e4a01ae090840c60d",
-      "title": "Lee says will seek 'phased' denuclearization of Korea, calls for help from Mongolia as trusted partner",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709005100315",
-      "published_date": "2026-07-09T05:08:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e4dbba8b63f308a6d65935db8c77340b",
-      "title": "South Korea, Ukraine agree to respect North Korean prisoners’ wishes on release",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/south-korea-ukraine-agree-to-respect-north-korean-prisoners-wishes-on-release/",
-      "published_date": "2026-07-09T03:04:51Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "2c62b9a1d066f315eaf821d0ada2a2fa",
+      "title": "Kim Jong Un oversees military meeting on improving nukes, navy and intel agency",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/kim-jong-un-oversees-military-meeting-on-improving-nukes-navy-and-intel-agency/",
+      "published_date": "2026-07-09T22:54:23Z",
+      "category": "Military"
+    },
+    {
+      "id": "4881843afc4ed753e2c32cb3668b9940",
+      "title": "Trump seems not to rule out building U.S. military ships he requested in S. Korea: presidential official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260709009400315",
+      "published_date": "2026-07-09T14:37:47Z",
+      "category": "Military"
+    },
     {
       "id": "39e7a722d9e9d5d083f37c79e2c36f09",
       "title": "(LEAD) Ex-Trump official says S. Korea's nuclear armament would lead to heightened tension",
@@ -314,25 +330,17 @@
       "url": "https://www.nknews.org/2026/07/kim-jong-un-watches-cruise-missile-tests-from-new-5000-ton-destroyer/",
       "published_date": "2026-07-05T00:34:19Z",
       "category": "Military"
-    },
-    {
-      "id": "63cf1deb564c0d69a4ba16b2f5ea14a6",
-      "title": "Hanwha to invest 55 tln won in aerospace, AI by 2040",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703002900320",
-      "published_date": "2026-07-03T06:19:01Z",
-      "category": "Military"
-    },
-    {
-      "id": "5bc26f3d4ae2c279072cbc0f1f6c2926",
-      "title": "Arms agency holds briefing on defense offset programs for mid-sized firms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260703004800315",
-      "published_date": "2026-07-03T04:00:01Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "d9923ff1956acbba40d7567fa7e2c2f1",
+      "title": "(EDITORIAL from Korea Times on July 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710000800315",
+      "published_date": "2026-07-09T21:53:48Z",
+      "category": "Energy"
+    },
     {
       "id": "38561657d2512f15fa779c003db876ee",
       "title": "S. Korea, Mongolia sign MOU for energy transition, renewables",
@@ -484,17 +492,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260706000400320",
       "published_date": "2026-07-05T22:00:01Z",
       "category": "Energy"
-    },
-    {
-      "id": "fe030e125dc9093c930b042401a974ba",
-      "title": "(LEAD) Trump touts America's achievements, potential on its 250th anniv. amid challenges at home and abroad",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260705003551315",
-      "published_date": "2026-07-05T05:56:05Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "a03c83c782065d5c71d868040dfff469",
+      "title": "U.S. forced labor tariff on S. Korea 'neither appropriate nor necessary': Seoul official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710000300315",
+      "published_date": "2026-07-09T20:18:11Z",
+      "category": "Economy"
+    },
+    {
+      "id": "41bf5e7ebc8eee36fe280d90cb2dd5bc",
+      "title": "North Korea rice prices drop nearly 20%",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-prices-fall/",
+      "published_date": "2026-07-09T20:05:00Z",
+      "category": "Economy"
+    },
     {
       "id": "792afceba92ac1398b05e58347de08b0",
       "title": "(2nd LD) Labor, management narrow gap in minimum wage proposals to 690 won",
@@ -638,25 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260708003100320",
       "published_date": "2026-07-08T01:01:04Z",
       "category": "Economy"
-    },
-    {
-      "id": "e8299f31431bfd5ecf95f247501c73d2",
-      "title": "S. Korea to mandate ESG disclosures for large listed firms from 2028",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260707009300320",
-      "published_date": "2026-07-08T00:42:10Z",
-      "category": "Economy"
-    },
-    {
-      "id": "70a8d6c760ff7bbba8f11da94b263b9d",
-      "title": "Finance minister vows livelihood support amid FX, financial volatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708002800320",
-      "published_date": "2026-07-08T00:40:12Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "ed411d849fcdab326bbcdaefab2aca63",
+      "title": "Acting police chief apologizes amid growing controversy over police handling of murder case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710001200315",
+      "published_date": "2026-07-09T23:16:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cde3cdfe4855506c82d515832ca59699",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710000900315",
+      "published_date": "2026-07-09T21:54:03Z",
+      "category": "Local Events"
+    },
     {
       "id": "26d7e813855038ae7c1669505ebabb2b",
       "title": "(LEAD) Heavy downpours cause flooding, damage, forcing over 600 to evacuate",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260709005000320",
       "published_date": "2026-07-09T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d0296794d78da8fdc32a8369a795e33a",
-      "title": "Parliamentary hearing on football federation set for July 22",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709004500315",
-      "published_date": "2026-07-09T03:12:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1634d71a6d900560da682af3c33e54f5",
-      "title": "Vietnamese outpace Chinese in arrivals to S. Korea for 1st time in 2025",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709003800320",
-      "published_date": "2026-07-09T03:00:02Z",
       "category": "Local Events"
     }
   ]
