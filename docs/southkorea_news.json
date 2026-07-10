@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-10T13:12:58Z",
+  "generated_at": "2026-07-10T23:46:49Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "950aa095acecf39b2b85ffa73d36b63b",
+      "title": "Kim, Xi stress commitment to deepening strategic cooperation in messages marking treaty anniv.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000600315",
+      "published_date": "2026-07-10T23:11:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "77310108bc0016afa1f4f43f06db8af3",
+      "title": "U.S. takes over from S. Korea as chair of 'FORGE' critical minerals coalition",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000500315",
+      "published_date": "2026-07-10T18:51:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d0ab502a2b9bcf819a37d851177ac04e",
+      "title": "Lee calls Mongolia 'close friend,' vows to expand ties benefiting both peoples",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000400315",
+      "published_date": "2026-07-10T16:38:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1cccf6c69205d97ac702a186160d47c7",
+      "title": "Trump: U.S. has told Iran ceasefire is 'over' despite agreement to continue talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000300315",
+      "published_date": "2026-07-10T16:07:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5da69281b4bd90f32232fd9c3f1d87bf",
+      "title": "New tag rule tightens grip on N. Korea markets",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/sinuiju-market-item-inspection-tags/",
+      "published_date": "2026-07-10T14:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f8eb072d897ac9e3efb28115919ef7d6",
+      "title": "Coal towns welcome North Korea housing plan",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-coal-town-plan-sparks-hope/",
+      "published_date": "2026-07-10T13:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2644dff0f5ae81e041e765bbc2d7078f",
+      "title": "(3rd LD) Xi stresses bilateral ties in meeting with N. Korea's premier ahead of 65th anniv. of friendship treaty: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710006953315",
+      "published_date": "2026-07-10T13:28:25Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5c26d93e0c0b6ce5983275f3df961acb",
       "title": "Chongjin party boss dodges inspection",
@@ -112,65 +168,17 @@
       "url": "https://www.nknews.org/2026/07/south-korea-watches-for-north-korea-dam-release-after-heavy-rain-near-border/",
       "published_date": "2026-07-10T05:40:20Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "05a2bc4e02b00814951d099f75a0fc97",
-      "title": "(LEAD) N. Korea to expand intelligence agency's role against 'potential enemies'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710001151315",
-      "published_date": "2026-07-10T05:03:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f3350f35f944dae4461850931db51356",
-      "title": "(LEAD) Special counsel seeks 13-yr prison term for Unification Church leader in bribery case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006351315",
-      "published_date": "2026-07-10T03:58:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dacdfeca88592034a430914c25a60f01",
-      "title": "N. Korea's premier arrives in China for 65th anniv. of friendship treaty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006900315",
-      "published_date": "2026-07-10T03:26:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "418fc31be5355e35df971add6e3a1f90",
-      "title": "(URGENT) N. Korea's premier arrives in China for 65th anniv. of friendship treaty: Xinhua",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006800315",
-      "published_date": "2026-07-10T03:13:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "594cf244317feef57680ff5f117bce4c",
-      "title": "Special counsel seeks 13-yr prison term for Unification Church leader in bribery case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006300315",
-      "published_date": "2026-07-10T02:49:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "de9fa057c45555eaeb59d2ba10fd0713",
-      "title": "North Korea targets housing material theft",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-housing-material-theft-probe/",
-      "published_date": "2026-07-10T02:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2e88d19cfad5e1b91c3f7329136cc0a6",
-      "title": "S. Korea seeks to remove reporting rule on contact with pro-N.K. group in Japan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710005700315",
-      "published_date": "2026-07-10T02:35:06Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "72f39c7e2f2c3bd57ddadad974047062",
+      "title": "North Korea orders surprise inspections of civilian militias",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-surprise-inspections-civilian-militias-victory-day/",
+      "published_date": "2026-07-10T18:11:00Z",
+      "category": "Military"
+    },
     {
       "id": "d2288c38026f48233f0fbf0a62aa14dd",
       "title": "Ministry refutes allegations of defense minister deserting post during military service",
@@ -322,17 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260706008700320",
       "published_date": "2026-07-06T20:18:17Z",
       "category": "Military"
-    },
-    {
-      "id": "e54033819da32cb6f1844a8d0326936c",
-      "title": "Defense ministry yet to work out details of relocation plan for Gwangju military airport",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706007700315",
-      "published_date": "2026-07-06T08:02:34Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "8eccdc8c82abb6e2d791e6d69393d0d5",
+      "title": "(LEAD) SK hynix debuts on Nasdaq to raise US$26.5 bln amid soaring AI demand",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710001451320",
+      "published_date": "2026-07-10T13:58:26Z",
+      "category": "Energy"
+    },
     {
       "id": "eef92a54d8c727423572c6265a45c925",
       "title": "Heat wave alerts elevated across S. Korea",
@@ -484,17 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260707002251320",
       "published_date": "2026-07-07T01:22:12Z",
       "category": "Energy"
-    },
-    {
-      "id": "3589e71678ae84a224fc32582095052a",
-      "title": "Ex-champion Kim Hyo-joo goes for 2nd LPGA major title at Evian Championship",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260707001700315",
-      "published_date": "2026-07-06T23:32:00Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "c1887d9614113dec898fc8e8c808faae",
+      "title": "Fruit and vegetables fill North Korea’s markets as prices climb",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-market-prices-fruit-boom/",
+      "published_date": "2026-07-10T20:49:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "03bf83d35b48cec0301c856c545a36aa",
+      "title": "(LEAD) SK Group Chairman Chey says Nasdaq debut 'historical moment,' expects huge AI investment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000251315",
+      "published_date": "2026-07-10T20:36:03Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f7721e21d727bdce18e133e61262f65a",
+      "title": "SK Group Chair Chey says Nasdaq debut 'historical moment,' expects huge AI investment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000200315",
+      "published_date": "2026-07-10T16:18:11Z",
+      "category": "Economy"
+    },
     {
       "id": "3a4679afc2ac533d9f305aea405513ef",
       "title": "(2nd LD) Seoul shares end 2.52 pct higher on chip rally; Korean won up",
@@ -630,33 +654,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260709007500315",
       "published_date": "2026-07-09T07:44:35Z",
       "category": "Economy"
-    },
-    {
-      "id": "43e68bb354739c4205fcfd5d3736237f",
-      "title": "S. Korean won weakens on renewed tensions in Middle East",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709007100320",
-      "published_date": "2026-07-09T07:17:28Z",
-      "category": "Economy"
-    },
-    {
-      "id": "419119427ed727536e77f750f558b1bd",
-      "title": "(2nd LD) BOK governor sees need for rate hike at appropriate time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709002852320",
-      "published_date": "2026-07-09T06:01:18Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7d21b8f8797e84405378d2781682b448",
-      "title": "Watchdog to slap 2.3 bln-won fine on local SolidWorks software distributors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709002500320",
-      "published_date": "2026-07-09T03:00:09Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "9af80e2bd8f3e024af2136318120f0cf",
+      "title": "(LEAD) Ex-presidential security aide arrested over alleged role in martial law",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710004451315",
+      "published_date": "2026-07-10T14:24:45Z",
+      "category": "Local Events"
+    },
     {
       "id": "35601bce815f6b333b8a2c4f7c735af9",
       "title": "Comedian Park Na-rae referred to prosecution over physical assault, verbal abuse charges",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260710005800315",
       "published_date": "2026-07-10T02:35:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6055ffb428c9a77e914fa65b976338a8",
-      "title": "S. Korean icebreaker set to begin 17th Arctic mission",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710005500320",
-      "published_date": "2026-07-10T02:27:53Z",
       "category": "Local Events"
     }
   ]
