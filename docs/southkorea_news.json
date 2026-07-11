@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-11T11:54:21Z",
+  "generated_at": "2026-07-11T23:42:13Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "3d65f023d29d4cc92fc24b0ed92caa3d",
+      "title": "N. Korean, Chinese premiers discuss expanding exchanges, cooperation on 65th anniv. of friendship treaty",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712000200315",
+      "published_date": "2026-07-11T22:52:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b0adff7ade1c35ec146bae4f8440fde9",
+      "title": "Lee returns home after NATO summit, state visit to Mongolia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002300315",
+      "published_date": "2026-07-11T14:03:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "364c513d0e0aad2b8c3ada508e2823ea",
+      "title": "Special counsel pursues arrest warrant for ex-military commander over alleged martial law ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002800315",
+      "published_date": "2026-07-11T12:03:07Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5366e3509cbdb54d05f75b867afb3334",
       "title": "Lee heads home after state visit to Mongolia, first in 15 yrs by S. Korean leader",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260710006952315",
       "published_date": "2026-07-10T09:02:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5e2c9518d16726c393fa0fb97a6e3049",
-      "title": "Lee says S. Korea's pioneering spirit resembles Mongolia's nomadic spirit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710010800315",
-      "published_date": "2026-07-10T08:33:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9545acd1be5f428eca639364bf050620",
-      "title": "(LEAD) Lee appoints new minister of Office for Government Policy Coordination",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710009051315",
-      "published_date": "2026-07-10T07:25:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "308636889678544b848886cdf38a5bdc",
-      "title": "North Korea’s new appetite for beef reveals shifts in prosperity and status",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-koreas-new-appetite-for-beef-reveals-shifts-in-prosperity-and-status/",
-      "published_date": "2026-07-10T07:18:12Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,14 @@
   ],
   "Local Events": [
     {
+      "id": "a1599ca0a67a857aac1486848eae3f4b",
+      "title": "Team Nanum hammers Team Dream in final KBO All-Star Game at iconic Seoul stadium",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002900315",
+      "published_date": "2026-07-11T13:45:15Z",
+      "category": "Local Events"
+    },
+    {
       "id": "ef7167e5bc3f47a12044bf167d3d5fe1",
       "title": "(LEAD) Investigators raid Gwangju police over suspicious handling of murder case",
       "source": "Yonhap News Agency",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260710007500315",
       "published_date": "2026-07-10T05:19:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9f1bc369839f42af8599c0fbf0cb784f",
-      "title": "Ex-S. Korean ice dancer Hannah Lim switches allegiance to Canada",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710007400315",
-      "published_date": "2026-07-10T05:08:52Z",
       "category": "Local Events"
     }
   ]
