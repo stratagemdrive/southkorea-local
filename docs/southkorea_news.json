@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-10T23:46:49Z",
+  "generated_at": "2026-07-11T11:54:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5366e3509cbdb54d05f75b867afb3334",
+      "title": "Lee heads home after state visit to Mongolia, first in 15 yrs by S. Korean leader",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002200315",
+      "published_date": "2026-07-11T10:45:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "268379aa23f3730b51bb435442dc4d73",
+      "title": "China celebrates 65th anniversary of treaty with N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002700315",
+      "published_date": "2026-07-11T10:01:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5e01eacf23a6289168dd9614e7a684e3",
+      "title": "KBO-leading Lions sign ex-MLB pitcher Paddack",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002600315",
+      "published_date": "2026-07-11T08:25:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "413eea91d8b9e051c43d98a26b484ce5",
+      "title": "(News Focus) Lee seeks closer ties with NATO as Seoul pushes to expand arms exports to Europe",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002100315",
+      "published_date": "2026-07-11T06:00:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3a7a5c2920faf0f5082ddb87f445ac94",
+      "title": "N.K. leader denounces corruption in military at rare meeting",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711001100315",
+      "published_date": "2026-07-11T01:17:55Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "950aa095acecf39b2b85ffa73d36b63b",
       "title": "Kim, Xi stress commitment to deepening strategic cooperation in messages marking treaty anniv.",
@@ -127,46 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/07/north-koreas-new-appetite-for-beef-reveals-shifts-in-prosperity-and-status/",
       "published_date": "2026-07-10T07:18:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c33a5ea57144eaaa5792bd6971e5f78b",
-      "title": "Lee appoints new minister of Office for Government Policy Coordination",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710009000315",
-      "published_date": "2026-07-10T06:57:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "84f7d2dc05d4fd84dfd1e6b35bda33a7",
-      "title": "(News Focus) SK hynix's Nasdaq debut opens new fundraising channel amid AI boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710008000320",
-      "published_date": "2026-07-10T06:10:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "03eea38c708e622b6cc34ccd2961934a",
-      "title": "Parliamentary panel approves extension of special counsel probe into uncovered allegations surrounding ex-President Yoon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710007800315",
-      "published_date": "2026-07-10T06:05:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fcaaa29154db280efd15310b194f2ceb",
-      "title": "(LEAD) N. Korea's premier arrives in China for 65th anniv. of friendship treaty: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006951315",
-      "published_date": "2026-07-10T05:52:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "21782f78f85f5a4e0cd0c4838b2a3a07",
-      "title": "South Korea watches for North Korea dam release after heavy rain near border",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/south-korea-watches-for-north-korea-dam-release-after-heavy-rain-near-border/",
-      "published_date": "2026-07-10T05:40:20Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,22 @@
   ],
   "Economy": [
     {
+      "id": "eea11ee21df07081cd852172c97c2f17",
+      "title": "(LEAD) SK hynix jumps on 1st day of trading on Wall Street",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000851320",
+      "published_date": "2026-07-11T00:45:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "723a5201e2a6e61a2c10ce87a4eb38c8",
+      "title": "SK hynix jumps on 1st day of trading on Wall Street",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000800320",
+      "published_date": "2026-07-11T00:26:06Z",
+      "category": "Economy"
+    },
+    {
       "id": "c1887d9614113dec898fc8e8c808faae",
       "title": "Fruit and vegetables fill North Korea’s markets as prices climb",
       "source": "Daily NK",
@@ -638,25 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260709007552315",
       "published_date": "2026-07-09T11:19:31Z",
       "category": "Economy"
-    },
-    {
-      "id": "fc349d1bce72f59cbee039c9a7425730",
-      "title": "(LEAD) Labor, management narrow gap in minimum wage proposals to 730 won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709007551315",
-      "published_date": "2026-07-09T09:22:19Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1827f1828f563be85684d65bae4a2f90",
-      "title": "Labor, management narrow gap in minimum wage proposals to 860 won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709007500315",
-      "published_date": "2026-07-09T07:44:35Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "ef7167e5bc3f47a12044bf167d3d5fe1",
+      "title": "(LEAD) Investigators raid Gwangju police over suspicious handling of murder case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711001251315",
+      "published_date": "2026-07-11T10:55:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fca2083ce692b8ef19cc1707c602d8cc",
+      "title": "Scorching heat wave grips nation; 39.9 C recorded in southeast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711002400315",
+      "published_date": "2026-07-11T07:03:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "095c9d51242c8bb309e2bd18210cb559",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711001000315",
+      "published_date": "2026-07-11T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b0aea1fb5ec9cbc5da1273c6e97c9b4d",
+      "title": "Search enters 3rd day for man swept away in torrent",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711001900315",
+      "published_date": "2026-07-11T02:52:25Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e17c50ebfed50892c5a5ff6bc422b8c0",
+      "title": "Investigators raid Gwangju police over suspicious handling of murder case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711001200315",
+      "published_date": "2026-07-11T02:15:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6a7673ecb9f2130a971c3a0007317886",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260711000900315",
+      "published_date": "2026-07-11T00:21:22Z",
+      "category": "Local Events"
+    },
     {
       "id": "9af80e2bd8f3e024af2136318120f0cf",
       "title": "(LEAD) Ex-presidential security aide arrested over alleged role in martial law",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260710007400315",
       "published_date": "2026-07-10T05:08:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dede554f471d79800a2e6b443914625a",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710003000315",
-      "published_date": "2026-07-10T05:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5843765670997764d83ca69158394935",
-      "title": "BTS to stage 'The City' event in New York",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710007300315",
-      "published_date": "2026-07-10T04:30:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "81bf4aad983cdb16b19c2704c4c8b945",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006700315",
-      "published_date": "2026-07-10T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f0d8256513d8694da451225692a43822",
-      "title": "KRX activates buy-side sidecar for KOSPI on sharp rise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710007200315",
-      "published_date": "2026-07-10T04:16:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e68b331b49d35876c837ebe454638023",
-      "title": "(URGENT) Bourse operator activates buy-side sidecar for KOSPI on sharp rise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710007000315",
-      "published_date": "2026-07-10T04:01:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "333ad70ae2401f0833001906d57d6ed3",
-      "title": "Le Sserafim to launch 2nd world tour in Incheon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710005800315",
-      "published_date": "2026-07-10T02:35:17Z",
       "category": "Local Events"
     }
   ]
