@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-12T12:02:47Z",
+  "generated_at": "2026-07-12T23:41:54Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "a804ef6c8047bb91582578d1f241f814",
+      "title": "N.K. premier vows efforts to expand ties with Beijing as he returns home from China trip",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713001300315",
+      "published_date": "2026-07-12T23:04:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "50f10fc6f530e6ab985504e047fbe783",
+      "title": "(EDITORIAL from Korea Times on July 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713000600315",
+      "published_date": "2026-07-12T22:16:08Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "e5d85df19f91172652b41e95dea93ffb",
       "title": "Seoul seeks North Korea’s help after sailor goes missing at sea",
@@ -152,25 +168,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260711001100315",
       "published_date": "2026-07-11T01:17:55Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "950aa095acecf39b2b85ffa73d36b63b",
-      "title": "Kim, Xi stress commitment to deepening strategic cooperation in messages marking treaty anniv.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260711000600315",
-      "published_date": "2026-07-10T23:11:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "77310108bc0016afa1f4f43f06db8af3",
-      "title": "U.S. takes over from S. Korea as chair of 'FORGE' critical minerals coalition",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260711000500315",
-      "published_date": "2026-07-10T18:51:27Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "7c0b540ecbedd408ba0fd11a45d738eb",
+      "title": "Body of missing sailor recovered from East Sea: Navy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713000900315",
+      "published_date": "2026-07-12T22:24:58Z",
+      "category": "Military"
+    },
+    {
+      "id": "29979f65eb5ef9efec546fd49eae1ca7",
+      "title": "(URGENT) Body of missing sailor recovered from East Sea: Navy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713000300315",
+      "published_date": "2026-07-12T22:06:43Z",
+      "category": "Military"
+    },
+    {
+      "id": "d501ce0cc224ff5ff15e6bc64f09c4e6",
+      "title": "Military targeted in nearly 19,000 cyberattack attempts in 2025: lawmaker",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712002400315",
+      "published_date": "2026-07-12T13:04:34Z",
+      "category": "Military"
+    },
     {
       "id": "86f759d0513a086a67b317d2f7f5fa78",
       "title": "(URGENT) Navy searches for sailor missing during East Sea patrol",
@@ -306,33 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260707004000320",
       "published_date": "2026-07-07T01:26:31Z",
       "category": "Military"
-    },
-    {
-      "id": "c01b54ce39bc5df808161b0abb5281a4",
-      "title": "(3rd LD) S. Korea loses bid for Canadian submarine program to Germany's TKMS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706008753320",
-      "published_date": "2026-07-06T22:11:32Z",
-      "category": "Military"
-    },
-    {
-      "id": "43f9af61377334ea9b2383d756ec7245",
-      "title": "(2nd LD) S. Korea loses bid for Canadian submarine program to Germany's TKMS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706008752320",
-      "published_date": "2026-07-06T21:48:08Z",
-      "category": "Military"
-    },
-    {
-      "id": "64caed3462e17b691d03490627631fae",
-      "title": "(LEAD) S. Korea loses bid for Canadian submarine program to Germany's TKMS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706008751320",
-      "published_date": "2026-07-06T21:16:29Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "2b97b83c225afdf90176dc989de6e860",
+      "title": "(EDITORIAL from Korea Herald on July 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713000500315",
+      "published_date": "2026-07-12T22:15:37Z",
+      "category": "Energy"
+    },
     {
       "id": "8eccdc8c82abb6e2d791e6d69393d0d5",
       "title": "(LEAD) SK hynix debuts on Nasdaq to raise US$26.5 bln amid soaring AI demand",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260707004200320",
       "published_date": "2026-07-07T03:00:23Z",
       "category": "Energy"
-    },
-    {
-      "id": "fcea4b63ecb778d8b911bd169b52cb09",
-      "title": "(LEAD) LG Energy Q2 operating profit plunges 77 pct on EV slowdown",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260707002251320",
-      "published_date": "2026-07-07T01:22:12Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "46e4227c4cb2385831a09062b4df42f5",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 13)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713000700315",
+      "published_date": "2026-07-12T22:16:37Z",
+      "category": "Economy"
+    },
     {
       "id": "a618a31a2996aac40ac82ba64cea85be",
       "title": "Lotte Mart opens 16th store in Vietnam",
@@ -646,17 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260710001400320",
       "published_date": "2026-07-09T23:55:46Z",
       "category": "Economy"
-    },
-    {
-      "id": "a03c83c782065d5c71d868040dfff469",
-      "title": "U.S. forced labor tariff on S. Korea 'neither appropriate nor necessary': Seoul official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710000300315",
-      "published_date": "2026-07-09T20:18:11Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "4ca141922332ddc0a2f6fe313aee6159",
+      "title": "Tom Kim ends 33-month drought with Scottish Open win on PGA Tour",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713001400315",
+      "published_date": "2026-07-12T22:49:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9811286193020926ffcd4e5b542e6ec3",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713000400315",
+      "published_date": "2026-07-12T22:14:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5ea26c87e10c5f4b7c4888130e33b199",
+      "title": "(LEAD) Ryu Hae-ran captures 2nd straight LPGA major title in France",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712002551315",
+      "published_date": "2026-07-12T14:37:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "84f2c8c4a57976061881c11f20b1f34b",
+      "title": "Ryu Hae-ran captures 2nd straight LPGA major title in France",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712002500315",
+      "published_date": "2026-07-12T14:21:05Z",
+      "category": "Local Events"
+    },
     {
       "id": "56eafb8e6c92dc6c2c05fc8b2e616e1c",
       "title": "Today in Korean history",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260710009800315",
       "published_date": "2026-07-10T07:28:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d4432baeb0212cde38b1dadfbaea2224",
-      "title": "Ex-lawmaker Chae Yi-bae named new chief of staff to PM",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710009700315",
-      "published_date": "2026-07-10T07:18:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4386e4b1262ebf68a3878f0a99b0634d",
-      "title": "Supreme Court Justice Noh named new head of National Court Administration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710008600315",
-      "published_date": "2026-07-10T06:52:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d0cc9694836d0ed29562fef0dd58025d",
-      "title": "U.S. military in S. Korea cites 'important' military interests in Gwangju airport amid relocation plan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710008300315",
-      "published_date": "2026-07-10T06:51:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cdb442ce14019f90e3b2d7152dedd84b",
-      "title": "(URGENT) Seoul shares end 2.52 pct higher on chip rally; Korean won up",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710008400320",
-      "published_date": "2026-07-10T06:33:59Z",
       "category": "Local Events"
     }
   ]
