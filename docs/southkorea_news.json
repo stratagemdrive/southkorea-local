@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-11T23:42:13Z",
+  "generated_at": "2026-07-12T12:02:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e5d85df19f91172652b41e95dea93ffb",
+      "title": "Seoul seeks North Korea’s help after sailor goes missing at sea",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/seoul-seeks-north-koreas-help-after-sailor-goes-missing-at-sea/",
+      "published_date": "2026-07-12T11:17:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "243d26153376c0682a8ba4443819dc74",
+      "title": "(LEAD) 1st 'grave' heat wave warnings issued for Gyeongsan, Pohang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712000751315",
+      "published_date": "2026-07-12T09:36:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6e4ce091e3585c8f9fb4c2b235c5b4e5",
+      "title": "(2nd LD) Navy searches for sailor missing during East Sea patrol",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712001852315",
+      "published_date": "2026-07-12T08:34:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2351b294e751afa1be68b3f84ee3edb8",
+      "title": "U.S. Pacific Fleet vice admiral says 'extremely pleased' with S. Korean Navy's RIMPAC performance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712002100315",
+      "published_date": "2026-07-12T07:47:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ff245e0192f30026473b4a5bc180974e",
+      "title": "S. Korea, U.S. hold 1st joint tabletop exercise to counter wartime disinformation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712002000315",
+      "published_date": "2026-07-12T06:19:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4699ef28c2b536489f726b8fb61144e",
+      "title": "(LEAD) Navy searches for sailor missing during East Sea patrol",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712001851315",
+      "published_date": "2026-07-12T05:39:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "077d1f7bd76b599835bdf5a9235f321b",
+      "title": "Navy searches for sailor missing during East Sea patrol",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712001800315",
+      "published_date": "2026-07-12T04:19:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "25145d1e341febbfd2af47424d9e0c30",
+      "title": "Samsung Electronics to bring forward opening of 1st Yongin chip plant to 2029",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712000800320",
+      "published_date": "2026-07-12T02:28:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8c93760fea29343136b6281150098c72",
+      "title": "1st 'grave' heat wave warnings issued for Gyeongsan, Pohang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712000700315",
+      "published_date": "2026-07-12T02:27:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ac371efb440c2d3fcca011ad3aa2a77a",
+      "title": "Eco-friendly cars account for half of new car registrations in H1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712000600320",
+      "published_date": "2026-07-12T01:36:25Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3d65f023d29d4cc92fc24b0ed92caa3d",
       "title": "N. Korean, Chinese premiers discuss expanding exchanges, cooperation on 65th anniv. of friendship treaty",
@@ -88,89 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260711000500315",
       "published_date": "2026-07-10T18:51:27Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "d0ab502a2b9bcf819a37d851177ac04e",
-      "title": "Lee calls Mongolia 'close friend,' vows to expand ties benefiting both peoples",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260711000400315",
-      "published_date": "2026-07-10T16:38:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1cccf6c69205d97ac702a186160d47c7",
-      "title": "Trump: U.S. has told Iran ceasefire is 'over' despite agreement to continue talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260711000300315",
-      "published_date": "2026-07-10T16:07:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5da69281b4bd90f32232fd9c3f1d87bf",
-      "title": "New tag rule tightens grip on N. Korea markets",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/sinuiju-market-item-inspection-tags/",
-      "published_date": "2026-07-10T14:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f8eb072d897ac9e3efb28115919ef7d6",
-      "title": "Coal towns welcome North Korea housing plan",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-coal-town-plan-sparks-hope/",
-      "published_date": "2026-07-10T13:32:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2644dff0f5ae81e041e765bbc2d7078f",
-      "title": "(3rd LD) Xi stresses bilateral ties in meeting with N. Korea's premier ahead of 65th anniv. of friendship treaty: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006953315",
-      "published_date": "2026-07-10T13:28:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5c26d93e0c0b6ce5983275f3df961acb",
-      "title": "Chongjin party boss dodges inspection",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/chongjin-party-secretary-sanatorium/",
-      "published_date": "2026-07-10T11:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "89213821a623e8c71500ed6aa64f96f3",
-      "title": "Lee meets Mongolian PM, pledges faithful implementation of bilateral agreements",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710011200315",
-      "published_date": "2026-07-10T11:26:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "66c2d4f2f7af68638edd4db5bd9a1d7f",
-      "title": "(LEAD) Lee says S. Korea's pioneering spirit resembles Mongolia's nomadic spirit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710010851315",
-      "published_date": "2026-07-10T09:33:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "126c8ac1a5a80333a65d6ab4de1c5cab",
-      "title": "North Korean premier meets Chinese President Xi ahead of alliance anniversary",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-korean-premier-meets-chinese-president-xi-ahead-of-alliance-anniversary/",
-      "published_date": "2026-07-10T09:30:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9662838b283fc6f1e7576af7f1dee8be",
-      "title": "(2nd LD) Xi meets N. Korea's premier ahead of 65th anniv. of friendship treaty: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710006952315",
-      "published_date": "2026-07-10T09:02:34Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "86f759d0513a086a67b317d2f7f5fa78",
+      "title": "(URGENT) Navy searches for sailor missing during East Sea patrol",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712001700315",
+      "published_date": "2026-07-12T04:03:27Z",
+      "category": "Military"
+    },
     {
       "id": "72f39c7e2f2c3bd57ddadad974047062",
       "title": "North Korea orders surprise inspections of civilian militias",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260706008751320",
       "published_date": "2026-07-06T21:16:29Z",
-      "category": "Military"
-    },
-    {
-      "id": "1e83b2250742f1b782ababe23f941ae0",
-      "title": "S. Korea loses bid for Canadian submarine program to Germany's TKMS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260706008700320",
-      "published_date": "2026-07-06T20:18:17Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,22 @@
   ],
   "Economy": [
     {
+      "id": "a618a31a2996aac40ac82ba64cea85be",
+      "title": "Lotte Mart opens 16th store in Vietnam",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712001900320",
+      "published_date": "2026-07-12T05:45:35Z",
+      "category": "Economy"
+    },
+    {
+      "id": "cdec288a6bbe614e0705503c503863d3",
+      "title": "SK hynix dollar inflow expected to bolster South Korea's FX market",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712001400320",
+      "published_date": "2026-07-12T04:15:18Z",
+      "category": "Economy"
+    },
+    {
       "id": "eea11ee21df07081cd852172c97c2f17",
       "title": "(LEAD) SK hynix jumps on 1st day of trading on Wall Street",
       "source": "Yonhap News Agency",
@@ -638,25 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260710000300315",
       "published_date": "2026-07-09T20:18:11Z",
       "category": "Economy"
-    },
-    {
-      "id": "41bf5e7ebc8eee36fe280d90cb2dd5bc",
-      "title": "North Korea rice prices drop nearly 20%",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-rice-prices-fall/",
-      "published_date": "2026-07-09T20:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "792afceba92ac1398b05e58347de08b0",
-      "title": "(2nd LD) Labor, management narrow gap in minimum wage proposals to 690 won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709007552315",
-      "published_date": "2026-07-09T11:19:31Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "56eafb8e6c92dc6c2c05fc8b2e616e1c",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712000400320",
+      "published_date": "2026-07-12T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e7ef8939f2ed257be3c5b8c68af63db1",
+      "title": "Relocation of Gwangju military airport speeds up for chip cluster",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260712000500315",
+      "published_date": "2026-07-12T01:29:38Z",
+      "category": "Local Events"
+    },
     {
       "id": "a1599ca0a67a857aac1486848eae3f4b",
       "title": "Team Nanum hammers Team Dream in final KBO All-Star Game at iconic Seoul stadium",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260710008400320",
       "published_date": "2026-07-10T06:33:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "feee797dd4d1d61e2162ac1d9c21a949",
-      "title": "BTS hit 'Swim' faces plagiarism claim in U.S.; label rejects allegations, vows legal action",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710007600315",
-      "published_date": "2026-07-10T05:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ae151cdc0610a58fb5f9d84dbf4922be",
-      "title": "IU, Lee Jong-suk part ways after 4 years of dating",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710007500315",
-      "published_date": "2026-07-10T05:19:33Z",
       "category": "Local Events"
     }
   ]
