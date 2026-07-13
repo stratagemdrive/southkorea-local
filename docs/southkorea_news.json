@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-13T13:25:04Z",
+  "generated_at": "2026-07-13T23:41:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,11 +10,83 @@
   ],
   "Diplomacy": [
     {
+      "id": "e3ad050311a3d0a3116e313acf7a86e9",
+      "title": "(Yonhap Interview) Startup RLWRLD seeks to tackle demographic decline with its dexterity robot foundation model",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260710002800320",
+      "published_date": "2026-07-13T22:00:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f8c9d154aaaf5078ee4731ddf05271de",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714000600315",
+      "published_date": "2026-07-13T21:58:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c05aeafeb28962269ce2063bad9b3a09",
+      "title": "(EDITORIAL from Korea Times on July 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714000500315",
+      "published_date": "2026-07-13T21:58:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2224cd6838f0388a71171f13c79709d2",
+      "title": "North Korea’s greenhouse farms stand empty of skills and supplies",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/sinuiju-greenhouse-farm-shortages/",
+      "published_date": "2026-07-13T17:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a2a368f89d4d915a5b6b391266d5e11e",
+      "title": "With North Korea tourism stalled, China agencies push business visas instead",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-tourism-china-business-trips/",
+      "published_date": "2026-07-13T17:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1869d2a4061bbdd3bd0feb4688d08db3",
+      "title": "Chongjin fishermen struggle to secure fuel before squid season",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/chongjin-squid-season-fuel-shortage/",
+      "published_date": "2026-07-13T14:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "45f350b0d21f9e2bc91579a7e9aff073",
+      "title": "North Korea orders DVD player owners to register devices",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-dvd-player-registration/",
+      "published_date": "2026-07-13T14:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7af4b020659d4debeb48034dce59ec33",
+      "title": "Trump says U.S. will 'keep,' 'run' Strait of Hormuz, should be 'reimbursed' for it",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713012600315",
+      "published_date": "2026-07-13T13:25:34Z",
+      "category": "Diplomacy"
+    },
+    {
       "id": "f3c26ef60b3599953b2b89cd6d8e5cf1",
       "title": "Flags, friction and FIFA: North Korea’s remarkable road to the 1966 World Cup",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/07/flags-friction-and-fifa-north-koreas-remarkable-road-to-the-1966-world-cup/",
       "published_date": "2026-07-13T10:21:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bfa81d5a9ece59173443960b8832b982",
+      "title": "Cargo trucks line up at China-North Korea border in trade surge",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-china-trade-truck-surge/",
+      "published_date": "2026-07-13T09:27:00Z",
       "category": "Diplomacy"
     },
     {
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260713009100315",
       "published_date": "2026-07-13T06:27:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fbc4bcc1ace62aaeaff6ae8302647989",
-      "title": "(URGENT) Court sentences ex-President Yoon to 2 years in prison on charges of accepting illegal funds in free opinion poll case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713009200315",
-      "published_date": "2026-07-13T06:26:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d8bb0bb22aee992d8b5d60599d426062",
-      "title": "AMCHAM launches 'K-Doorknock' program to support Korean firms' U.S. expansion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713008400320",
-      "published_date": "2026-07-13T06:17:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "da2ae4e4e2f6d503b47918a2903017ae",
-      "title": "(LEAD) Lee says will create 'future response' fund using extra tax revenue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713007551315",
-      "published_date": "2026-07-13T06:09:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f999de39f6251aafb3bff5f5b59beb71",
-      "title": "Singer-actress Choi Soo-young says wanted to portray unlikely villain in 'Okay! Madam 2'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713008000315",
-      "published_date": "2026-07-13T06:04:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d5c01588e8e584486b1d1079b2210b42",
-      "title": "Lee says will create 'future response' fund using extra tax revenue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713007500315",
-      "published_date": "2026-07-13T05:27:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ba8c0d6ed6caff10ec8e775d8ad8d079",
-      "title": "(URGENT) Lee says will create 'future response' fund using extra tax revenues",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713007200315",
-      "published_date": "2026-07-13T05:10:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8cc74f5d22db0cd915a2247165d7f721",
-      "title": "North Koreans street cleaners too expensive to hire, Russian mayor claims",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-koreans-street-cleaners-too-expensive-to-hire-russian-mayor-claims/",
-      "published_date": "2026-07-13T05:04:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fdc39b77bb85c50945f7905a27123129",
-      "title": "Samsung begins preparations to produce Tesla's AI5 chip",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713007100320",
-      "published_date": "2026-07-13T05:00:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4ebe1b641e16c450ca2abc2ebcdfc8ec",
-      "title": "Britain's Princess Anne to visit S. Korea to mark Korean War battles anniv.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713006800315",
-      "published_date": "2026-07-13T04:34:22Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,78 @@
   ],
   "Local Events": [
     {
+      "id": "10027d3ac6b1b307e29d567cea425c2f",
+      "title": "LPGA major winner Ryu Hae-ran reaches No. 3 in global ranking",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714000800315",
+      "published_date": "2026-07-13T22:56:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "accb83484bb46ef3b088b057d55a5773",
+      "title": "(EDITORIAL from Korea Herald on July 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714000400315",
+      "published_date": "2026-07-13T21:58:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e1a84943582c0632f718abbebb89bcaa",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714000300315",
+      "published_date": "2026-07-13T21:57:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cb1a635a4c5cb8e47892dbb992d1b35d",
+      "title": "(3rd LD) Trump says U.S. will charge 20 pct fee on all cargo shipped through Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713012653315",
+      "published_date": "2026-07-13T18:36:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1db993c38ad27a842fab45b78bcf80a7",
+      "title": "(2nd LD) Trump says U.S. will charge 20 pct fee on all cargo shipped through Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713012652315",
+      "published_date": "2026-07-13T15:35:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ac65749d8c4eb98d0c819aad655d9076",
+      "title": "(LEAD) Trump says U.S. will be 'reimbursed' at 20 pct rate on all cargo for ensuring safe Hormuz passage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713012651315",
+      "published_date": "2026-07-13T14:40:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6084bcedeb6aa95323f2f8017448105b",
+      "title": "(URGENT) Trump says U.S. will be 'guardian' of Hormuz Strait, reimbursed at rate of 20 pct on all cargo shipped",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713012800315",
+      "published_date": "2026-07-13T14:25:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "12ab373f907d2e1faa1435aa554a1d44",
+      "title": "(URGENT) Trump says U.S. is reinstating 'Iranian blockade'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260713012700315",
+      "published_date": "2026-07-13T14:23:26Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7bad4c308d06db8c069146e73d8a504c",
+      "title": "Behind Sinuiju’s brighter nights, a widening electricity divide",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/sinuiju-electricity-satellite-images-2026/",
+      "published_date": "2026-07-13T13:34:00Z",
+      "category": "Local Events"
+    },
+    {
       "id": "c9a180bd7da392c31b29145b6ba86493",
       "title": "Religious sect leader indicted over forced PPP memberships",
       "source": "Yonhap News Agency",
@@ -743,78 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260713008300315",
       "published_date": "2026-07-13T06:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6625f4eaf9dc963c3b29d507a75d4ad9",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713004800315",
-      "published_date": "2026-07-13T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "79aeb536d328d70526fdc0faf041d3f1",
-      "title": "Tom Kim jumps to No. 33 in world rankings after Scottish Open win",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713007000315",
-      "published_date": "2026-07-13T04:53:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8011b492d3b79e8ade407329e04fd8e1",
-      "title": "Bourse operator issues circuit breaker for KOSPI on sharp fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713006600320",
-      "published_date": "2026-07-13T04:30:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c24022ad64f82923c1805e67f31d8bd5",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713006900315",
-      "published_date": "2026-07-13T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e58641e1b506511154ec1c171ac9a4cc",
-      "title": "(URGENT) Bourse operator issues circuit breaker for KOSPI on sharp fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713006500320",
-      "published_date": "2026-07-13T04:29:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eaca566b05f6daad4efd5319a25d0189",
-      "title": "3 major department stores post record H1 foreign sales amid K-wave",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713006400320",
-      "published_date": "2026-07-13T03:35:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b27747510ae8d37d0ff9495d53c53e29",
-      "title": "Seoul shares sharply down late Mon. morning amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713005100320",
-      "published_date": "2026-07-13T02:34:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "94e080782cdd1c135ee4849a243a1d07",
-      "title": "Gwangju student murder suspect admits to sexual assault motive",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713004700315",
-      "published_date": "2026-07-13T02:24:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8c32a7648e9d337c17531481a050e1e9",
-      "title": "KRX issues sell-side sidecar for KOSPI on sharp fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713004100320",
-      "published_date": "2026-07-13T01:47:22Z",
       "category": "Local Events"
     }
   ]
