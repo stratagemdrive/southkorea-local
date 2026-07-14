@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-14T12:15:03Z",
+  "generated_at": "2026-07-14T23:41:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "0216443515ee4eca2687147fb01cc925",
+      "title": "(URGENT) S. Korea adds 63,000 jobs in June, first rebound in 2 months",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715001000320",
+      "published_date": "2026-07-14T23:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "123c6f83fa3614d848fa7d39d6999647",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000800315",
+      "published_date": "2026-07-14T22:10:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3e108d24b07067a3f710ea7f0ce6f43d",
+      "title": "(EDITORIAL from Korea Times on July 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000700315",
+      "published_date": "2026-07-14T22:09:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2937a5bb1140d63f95cab9dc71e22671",
+      "title": "Import prices fall at fastest clip in 3 1/2 yrs in June on oil price decline",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714009200320",
+      "published_date": "2026-07-14T21:00:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b4559f3ec1940cfff2d8b52c18224ab7",
+      "title": "Elderly North Koreans recall Kim Il Sung era fondly despite hardship today",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-il-sung-era-elderly-nostalgia/",
+      "published_date": "2026-07-14T17:56:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "683f59e05bb267e0e3da2f69fbe1d718",
+      "title": "(LEAD) Lee meets Princess Anne, says S. Koreans have been waiting for her",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714011051315",
+      "published_date": "2026-07-14T14:39:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a6e3f7112c4b90795a8944a59299b020",
+      "title": "North Korea steps up surveillance to erase belief the two Koreas are “one people”",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-surveillance-hostile-two-states/",
+      "published_date": "2026-07-14T14:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3549fb1ee86b6316bf4de685193d76c3",
+      "title": "North Korea pushes fourth weeding round, straining mobilized workers",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-weeding-mobilization-quotas/",
+      "published_date": "2026-07-14T13:44:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "059d65e3243a0ae5d0c2815da409ec16",
       "title": "(LEAD) Labor, management narrow gap in minimum wage proposals to 200 won",
@@ -103,70 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260714007451320",
       "published_date": "2026-07-14T07:11:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "111d259ef9c3d0f69aaf108e4c60017b",
-      "title": "S. Korean FM to visit Philippines for ASEAN-related ministerial meetings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714009000315",
-      "published_date": "2026-07-14T07:05:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "29465a116e8066ea0f22cec4f308f7b4",
-      "title": "(LEAD) Britain's Princess Anne visits HD Heavy Industries' Ulsan shipyard",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714007851320",
-      "published_date": "2026-07-14T06:52:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ce1ddddef4f62cf087ce0530b42b2fef",
-      "title": "Lee says understanding N. Korean-born citizens 'special asset' for 2 Koreas' future",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714007600315",
-      "published_date": "2026-07-14T06:41:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a000759b51774227cf61ffd259eaf9af",
-      "title": "(LEAD) Britain's Princess Anne visits U.N. cemetery in Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714006951315",
-      "published_date": "2026-07-14T06:38:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1ace75e781c13136ca20a92fdc90390e",
-      "title": "Seoul shares end higher on tech rebound despite Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714007400320",
-      "published_date": "2026-07-14T06:35:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4b8aa19fb38b714039f96d0ef4c0c563",
-      "title": "(URGENT) Seoul shares end higher on tech rebound despite Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714007200320",
-      "published_date": "2026-07-14T06:32:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a07f2c36c753e507bbaa3c530ddcfdb0",
-      "title": "Britain's Princess Anne visits HD Heavy Industries' Ulsan shipyard",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714007800320",
-      "published_date": "2026-07-14T06:18:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c24daa4822fd6214b7e76b5429b03a88",
-      "title": "58 under investigation for suspected real estate speculative acts in Dongtan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714004100315",
-      "published_date": "2026-07-14T06:00:03Z",
       "category": "Diplomacy"
     }
   ],
@@ -306,17 +306,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260708004300315",
       "published_date": "2026-07-08T02:26:59Z",
       "category": "Military"
-    },
-    {
-      "id": "20ca5f9822d0f9eefd46f6570bf0f569",
-      "title": "(EDITORIAL from Korea Times on July 8)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708001000315",
-      "published_date": "2026-07-07T22:01:38Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "2b43ea7e82feca7b4d12161cf13e691a",
+      "title": "(EDITORIAL from Korea Herald on July 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000600315",
+      "published_date": "2026-07-14T22:08:42Z",
+      "category": "Energy"
+    },
     {
       "id": "efe04323b3129f2a96a2865740bb63c4",
       "title": "Gov't revises up 2026 growth outlook to 3 pct on chip supercycle",
@@ -468,17 +468,73 @@
       "url": "https://en.yna.co.kr/view/AEN20260708011100320",
       "published_date": "2026-07-08T08:03:08Z",
       "category": "Energy"
-    },
-    {
-      "id": "70126802276f6b8af094a3d8a7aa7b76",
-      "title": "LG Energy-GM JV starts ESS battery cell production amid EV slowdown",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708007700320",
-      "published_date": "2026-07-08T05:59:25Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "d5b5193de9b98156de3bf226c4ee74fa",
+      "title": "(LEAD) S. Korea adds 63,000 jobs in June despite weak manufacturing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715001151320",
+      "published_date": "2026-07-14T23:12:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c942111ca1a333e52854371fd222d621",
+      "title": "S. Korea adds 63,000 jobs in June despite weak manufacturing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715001100320",
+      "published_date": "2026-07-14T23:00:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c61d894ee3e2cbf25ae8717fd1908aef",
+      "title": "(LEAD) Trump drops 20 pct Hormuz fee, instead seeks investment deals with Gulf states",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000351315",
+      "published_date": "2026-07-14T18:55:24Z",
+      "category": "Economy"
+    },
+    {
+      "id": "03ea477deddc6814253c5ee35047e9f2",
+      "title": "Trump says he decided to replace 20 pct 'reimbursement' fee with investment deals with Gulf states",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000300315",
+      "published_date": "2026-07-14T15:36:16Z",
+      "category": "Economy"
+    },
+    {
+      "id": "51fc6474b2176116ad06cebf3dc1cb36",
+      "title": "(URGENT) Trump says he decided to replace 20 pct U.S. 'reimbursement' fee with investment deals with Gulf States",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000200315",
+      "published_date": "2026-07-14T15:10:14Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8041f7b34211e8cc560d11311f814ee9",
+      "title": "(3rd LD) Hourly minimum wage set at 10,700 won for 2027, up 3.7 pct from this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714010753315",
+      "published_date": "2026-07-14T14:33:34Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3846d2824ceb4cc92247400dbaeb3c3a",
+      "title": "(2nd LD) Hourly minimum wage set at 10,700 won for 2027, up 3.7 pct from this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714010752315",
+      "published_date": "2026-07-14T14:11:15Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6348f212c970c8cd58bae6831e2dfa22",
+      "title": "(URGENT) Hourly minimum wage set at 10,700 won for 2027, up 3.7 pct from this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260714011200315",
+      "published_date": "2026-07-14T14:00:17Z",
+      "category": "Economy"
+    },
     {
       "id": "b46d3f618141de57a3dcac8e99eaa86d",
       "title": "PM reaffirms S. Korea's push to join top 5 global exporters",
@@ -574,73 +630,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260713008800320",
       "published_date": "2026-07-13T06:40:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "1e27695fca867b1f48f564a903238531",
-      "title": "HD KSOE secures 545.6 bln-won contract for 3 ammonia carriers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713005200320",
-      "published_date": "2026-07-13T02:43:59Z",
-      "category": "Economy"
-    },
-    {
-      "id": "898fcdf232643815bc692d5783e166b5",
-      "title": "Exports up 54 pct in first 10 days of July",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713003000320",
-      "published_date": "2026-07-13T00:03:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8f62b0d927aef9d4c3e5a08c73a9afc4",
-      "title": "S. Korea to expand tariff-rate quota for soybeans for sprouts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713002200320",
-      "published_date": "2026-07-13T00:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "46e4227c4cb2385831a09062b4df42f5",
-      "title": "(EDITORIAL from Korea JoongAng Daily on July 13)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713000700315",
-      "published_date": "2026-07-12T22:16:37Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a618a31a2996aac40ac82ba64cea85be",
-      "title": "Lotte Mart opens 16th store in Vietnam",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260712001900320",
-      "published_date": "2026-07-12T05:45:35Z",
-      "category": "Economy"
-    },
-    {
-      "id": "cdec288a6bbe614e0705503c503863d3",
-      "title": "SK hynix dollar inflow expected to bolster South Korea's FX market",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260712001400320",
-      "published_date": "2026-07-12T04:15:18Z",
-      "category": "Economy"
-    },
-    {
-      "id": "eea11ee21df07081cd852172c97c2f17",
-      "title": "(LEAD) SK hynix jumps on 1st day of trading on Wall Street",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260711000851320",
-      "published_date": "2026-07-11T00:45:22Z",
-      "category": "Economy"
-    },
-    {
-      "id": "723a5201e2a6e61a2c10ce87a4eb38c8",
-      "title": "SK hynix jumps on 1st day of trading on Wall Street",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260711000800320",
-      "published_date": "2026-07-11T00:26:06Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "9d898a2a901912bf3bd54a745f8a56a5",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000500315",
+      "published_date": "2026-07-14T22:08:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e122c0692f10aea0ca2e4e9421c2b859",
+      "title": "(2nd LD) Trump drops 20 pct Hormuz fee; U.S. naval blockade against Iran resumes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260715000352315",
+      "published_date": "2026-07-14T20:47:54Z",
+      "category": "Local Events"
+    },
     {
       "id": "07710ea18fd09b550d02218cded471e1",
       "title": "Yonhap News Summary",
@@ -783,22 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260714002100315",
       "published_date": "2026-07-14T00:57:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a48ac7f725da5d69cd4853d3f9f16459",
-      "title": "(LEAD) Seoul shares open lower, tracking Wall Street losses amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714001151320",
-      "published_date": "2026-07-14T00:26:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e2312b7fc37cfec214632a451452521e",
-      "title": "Seoul shares open lower, tracking Wall Street losses amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714001100320",
-      "published_date": "2026-07-14T00:05:33Z",
       "category": "Local Events"
     }
   ]
