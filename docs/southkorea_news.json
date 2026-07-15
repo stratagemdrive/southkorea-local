@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-14T23:41:15Z",
+  "generated_at": "2026-07-15T12:16:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e8c03b799c8245493894e7647cd1fc68",
+      "title": "Belarusian communists sign cooperation deal with North Korea’s ruling party",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/belarusian-communists-sign-cooperation-deal-with-north-koreas-ruling-party/",
+      "published_date": "2026-07-15T08:07:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e45f18a6dae19f8bf18502c0f86f4c60",
+      "title": "US-ROK fighter drills continue despite North Korea’s past objections",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/us-rok-fighter-drills-continue-despite-north-koreas-past-objections/",
+      "published_date": "2026-07-15T06:23:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28800bf38cbd6c38842e463657331fd1",
+      "title": "North Korea’s closer ties with China, Russia — and what Washington can do",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/north-koreas-closer-ties-with-china-russia-and-what-washington-can-do/",
+      "published_date": "2026-07-15T05:29:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f3577c0ffa3b64565334e9cbf017ce25",
+      "title": "US can abandon North Korea’s denuclearization but make headway on nuclear freeze",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/us-can-abandon-north-koreas-denuclearization-but-make-headway-on-nuclear-freeze/",
+      "published_date": "2026-07-15T04:21:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f2d8384cb0b77697f8ba8493d18ebfe5",
+      "title": "North Korean beauty salons, saunas embrace premium services",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-beauty-salons-saunas-premium-services/",
+      "published_date": "2026-07-15T01:57:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "0216443515ee4eca2687147fb01cc925",
       "title": "(URGENT) S. Korea adds 63,000 jobs in June, first rebound in 2 months",
@@ -127,46 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/07/how-a-rare-public-purge-spotlights-kim-jong-uns-struggle-to-root-out-corruption/",
       "published_date": "2026-07-14T08:18:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ebdcd36371c5e004d1fd0a62d520da24",
-      "title": "Ask a North Korean: What made you want to leave North Korea?",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/ask-a-north-korean-what-made-you-want-to-leave-north-korea/",
-      "published_date": "2026-07-14T07:43:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d6394c71f7521455471448c1db50953e",
-      "title": "Lee says women should be able to safely take abortion pills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714009300315",
-      "published_date": "2026-07-14T07:36:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b12b1f297d948f28a79d9a55b1f8e94a",
-      "title": "(2nd LD) Seoul shares end higher on tech rebound despite Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714007452320",
-      "published_date": "2026-07-14T07:29:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9794023d1189822b54698290f647edea",
-      "title": "(LEAD) S. Korean FM to visit Philippines for ASEAN-related ministerial meetings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714009051315",
-      "published_date": "2026-07-14T07:15:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b5c663d4d6bd2a4f3d09477f754b2907",
-      "title": "(LEAD) Seoul shares end higher on tech rebound despite Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260714007451320",
-      "published_date": "2026-07-14T07:11:36Z",
       "category": "Diplomacy"
     }
   ],
@@ -289,22 +289,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260709003700315",
       "published_date": "2026-07-09T03:12:46Z",
-      "category": "Military"
-    },
-    {
-      "id": "597adea0e47c2184ea42ba78ecb46938",
-      "title": "S. Korea honors defense industry contributions on K-Defense Day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708007400315",
-      "published_date": "2026-07-08T07:00:03Z",
-      "category": "Military"
-    },
-    {
-      "id": "86b962d67f7546a2b543a1f026daaaec",
-      "title": "Alumni groups of Army, Navy, Air Force rally against gov't push to unify military academies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708004300315",
-      "published_date": "2026-07-08T02:26:59Z",
       "category": "Military"
     }
   ],
@@ -459,14 +443,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260708011900315",
       "published_date": "2026-07-08T12:17:17Z",
-      "category": "Energy"
-    },
-    {
-      "id": "1a7aee13650843e63a64b42014dd8874",
-      "title": "8 platform operators subject to new Network Act revision",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260708011100320",
-      "published_date": "2026-07-08T08:03:08Z",
       "category": "Energy"
     }
   ],
