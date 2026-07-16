@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-16T12:20:36Z",
+  "generated_at": "2026-07-16T23:47:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "b5e3144d9c516cf5514f3e0a3b8530af",
+      "title": "N.K. leader meets with China's top political adviser in Pyongyang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260717000200315",
+      "published_date": "2026-07-16T22:28:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1f35e7cce2bb195303c9508215fafb22",
+      "title": "In China, North Koreans hear they’re the poor ones",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-koreans-in-china-treated-as-poor/",
+      "published_date": "2026-07-16T20:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f1f0984bc00cccc5e3ad94fe8a64e8af",
+      "title": "Guilt-ridden friend turns in North Korean youths over K-drama",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-youths-arrested-k-drama-pyongsong/",
+      "published_date": "2026-07-16T17:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9ab4bb62ae3d9526a31061ae3f379c59",
+      "title": "Missing relative sinks North Korean official’s shot at working in Russia",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-overseas-dispatch-screening/",
+      "published_date": "2026-07-16T14:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3e53554c08451b89ba8d76ac521c2dfd",
+      "title": "Hunger drives North Korean children to raid state orchards",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/hungry-north-korean-children-raid-orchards/",
+      "published_date": "2026-07-16T13:09:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3b3310dd18d4d4398eff8d325e89cb0b",
       "title": "(LEAD) Regulator raises minimum deposit requirement for leveraged ETFs amid wild swings",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260716005651320",
       "published_date": "2026-07-16T05:32:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8e6b7a30c2fb9e3f78ea17a6b615507c",
-      "title": "Hyundai to acquire remaining Boston Dynamics stake: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716006400320",
-      "published_date": "2026-07-16T05:29:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a852636c7c390e93eca73396be0cb862",
-      "title": "Lee's approval rating falls to 55 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716006200315",
-      "published_date": "2026-07-16T05:19:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "44e789fe39cfda045acafcc29bdc14ea",
-      "title": "S. Korea to launch sovereign AI for cybersecurity this year: science minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716005600320",
-      "published_date": "2026-07-16T02:58:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c405c3177e90ed5749ca77c6db23ecdd",
-      "title": "(LEAD) Lee says utilizing S. Korea's strengths could make it global leader in AI era",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716004051315",
-      "published_date": "2026-07-16T02:52:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2894d4f27dbfe2aab62611e3b28006a5",
-      "title": "(URGENT) Stock market correction unlikely to have major impact on financial system: BOK gov.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716005500320",
-      "published_date": "2026-07-16T02:45:21Z",
       "category": "Diplomacy"
     }
   ],
@@ -297,22 +297,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260710002700315",
       "published_date": "2026-07-10T01:03:52Z",
-      "category": "Military"
-    },
-    {
-      "id": "2c62b9a1d066f315eaf821d0ada2a2fa",
-      "title": "Kim Jong Un oversees military meeting on improving nukes, navy and intel agency",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/kim-jong-un-oversees-military-meeting-on-improving-nukes-navy-and-intel-agency/",
-      "published_date": "2026-07-09T22:54:23Z",
-      "category": "Military"
-    },
-    {
-      "id": "4881843afc4ed753e2c32cb3668b9940",
-      "title": "Trump seems not to rule out building U.S. military ships he requested in S. Korea: presidential official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260709009400315",
-      "published_date": "2026-07-09T14:37:47Z",
       "category": "Military"
     }
   ],
@@ -642,6 +626,14 @@
   ],
   "Local Events": [
     {
+      "id": "68f5fd1dbf9450983e7044c69062bce2",
+      "title": "(LEAD) Court rejects arrest warrant for ex-prosecutor general over alleged martial law role",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260716003951315",
+      "published_date": "2026-07-16T14:35:42Z",
+      "category": "Local Events"
+    },
+    {
       "id": "65520317da7ed734585e8099892fa951",
       "title": "(LEAD) Police seek arrest warrant for woman over solo blockade of vote counting center",
       "source": "Yonhap News Agency",
@@ -791,14 +783,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260716000251315",
       "published_date": "2026-07-16T05:39:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2b800c6d75c434cbd28a7285b354b3e3",
-      "title": "Parliamentary hearing on football governing body postponed",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716006000315",
-      "published_date": "2026-07-16T05:11:41Z",
       "category": "Local Events"
     }
   ]
