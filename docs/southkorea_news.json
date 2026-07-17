@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-17T12:10:46Z",
+  "generated_at": "2026-07-17T23:41:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "bd65e4c8b7c90eb7ee9a8efb77239e14",
+      "title": "China’s top strategist tours DPRK’s Wonsan resort before returning to Beijing",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/chinas-top-strategist-tours-dprks-wonsan-resort-before-returning-to-beijing/",
+      "published_date": "2026-07-17T23:24:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2a12baeb1cdefcad3da6221ff5475162",
+      "title": "Guilt over watching K-drama leads to arrest in Pyongsong",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-koreans-arrested-watching-k-drama/",
+      "published_date": "2026-07-17T14:57:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "c31c91732db2642622076802777a7c9e",
       "title": "Underdogs in red: How North Korea’s soccer team won over an English town",
@@ -152,22 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260716010800315",
       "published_date": "2026-07-16T08:32:53Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "5505eafff02e1f027582d1e2d7048d95",
-      "title": "Hyundai Motor workers to extend strikes over pay dispute",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716009300320",
-      "published_date": "2026-07-16T07:58:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a9ec467c83eb05e341a086f53558d799",
-      "title": "Regulator unveils measures on leveraged ETFs amid wild swings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716008900320",
-      "published_date": "2026-07-16T07:40:52Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -265,14 +265,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260712001700315",
       "published_date": "2026-07-12T04:03:27Z",
-      "category": "Military"
-    },
-    {
-      "id": "72f39c7e2f2c3bd57ddadad974047062",
-      "title": "North Korea orders surprise inspections of civilian militias",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-surprise-inspections-civilian-militias-victory-day/",
-      "published_date": "2026-07-10T18:11:00Z",
       "category": "Military"
     }
   ],
@@ -395,14 +387,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260713000500315",
       "published_date": "2026-07-12T22:15:37Z",
-      "category": "Energy"
-    },
-    {
-      "id": "8eccdc8c82abb6e2d791e6d69393d0d5",
-      "title": "(LEAD) SK hynix debuts on Nasdaq to raise US$26.5 bln amid soaring AI demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710001451320",
-      "published_date": "2026-07-10T13:58:26Z",
       "category": "Energy"
     }
   ],
@@ -570,6 +554,22 @@
   ],
   "Local Events": [
     {
+      "id": "30ab6d851728c6d71955b23fbffcad16",
+      "title": "(LEAD) Heavy rain forecast for central regions, gov't orders emergency readiness",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260717004651315",
+      "published_date": "2026-07-17T13:15:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fad7de5d44fbbfc27767773c68af96ae",
+      "title": "Heavy rain forecast for central regions, gov't orders heightened alert",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260717004600315",
+      "published_date": "2026-07-17T12:11:18Z",
+      "category": "Local Events"
+    },
+    {
       "id": "c8130edbc0f8e83704d28e634dbbd125",
       "title": "Foreign ministry cancels hiring of ex-top prosecutor's daughter, seeks disciplinary action against officials",
       "source": "Yonhap News Agency",
@@ -711,22 +711,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260716007151320",
       "published_date": "2026-07-16T06:57:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0a896c97c35d735a1631769bfcb6ebd9",
-      "title": "S. Korea's media watchdog floats possible social media ban for minors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716007700320",
-      "published_date": "2026-07-16T06:44:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "21ade0e0d648274dd5737bd5219492bf",
-      "title": "Seoul shares fall again, dropping over 6 pct on tech losses amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716007100320",
-      "published_date": "2026-07-16T06:38:18Z",
       "category": "Local Events"
     }
   ]
