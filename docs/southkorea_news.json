@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-18T11:53:50Z",
+  "generated_at": "2026-07-18T23:41:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "6b1ffde47364441fd829fd0a964bfdb6",
+      "title": "N. Korean state media confirms FM Choe's Russia visit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000300315",
+      "published_date": "2026-07-18T22:20:54Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "daa664e3c042e000a17b2424dcb719ad",
       "title": "(LEAD) N. Korean FM visits Moscow, says Russian media",
@@ -159,14 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-koreans-in-china-treated-as-poor/",
       "published_date": "2026-07-16T20:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f1f0984bc00cccc5e3ad94fe8a64e8af",
-      "title": "Guilt-ridden friend turns in North Korean youths over K-drama",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-youths-arrested-k-drama-pyongsong/",
-      "published_date": "2026-07-16T17:21:00Z",
       "category": "Diplomacy"
     }
   ],
@@ -554,6 +554,22 @@
   ],
   "Local Events": [
     {
+      "id": "c13543134c24c031f6711424c961a581",
+      "title": "(4th LD) Fire breaks out at Coupang logistics center in Incheon, injuring 1 firefighter",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000854320",
+      "published_date": "2026-07-18T12:55:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "edeef6c688493f0e854e3564a627b737",
+      "title": "(3rd LD) Fire breaks out at Coupang logistics center in Incheon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000853320",
+      "published_date": "2026-07-18T11:48:00Z",
+      "category": "Local Events"
+    },
+    {
       "id": "71ddbe67163b11c066e773f06af29504",
       "title": "(2nd LD) Fire breaks out at Coupang logistics center in Incheon",
       "source": "Yonhap News Agency",
@@ -695,22 +711,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260716009051315",
       "published_date": "2026-07-16T12:12:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5600a9fb52f0fe01945b653ef8c65679",
-      "title": "Golfer Ryu Hae-ran says she 'envied' LPGA major champion label",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716011100315",
-      "published_date": "2026-07-16T10:09:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1f04fc17af3d256cdba8cf8c3e89c146",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716009700315",
-      "published_date": "2026-07-16T08:02:42Z",
       "category": "Local Events"
     }
   ]
