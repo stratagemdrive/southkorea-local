@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-17T23:41:18Z",
+  "generated_at": "2026-07-18T11:53:50Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "daa664e3c042e000a17b2424dcb719ad",
+      "title": "(LEAD) N. Korean FM visits Moscow, says Russian media",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718001551320",
+      "published_date": "2026-07-18T08:47:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bec360bc2ad2b638911b6408a4c7771e",
+      "title": "Wiz sign temporary fill-in Allen to full contract",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718002200315",
+      "published_date": "2026-07-18T08:07:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4812e0561c6c733b6adfd160f585e2b0",
+      "title": "N. Korean FM to visit Moscow, says Russian foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718001500320",
+      "published_date": "2026-07-18T06:13:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ed9a73605e5a563e6ea6468f7f0568e0",
+      "title": "Son Heung-min nets 1st goal of MLS season",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718001400315",
+      "published_date": "2026-07-18T05:53:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0829469e8d558029971dd253ad1a47c4",
+      "title": "(LEAD) Nearly 200 mm of rain hits Seoul, surrounding regions; 540 cases of damage reported",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000651320",
+      "published_date": "2026-07-18T05:31:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1a519895b67f4a509bdeda941827ab58",
+      "title": "Lee calls for increasing agricultural subsidies to protect food security, ensure farmers' livelihoods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718001000315",
+      "published_date": "2026-07-18T03:06:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d4d7bdcd28904b84bc98038de9021d29",
+      "title": "N.K. leader holds photo sessions with women's union members, construction unit soldiers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000500315",
+      "published_date": "2026-07-18T00:47:04Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "bd65e4c8b7c90eb7ee9a8efb77239e14",
       "title": "China’s top strategist tours DPRK’s Wonsan resort before returning to Beijing",
@@ -111,62 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-youths-arrested-k-drama-pyongsong/",
       "published_date": "2026-07-16T17:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9ab4bb62ae3d9526a31061ae3f379c59",
-      "title": "Missing relative sinks North Korean official’s shot at working in Russia",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-overseas-dispatch-screening/",
-      "published_date": "2026-07-16T14:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3e53554c08451b89ba8d76ac521c2dfd",
-      "title": "Hunger drives North Korean children to raid state orchards",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/hungry-north-korean-children-raid-orchards/",
-      "published_date": "2026-07-16T13:09:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3b3310dd18d4d4398eff8d325e89cb0b",
-      "title": "(LEAD) Regulator raises minimum deposit requirement for leveraged ETFs amid wild swings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716008951320",
-      "published_date": "2026-07-16T12:15:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7a2b75332e5c436a8c938f0c71533156",
-      "title": "NK foreign ministry briefs officials on US emergency order",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-foreign-ministry-us-national-emergency-briefing/",
-      "published_date": "2026-07-16T09:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a1ebf3942ca32e8859d7cd3ff66c75d7",
-      "title": "(LEAD) Creditor to extend fresh funding for cash-strapped retailer Homeplus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716004151320",
-      "published_date": "2026-07-16T08:42:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "42bb07aee3f3c27a5fa6656e9017cd3a",
-      "title": "Top Chinese political strategist holds talks with Kim Jong Un’s close aide",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/top-chinese-political-strategist-holds-talks-with-kim-jong-uns-close-aide/",
-      "published_date": "2026-07-16T08:35:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "20946165ae6df69fa8fb5953d06eb42a",
-      "title": "Hanwha Aerospace wins Army unmanned ground vehicle deal: arms agency",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716010800315",
-      "published_date": "2026-07-16T08:32:53Z",
       "category": "Diplomacy"
     }
   ],
@@ -392,6 +392,14 @@
   ],
   "Economy": [
     {
+      "id": "2626aebfb11e47ebc7b28e711a3cc49a",
+      "title": "Ex-Land Minister Won to appear for questioning over expressway project",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718001600320",
+      "published_date": "2026-07-18T06:58:48Z",
+      "category": "Economy"
+    },
+    {
       "id": "5e24a687ea2d197c37b3e600a7c8b741",
       "title": "SK chief says SK hynix shares likely to trend upward on strong memory chip demand",
       "source": "Yonhap News Agency",
@@ -542,17 +550,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260715000351315",
       "published_date": "2026-07-14T18:55:24Z",
       "category": "Economy"
-    },
-    {
-      "id": "03ea477deddc6814253c5ee35047e9f2",
-      "title": "Trump says he decided to replace 20 pct 'reimbursement' fee with investment deals with Gulf states",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260715000300315",
-      "published_date": "2026-07-14T15:36:16Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "71ddbe67163b11c066e773f06af29504",
+      "title": "(2nd LD) Fire breaks out at Coupang logistics center in Incheon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000852320",
+      "published_date": "2026-07-18T09:01:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d8f22ea45296d5d923818f5153dca2fd",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000700320",
+      "published_date": "2026-07-18T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "170224163aeae9733a2b79e50865ffd9",
+      "title": "(LEAD) Fire breaks out at Coupang logistics center in Incheon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000851320",
+      "published_date": "2026-07-18T03:01:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ca8177091b70f4a0f5bd89f37ca9b7c6",
+      "title": "Fire breaks out at Coupang logistics center in Incheon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000800320",
+      "published_date": "2026-07-18T02:12:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "34953e194e0e57f6e13685475264dc13",
+      "title": "Seoul battered with heavy rains, key road closed",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000600320",
+      "published_date": "2026-07-18T01:33:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "60472ef74774b9ecc399aaa986e314d1",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718000400320",
+      "published_date": "2026-07-18T00:16:34Z",
+      "category": "Local Events"
+    },
     {
       "id": "30ab6d851728c6d71955b23fbffcad16",
       "title": "(LEAD) Heavy rain forecast for central regions, gov't orders emergency readiness",
@@ -663,54 +711,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260716009700315",
       "published_date": "2026-07-16T08:02:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2ca7cdacd87cad100cbfab74cf71d0e2",
-      "title": "Police seek arrest warrant for woman over solo blockade of vote counting center",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716009000315",
-      "published_date": "2026-07-16T07:47:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b3496e8e7e1a266800387e1a8d225313",
-      "title": "(2nd LD) Agencies, producers pledge to cap actors' fees for state-supported films",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716003452315",
-      "published_date": "2026-07-16T07:35:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "30a1a7beaed307f934261b9d9c2b98c2",
-      "title": "(2nd LD) Seoul shares fall again, dropping over 6 pct on tech losses amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716007152320",
-      "published_date": "2026-07-16T07:32:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fc03a59d15ff2373835b7636c8509f3b",
-      "title": "Ex-first lady postpones appearance before special counsel over health reasons",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716008800315",
-      "published_date": "2026-07-16T07:23:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "088ee328a5c9fbf236d5823690d2f110",
-      "title": "Court orders travel agencies to refund TMON-WeMakePrice insolvency victims",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716008700315",
-      "published_date": "2026-07-16T07:15:28Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "555eefde2445b63e594cd745d765f3db",
-      "title": "(LEAD) Seoul shares fall again, dropping over 6 pct on tech losses amid Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716007151320",
-      "published_date": "2026-07-16T06:57:20Z",
       "category": "Local Events"
     }
   ]
