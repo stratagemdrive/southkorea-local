@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-19T12:00:19Z",
+  "generated_at": "2026-07-19T23:45:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "9089905633c94e2d31ae374b81b60c25",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 20)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720000800315",
+      "published_date": "2026-07-19T22:18:52Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "0c6491cebe0173c780541f932dfbd186",
       "title": "(2nd LD) World heritage representatives gather in Busan for UNESCO committee session",
@@ -160,14 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260718000500315",
       "published_date": "2026-07-18T00:47:04Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "bd65e4c8b7c90eb7ee9a8efb77239e14",
-      "title": "China’s top strategist tours DPRK’s Wonsan resort before returning to Beijing",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/chinas-top-strategist-tours-dprks-wonsan-resort-before-returning-to-beijing/",
-      "published_date": "2026-07-17T23:24:20Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -234,33 +234,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260713000951315",
       "published_date": "2026-07-13T00:02:54Z",
       "category": "Military"
-    },
-    {
-      "id": "7c0b540ecbedd408ba0fd11a45d738eb",
-      "title": "Body of missing sailor recovered from East Sea: Navy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713000900315",
-      "published_date": "2026-07-12T22:24:58Z",
-      "category": "Military"
-    },
-    {
-      "id": "29979f65eb5ef9efec546fd49eae1ca7",
-      "title": "(URGENT) Body of missing sailor recovered from East Sea: Navy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713000300315",
-      "published_date": "2026-07-12T22:06:43Z",
-      "category": "Military"
-    },
-    {
-      "id": "d501ce0cc224ff5ff15e6bc64f09c4e6",
-      "title": "Military targeted in nearly 19,000 cyberattack attempts in 2025: lawmaker",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260712002400315",
-      "published_date": "2026-07-12T13:04:34Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "0a8f6ad9a48600dbd2778194c2a64d0e",
+      "title": "KBO reaches 8 mln fans in fewest games ever",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719003500315",
+      "published_date": "2026-07-19T13:01:35Z",
+      "category": "Energy"
+    },
     {
       "id": "7ac952cf1097616f6bde8a4268362815",
       "title": "14th S. Korean oil tanker successfully transits through Red Sea",
@@ -372,17 +356,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260713002400320",
       "published_date": "2026-07-12T23:53:11Z",
       "category": "Energy"
-    },
-    {
-      "id": "2b97b83c225afdf90176dc989de6e860",
-      "title": "(EDITORIAL from Korea Herald on July 13)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260713000500315",
-      "published_date": "2026-07-12T22:15:37Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "c4d336a71da2fe91863e59667e6c5f8f",
+      "title": "(EDITORIAL from The Korea Times on July 20)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720000700315",
+      "published_date": "2026-07-19T22:18:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2553ede4050e9ca87c6651f4717b9cd9",
+      "title": "(EDITORIAL from The Korea Herald on July 20)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720000600315",
+      "published_date": "2026-07-19T22:18:38Z",
+      "category": "Economy"
+    },
     {
       "id": "68b52770a2330dff8507295a496f38f6",
       "title": "S. Korea vows to ease access to won, eyes 'freely convertible currency'",
@@ -526,25 +518,73 @@
       "url": "https://en.yna.co.kr/view/AEN20260715003100320",
       "published_date": "2026-07-15T01:09:14Z",
       "category": "Economy"
-    },
-    {
-      "id": "a0288019bb32c14c0c1127cbbd7fedab",
-      "title": "S. Korea's economic recovery trend solidifying on strong exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260715002500320",
-      "published_date": "2026-07-15T01:00:04Z",
-      "category": "Economy"
-    },
-    {
-      "id": "618aef36ff0f9bce0a90f1b71e9b9e8a",
-      "title": "(2nd LD) S. Korea adds 63,000 jobs in June despite weak manufacturing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260715001152320",
-      "published_date": "2026-07-15T00:19:08Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "3246aba50b594232bc972fb7c04ab7db",
+      "title": "'Hope' sweeps box office on debut weekend",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720001100315",
+      "published_date": "2026-07-19T23:17:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "496d57fce0d0086fe97f047e08d25051",
+      "title": "Yonhap publishes 2026 English-language almanac",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260718002300315",
+      "published_date": "2026-07-19T23:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1d847b4b7567298428e10e1bfb14b08b",
+      "title": "Kim Si-woo ties for 6th at Open Championship for career-best finish at major",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720000900315",
+      "published_date": "2026-07-19T22:38:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9a67ab1a542b9fd87325cbf42faed8a7",
+      "title": "Firefighters battle Coupang warehouse blaze for 3rd day amid collapse fears",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720000400315",
+      "published_date": "2026-07-19T22:30:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "653097ae54f66d86c0b5f3d1be384f25",
+      "title": "BTS headlines first halftime show at World Cup final",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720000300315",
+      "published_date": "2026-07-19T22:29:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b4b02737149fc9588ef2a152bc2d5cdd",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720000500315",
+      "published_date": "2026-07-19T22:18:30Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3b808a6b0e5985f18cf652eedbf804fd",
+      "title": "(3rd LD) Evacuation ordered as firefighting continues at Coupang logistics center",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719003053315",
+      "published_date": "2026-07-19T14:13:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8d67256eca5001b305b064d91bbf08a6",
+      "title": "(2nd LD) Firefighting efforts continue at Incheon Coupang logistics center",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719003052315",
+      "published_date": "2026-07-19T13:46:16Z",
+      "category": "Local Events"
+    },
     {
       "id": "c80408edfc4c9e42f1e0e7aed938846c",
       "title": "(LEAD) Firefighters battle to contain fire at Coupang logistics center for 2nd day",
@@ -639,70 +679,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260717004651315",
       "published_date": "2026-07-17T13:15:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fad7de5d44fbbfc27767773c68af96ae",
-      "title": "Heavy rain forecast for central regions, gov't orders heightened alert",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717004600315",
-      "published_date": "2026-07-17T12:11:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c8130edbc0f8e83704d28e634dbbd125",
-      "title": "Foreign ministry cancels hiring of ex-top prosecutor's daughter, seeks disciplinary action against officials",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717004500315",
-      "published_date": "2026-07-17T11:56:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eac19557a99ab95670420ce8c1decf20",
-      "title": "Foreign ministry hosts int'l conference on World Heritage interpretation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717004400315",
-      "published_date": "2026-07-17T11:27:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "db86e3918d76baa33f914ee95ca7b144",
-      "title": "Agriculture ministry holds emergency meeting ahead of heavy downpours",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717003700320",
-      "published_date": "2026-07-17T07:18:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "673a0319df1b6174080cc612aa1e461a",
-      "title": "Nat'l Assembly celebrates 78th Constitution Day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717002800315",
-      "published_date": "2026-07-17T05:54:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "418ba7441716221007cb0b89bb765a3f",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717001100315",
-      "published_date": "2026-07-17T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "39aaaf06241002fa8a00a2eac9c9c80f",
-      "title": "Tougher U.S. student visa rule to affect over 13,000 S. Koreans in America",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717001600315",
-      "published_date": "2026-07-17T01:54:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ca0dfc602943f771a4dc82f554ef87de",
-      "title": "S. Korea's exports of K-pop albums hit record high of US$257.48 mln in H1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717001500320",
-      "published_date": "2026-07-17T00:53:52Z",
       "category": "Local Events"
     }
   ]
