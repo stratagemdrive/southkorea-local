@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-18T23:41:07Z",
+  "generated_at": "2026-07-19T12:00:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "0c6491cebe0173c780541f932dfbd186",
+      "title": "(2nd LD) World heritage representatives gather in Busan for UNESCO committee session",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000752315",
+      "published_date": "2026-07-19T11:33:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2d82811317d532e72d5d54e7ac22c02c",
+      "title": "(LEAD) World heritage representatives gather in Busan for UNESCO committee session",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000751315",
+      "published_date": "2026-07-19T10:54:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c1b2304d456d08c5ffa162fa7761c894",
+      "title": "Slumping Eagles release pitcher Hernandez",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719003200315",
+      "published_date": "2026-07-19T08:14:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a92228757ba267ea76870f75abad74bc",
+      "title": "Nearly half of workers say cannot freely take parental leave: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719002200315",
+      "published_date": "2026-07-19T05:31:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3b7c14c27fa1b8e6a0a06556a533288b",
+      "title": "9 in 10 S. Koreans call for tougher penalties for technology leaks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719002100320",
+      "published_date": "2026-07-19T04:52:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9befdcff033d73d1524a83bd320d08ff",
+      "title": "Industry minister to visit U.S. this week for talks on bilateral issues, possibly including Coupang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719001800315",
+      "published_date": "2026-07-19T03:05:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e48a36f9d9206959d2c776c861385cb1",
+      "title": "Samsung set to unveil new foldables, smart glasses at upcoming Unpacked event",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719001700320",
+      "published_date": "2026-07-19T02:26:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0c1a2bf6d861522f5e3c1e5fff53f222",
+      "title": "Samsung's brand value hits US$97.4 bln this year: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719001100320",
+      "published_date": "2026-07-19T01:49:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ecb45f93f9f866f77971de220d2d39b4",
+      "title": "No. of unemployed college graduates hits 5-yr high in Q2",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719001000315",
+      "published_date": "2026-07-19T01:46:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6d61c4e25eeebfe85ee91d446a9febed",
+      "title": "S. Korean embassy provides food aid, relief supplies to displaced in quake-hit Venezuela",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000800315",
+      "published_date": "2026-07-19T01:07:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "50fdd6cf38d31b78e8d85948b3a817cb",
+      "title": "World heritage representatives to gather in Busan for UNESCO committee session",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000700315",
+      "published_date": "2026-07-19T01:03:56Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6b1ffde47364441fd829fd0a964bfdb6",
       "title": "N. Korean state media confirms FM Choe's Russia visit",
@@ -79,94 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/07/chinas-top-strategist-tours-dprks-wonsan-resort-before-returning-to-beijing/",
       "published_date": "2026-07-17T23:24:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2a12baeb1cdefcad3da6221ff5475162",
-      "title": "Guilt over watching K-drama leads to arrest in Pyongsong",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-koreans-arrested-watching-k-drama/",
-      "published_date": "2026-07-17T14:57:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c31c91732db2642622076802777a7c9e",
-      "title": "Underdogs in red: How North Korea’s soccer team won over an English town",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/underdogs-in-red-how-north-koreas-soccer-team-won-over-an-english-town/",
-      "published_date": "2026-07-17T09:30:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0305e1147793a329170b9a85d2130677",
-      "title": "(LEAD) Lee reiterates plan to designate Dec. 3 as day for people's sovereignty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717001751320",
-      "published_date": "2026-07-17T07:58:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9f8d048b2d4ee39b08b83b632d8f4bde",
-      "title": "N. Korea warns of 'chain of countermeasures' over U.S.-led RIMPAC exercise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717003800315",
-      "published_date": "2026-07-17T07:54:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3418f2b42d86f6349712ea5cab59d025",
-      "title": "China’s foremost political strategist meets Kim Jong Un: state media",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/chinas-foremost-political-strategist-meets-kim-jong-un-state-media/",
-      "published_date": "2026-07-17T03:27:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "95cea6306f69701edb3676b854a0552b",
-      "title": "Lee's approval rating edges down for 2nd consecutive week: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717001800315",
-      "published_date": "2026-07-17T02:42:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "95e7da198d613c9f8baaef43cf387088",
-      "title": "Lee reiterates plan to designate Dec. 3 as day for people's sovereignty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717001700320",
-      "published_date": "2026-07-17T02:18:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4e4d03f26938737d31428f740acb492d",
-      "title": "(EDITORIAL from Korea JoongAng Daily on July 17)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717001000315",
-      "published_date": "2026-07-17T00:20:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a20747985734ba1f4000500a4ca66bdd",
-      "title": "(EDITORIAL from The Korea Herald on July 17)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717000700315",
-      "published_date": "2026-07-17T00:19:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b5e3144d9c516cf5514f3e0a3b8530af",
-      "title": "N.K. leader meets with China's top political adviser in Pyongyang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717000200315",
-      "published_date": "2026-07-16T22:28:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1f35e7cce2bb195303c9508215fafb22",
-      "title": "In China, North Koreans hear they’re the poor ones",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-koreans-in-china-treated-as-poor/",
-      "published_date": "2026-07-16T20:54:00Z",
       "category": "Diplomacy"
     }
   ],
@@ -257,14 +257,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260712002400315",
       "published_date": "2026-07-12T13:04:34Z",
-      "category": "Military"
-    },
-    {
-      "id": "86f759d0513a086a67b317d2f7f5fa78",
-      "title": "(URGENT) Navy searches for sailor missing during East Sea patrol",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260712001700315",
-      "published_date": "2026-07-12T04:03:27Z",
       "category": "Military"
     }
   ],
@@ -391,6 +383,30 @@
     }
   ],
   "Economy": [
+    {
+      "id": "68b52770a2330dff8507295a496f38f6",
+      "title": "S. Korea vows to ease access to won, eyes 'freely convertible currency'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260716008500320",
+      "published_date": "2026-07-19T03:00:13Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1149dc06315f9d0f3b05c543d3e19ddc",
+      "title": "Foreigners offload S. Korean stocks but net purchase ETFs this month: KRX",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000900320",
+      "published_date": "2026-07-19T01:21:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6c0d4838589d2166e2443703184f5e38",
+      "title": "S. Korea's per capita GDP estimated to reach US$39,000 in 2026, mark sharpest growth in 5 yrs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000600320",
+      "published_date": "2026-07-19T00:55:38Z",
+      "category": "Economy"
+    },
     {
       "id": "2626aebfb11e47ebc7b28e711a3cc49a",
       "title": "Ex-Land Minister Won to appear for questioning over expressway project",
@@ -526,33 +542,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260715001152320",
       "published_date": "2026-07-15T00:19:08Z",
       "category": "Economy"
-    },
-    {
-      "id": "d5b5193de9b98156de3bf226c4ee74fa",
-      "title": "(LEAD) S. Korea adds 63,000 jobs in June despite weak manufacturing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260715001151320",
-      "published_date": "2026-07-14T23:12:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c942111ca1a333e52854371fd222d621",
-      "title": "S. Korea adds 63,000 jobs in June despite weak manufacturing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260715001100320",
-      "published_date": "2026-07-14T23:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c61d894ee3e2cbf25ae8717fd1908aef",
-      "title": "(LEAD) Trump drops 20 pct Hormuz fee, instead seeks investment deals with Gulf states",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260715000351315",
-      "published_date": "2026-07-14T18:55:24Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "c80408edfc4c9e42f1e0e7aed938846c",
+      "title": "(LEAD) Firefighters battle to contain fire at Coupang logistics center for 2nd day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719003051315",
+      "published_date": "2026-07-19T09:42:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8fff3f6a469503200975fd56dd780c6e",
+      "title": "Firefighters battle to contain fire at Coupang logistics center for 2nd day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719003000315",
+      "published_date": "2026-07-19T07:10:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ae80f8109de94f39e2e6dce6a7180dc9",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260719000500315",
+      "published_date": "2026-07-19T05:00:00Z",
+      "category": "Local Events"
+    },
     {
       "id": "c13543134c24c031f6711424c961a581",
       "title": "(4th LD) Fire breaks out at Coupang logistics center in Incheon, injuring 1 firefighter",
@@ -687,30 +703,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260717001500320",
       "published_date": "2026-07-17T00:53:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "63771c3bf17be32976f237ece1dab49f",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260717000800320",
-      "published_date": "2026-07-17T00:18:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "68f5fd1dbf9450983e7044c69062bce2",
-      "title": "(LEAD) Court rejects arrest warrant for ex-prosecutor general over alleged martial law role",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716003951315",
-      "published_date": "2026-07-16T14:35:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "65520317da7ed734585e8099892fa951",
-      "title": "(LEAD) Police seek arrest warrant for woman over solo blockade of vote counting center",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716009051315",
-      "published_date": "2026-07-16T12:12:07Z",
       "category": "Local Events"
     }
   ]
