@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-20T13:08:07Z",
+  "generated_at": "2026-07-20T23:45:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "30a107ae607490f7f9767817352ee915",
+      "title": "N. Korean FM holds 'strategic dialogue' with Russian counterpart, meets Putin: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721001100315",
+      "published_date": "2026-07-20T23:25:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7c0ff13988badbfc91e9380ac883b95c",
+      "title": "N. Korea appears to have released water from border dam without prior notice",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720011500315",
+      "published_date": "2026-07-20T14:00:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d63f49184ca274436ce7d3ae491afeee",
+      "title": "Purged military official’s graft case sparks outrage among North Koreans",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-corruption-probe-pak-hui-chol/",
+      "published_date": "2026-07-20T13:43:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4f40697ceb5c1c6207eab06af52b1fb8",
+      "title": "S. Korea opens 'K-Heritage House' during UNESCO session in Busan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720011400315",
+      "published_date": "2026-07-20T13:41:50Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "26bb79a299c8a33dd7314bb83f789055",
       "title": "KBO-leading Lions sign former MLB pitcher Voth",
@@ -135,38 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/07/north-korea-vows-to-support-russia-in-ukraine-war-until-victory-top-envoy/",
       "published_date": "2026-07-20T05:46:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6480775cfd054eedbcf89b85e32ac40b",
-      "title": "Eagles sign ex-MLB pitcher Zimmermann",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720006100315",
-      "published_date": "2026-07-20T05:04:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4fcf15034f0a8c1b28cda1198d6b3f92",
-      "title": "Gov't advises short-term visitors to leave Middle East amid rising tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720002800315",
-      "published_date": "2026-07-20T01:25:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ba2cc702a9ef70aea72933dd1e99c616",
-      "title": "Lee's approval rating inches down to 48.4 pct this week: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720002200315",
-      "published_date": "2026-07-20T00:19:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9089905633c94e2d31ae374b81b60c25",
-      "title": "(EDITORIAL from Korea JoongAng Daily on July 20)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720000800315",
-      "published_date": "2026-07-19T22:18:52Z",
       "category": "Diplomacy"
     }
   ],
@@ -392,6 +392,14 @@
   ],
   "Economy": [
     {
+      "id": "2364732ef3febce1ae1d63fb58a2c5f8",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721000700320",
+      "published_date": "2026-07-20T22:02:11Z",
+      "category": "Economy"
+    },
+    {
       "id": "ad07871f9c335ed02b1421896af6f840",
       "title": "Hanwha Solutions confirms rights offering at 1.2 tln won",
       "source": "Yonhap News Agency",
@@ -542,17 +550,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260716005200320",
       "published_date": "2026-07-16T02:35:42Z",
       "category": "Economy"
-    },
-    {
-      "id": "70a4214a7c0945f144a2da6615c79470",
-      "title": "(2nd LD) BOK delivers 1st rate hike in 3 1/2 yrs to fight inflation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260710004552320",
-      "published_date": "2026-07-16T02:03:36Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "347a51590b8bd3621b23f029c7091521",
+      "title": "S. Korea drops out of top 30 in FIFA rankings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721001000315",
+      "published_date": "2026-07-20T23:11:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "af6875900833808defa9ad578e29dcde",
+      "title": "BLACKPINK's Jennie to release new solo single",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721000800315",
+      "published_date": "2026-07-20T22:55:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b94628a3c9685d9976aa13943421b169",
+      "title": "(EDITORIAL from The Korea Times on July 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721000600320",
+      "published_date": "2026-07-20T22:01:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "04bdd8e6ec59254e26df0ddc574ba9f7",
+      "title": "(EDITORIAL from The Korea Herald on July 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721000500320",
+      "published_date": "2026-07-20T22:01:30Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "241596d6b975804eaed0c0c6f7e3fa51",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721000300320",
+      "published_date": "2026-07-20T22:01:09Z",
+      "category": "Local Events"
+    },
     {
       "id": "c6410bb8b2469481f8c86f6f801462d4",
       "title": "(LEAD) Top nat'l sports body reduces trash-talk ban on high school baseball team",
@@ -671,46 +711,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260720006300315",
       "published_date": "2026-07-20T05:21:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e1507ff96af776c7c43252a3c742d888",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720001000315",
-      "published_date": "2026-07-20T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cb6d56a6abbaf8dfb801b0e42e995ab3",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720006000315",
-      "published_date": "2026-07-20T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "01bde9d5f2d8b912b2c0704d1ac70478",
-      "title": "(LEAD) Firefighters battle Coupang warehouse blaze for 3rd day amid collapse fears",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720000451315",
-      "published_date": "2026-07-20T02:40:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "397ccd97317cff2066dc0a9a826a7eed",
-      "title": "KRX activates sell-side sidecar for KOSPI on sharp decline",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720001700320",
-      "published_date": "2026-07-20T02:26:55Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "412863b4d1598a8873d642d0b95a80ca",
-      "title": "(URGENT) Bourse operator issues sell-side sidecar on KOSPI's sharp decline",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720001600320",
-      "published_date": "2026-07-20T02:24:42Z",
       "category": "Local Events"
     }
   ]
