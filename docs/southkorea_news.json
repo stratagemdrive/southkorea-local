@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-21T12:24:07Z",
+  "generated_at": "2026-07-21T23:46:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "9643ebb7b895b44c285bbb2176077d56",
+      "title": "Top diplomats of S. Korea, U.S., Japan to meet amid N. Korea's deepening ties with Russia, China",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722000200315",
+      "published_date": "2026-07-21T23:07:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "98d82bf498c69c110a82801a9b595fbf",
+      "title": "N. Korea honors artists behind memorial to its troops killed in Russia-Ukraine war",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722001600315",
+      "published_date": "2026-07-21T22:53:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bad35d84186636a790ec925002971b61",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722001400315",
+      "published_date": "2026-07-21T22:12:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1434d0e181d3e7317ee5f6bebd74531b",
+      "title": "N. Korean FM returns from trip to Russia: state media",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722001000315",
+      "published_date": "2026-07-21T21:48:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f62e06798739dc6e1091b6a1f29ef37",
+      "title": "Producer prices remain unchanged in June amid eased Mideast tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721008900320",
+      "published_date": "2026-07-21T21:00:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cc5211939eb4bcb3e4e869ddc6bd1734",
+      "title": "Trump says U.S. will 'take care of' Houthis if they impose Red Sea blockade",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722000600315",
+      "published_date": "2026-07-21T17:58:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ac98aa8a058071c2d045c7c54b1ce168",
+      "title": "U.S. to extend N. Korea travel ban until Aug. next year: State Dept.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721010300315",
+      "published_date": "2026-07-21T14:36:53Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5c1082f36367873e692731e5087423f5",
       "title": "Vice FM seeks ICRC's cooperation in respecting wishes of N. Korean captives in Ukraine",
@@ -112,62 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260721008600315",
       "published_date": "2026-07-21T07:09:36Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "6d79bcba7940ecc3279a462831c7fcee",
-      "title": "Cabinet approves decrees to reform military counterintelligence unit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721008700315",
-      "published_date": "2026-07-21T07:03:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b326bc2ea17310382088de76420e06b9",
-      "title": "Seoul stocks close over 3 pct higher on chip rebound",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721007500320",
-      "published_date": "2026-07-21T06:36:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8be6085edc311a8381359ea68f6d8620",
-      "title": "S. Korean FM to depart for Philippines to attend ASEAN-related ministerial meetings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721007400315",
-      "published_date": "2026-07-21T06:26:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e724b9d6d1cdf08a9cbe638a156c9355",
-      "title": "Information of all S. Korean diplomats presumed to be leaked: officials",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721006500315",
-      "published_date": "2026-07-21T06:21:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "50bee94f25f8a678dfcaede51044c85e",
-      "title": "Seoul says cooperation with NATO aimed at global peace, seeks stable relations with Russia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721007300315",
-      "published_date": "2026-07-21T06:16:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2608f8b83e7f719769829569313d6a72",
-      "title": "Rival parties agree to pass special counsel bill to investigate ballot shortages",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721006700315",
-      "published_date": "2026-07-21T06:04:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f0cdccb23f7a8de5c144742a9164ca8c",
-      "title": "North Korea’s Songdowon camp welcomes hundreds of Russian, Chinese children",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-koreas-songdowon-camp-welcomes-hundreds-of-russian-chinese-children/",
-      "published_date": "2026-07-21T06:00:29Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -245,6 +245,14 @@
     }
   ],
   "Energy": [
+    {
+      "id": "6eb7963fa6fbf14ba5097f20268b6892",
+      "title": "(EDITORIAL from The Korea Times on July 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722001300315",
+      "published_date": "2026-07-21T22:12:00Z",
+      "category": "Energy"
+    },
     {
       "id": "3413bc07483c8ba272b45e8f43cc0efd",
       "title": "LG Twins release reliever Rios",
@@ -396,17 +404,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260716004300320",
       "published_date": "2026-07-16T03:00:01Z",
       "category": "Energy"
-    },
-    {
-      "id": "7b2579e95d96ec760dc9ef7c62cab476",
-      "title": "S. Korea reaffirms commitment to SDGs, vows greater support for developing nations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716002700315",
-      "published_date": "2026-07-16T01:39:06Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "e56aca213cd294a102a7efd62b0990ce",
+      "title": "Delinquency ratio on bank loans up for 2nd month in May",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721010200320",
+      "published_date": "2026-07-21T21:00:02Z",
+      "category": "Economy"
+    },
     {
       "id": "6345ea2ea9436d720d806fad67f686ad",
       "title": "S. Korean won strengthens as foreign investors remain net buyers of local stocks",
@@ -558,17 +566,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260716008500320",
       "published_date": "2026-07-19T03:00:13Z",
       "category": "Economy"
-    },
-    {
-      "id": "1149dc06315f9d0f3b05c543d3e19ddc",
-      "title": "Foreigners offload S. Korean stocks but net purchase ETFs this month: KRX",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260719000900320",
-      "published_date": "2026-07-19T01:21:30Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "2bcc90d094e393d77d2074124029d6ad",
+      "title": "Flood warning lifted for Imjin River near inter-Korean border",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722001700315",
+      "published_date": "2026-07-21T23:10:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "823cc1e80e86dcc959eb56d7321cea3c",
+      "title": "(EDITORIAL from The Korea Herald on July 22)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722001200315",
+      "published_date": "2026-07-21T22:11:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6872e131e56150e4689d055f14be8d9f",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722001100315",
+      "published_date": "2026-07-21T22:11:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "34351f400062bfe1980b0657c691a04a",
+      "title": "(LEAD) Arrest warrant denied for woman accused of blockading vote counting center",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260721008851315",
+      "published_date": "2026-07-21T14:52:26Z",
+      "category": "Local Events"
+    },
     {
       "id": "7e2ba93b6bed95f3273fdc2417770f15",
       "title": "About 10 pct of 2022 crowd crush deaths possibly caused by reasons besides suffocation: committee",
@@ -695,38 +727,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260721005100315",
       "published_date": "2026-07-21T02:43:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1a1b7ef3e889710544e5ebad9ff20daf",
-      "title": "Sales of equity-linked securities decline in H1 on wild volatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721004300320",
-      "published_date": "2026-07-21T02:13:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "59aa568a7456c61aadc0d788796971c6",
-      "title": "Yeon Sang-ho's 'Paradise Lost' to premiere at Toronto film fest",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721003100315",
-      "published_date": "2026-07-21T01:37:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ad6b79418fa0b68a801eda4581ba2d21",
-      "title": "Gov't to give more advantages to firms outside Seoul area in state contracts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721002500320",
-      "published_date": "2026-07-21T01:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d18fd4dbe513802a2a9df7c0a4b3e00d",
-      "title": "Intermittent downpours to persist in central region",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260721002400315",
-      "published_date": "2026-07-21T00:46:24Z",
       "category": "Local Events"
     }
   ]
