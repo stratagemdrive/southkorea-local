@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-22T12:25:40Z",
+  "generated_at": "2026-07-22T23:53:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "1fb8afaef2beb65324f9afc2e0e773e6",
+      "title": "(EDITORIAL from The Korea Herald on July 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260723000700315",
+      "published_date": "2026-07-22T22:04:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b3d9e6e12c57dc51332116102b104f19",
+      "title": "North Korean military officer executed for stealing reserve grain",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-officer-executed-grain-theft-nampo/",
+      "published_date": "2026-07-22T19:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f5a202ebd229e1ed8acf740b6eccd831",
+      "title": "Residency ID rumors spark hope for North Korean defectors in China",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/china-permanent-residency-id-rumors-north-korean-defectors/",
+      "published_date": "2026-07-22T17:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5a42d4383744e19a3fee4e4b73086b71",
+      "title": "(LEAD) Samsung unveils 3 Galaxy Z foldable smartphones with personalized AI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722009151320",
+      "published_date": "2026-07-22T14:13:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8ec437652b4a11052080f3e4f71e2857",
+      "title": "(3rd LD) S. Korea, U.S., Japan vow robust deterrence posture against N. Korea at ministerial talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722000253315",
+      "published_date": "2026-07-22T14:04:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b87898072217eb8d0fea6b4a9653755b",
+      "title": "North Korean students resent piri in Kim Jong Un’s gift instruments",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-jong-un-gift-instruments-piri-students-ryanggang/",
+      "published_date": "2026-07-22T13:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b010e95e6a797495a786dc7f161f3d3b",
+      "title": "Samsung unveils 3 Galaxy Z foldable smartphones at Unpacked event",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722009100320",
+      "published_date": "2026-07-22T13:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "2b6ff5a7577bd8c8e78a03f59fa97be4",
       "title": "GM Korea's management, union reach tentative wage deal",
@@ -112,62 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260722006000320",
       "published_date": "2026-07-22T06:33:19Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "222790a272e395f751d6293b9b3cc796",
-      "title": "North Korea’s World Cup miracle and the town that kept the memory alive",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-koreas-world-cup-miracle-and-the-town-that-kept-the-memory-alive/",
-      "published_date": "2026-07-22T06:26:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c7516a8bba3af142396bfd691966e2cf",
-      "title": "South Korea detains cargo ship over suspected North Korean sanctions violations",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/south-korea-detains-cargo-ship-over-suspected-north-korean-sanctions-violations/",
-      "published_date": "2026-07-22T06:25:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8c56c2d57c6231da94e0207d1fbc0952",
-      "title": "(LEAD) Top diplomats of S. Korea, U.S., Japan gather in Manila amid N. Korea's deepening ties with Russia, China",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722000251315",
-      "published_date": "2026-07-22T06:19:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "82e7e42ae193003e590d504a1245f8ad",
-      "title": "Russian doctors remove chicken bone from North Korean man’s chest",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/russian-doctors-remove-chicken-bone-from-north-korean-mans-chest/",
-      "published_date": "2026-07-22T06:13:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "58e46f1dda681a2926f5f543827f60a7",
-      "title": "LAFC coach to manage Son Heung-min's playing time in busy summer stretch",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722005500315",
-      "published_date": "2026-07-22T05:58:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "98ecc95d19724e5ab98968c33212a3bf",
-      "title": "Samsung Heavy signs MOU with U.S. firm to advance FSMR development",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722004700320",
-      "published_date": "2026-07-22T02:42:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "19d1e3f7790e99fc1af0fa0a9d0f6ef2",
-      "title": "Lee receives letters of credence from 8 new foreign ambassadors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722004500315",
-      "published_date": "2026-07-22T02:25:26Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -242,17 +242,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260716002000315",
       "published_date": "2026-07-16T00:12:57Z",
       "category": "Military"
-    },
-    {
-      "id": "1dc0ac9934af6c7bc1f1386ea46c4758",
-      "title": "(EDITORIAL from Korea JoongAng Daily on July 16)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260716000800315",
-      "published_date": "2026-07-15T22:10:21Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "a1157c6d41abec74332838478bf5b209",
+      "title": "(LEAD) Trump threatens to bomb Iranian bridge, power plant if Tehran fires at ship in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722009651315",
+      "published_date": "2026-07-22T18:46:39Z",
+      "category": "Energy"
+    },
+    {
+      "id": "176bd798d69e4b9b355b0cedde0b5f24",
+      "title": "Trump threatens to bomb Iranian bridge, power plant if Tehran fires at ship in Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722009600315",
+      "published_date": "2026-07-22T14:52:25Z",
+      "category": "Energy"
+    },
     {
       "id": "66514842e4692c0678446f95f7405159",
       "title": "(LEAD) S. Korea reviewing practical contributions to freedom of navigation in Hormuz: presidential office",
@@ -396,25 +404,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260720001500320",
       "published_date": "2026-07-20T00:03:50Z",
       "category": "Energy"
-    },
-    {
-      "id": "ffbd0ebb498bf68e6dad81e84607deca",
-      "title": "(URGENT) Seoul stocks open sharply lower on chip rout, escalating Iran tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720001200320",
-      "published_date": "2026-07-20T00:02:08Z",
-      "category": "Energy"
-    },
-    {
-      "id": "0a8f6ad9a48600dbd2778194c2a64d0e",
-      "title": "KBO reaches 8 mln fans in fewest games ever",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260719003500315",
-      "published_date": "2026-07-19T13:01:35Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "1d06537bf6c94249862c8e3542518e8f",
+      "title": "(LEAD) S. Korea's GDP expands 0.6 pct in Q2 on robust exports: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720003851320",
+      "published_date": "2026-07-22T23:17:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f2aa266af70dbced039f13ef07d561a5",
+      "title": "S. Korea's GDP expands 0.6 pct in Q2 on robust exports: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720003800320",
+      "published_date": "2026-07-22T23:00:26Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5130c35bc3d4da356721c3c2b4ef8d6f",
+      "title": "(URGENT) S. Korea's GDP expands 0.6 pct in Q2 on robust exports: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260720003900320",
+      "published_date": "2026-07-22T23:00:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "81b22137c92fbf6527b12c290996c37c",
+      "title": "USTR says 'final' forced labor tariff action to be released as soon as Thursday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260723000400315",
+      "published_date": "2026-07-22T21:11:11Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c1c41b05461496d86f23084f12dc9e77",
+      "title": "S. Korea, U.S. expected to unveil 1st investment project as early as late next month: industry minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260723000200315",
+      "published_date": "2026-07-22T17:28:22Z",
+      "category": "Economy"
+    },
     {
       "id": "5daba4a74fe66e152fa8d10a81317beb",
       "title": "Heads of Samsung, SK, Hyundai to visit U.S. to meet with global tech leaders",
@@ -534,49 +566,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260721000700320",
       "published_date": "2026-07-20T22:02:11Z",
       "category": "Economy"
-    },
-    {
-      "id": "ad07871f9c335ed02b1421896af6f840",
-      "title": "Hanwha Solutions confirms rights offering at 1.2 tln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720010700320",
-      "published_date": "2026-07-20T10:14:38Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8da5063bacd5c2aefb28582d624bc791",
-      "title": "S. Korean won inches higher on dollar-selling despite Mideast risks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720009000320",
-      "published_date": "2026-07-20T07:30:08Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c7da84b228f046078b92682eff4d0186",
-      "title": "(URGENT) Seoul stocks dip over 4 pct on renewed AI concerns, Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720006600320",
-      "published_date": "2026-07-20T06:33:26Z",
-      "category": "Economy"
-    },
-    {
-      "id": "2009e36a6700d677562f234d21b1c17b",
-      "title": "Banks likely to tighten household loans in Q3: BOK survey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720002300320",
-      "published_date": "2026-07-20T03:00:10Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1feb57ff5cd02a4010d6fc242d22892c",
-      "title": "Fair trade watchdog sets standard contract terms for yoga, Pilates lessons",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720003200320",
-      "published_date": "2026-07-20T03:00:04Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "a82b435fda33aa936b919e75e1a464c4",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260723000900315",
+      "published_date": "2026-07-22T22:04:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "45d0bb1e093cc969c16d05b589d4b357",
+      "title": "(EDITORIAL from The Korea Times on July 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260723000800315",
+      "published_date": "2026-07-22T22:04:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "346caaa174fbff9d0d428dcc0e8a683a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260723000600315",
+      "published_date": "2026-07-22T22:04:25Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f3b2542a3c2adbfad475bb2da1e5570f",
+      "title": "(Yonhap Interview) Fireblocks CEO highlights S. Korea's potential in digital finance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722009000320",
+      "published_date": "2026-07-22T21:00:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bef86f7913e9acde5be7fc6f7d69939d",
+      "title": "Rubio says S. Korea, other allies will 'benefit' from joining efforts to secure Strait of Hormuz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260723000300315",
+      "published_date": "2026-07-22T18:28:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c220eec2e95a013b878daa723f34f5c3",
+      "title": "(LEAD) Coupang warehouse blaze fully extinguished after 109 hours",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722009551320",
+      "published_date": "2026-07-22T13:21:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "61f333517a6ecacddd07174c79e5bdfa",
+      "title": "Coupang warehouse blaze fully extinguished after 109 hours",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260722009500320",
+      "published_date": "2026-07-22T12:28:58Z",
+      "category": "Local Events"
+    },
     {
       "id": "710b06ac66c69d62c6b1bce0c60914bd",
       "title": "Winner declared in public bid for design of new presidential office in Sejong",
@@ -679,62 +727,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260722004800315",
       "published_date": "2026-07-22T06:20:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6636cad95631608544e6a95544b36e5a",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722001500315",
-      "published_date": "2026-07-22T05:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "abce0009db0a56482076ee6f4d86f9d7",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722005300315",
-      "published_date": "2026-07-22T04:42:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1a420d607e799175506daac4a54b22a7",
-      "title": "S. Korea's per capita household net assets up 9 pct in 2025: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722004900320",
-      "published_date": "2026-07-22T03:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1c257cc86752c72a492018d228306331",
-      "title": "N. Korea shifts school repair bills from parents to factories",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-kimchaek-school-fees-attendance/",
-      "published_date": "2026-07-22T02:29:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e1a66b3cdd0f5b8064da424332a25ab0",
-      "title": "S. Korea, U.S. tours reach deal on local players' participation in LPGA tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722004300315",
-      "published_date": "2026-07-22T02:17:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a9a8e3427d807f954ddc872897448e12",
-      "title": "Customs agency detects record volume of drug smuggling in H1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722004100320",
-      "published_date": "2026-07-22T02:03:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5706c4ebfcece40209a79b44ecae16a3",
-      "title": "Number of listed firms involved in M&As falls in H1: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722004000320",
-      "published_date": "2026-07-22T01:57:10Z",
       "category": "Local Events"
     }
   ]
