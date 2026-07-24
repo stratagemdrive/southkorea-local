@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-24T12:20:10Z",
+  "generated_at": "2026-07-24T23:54:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "b812832bd7ffb926a4223a3f81b10d6f",
+      "title": "N. Korea border guard duty loses its appeal as bribes dry up",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-border-guard-duty-loses-appeal-smuggling/",
+      "published_date": "2026-07-24T20:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "010987fd5e58a95b370fe10cc024ff58",
+      "title": "Rising prices drive North Korean women toward prostitution",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-women-prostitution-economic-hardship/",
+      "published_date": "2026-07-24T13:11:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "f82e712d987dda9cf94abc4e9709e47e",
       "title": "Lee’s North Korea policy ‘reset’ waits on a Pyongyang that sees no need",
@@ -151,22 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-pyongsan-uranium-plant-illness-lockdown/",
       "published_date": "2026-07-24T02:32:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "57d407f304550bedd95e70841e74f930",
-      "title": "Lee to send delegation to inauguration of new Peruvian president",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724004800315",
-      "published_date": "2026-07-24T02:23:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d6e58fe288bacb545feed41e23f23d84",
-      "title": "Guesthouse owner fined 3 mln won over peacock attack",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724004700315",
-      "published_date": "2026-07-24T02:22:14Z",
       "category": "Diplomacy"
     }
   ],
@@ -456,6 +456,14 @@
   ],
   "Economy": [
     {
+      "id": "4cf2c81046846d89fb5f4adc44be2f19",
+      "title": "N. Korea rice prices hit record high as exchange rate climbs",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-prices-record-high-july-2026/",
+      "published_date": "2026-07-24T17:54:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "c9b2c2bd2ef448a1b0d7a86c96e25ce7",
       "title": "Minister vows to further eliminate blind spots of compensation for veterans' families",
       "source": "Yonhap News Agency",
@@ -605,14 +613,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-elite-bank-hacking-ring-arrested/",
       "published_date": "2026-07-23T20:50:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5f2ec7d82f5bfc3c660f44387a69a0e9",
-      "title": "Former No. 1 pick in KBO traded to rival club",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260723011400315",
-      "published_date": "2026-07-23T13:05:36Z",
       "category": "Economy"
     }
   ],
