@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-26T12:04:17Z",
+  "generated_at": "2026-07-26T23:51:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "df9620beebaad5ebf92251f58c837d2b",
+      "title": "N. Korea quietly buries deadly gas station explosion",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-sinuiju-gas-station-explosion-cover-up/",
+      "published_date": "2026-07-26T19:10:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ef5777d876b3d28888082f4f1c2e28ef",
       "title": "Russia seeks 30k more North Korean troops in Ukraine war, Zelensky warns",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260724006400320",
       "published_date": "2026-07-24T04:26:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6b0f6c2004229cf4ffa1337b5e4ef2ab",
-      "title": "(LEAD) Special counsel seeks 5-yr prison term for Yoon over appointment of former ambassador to Australia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724004451315",
-      "published_date": "2026-07-24T03:24:35Z",
       "category": "Diplomacy"
     }
   ],
