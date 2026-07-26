@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-25T23:50:35Z",
+  "generated_at": "2026-07-26T12:04:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ef5777d876b3d28888082f4f1c2e28ef",
+      "title": "Russia seeks 30k more North Korean troops in Ukraine war, Zelensky warns",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/russia-seeks-30k-more-north-korean-troops-in-ukraine-war-zelensky-warns/",
+      "published_date": "2026-07-26T03:40:13Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b812832bd7ffb926a4223a3f81b10d6f",
       "title": "N. Korea border guard duty loses its appeal as bribes dry up",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260724004451315",
       "published_date": "2026-07-24T03:24:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1be30fd8fa323de4840498b8a79c057f",
-      "title": "N. Korea locks down villages near uranium plant over mystery illness",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-pyongsan-uranium-plant-illness-lockdown/",
-      "published_date": "2026-07-24T02:32:54Z",
       "category": "Diplomacy"
     }
   ],
