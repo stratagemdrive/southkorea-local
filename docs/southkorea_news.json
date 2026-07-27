@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-26T23:51:05Z",
+  "generated_at": "2026-07-27T13:39:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "8c2a54f0c65ecdd1b21893a0c39252a5",
+      "title": "Satellite images show N. Korea dredging rivers on a massive scale",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-river-dredging-sand-gravel-satellite-2026/",
+      "published_date": "2026-07-27T13:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6bed6d703945c7d8d9f0a1e3af70ce4e",
+      "title": "How South Korea’s sole armistice delegate became a hero in North Korea",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/how-south-koreas-sole-armistice-delegate-became-a-hero-in-north-korea/",
+      "published_date": "2026-07-27T08:11:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "79aac2dfe9b74a444f0cddc0830dabab",
+      "title": "North Korea to face off against South in soccer rematch at Asian Games",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/north-korea-to-face-off-against-south-in-soccer-rematch-at-asian-games/",
+      "published_date": "2026-07-27T06:41:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "89eb3766ca24e5d64301438e74c52106",
+      "title": "Kim Yo Jong lambasts ‘stupid’ denuclearization calls by ASEAN forum",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/kim-yo-jong-lambasts-stupid-denuclearization-calls-by-asean-forum/",
+      "published_date": "2026-07-27T03:10:59Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "df9620beebaad5ebf92251f58c837d2b",
       "title": "N. Korea quietly buries deadly gas station explosion",
@@ -136,41 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260724004151320",
       "published_date": "2026-07-24T05:15:26Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "9f39583d7c29aaefdabd5116ea4ad5af",
-      "title": "Int'l hacking defense competition held in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724007000320",
-      "published_date": "2026-07-24T05:08:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dbd25588072dae6f1d2da6d1d41445ca",
-      "title": "Hyundai Motor workers to extend strikes for higher wages",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724006600320",
-      "published_date": "2026-07-24T04:46:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ea48912898766670fe55708464151852",
-      "title": "(LEAD) Lee embarks on trip to San Francisco, 3 S. American countries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724003251315",
-      "published_date": "2026-07-24T04:40:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4e50162b447efddfb409c85ee7603615",
-      "title": "Hanwha Ocean signs multiple agreements on naval ship, supply chain development",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724006400320",
-      "published_date": "2026-07-24T04:26:09Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "7a39eba584feed1c632d44a9f2aa32c4",
+      "title": "What 30,000 North Korean troops could mean for Russia’s war against Ukraine",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/what-30000-north-korean-troops-could-mean-for-russias-war-against-ukraine/",
+      "published_date": "2026-07-27T09:07:32Z",
+      "category": "Military"
+    },
     {
       "id": "1714ebaf435521baa9a60e86a751eaff",
       "title": "Defense ministry disciplines 4 ex-senior officers over Marine's death in 2023",
@@ -412,46 +420,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260721001951320",
       "published_date": "2026-07-21T00:25:00Z",
       "category": "Energy"
-    },
-    {
-      "id": "0d9fa76804981fb3edcd4051b8c45dca",
-      "title": "(2nd LD) Stocks dip over 4 pct on extended chip rout, Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720007052320",
-      "published_date": "2026-07-20T07:46:29Z",
-      "category": "Energy"
-    },
-    {
-      "id": "e53cb4b19d26c9737085b6f105529429",
-      "title": "(LEAD) Stocks dip over 4 pct on extended chip rout, Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720007051320",
-      "published_date": "2026-07-20T07:19:13Z",
-      "category": "Energy"
-    },
-    {
-      "id": "ef07d00d26c9eaee21ea05b2b1db89c1",
-      "title": "(LEAD) Surging KT Wiz closing in on top spot in KBO",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720001851315",
-      "published_date": "2026-07-20T06:39:17Z",
-      "category": "Energy"
-    },
-    {
-      "id": "bdeb5084205058b2552c5e2ca9e08085",
-      "title": "Stocks dip over 4 pct on extended chip rout, Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720007000320",
-      "published_date": "2026-07-20T06:36:17Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d07a1371727143615d392fc3fb42de6b",
-      "title": "Seoul shares extend losses late Mon. morning on extended chip rout",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260720004300320",
-      "published_date": "2026-07-20T02:33:11Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -618,6 +586,14 @@
   ],
   "Local Events": [
     {
+      "id": "5b237d9354f07b015d6296c288261266",
+      "title": "School for North Korean defectors gets a new lease on life in Seoul",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/school-for-north-korean-defectors-gets-a-new-lease-on-life-in-seoul/",
+      "published_date": "2026-07-27T08:50:03Z",
+      "category": "Local Events"
+    },
+    {
       "id": "716de89b8657c18acafa9d3d9e8be976",
       "title": "Ruling party adopts scrapping prosecution's investigative rights as official party line",
       "source": "Yonhap News Agency",
@@ -767,14 +743,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260724001900315",
       "published_date": "2026-07-23T23:32:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "975e24c98c7fa763d616e314ed7d86b3",
-      "title": "(EDITORIAL from Korea Times on July 24)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724001200315",
-      "published_date": "2026-07-23T22:06:33Z",
       "category": "Local Events"
     }
   ]
