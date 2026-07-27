@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-27T13:39:42Z",
+  "generated_at": "2026-07-27T23:53:49Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d18562972f5a5dca16539b0b67f2e49e",
+      "title": "Rumors of Chinese investment fuel Hyesan factory’s reputation",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/hyesan-factory-quality-chinese-investment/",
+      "published_date": "2026-07-27T21:10:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8c2a54f0c65ecdd1b21893a0c39252a5",
       "title": "Satellite images show N. Korea dredging rivers on a massive scale",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260724007100315",
       "published_date": "2026-07-24T05:17:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f70ffdfd24cee296a3942b7848ffb13b",
-      "title": "(LEAD) S. Korea says U.S. to honor 15 pct tariff cap regarding new Section 301 duties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724004151320",
-      "published_date": "2026-07-24T05:15:26Z",
       "category": "Diplomacy"
     }
   ],
@@ -586,6 +586,14 @@
   ],
   "Local Events": [
     {
+      "id": "bcc0ffe4e5eab4b31b8b6d08eee97d41",
+      "title": "Hyesan school shifts cooking exam costs to students",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/hyesan-students-fund-own-cooking-exam/",
+      "published_date": "2026-07-27T17:51:00Z",
+      "category": "Local Events"
+    },
+    {
       "id": "5b237d9354f07b015d6296c288261266",
       "title": "School for North Korean defectors gets a new lease on life in Seoul",
       "source": "NK News",
@@ -735,14 +743,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260724002200315",
       "published_date": "2026-07-24T00:10:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0433acc23b41cb42467ab0129199cd01",
-      "title": "Lee Chang-dong's 'Possible Love' to compete at Venice film fest",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724001900315",
-      "published_date": "2026-07-23T23:32:43Z",
       "category": "Local Events"
     }
   ]
