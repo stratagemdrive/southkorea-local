@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-28T12:55:27Z",
+  "generated_at": "2026-07-28T23:49:40Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "895d01bf73a1b27a32d045791eb6f3c2",
+      "title": "N. Korea's Kim takes photos with war veterans to celebrate armistice anniversary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729001100315",
+      "published_date": "2026-07-28T23:01:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "95e2c005d07f395a1f48d174fd066a3c",
+      "title": "(2nd LD) Lee cites aircraft, critical minerals as areas with high potential for cooperation with Brazil",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000452315",
+      "published_date": "2026-07-28T22:40:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0bf8f8defbd01493eca78764770f13af",
+      "title": "Russia picks new ambassador to North Korea months after longtime envoy’s death",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/07/russia-picks-new-ambassador-to-north-korea-months-after-longtime-envoys-death/",
+      "published_date": "2026-07-28T22:38:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "608a491d69d6a1c031251f10ff336de2",
+      "title": "(LEAD) Lee cites aircraft, critical minerals as areas with high potential for cooperation with Brazil",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000451315",
+      "published_date": "2026-07-28T22:15:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "342d9c2c931d7662cf91d5ee54ed398c",
+      "title": "Lee cites aircraft, critical minerals as areas with high potential for cooperation with Brazil",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000400315",
+      "published_date": "2026-07-28T20:46:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "314cfe37801b7426820c187e29caa9d9",
+      "title": "North Korea cracks down on youths using South Korean-style word for dad",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-appa-dad-language-crackdown/",
+      "published_date": "2026-07-28T19:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7c4825b15fbb467560a97db15cac779c",
+      "title": "(LEAD) Lee, Lula agree to boost S. Korea-Brazil cooperation, work to resume Korea-Mercosur FTA talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260728005551315",
+      "published_date": "2026-07-28T16:49:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e77f4c8d43c2ffefc3a7aab510759e6a",
+      "title": "Lee says S. Korea seeks to combine tech, innovation with Brazil's abundant resources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000200315",
+      "published_date": "2026-07-28T16:36:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7abacb825f21dfb1f53854d504a247eb",
+      "title": "North Korea curbs cheap overseas labor dispatch",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-curbs-cheap-overseas-labor-dispatch/",
+      "published_date": "2026-07-28T13:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "833058087c5ba4fca70a5193358466c3",
+      "title": "Trump says S. Korea, U.S. remain 'united' in 'steadfast' alliance in armistice anniv. message",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260728012200315",
+      "published_date": "2026-07-28T13:40:42Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "37637bd0f35048e3fcbf8eca36e3869a",
       "title": "Turkey to host UNESCO World Heritage Committee in Istanbul next year",
@@ -88,89 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260728005900315",
       "published_date": "2026-07-28T05:33:57Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "25be8ea5d63826b3c0b93a4fb5a21e19",
-      "title": "Lee, Lula agree to boost S. Korea-Brazil cooperation, work to resume Korea-Mercosur FTA talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728005500315",
-      "published_date": "2026-07-28T04:48:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7d7a39ede763b0ffb0c5f10f9fa2e4d9",
-      "title": "(3rd LD) Lee, Lula meet in Brasilia to discuss ways to enhance S. Korea-Brazil cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728000253315",
-      "published_date": "2026-07-28T03:02:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5d253c2586f65674c01283fdda2ab1a8",
-      "title": "Banks' household mortgage lending rates rise to 2 yrs 7 months high in June",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728004300320",
-      "published_date": "2026-07-28T03:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cebb9fa35a0685fa7356acbf724b0923",
-      "title": "S. Korean delegation meets new Peruvian president, discusses bilateral ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728004700315",
-      "published_date": "2026-07-28T02:45:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b6ad1d6b21b827ef9a6321c32b1fbe26",
-      "title": "(LEAD) N. Korea marks 73rd armistice anniversary with ceremonial parade",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728002251315",
-      "published_date": "2026-07-28T02:34:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d5ee10c0793f83d6e22f58224076475b",
-      "title": "N. Korea's exports hit 8-year high in 2025: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728004000320",
-      "published_date": "2026-07-28T02:09:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "917692ed20e7fdf1f7015f91ac889094",
-      "title": "Settlements of capital-market funds climb 17.7 pct in H1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728003900320",
-      "published_date": "2026-07-28T02:01:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0cc262e825690ef01dbb42d927230fae",
-      "title": "Special counsel questions jailed ex-defense minister over alleged martial law plot",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728003700315",
-      "published_date": "2026-07-28T01:36:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6801b8987cdf28a11def860a4b3b18b0",
-      "title": "Lee arrives in Sao Paulo for business roundtable, meeting with S. Korean community",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728000600315",
-      "published_date": "2026-07-28T01:04:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6849efd7a7c9080593eff727cee6c1bb",
-      "title": "Tongyeong mayor election result unchanged after recount of close battle",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728002300315",
-      "published_date": "2026-07-28T00:12:47Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "c276c230a03a73e51bb4e7eb93a06aae",
+      "title": "(3rd LD) Brief alert issued after U.S. military reports low-risk white phosphorus leak at air base",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260728011753315",
+      "published_date": "2026-07-28T14:30:43Z",
+      "category": "Military"
+    },
+    {
+      "id": "a3bbc700f5b75be851b4bf4c689e493d",
+      "title": "U.S. lawmakers submit House resolution honoring Korean War veterans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260728012300315",
+      "published_date": "2026-07-28T14:19:02Z",
+      "category": "Military"
+    },
     {
       "id": "2bd6b8f96cea2e4c54b7c8b463746c74",
       "title": "(2nd LD) Brief alert issued after U.S. military reports low-risk white phosphorus leak at air base",
@@ -310,6 +326,14 @@
   ],
   "Energy": [
     {
+      "id": "5c2020df3a5e0e31e195793958840875",
+      "title": "(EDITORIAL from The Korea Herald on July 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000700320",
+      "published_date": "2026-07-28T21:42:36Z",
+      "category": "Energy"
+    },
+    {
       "id": "b97ea47ad966394f7237cd07b6321462",
       "title": "(LEAD) Assembly speaker reaffirms commitment to swiftly push for constitutional revision",
       "source": "Yonhap News Agency",
@@ -427,14 +451,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260722002000320",
       "published_date": "2026-07-22T00:07:31Z",
-      "category": "Energy"
-    },
-    {
-      "id": "6eb7963fa6fbf14ba5097f20268b6892",
-      "title": "(EDITORIAL from The Korea Times on July 22)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260722001300315",
-      "published_date": "2026-07-21T22:12:00Z",
       "category": "Energy"
     }
   ],
@@ -602,6 +618,38 @@
   ],
   "Local Events": [
     {
+      "id": "2c8df6d52252735c3aa784c28bcc3b4c",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000600320",
+      "published_date": "2026-07-28T22:14:25Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "12a9de076be4dee30dbaf7ea58cafc6c",
+      "title": "(EDITORIAL from The Korea Times on July 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000800320",
+      "published_date": "2026-07-28T22:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1002c8ea9f729213f3a14d70d4f14b59",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729000900320",
+      "published_date": "2026-07-28T22:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "90ae54355ea30cbc25b60b3745e6b4ff",
+      "title": "Some 40 pct of Koreans owned land in 2025: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260728008400320",
+      "published_date": "2026-07-28T21:00:11Z",
+      "category": "Local Events"
+    },
+    {
       "id": "254fe945827d6c971906e6c0f65119e7",
       "title": "Alert issued after suspected white phosphorus leak at U.S. base",
       "source": "Yonhap News Agency",
@@ -727,38 +775,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260728003551315",
       "published_date": "2026-07-28T03:27:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4aecace34ed480fe75d487bf05d6a64b",
-      "title": "S. Korea's population slightly up in 2025 on immigration: census",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728004500320",
-      "published_date": "2026-07-28T03:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c005da665955e29efc5110fc7b8f48d4",
-      "title": "Police officer accused of destroying evidence of son's illegal filming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728004800315",
-      "published_date": "2026-07-28T02:53:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8e47b485a7ad354d7774b9e6688cb49c",
-      "title": "S. Korea to adopt tougher penalties for overcharging in tourism sector",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728002900320",
-      "published_date": "2026-07-28T02:32:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3949ddfdafd70727957789a6d07c1d7b",
-      "title": "S. Korea to showcase commercialization UAM model on Jeju Island",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728002700320",
-      "published_date": "2026-07-28T02:00:03Z",
       "category": "Local Events"
     }
   ]
