@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-29T13:01:28Z",
+  "generated_at": "2026-07-29T23:52:13Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "6d58f58e4761490e95fb5a3cdbd5f9d4",
+      "title": "New U.S. Ambassador Steel set to arrive in S. Korea on Thurs.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729004100315",
+      "published_date": "2026-07-29T21:00:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3e98db0be8ed3031f39a890a8cd7bce9",
+      "title": "Biz sentiment rebounds in July on strong manufacturing outlook: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729010500320",
+      "published_date": "2026-07-29T21:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "97b3f66478039d98d1eb736f212f0ba0",
+      "title": "North Korea sends 10,000 workers to China in a month",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-workers-china-dispatch-surge/",
+      "published_date": "2026-07-29T19:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8b54d9729ed2bf7e659becab4c56f01a",
+      "title": "Lee arrives in Santiago for summit with President Kast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729003200315",
+      "published_date": "2026-07-29T18:55:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9bd7c2e7166e8871e6ed1e097b6b71b6",
+      "title": "New drivers fuel rise in North Korea traffic accidents",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-new-drivers-traffic-accidents/",
+      "published_date": "2026-07-29T14:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8ab9dd9effc18774979f3bcaf0e433bb",
+      "title": "Lee heads to Chile following summit with Lula in Brazil",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729003300315",
+      "published_date": "2026-07-29T14:31:55Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "7a1697ba84f2dc9328c33e3ee6db455e",
       "title": "Bill Gates planning to visit S. Korea next month: industry sources",
@@ -120,57 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260729002800320",
       "published_date": "2026-07-29T05:30:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "acf894661b0fcb8dea49f3942fb73b48",
-      "title": "Lee rules out 2nd term under constitutional revision: chief of staff",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729006000315",
-      "published_date": "2026-07-29T05:25:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "abb1e9cbd20823bcd5adbefa588a4b0e",
-      "title": "Science ministry launches public-private alliance for AI data centers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729002000320",
-      "published_date": "2026-07-29T05:00:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c360c5fa5e9873ff11b1df2b66146585",
-      "title": "N. Korea, China pledge closer ties at banquet marking Chinese military anniv.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729005000315",
-      "published_date": "2026-07-29T03:04:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a400b1c17f962632454fa794d4948a96",
-      "title": "Population mobility climbs 0.6 pct in June",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729002100320",
-      "published_date": "2026-07-29T03:00:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "90d86fdf7ee3660dcef94fdffef79fbb",
-      "title": "Chinese FM Wang likely to visit S. Korea next month for talks on N. Korea, bilateral issues",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729004500315",
-      "published_date": "2026-07-29T02:40:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "41674e415c1aff39da9a36ec32938cd0",
-      "title": "Actress Moon Geun-young weds musical actor in private ceremony",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729003900315",
-      "published_date": "2026-07-29T02:09:23Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "2f7912ab715be70f0eb002452e55ac04",
+      "title": "U.S. Navy official calls S. Korea's role in RIMPAC 'historic leadership milestone'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000600315",
+      "published_date": "2026-07-29T20:54:47Z",
+      "category": "Military"
+    },
     {
       "id": "1a96730b05c5eefeda29823a69141850",
       "title": "Navy's participation in RIMPAC serves as 'valuable' chance for improving command capabilities: admiral",
@@ -322,17 +330,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260723003700315",
       "published_date": "2026-07-23T02:50:27Z",
       "category": "Military"
-    },
-    {
-      "id": "a7511b260ad95615f27690a54edb4843",
-      "title": "House passes defense bill with stronger language on maintaining U.S. troops in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260723001500315",
-      "published_date": "2026-07-23T00:25:57Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "f69d77517695718ad6aaa6f07b20fb63",
+      "title": "(EDITORIAL from The Korea Times on July 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730001000315",
+      "published_date": "2026-07-29T21:58:28Z",
+      "category": "Energy"
+    },
+    {
+      "id": "e5effb536023d25bbc74035c71c749af",
+      "title": "(EDITORIAL from The Korea Herald on July 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000900315",
+      "published_date": "2026-07-29T21:58:18Z",
+      "category": "Energy"
+    },
+    {
+      "id": "e219e81c67b8417d3c500f0537ea94ef",
+      "title": "(LEAD) Financial authorities eye cap on single-stock leveraged ETFs in individual portfolios",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260729011151320",
+      "published_date": "2026-07-29T13:02:00Z",
+      "category": "Energy"
+    },
     {
       "id": "3a0be6a638d04c413d985269d23a2e69",
       "title": "Financial authorities eye cap on single-stock leveraged ETFs in individual portfolios",
@@ -468,33 +492,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260724007200320",
       "published_date": "2026-07-24T10:00:01Z",
       "category": "Energy"
-    },
-    {
-      "id": "1bcc7da6086cd6a36cd9bca1f59ed7cd",
-      "title": "PM pledges maximum support for Saemangeum's development",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724009800315",
-      "published_date": "2026-07-24T07:08:46Z",
-      "category": "Energy"
-    },
-    {
-      "id": "1a7204e8aa96a5adc0aea3939624a55c",
-      "title": "S. Korea to extend fuel tax cuts through end of Sept. amid energy volatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260724001600320",
-      "published_date": "2026-07-24T00:00:01Z",
-      "category": "Energy"
-    },
-    {
-      "id": "e19273377fc5ec907ccfc45f02076254",
-      "title": "(News Focus) Sharper-than-expected Q2 growth fuels expectations for another rate hike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260723005900320",
-      "published_date": "2026-07-23T04:52:13Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "616e23b2d63f1e5ca2c1f4b6223031d9",
+      "title": "(3rd LD) Fed holds key interest rate steady in 9-3 decision",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000353315",
+      "published_date": "2026-07-29T21:08:19Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2233191447a1587593978fe9fbf997e1",
+      "title": "(2nd LD) Fed holds key interest rate steady in 9-3 decision",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000352315",
+      "published_date": "2026-07-29T20:02:37Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ade33c7b4d5f5190a35e68b4c5b8e281",
+      "title": "(LEAD) Fed holds key interest rate steady in 9-3 decision",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000351315",
+      "published_date": "2026-07-29T18:16:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "221ac98c353d81cfd916ff3aa6eb9cd8",
+      "title": "Fed holds key interest rate steady for 5th straight time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000300315",
+      "published_date": "2026-07-29T18:02:53Z",
+      "category": "Economy"
+    },
+    {
+      "id": "d52d15439ec57d21853eea160185b369",
+      "title": "(URGENT) Fed holds key interest rate steady for 5th straight time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000200315",
+      "published_date": "2026-07-29T18:01:18Z",
+      "category": "Economy"
+    },
     {
       "id": "24c30920e28b3af0d56cf44642a4bb5a",
       "title": "S. Korean won strengthens to nearly 5-month high against dollar",
@@ -614,49 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260728001951320",
       "published_date": "2026-07-28T00:32:23Z",
       "category": "Economy"
-    },
-    {
-      "id": "4616e0b19f274aa7f30fcd8bb5e803e5",
-      "title": "Seoul shares open sharply lower on tech losses amid eased Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728001900320",
-      "published_date": "2026-07-28T00:04:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "210ae2ac4df6893b3323cbf494538c6d",
-      "title": "Samsung, SK chiefs to attend Google Camp in Italy: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728001700320",
-      "published_date": "2026-07-27T23:49:22Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a71003de5545dc9c74925da9322d4189",
-      "title": "Consumer sentiment rises for 3rd month in July on strong exports, investment plans",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260727009200320",
-      "published_date": "2026-07-27T21:00:07Z",
-      "category": "Economy"
-    },
-    {
-      "id": "097b51a9054277c6896c54664041a23f",
-      "title": "S. Korean won weakens on foreign selling in local stocks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260727009300320",
-      "published_date": "2026-07-27T07:38:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "70d3e27f32924aee26048441c66950de",
-      "title": "(2nd LD) Seoul shares end higher on tech gains amid eased Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260727006852320",
-      "published_date": "2026-07-27T07:37:27Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "4203cbfa25666db8ce8e92244e6a59b7",
+      "title": "(EDITORIAL from Korea JoongAng Daily on July 30)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730001100315",
+      "published_date": "2026-07-29T21:58:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "944ad8e1e59d70dc8de9254411decf98",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260730000800315",
+      "published_date": "2026-07-29T21:58:09Z",
+      "category": "Local Events"
+    },
     {
       "id": "c0b9b84ce260d26635a1b17a762abddc",
       "title": "(LEAD) No S. Korean casualties reported so far in Japan earthquake: foreign ministry",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260729005200320",
       "published_date": "2026-07-29T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "73e0ccd66d055d15a77ab2f9a5110275",
-      "title": "Bourse operator issues circuit breaker for KOSPI on sharp fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729004700320",
-      "published_date": "2026-07-29T03:37:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "85396c44b5a84cc3c0596f6a126a4578",
-      "title": "(URGENT) Bourse operator issues circuit breaker for KOSPI on sharp fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729004600320",
-      "published_date": "2026-07-29T03:33:31Z",
       "category": "Local Events"
     }
   ]
