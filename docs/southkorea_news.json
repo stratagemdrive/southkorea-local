@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-30T12:45:16Z",
+  "generated_at": "2026-07-30T23:52:37Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "77adc50e23ececd3e61570566c9fdc3e",
+      "title": "North Korea apartment nearly collapses weeks after passing inspection",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-apartment-collapse-risk-pyongwon/",
+      "published_date": "2026-07-30T14:18:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "14d60aaa5f111e5c4f6a0e57873ab649",
       "title": "(2nd LD) New U.S. Amb. Steel vows efforts to ensure alliance with S. Korea as 'linchpin' of peace",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260730005100320",
       "published_date": "2026-07-30T02:34:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1d07f2a55ffba2ab8f8227b6ad1f039b",
-      "title": "Seoul shares expand gains late Thu. morning on bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260730005300320",
-      "published_date": "2026-07-30T02:33:00Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "d4144017ce308e46368db901feffd0d2",
+      "title": "Pyongyang busts luxury smuggling ring selling to elite wives",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongyang-luxury-smuggling-bribery-scandal/",
+      "published_date": "2026-07-30T17:53:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "42609857d1b5af648ac8a0b41856e55c",
       "title": "SK Group chief purchases shares of SK hynix for 1st time",
       "source": "Yonhap News Agency",
@@ -645,14 +653,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260729002851320",
       "published_date": "2026-07-29T06:54:44Z",
-      "category": "Economy"
-    },
-    {
-      "id": "10ef0e95bd0fbce0ea15dd64bff78e15",
-      "title": "(LEAD) BOK signals continued monetary tightening amid rising inflation, sound economic growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729002651320",
-      "published_date": "2026-07-29T04:29:05Z",
       "category": "Economy"
     }
   ],
