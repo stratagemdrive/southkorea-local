@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-31T12:57:16Z",
+  "generated_at": "2026-07-31T23:52:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "70800d135ab599974709177c703b61c8",
+      "title": "N. Korea decries NATO fuel network overhaul as 'unprecedented' war preparations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000400315",
+      "published_date": "2026-07-31T22:43:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a60ac77904994c7853c6cd553a0d2517",
+      "title": "(2nd LD) S. Korea, Argentina agree to enhance cooperation on critical minerals: official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000252315",
+      "published_date": "2026-07-31T19:28:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b65174a78a12f5de82b5cd00875c990d",
+      "title": "(LEAD) S. Korea, Argentina agree to enhance cooperation on critical minerals: official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000251315",
+      "published_date": "2026-07-31T18:24:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28572ef57f625efffb0e9f2e35532e80",
+      "title": "Lee, Argentina's Milei hold summit on critical mineral supply chains, other cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000200315",
+      "published_date": "2026-07-31T15:41:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0c56170d67c6134e512bb8bed45d941d",
+      "title": "U.S. lawmaker submits bill aimed at countering N.K. IT worker schemes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260731012100315",
+      "published_date": "2026-07-31T14:23:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5d7cdb7e78432aeff2550cab493cb75b",
+      "title": "S. Korea, U.S., 9 other countries issue joint alert on N. Korean IT workers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260731012000315",
+      "published_date": "2026-07-31T13:30:59Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "13e56bd9960b6d62dc616093633f3ab2",
       "title": "(LEAD) HD Hyundai Q2 net income up 550 pct on ships, construction biz",
@@ -119,54 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260731005600315",
       "published_date": "2026-07-31T02:31:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a5383139471ec160607d559de71faa2",
-      "title": "Funds' net asset value jumps 26 pct in H1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731005500320",
-      "published_date": "2026-07-31T02:24:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bf64484d219417c7943ea6ff3c6dd09f",
-      "title": "Lee arrives in Buenos Aires for summit with Argentine President Milei",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731000800315",
-      "published_date": "2026-07-31T02:16:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "22bcde536f6de7be7cb8bd8b1d38556c",
-      "title": "Woman referred to prosecution over blockade of vote counting center",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731004200315",
-      "published_date": "2026-07-31T01:22:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1f9e591db15630afba0d47e76e20acc7",
-      "title": "Questions arise over possible communication gap between allies after U.S. drone incident",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731004000315",
-      "published_date": "2026-07-31T01:17:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aab509459177862c6c73e1ea38a9404a",
-      "title": "N. Korea denounces move by U.S. military in Japan to increase troop numbers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731003500315",
-      "published_date": "2026-07-31T01:01:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "363d6bbefe8007750d1f2c804cdcc547",
-      "title": "Lee departs for Argentina after summit with Kast in Chile",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731000700315",
-      "published_date": "2026-07-31T00:56:44Z",
       "category": "Diplomacy"
     }
   ],
