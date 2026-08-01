@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-01T12:03:11Z",
+  "generated_at": "2026-08-01T23:46:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "0a1fa6a0ad160ed7bd6be82bef96789d",
+      "title": "(News Focus) Lee advances S. Korea's AI chip hub vision with U.S. deals, S. America critical mineral cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801003100315",
+      "published_date": "2026-08-01T23:01:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7ea74aa7b5cc2e0405f077c1f0c635f3",
+      "title": "Lee heads to Frankfurt after wrapping up Argentina visit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801002800315",
+      "published_date": "2026-08-01T17:41:01Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "c7d294e7a41fb904e7bccf400749ece5",
       "title": "Special counsel quizzes PPP lawmaker over presidential residence relocation",
@@ -151,22 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/07/russia-used-north-korean-missile-in-ukraine-for-first-time-since-2025-kyiv/",
       "published_date": "2026-07-31T04:21:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b6a05887cf6e560bf1c7fd6ca341c150",
-      "title": "(2nd LD) Questions arise over possible communication gap between allies after U.S. drone incident",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731004052315",
-      "published_date": "2026-07-31T04:09:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5333200db8966f01869cbc77f922c824",
-      "title": "N. Korean economy grows over 3 pct for 3rd consecutive year in 2025: BOK",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731005400320",
-      "published_date": "2026-07-31T03:00:00Z",
       "category": "Diplomacy"
     }
   ],
