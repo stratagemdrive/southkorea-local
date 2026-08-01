@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-07-31T23:52:15Z",
+  "generated_at": "2026-08-01T12:03:11Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "c7d294e7a41fb904e7bccf400749ece5",
+      "title": "Special counsel quizzes PPP lawmaker over presidential residence relocation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801003000320",
+      "published_date": "2026-08-01T10:48:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cb786677e4e1649811c7547447fe187f",
+      "title": "Lee says S. Korea, Argentina will usher in new era of cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801001100315",
+      "published_date": "2026-08-01T00:43:53Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "70800d135ab599974709177c703b61c8",
       "title": "N. Korea decries NATO fuel network overhaul as 'unprecedented' war preparations",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260731005400320",
       "published_date": "2026-07-31T03:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d3ecc7a92cb69f19a98db102dffe06d1",
-      "title": "(LEAD) Questions arise over possible communication gap between allies after U.S. drone incident",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731004051315",
-      "published_date": "2026-07-31T02:35:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "19b1a58e5c384cccae1e3dc9c4e98e90",
-      "title": "Gov't to launch three-month special crackdown on drugs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731005600315",
-      "published_date": "2026-07-31T02:31:30Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,38 @@
   ],
   "Energy": [
     {
+      "id": "2e2cf706cb82cf80843f7269021805c6",
+      "title": "(3rd LD) S. Korea's monthly exports hit 2nd highest ever on strong chip shipments",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000953320",
+      "published_date": "2026-08-01T01:32:31Z",
+      "category": "Energy"
+    },
+    {
+      "id": "0dc4a471c7a248417a6adffbc49adf6e",
+      "title": "(2nd LD) S. Korea's monthly exports hit 2nd highest ever on strong chip shipments",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000952320",
+      "published_date": "2026-08-01T00:28:31Z",
+      "category": "Energy"
+    },
+    {
+      "id": "b474b3ad8ff08020ede2787c149e07fc",
+      "title": "(LEAD) S. Korea's monthly exports hit 2nd highest ever on strong chip shipments",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000951320",
+      "published_date": "2026-08-01T00:16:49Z",
+      "category": "Energy"
+    },
+    {
+      "id": "1924e9fdc1eb04530841627e76dd6217",
+      "title": "S. Korea's monthly exports up 62.8 pct in July on strong chip shipments",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000900320",
+      "published_date": "2026-08-01T00:01:18Z",
+      "category": "Energy"
+    },
+    {
       "id": "2b29496f9f9db6583405dba723107691",
       "title": "(2nd LD) Seoul shares surge record 18 pct to reclaim 6,500-point level on chip rally",
       "source": "Yonhap News Agency",
@@ -460,41 +492,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260729003651320",
       "published_date": "2026-07-29T04:31:24Z",
       "category": "Energy"
-    },
-    {
-      "id": "eb80ee079ef64c5f8d79bd98d7f60ccc",
-      "title": "Parliamentary committee approves measure to speed up review of fast-track bills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729004400315",
-      "published_date": "2026-07-29T02:44:53Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d1edbb66b0b1a1adc1417329583b2ee4",
-      "title": "(3rd LD) SK hynix logs record profit in Q2 on AI chip supercycle",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729001053320",
-      "published_date": "2026-07-29T02:40:10Z",
-      "category": "Energy"
-    },
-    {
-      "id": "4283f7ee6b4b48f020a5a59b0f912909",
-      "title": "Chief regulator says more steps being reviewed to cool leveraged ETF market",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729003600320",
-      "published_date": "2026-07-29T02:14:58Z",
-      "category": "Energy"
-    },
-    {
-      "id": "1ea30bd1c87178b27b4cc35d2bbd3c52",
-      "title": "Ex-President Yoon's law license revoked after finalized conviction",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729003500315",
-      "published_date": "2026-07-29T01:58:23Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "307ecc5fcbf3bfc18eacbfcc97faa135",
+      "title": "Korean graphic novel wins Eisner Award for 1st time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801001200315",
+      "published_date": "2026-08-01T00:57:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c7e6b9618602afb1d987b1fd2622946e",
+      "title": "(URGENT) S. Korea's monthly exports up 62.8 pct in July",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000800320",
+      "published_date": "2026-08-01T00:00:01Z",
+      "category": "Economy"
+    },
     {
       "id": "341f0be194f2b5ea9ca9b39082d08ddd",
       "title": "SK signs 2.3 tln-won deal to sell chip materials firm SK Siltron to Doosan",
@@ -638,25 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260730012200320",
       "published_date": "2026-07-30T11:10:12Z",
       "category": "Economy"
-    },
-    {
-      "id": "edf838d638003eeacc768964aaf74d93",
-      "title": "BOK participates in real value testing of int'l tokenization project",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260730009200320",
-      "published_date": "2026-07-30T09:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7cad8209744cccbe7af6a43a68f2bc2f",
-      "title": "Naturalized ice skater Quan Ye forms new partnership with Korean American",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260730011600315",
-      "published_date": "2026-07-30T08:39:52Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "117e954bc2e47b8438c69c6ab33fed7c",
+      "title": "KBO to allow delaying games up to an hour amid record heat wave",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801002200315",
+      "published_date": "2026-08-01T06:22:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0333312ca02d63fb6197ca3348483cc0",
+      "title": "Temperatures rise above 40 C for 4th straight day in southeast to set new record",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801002100320",
+      "published_date": "2026-08-01T05:41:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bada4f589cd9420dea2cd37a5d0f4d32",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000600320",
+      "published_date": "2026-08-01T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "16fe99273ff784f13c15c24dcd5d5d7b",
+      "title": "Jimin's 'Who' hits 2.5 bln streams on Spotify",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801001900315",
+      "published_date": "2026-08-01T02:17:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3927f9e9fc011a9c7408b1d6d61e72b0",
+      "title": "'Spider-Man 4' becomes fastest 2026 film to top 2 mln admissions in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801001800315",
+      "published_date": "2026-08-01T01:47:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "11c1179d0b151511d692c017027248ae",
+      "title": "Ryu Hae-ran seizes 36-hole lead in quest for 3rd straight LPGA major title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000700315",
+      "published_date": "2026-08-01T00:03:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2a64c7e924780bd9be70dc69f71ba03b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801000500320",
+      "published_date": "2026-07-31T23:59:46Z",
+      "category": "Local Events"
+    },
     {
       "id": "3e3ac7b331b962be786e95d4b255cde8",
       "title": "(LEAD) Top prosecutor offers to resign after passage of bill on stripping prosecution of investigative powers",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260731005300315",
       "published_date": "2026-07-31T03:05:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c6ffcd25a66b986ab80bd473c528264d",
-      "title": "S. Korea, Japan maintaining close coordination: senior financial official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731005700320",
-      "published_date": "2026-07-31T02:35:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d6aa64bb6e2df4bfde0aa05efb920ad8",
-      "title": "Customs agency seizes 2.1 tons of drugs in global operation with Asia-Pacific partners",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731004300320",
-      "published_date": "2026-07-31T01:37:28Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9d5b0d70cd87fe25087f5810a3f0f235",
-      "title": "Nat'l Assembly set to vote on prosecution reform bill as filibuster enters 2nd day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731003200315",
-      "published_date": "2026-07-31T00:36:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "26be83dd07b6bc103a6b4ad0e6dde6b4",
-      "title": "KRX activates buy-side sidecar for KOSPI on sharp rise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731002400320",
-      "published_date": "2026-07-31T00:09:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f5fa2a7c3b651a2d98a5d2310a184353",
-      "title": "(URGENT) Seoul's bourse operator issues buy-side sidecar on KOSPI's sharp rise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731002300320",
-      "published_date": "2026-07-31T00:07:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b17716b28b64013876db3dfa2d918f24",
-      "title": "(URGENT) Seoul shares open over 1 pct higher on U.S. tech gains driven by Microsoft's strong earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731002100320",
-      "published_date": "2026-07-31T00:01:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b242b5d852aa951749dba21ae1506bae",
-      "title": "(EDITORIAL from The Korea Herald on July 31)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731001100320",
-      "published_date": "2026-07-30T21:56:14Z",
       "category": "Local Events"
     }
   ]
