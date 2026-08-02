@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-01T23:46:47Z",
+  "generated_at": "2026-08-02T12:03:45Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "c1c935a70307e59fcb558ef3993a6a57",
+      "title": "Ex-DP leader Jung wins southeastern party-member primary in leadership race",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802003800315",
+      "published_date": "2026-08-02T11:24:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3dded54a982538563c570e78298d9485",
+      "title": "Lee arrives in Frankfurt for meeting with members of Korean community",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260801002900315",
+      "published_date": "2026-08-02T06:40:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c5a6661694ecb196d04b6fa53d8b01b8",
+      "title": "(LEAD) Hyundai, Kia sell over 100,000 EVs in Europe in H1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802002051320",
+      "published_date": "2026-08-02T05:35:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "41553d38db5f4ea46b07e34a3b575048",
+      "title": "Singer-actor Cha Eun-woo files appeal after paying 13 bln won in taxes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802002400315",
+      "published_date": "2026-08-02T05:03:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e8b5b30820682bf16cac2d511b89260b",
+      "title": "Nuri rocket's 5th launch postponed to Oct. over nanosatellite thruster issues",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802002300320",
+      "published_date": "2026-08-02T04:59:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d9a837115b56eadc56ac594f7d2c2d47",
+      "title": "Hyundai, Kia sell over 100,000 EVs in Europe in H1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802002000320",
+      "published_date": "2026-08-02T02:58:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fb3ab664f02f0cc3c4941cf6316f9807",
+      "title": "Fair trade watchdog approves KORAIL's takeover of SR",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260731007000320",
+      "published_date": "2026-08-02T02:00:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "af86cb2d3e5b4ad4ea7b6ec51248058d",
+      "title": "Son Heung-min pushes MLS scoring streak to 4 matches",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000900315",
+      "published_date": "2026-08-02T01:57:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fbb9321b30bd03c1f9a4bf8e799d4d5c",
+      "title": "Heat wave grips S. Korea; temperatures to peak at 39 C",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000700315",
+      "published_date": "2026-08-02T01:26:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fdcdf361393d019c590bb3d197205b6e",
+      "title": "Ryu Hae-ran falls out of lead, remains in hunt for 3rd straight LPGA major",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000200315",
+      "published_date": "2026-08-01T23:55:09Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "0a1fa6a0ad160ed7bd6be82bef96789d",
       "title": "(News Focus) Lee advances S. Korea's AI chip hub vision with U.S. deals, S. America critical mineral cooperation",
@@ -87,86 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260731012000315",
       "published_date": "2026-07-31T13:30:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "13e56bd9960b6d62dc616093633f3ab2",
-      "title": "(LEAD) HD Hyundai Q2 net income up 550 pct on ships, construction biz",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731009151320",
-      "published_date": "2026-07-31T07:44:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7640c9eec8554ae5e9efb012e53fb7a7",
-      "title": "Radio broadcasts to North Korea important for would-be defectors: US official",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/radio-broadcasts-to-north-korea-important-for-would-be-defectors-us-official/",
-      "published_date": "2026-07-31T07:40:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8280d8ad9acc066b7b5d41a2a75f9e8b",
-      "title": "North Korea slams US Forces Japan expansion as Tokyo tests Tomahawk missile",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/north-korea-slams-us-forces-japan-expansion-as-tokyo-tests-tomahawk-missile/",
-      "published_date": "2026-07-31T07:33:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c81eee4c27329e9da8e6e181dc2334e8",
-      "title": "(3rd LD) Questions arise over possible communication gap between allies after U.S. drone incident",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731004053315",
-      "published_date": "2026-07-31T07:29:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bc01bb7edd951ec3db841a8a44c4a048",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731008200315",
-      "published_date": "2026-07-31T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "488d24f70833083b5cda507b083a607e",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731008300315",
-      "published_date": "2026-07-31T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "06ebba969277083fd5e59e443fb4639b",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731008500315",
-      "published_date": "2026-07-31T07:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "078f0abdc768ca2170974837221cde51",
-      "title": "30 pct of defectors from N. Korea's nuclear test site areas show chromosome mutations: study",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731009000315",
-      "published_date": "2026-07-31T06:52:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "927022120c01dcbf458eb0ec44f85842",
-      "title": "S. Korea revises supplier code system to boost defense bids in U.S.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731007700315",
-      "published_date": "2026-07-31T06:02:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "309f5ea2e18467bc67a37c6f80479af2",
-      "title": "Russia used North Korean missile in Ukraine for first time since 2025: Kyiv",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/07/russia-used-north-korean-missile-in-ukraine-for-first-time-since-2025-kyiv/",
-      "published_date": "2026-07-31T04:21:22Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,38 @@
   ],
   "Economy": [
     {
+      "id": "2166aa7e80dbe2384a08e370784f5af6",
+      "title": "McDonald's 'Taste of Korea' menu exported to Taiwan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802002200320",
+      "published_date": "2026-08-02T03:59:41Z",
+      "category": "Economy"
+    },
+    {
+      "id": "22796c395c092d78fdb0154cdfe9806d",
+      "title": "7 in 10 stocks fall in July as stock market posts steepest decline since 2008",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802001100320",
+      "published_date": "2026-08-02T02:25:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9caaa9b1beda4b36fd4e687299f284eb",
+      "title": "Korean won posts biggest monthly gain since 2009 on SK hynix ADR inflows",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000800320",
+      "published_date": "2026-08-02T01:48:28Z",
+      "category": "Economy"
+    },
+    {
+      "id": "accba2578b3b0a0fe933393cd6b6e691",
+      "title": "Household loans rise sharply in July on fast-growing mortgage, credit loans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000400320",
+      "published_date": "2026-08-02T00:53:50Z",
+      "category": "Economy"
+    },
+    {
       "id": "307ecc5fcbf3bfc18eacbfcc97faa135",
       "title": "Korean graphic novel wins Eisner Award for 1st time",
       "source": "Yonhap News Agency",
@@ -622,41 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260731002251320",
       "published_date": "2026-07-31T00:28:03Z",
       "category": "Economy"
-    },
-    {
-      "id": "4daa03d8bade221ae5593689a1d1be35",
-      "title": "Weight lifted off chest of Twins pitcher after much-needed win",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731002700315",
-      "published_date": "2026-07-31T00:08:28Z",
-      "category": "Economy"
-    },
-    {
-      "id": "82ae7c0c0c2df369f7620423d8edf5c7",
-      "title": "Seoul shares open higher on U.S. tech gains driven by Microsoft's strong earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731002200320",
-      "published_date": "2026-07-31T00:03:22Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d4144017ce308e46368db901feffd0d2",
-      "title": "Pyongyang busts luxury smuggling ring selling to elite wives",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/pyongyang-luxury-smuggling-bribery-scandal/",
-      "published_date": "2026-07-30T17:53:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "42609857d1b5af648ac8a0b41856e55c",
-      "title": "SK Group chief purchases shares of SK hynix for 1st time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260730012200320",
-      "published_date": "2026-07-30T11:10:12Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "7008677299281bb678709720d765c083",
+      "title": "(3rd LD) Temperatures soar to record 42.5 C in southeast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000753315",
+      "published_date": "2026-08-02T08:01:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "467af38bc39c5de96651dde0f841c613",
+      "title": "Navy's ROKS Daejeon awarded 'top gun' honor at RIMPAC",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802002500315",
+      "published_date": "2026-08-02T06:14:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b8688ae7659fc38f9b5482ae24410ab3",
+      "title": "(2nd LD) Temperatures soar to record 42.5 C in southeast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000752315",
+      "published_date": "2026-08-02T05:26:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "008c74d5146bcddc66336f859845c4a7",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000600315",
+      "published_date": "2026-08-02T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5e97b13603be01b128efa7bdc0dba867",
+      "title": "(LEAD) Temperatures soar to record 42 C in southeast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000751315",
+      "published_date": "2026-08-02T04:38:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b43a9aee07f4e3d26b997b71b6a8f705",
+      "title": "More than 5,200 drug offenders nabbed in H1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802001000315",
+      "published_date": "2026-08-02T02:22:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "db9c070400b58c24fb6e644f90038c84",
+      "title": "No. of Koreans involved in overseas drug trafficking triples in 2 yrs: lawmaker",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802000500315",
+      "published_date": "2026-08-02T01:05:26Z",
+      "category": "Local Events"
+    },
     {
       "id": "117e954bc2e47b8438c69c6ab33fed7c",
       "title": "KBO to allow delaying games up to an hour amid record heat wave",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260731003251315",
       "published_date": "2026-07-31T08:12:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "17e9d7f898fd38aa0c4df0f59fecd9c0",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731010600315",
-      "published_date": "2026-07-31T08:00:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "caba646aa17d6fb7e2a599d13b61644a",
-      "title": "Court upholds exit ban on ex-U.S. professor charged with defaming President Lee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731008600315",
-      "published_date": "2026-07-31T07:01:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fffe1e26e9acb65e3489fb3c4fe69e64",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731008400315",
-      "published_date": "2026-07-31T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "07aa85d252901c536a4858d6e5e000bf",
-      "title": "Temperatures rise above 41 C in southeast amid intense heat wave",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731007600315",
-      "published_date": "2026-07-31T06:25:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "98bc72613aa498545f999c1af3559139",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731001400320",
-      "published_date": "2026-07-31T05:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "450af2c63c1a3da569e55b6ceedfd951",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731006300320",
-      "published_date": "2026-07-31T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0d842af27dc3884383032322adb23e1c",
-      "title": "Man sentenced to 6-yr prison term for attempted murder of 'noraebang' owner",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731005300315",
-      "published_date": "2026-07-31T03:05:15Z",
       "category": "Local Events"
     }
   ]
