@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-02T12:03:45Z",
+  "generated_at": "2026-08-02T23:48:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "44209f65811b3822e2f4c96a5d93ab15",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug .3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803000600320",
+      "published_date": "2026-08-02T21:57:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fa4c247be688e92dec8f06412be93692",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803000400320",
+      "published_date": "2026-08-02T21:57:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6d17a790e18d5393c938cfb3b1c46966",
+      "title": "Lee heads home after five-nation overseas trip",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802003400315",
+      "published_date": "2026-08-02T15:26:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0b30cdaf6a49fd26d8c5b32e5bb15acc",
+      "title": "Lee says S. Korean firms, people in Germany play key role as bridge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260802003900315",
+      "published_date": "2026-08-02T12:31:48Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "c1c935a70307e59fcb558ef3993a6a57",
       "title": "Ex-DP leader Jung wins southeastern party-member primary in leadership race",
@@ -136,41 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260801000252315",
       "published_date": "2026-07-31T19:28:04Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "b65174a78a12f5de82b5cd00875c990d",
-      "title": "(LEAD) S. Korea, Argentina agree to enhance cooperation on critical minerals: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260801000251315",
-      "published_date": "2026-07-31T18:24:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "28572ef57f625efffb0e9f2e35532e80",
-      "title": "Lee, Argentina's Milei hold summit on critical mineral supply chains, other cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260801000200315",
-      "published_date": "2026-07-31T15:41:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0c56170d67c6134e512bb8bed45d941d",
-      "title": "U.S. lawmaker submits bill aimed at countering N.K. IT worker schemes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731012100315",
-      "published_date": "2026-07-31T14:23:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5d7cdb7e78432aeff2550cab493cb75b",
-      "title": "S. Korea, U.S., 9 other countries issue joint alert on N. Korean IT workers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731012000315",
-      "published_date": "2026-07-31T13:30:59Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "93cf412a92145f285fc89777ef372c99",
+      "title": "(EDITORIAL from The Korea Times on Aug. 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803000500320",
+      "published_date": "2026-08-02T21:57:45Z",
+      "category": "Military"
+    },
     {
       "id": "be90cecd8d67efba7279fb02b4865245",
       "title": "PPP calls on defense minister to step down over mix-up of U.S. military drone as enemy threat",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260728011751315",
       "published_date": "2026-07-28T10:35:08Z",
-      "category": "Military"
-    },
-    {
-      "id": "aa316e1d2d4eeb4bd01fa19999c4a4e6",
-      "title": "Top military officers of S. Korea, India discuss expanding military exchanges by phone",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260728011000315",
-      "published_date": "2026-07-28T08:04:35Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "9c6eb00937059134807a735e64f4e6b3",
+      "title": "Lee to convene meeting on real estate, stock market after returning from overseas",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803001000315",
+      "published_date": "2026-08-02T23:07:34Z",
+      "category": "Economy"
+    },
+    {
       "id": "2166aa7e80dbe2384a08e370784f5af6",
       "title": "McDonald's 'Taste of Korea' menu exported to Taiwan",
       "source": "Yonhap News Agency",
@@ -646,17 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260731003400315",
       "published_date": "2026-07-31T00:40:37Z",
       "category": "Economy"
-    },
-    {
-      "id": "5aacfade2623e11f8d970675c4cecf9f",
-      "title": "(LEAD) Seoul shares start 13 pct higher on U.S. tech gains driven by Microsoft's strong earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731002251320",
-      "published_date": "2026-07-31T00:28:03Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "b52e8889dc076cc2f3b096d61bbf70fd",
+      "title": "Ryu Hae-ran looks on brighter side after falling short in pursuit of LPGA history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803001200315",
+      "published_date": "2026-08-02T23:28:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "521f16a4d4d1c3638e14150616fd5287",
+      "title": "'Spider-Man: Brand New Day' debuts atop weekend box office",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803001100315",
+      "published_date": "2026-08-02T23:16:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4354b24f14260ac5f5476ada631c26b3",
+      "title": "Ryu Hae-ran comes up short in bid for 3rd straight LPGA major title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803000900315",
+      "published_date": "2026-08-02T22:52:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8a8528f900731cd6b4c0408519b917b7",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803000300320",
+      "published_date": "2026-08-02T21:57:25Z",
+      "category": "Local Events"
+    },
     {
       "id": "7008677299281bb678709720d765c083",
       "title": "(3rd LD) Temperatures soar to record 42.5 C in southeast",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260731003252315",
       "published_date": "2026-07-31T09:37:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "48792c7b7ba4251cf27765b2193081d5",
-      "title": "Top prosecutor offers to resign after passage of bill on stripping prosecution of investigative powers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731011700315",
-      "published_date": "2026-07-31T09:15:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "903364ffbd73a604e9daf508855f17e6",
-      "title": "(URGENT) Acting Prosecutor General Koo Ja-hyeon offers to resign",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731011600315",
-      "published_date": "2026-07-31T09:07:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f07ec19a772e1d24a29713a11ef2f457",
-      "title": "Strict regulations on 'split listing' to take effect early Aug.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731011400320",
-      "published_date": "2026-07-31T08:22:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a94161a233178f7322c963d6d59f05e8",
-      "title": "(LEAD) Nat'l Assembly passes bill on stripping prosecution of investigative powers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260731003251315",
-      "published_date": "2026-07-31T08:12:53Z",
       "category": "Local Events"
     }
   ]
