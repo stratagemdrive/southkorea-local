@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-03T13:42:20Z",
+  "generated_at": "2026-08-03T23:58:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5346c7f75e7b9222413239d71f9f92f0",
+      "title": "N. Korea denounces joint warning over its cyberactivity as 'false' info",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804001400315",
+      "published_date": "2026-08-03T23:11:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c23276d4d02645e4281aa6bf2b4c3e6c",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804000800315",
+      "published_date": "2026-08-03T21:59:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "620cb7e2bf8f0adf5512af4ccb678de1",
+      "title": "(EDITORIAL from The Korea Times on Aug. 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804000700315",
+      "published_date": "2026-08-03T21:59:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "93dfb76be85c91951581795ed1fa2c17",
+      "title": "Former U.S. envoy urges U.S. to ease N.K. travel ban, citing its impact on aid workers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804000400315",
+      "published_date": "2026-08-03T21:21:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3aab301699c6235d77ff061d8d7c1cad",
+      "title": "Trump says U.S. in talks with Iran on reopening Strait of Hormuz this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804000200315",
+      "published_date": "2026-08-03T19:42:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0aa8a683668389ef92b6044e403d6019",
+      "title": "(2nd LD) Record heat wave continues to grapple S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803008152315",
+      "published_date": "2026-08-03T13:56:28Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "94d6932ae08023c346ffa25779deaa5d",
       "title": "FM Cho highlights new U.S. ambassador's role in resolving bilateral issues",
@@ -119,54 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260803008352320",
       "published_date": "2026-08-03T07:35:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "683d4ed08fb240766a01fcb56adab85d",
-      "title": "(2nd LD) U.S. drone mix-up caused by communication error at working level: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803007752315",
-      "published_date": "2026-08-03T07:25:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dbc2b0a5344a0f3eb09f1bfc5671541e",
-      "title": "11 nations issue first-ever joint alert on North Korean IT worker schemes",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/11-nations-issue-first-ever-joint-alert-on-north-korean-it-worker-schemes/",
-      "published_date": "2026-08-03T07:12:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b52582c0de087ede5b762a6bbc4cbfef",
-      "title": "(LEAD) Seoul stocks dip over 5 pct on chip sell-off after record surge",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803008351320",
-      "published_date": "2026-08-03T07:00:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f78a67936c3a06beff5afd6e9d0a9608",
-      "title": "(LEAD) U.S. drone mix-up caused by communication error at working level: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803007751315",
-      "published_date": "2026-08-03T06:49:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dce26e6efe82bdfd063a9012148d6a1b",
-      "title": "Seoul stocks dip over 5 pct on chip sell-off after record surge",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803008300320",
-      "published_date": "2026-08-03T06:36:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "635bc5d101c474375e8b0b9be471432c",
-      "title": "U.S. drone mix-up caused by communication error at working level: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803007700315",
-      "published_date": "2026-08-03T05:59:28Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,30 @@
   ],
   "Energy": [
     {
+      "id": "9930d045a09abf07396366c0ceb789f1",
+      "title": "(LEAD) Consumer prices up 2.8 pct in July; oil price hike slows",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804001351320",
+      "published_date": "2026-08-03T23:32:03Z",
+      "category": "Energy"
+    },
+    {
+      "id": "9f1aa7159dd7eddaf1fe48b44a40aaf2",
+      "title": "Consumer prices up 2.8 pct in July amid high oil costs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804001300320",
+      "published_date": "2026-08-03T23:00:09Z",
+      "category": "Energy"
+    },
+    {
+      "id": "f7bc0f1a4e1f2eb7a12eab45126222fa",
+      "title": "(URGENT) Consumer prices up 2.8 pct in July amid high oil costs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804001200320",
+      "published_date": "2026-08-03T23:00:03Z",
+      "category": "Energy"
+    },
+    {
       "id": "ec3fb1d75e6d36b59bebb2ee3017f635",
       "title": "Gist of 2026 tax code revisions",
       "source": "Yonhap News Agency",
@@ -467,30 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260730001000315",
       "published_date": "2026-07-29T21:58:28Z",
-      "category": "Energy"
-    },
-    {
-      "id": "e5effb536023d25bbc74035c71c749af",
-      "title": "(EDITORIAL from The Korea Herald on July 30)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260730000900315",
-      "published_date": "2026-07-29T21:58:18Z",
-      "category": "Energy"
-    },
-    {
-      "id": "e219e81c67b8417d3c500f0537ea94ef",
-      "title": "(LEAD) Financial authorities eye cap on single-stock leveraged ETFs in individual portfolios",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729011151320",
-      "published_date": "2026-07-29T13:02:00Z",
-      "category": "Energy"
-    },
-    {
-      "id": "3a0be6a638d04c413d985269d23a2e69",
-      "title": "Financial authorities eye cap on single-stock leveraged ETFs in individual portfolios",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729011100320",
-      "published_date": "2026-07-29T12:40:55Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,30 @@
   ],
   "Local Events": [
     {
+      "id": "61990dbe1128569e8c35c604ecdaaae9",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804000600315",
+      "published_date": "2026-08-03T21:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8e4d10eac3cbf3d5b400f6a97897da0b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804000500315",
+      "published_date": "2026-08-03T21:58:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0b2fb494cc1ff7795432a433d50347fc",
+      "title": "Corporate direct financing dips almost 16 pct in H1 on decreased debt sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260803009700320",
+      "published_date": "2026-08-03T21:00:08Z",
+      "category": "Local Events"
+    },
+    {
       "id": "db4823b9973969ab9be2278ba549f303",
       "title": "K League's Jeju SK FC ready to learn from Bayern Munich in exhibition match",
       "source": "Yonhap News Agency",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260803004600315",
       "published_date": "2026-08-03T02:11:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4b5f38679dac9f39f01996b942b513af",
-      "title": "Subway service briefly disrupted amid disability rights protest",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803003300315",
-      "published_date": "2026-08-03T01:48:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bc269cec0124b15401b10bd716973a9a",
-      "title": "Foreign-substance ban on S. Korean minor league pitcher reduced after appeal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803004300315",
-      "published_date": "2026-08-03T01:46:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "af6ea72880c29c69bab045afa8ad9166",
-      "title": "Red Velvet returns with new EP after 2-yr hiatus",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803003400315",
-      "published_date": "2026-08-03T01:13:25Z",
       "category": "Local Events"
     }
   ]
