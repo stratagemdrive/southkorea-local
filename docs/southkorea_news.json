@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-04T13:03:33Z",
+  "generated_at": "2026-08-04T23:53:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d3d3bd0542ad28605e393021215c4613",
+      "title": "(EDITORIAL from The Korea Times on Aug. 5)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805000700315",
+      "published_date": "2026-08-04T22:00:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8c31788d40a3f057d02cde239900e5ff",
+      "title": "Coupang swings to Q2 loss on data breach fines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805000300320",
+      "published_date": "2026-08-04T21:47:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8e055ff97be7c4696b945002d01ff8ec",
+      "title": "Kim Ju Ae’s blank expression reveals North Korea’s deeper worries",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-ju-ae-blank-expression-north-korea-worries/",
+      "published_date": "2026-08-04T18:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4106dfeab040990668f2ffbffa276d79",
+      "title": "Bayern Munich coach pleased with 'good intensity' in preseason win over S. Korean club",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009600315",
+      "published_date": "2026-08-04T14:41:03Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "88b5c43bdf1e5c18f2956ffce32a61be",
       "title": "S. Korea, Bangladesh reach agreement in principle on CEPA",
@@ -136,41 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260804002500315",
       "published_date": "2026-08-04T01:03:47Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "d1d2cd5953972eaa1ef7e25ef8839b63",
-      "title": "N. Korea slams U.S.-led naval exercise, vows to respond with 'deterrence of new level'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804002100315",
-      "published_date": "2026-08-04T00:35:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f6dbd6bee5fb76bb39619ee915e28623",
-      "title": "(LEAD) Seoul shares open higher on U.S. gains, bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804001651320",
-      "published_date": "2026-08-04T00:28:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3bcbd25378cccde22ee48bc302542340",
-      "title": "Seoul shares open higher on U.S. gains, bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804001600320",
-      "published_date": "2026-08-04T00:03:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4c7989ad0e0c36d650a88fae4e0423c0",
-      "title": "(URGENT) Seoul shares open higher on U.S. gains, bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804001500320",
-      "published_date": "2026-08-04T00:02:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "b18a417ba22f0e8f5b0cd95a1b5de33b",
+      "title": "N. Korea warns of 'additional military options' over Japan's expanding defense buildup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805000400315",
+      "published_date": "2026-08-04T22:15:06Z",
+      "category": "Military"
+    },
+    {
+      "id": "a70a2cf81e93c86e002fb39377f4b04e",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 5)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805000800315",
+      "published_date": "2026-08-04T22:01:06Z",
+      "category": "Military"
+    },
     {
       "id": "d42534e8bc61d8a81d6cf640d56a71c9",
       "title": "Army nearly downed military drone during flight test: lawmaker",
@@ -313,22 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260730003800315",
       "published_date": "2026-07-30T01:42:24Z",
-      "category": "Military"
-    },
-    {
-      "id": "2f7912ab715be70f0eb002452e55ac04",
-      "title": "U.S. Navy official calls S. Korea's role in RIMPAC 'historic leadership milestone'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260730000600315",
-      "published_date": "2026-07-29T20:54:47Z",
-      "category": "Military"
-    },
-    {
-      "id": "1a96730b05c5eefeda29823a69141850",
-      "title": "Navy's participation in RIMPAC serves as 'valuable' chance for improving command capabilities: admiral",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260729010100315",
-      "published_date": "2026-07-29T08:40:22Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,38 @@
   ],
   "Economy": [
     {
+      "id": "7f152a38f6706a78a429b61ba5e7aab9",
+      "title": "Kakao Bank reports record earnings in H1 on rise in interest, non-interest income",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805001200320",
+      "published_date": "2026-08-04T23:45:48Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f29887e00ce6c441624d31942fef18c1",
+      "title": "(2nd LD) Bessent cites volatility in Korean won while stressing stable yen's importance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009452315",
+      "published_date": "2026-08-04T21:12:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5a0ea7fab9aa8aeb1552696608283934",
+      "title": "(LEAD) Bessent cites volatility in Korean won while stressing stable yen's importance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009451315",
+      "published_date": "2026-08-04T15:02:39Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e7fd901f093f3e81b68e35e06d03f505",
+      "title": "Bessent cites volatility in Korean won while stressing stable yen's importance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009400315",
+      "published_date": "2026-08-04T14:18:05Z",
+      "category": "Economy"
+    },
+    {
       "id": "4dfc32d26c9716f6517b78681095f48c",
       "title": "FTC to fine conglomerate heads for omitting affiliates from regulatory filings",
       "source": "Yonhap News Agency",
@@ -622,41 +654,81 @@
       "url": "https://en.yna.co.kr/view/AEN20260802002200320",
       "published_date": "2026-08-02T03:59:41Z",
       "category": "Economy"
-    },
-    {
-      "id": "22796c395c092d78fdb0154cdfe9806d",
-      "title": "7 in 10 stocks fall in July as stock market posts steepest decline since 2008",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260802001100320",
-      "published_date": "2026-08-02T02:25:21Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9caaa9b1beda4b36fd4e687299f284eb",
-      "title": "Korean won posts biggest monthly gain since 2009 on SK hynix ADR inflows",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260802000800320",
-      "published_date": "2026-08-02T01:48:28Z",
-      "category": "Economy"
-    },
-    {
-      "id": "accba2578b3b0a0fe933393cd6b6e691",
-      "title": "Household loans rise sharply in July on fast-growing mortgage, credit loans",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260802000400320",
-      "published_date": "2026-08-02T00:53:50Z",
-      "category": "Economy"
-    },
-    {
-      "id": "307ecc5fcbf3bfc18eacbfcc97faa135",
-      "title": "Korean graphic novel wins Eisner Award for 1st time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260801001200315",
-      "published_date": "2026-08-01T00:57:45Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "5d54d1ef74a00a4c86d78ecfb2247556",
+      "title": "Katseye's 'Animal' debuts at No. 24 on Billboard Hot 100",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805001100315",
+      "published_date": "2026-08-04T22:58:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "02dfb838e390b8774b2a2678957fc8a0",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 5)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805000600315",
+      "published_date": "2026-08-04T22:00:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2212392ca425623043ba40e388dec73e",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805000500315",
+      "published_date": "2026-08-04T22:00:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9bc95f2adc9767791b483b3b4fd56f5b",
+      "title": "S. Korea's foreign reserves rise in July",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804007800320",
+      "published_date": "2026-08-04T21:00:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "06e009e33991ac0966a4e2acafe66e5c",
+      "title": "(2nd LD) U.S., Iran could reach deal this week to reopen Strait of Hormuz: Bessent",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009152315",
+      "published_date": "2026-08-04T17:05:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "887603267827b5021bef8ce3535d9f2f",
+      "title": "(LEAD) U.S., Iran could reach deal this week to reopen Strait of Hormuz: Bessent",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009151315",
+      "published_date": "2026-08-04T16:28:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3ccea7e44aa233b0bb5b5d0219aa2181",
+      "title": "New Manchester City coach seeking daily improvement during S. Korea trip",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009300315",
+      "published_date": "2026-08-04T14:07:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4ebcf0b868d7ef17e4a37563bd95e8d9",
+      "title": "U.S., Iran could reach deal this week to reopen Strait of Hormuz: Bessent",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009100315",
+      "published_date": "2026-08-04T13:43:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f27587b2d11263193d3dca4d94e7a682",
+      "title": "Bayern Munich defeat Jeju SK FC in preseason match in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260804009000315",
+      "published_date": "2026-08-04T13:14:00Z",
+      "category": "Local Events"
+    },
     {
       "id": "a059cf7627a9ab34f28aa66f13947672",
       "title": "Team K League not backing down against Man City in friendly: coach",
@@ -743,78 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260804005400315",
       "published_date": "2026-08-04T05:50:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3542ea64bfe1aea99d40a2f6f6dcf659",
-      "title": "Over 3,600 votes temporarily omitted from Siheung turnout data in local elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804005500315",
-      "published_date": "2026-08-04T05:46:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a59a0e41bc45e52fe863a276b80dfd6c",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804000900315",
-      "published_date": "2026-08-04T05:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "addd96bb75e6529acb6e58821582c264",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804004700315",
-      "published_date": "2026-08-04T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c8df6ea4407f2af87ce5e484c5eaffd8",
-      "title": "Police block online sales of Trader Joe's seasoning containing poppy seeds",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804004300315",
-      "published_date": "2026-08-04T03:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f9f2a0d8947052d85b55b7750cb1c320",
-      "title": "6 pork distributors indicted for fixing prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804004100315",
-      "published_date": "2026-08-04T02:39:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ec6ef71e7a4581342470203fe99e5aad",
-      "title": "Navy names 1st female commander for large amphibious transport ship",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804002400315",
-      "published_date": "2026-08-04T01:00:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "213fcee2a839dd9bcdc6373f415e888a",
-      "title": "Korean remake of 'The Intern' to hit local theaters next month",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804002200315",
-      "published_date": "2026-08-04T00:51:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "61990dbe1128569e8c35c604ecdaaae9",
-      "title": "(EDITORIAL from The Korea Herald on Aug. 4)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804000600315",
-      "published_date": "2026-08-03T21:59:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8e4d10eac3cbf3d5b400f6a97897da0b",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804000500315",
-      "published_date": "2026-08-03T21:58:34Z",
       "category": "Local Events"
     }
   ]
