@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-05T12:54:10Z",
+  "generated_at": "2026-08-05T23:46:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "cc77aae566c98d1e4db409f20c0e1c8d",
+      "title": "4 carmakers to recall over 512,000 vehicles due to faulty parts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806000800320",
+      "published_date": "2026-08-05T23:09:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e60a48464972f5d13635452a2fed066e",
+      "title": "S. Korea posts record-high current account surplus again in June on strong chip exports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806000700320",
+      "published_date": "2026-08-05T23:00:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a718ea80a78f377bee8a9057830c8f82",
+      "title": "(URGENT) S. Korea posts record-high current account surplus again in June: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806000600320",
+      "published_date": "2026-08-05T23:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "77ebe4e99c92dbf1a4db3ce0d70a8a27",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806000300320",
+      "published_date": "2026-08-05T22:17:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e68732397120398fe987c0b1ed12487e",
+      "title": "North Koreans face heatstroke and robbery in the same breath",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-heat-wave-crime-emergency-medical-gap/",
+      "published_date": "2026-08-05T20:27:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b99ed26cd085cca2f65cca64a7afcd15",
+      "title": "North Korea expands mandatory HIV testing to service workers",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-hiv-testing-service-workers/",
+      "published_date": "2026-08-05T17:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dd66df5ea390c0a3174e68de5ceea95a",
+      "title": "North Koreans turn to underground app for banned information",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-ryongaksan-program-illicit-software/",
+      "published_date": "2026-08-05T14:50:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8058c696003c19b5b9ff25655c66645c",
       "title": "Olympic short track medalist Rim Jong-un faces ban over anti-doping rule violation",
@@ -111,62 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/08/jerome-sauvage-on-north-koreas-crises-contradictions-and-quiet-moments/",
       "published_date": "2026-08-05T06:16:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5354925244f271ee955eb8b061a0f7bb",
-      "title": "Jung Hae-in promises classic K-romance vibe in 'Our Sticky Love'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805006600315",
-      "published_date": "2026-08-05T05:51:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4c05fb7922776c0715980319ef2869e5",
-      "title": "FM Cho vows efforts to create conditions for nuclear sub project",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805005500315",
-      "published_date": "2026-08-05T04:30:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "101a501d5956a79eddda151db08f4a2a",
-      "title": "White House opposes House defense bill provision restricting use of funds for USFK troop cut",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805005600315",
-      "published_date": "2026-08-05T03:28:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "18a2c3de569b847d06e9b01f504b2a17",
-      "title": "Foreign spending accounts for 1.17 pct of S. Korean GDP in 2025: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805004100320",
-      "published_date": "2026-08-05T03:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "67ccc53ea5077fbd9fa3aeb2d0b65737",
-      "title": "North Korea orders top-level border vigilance amid China blood alliance push",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-china-blood-alliance-border-vigilance/",
-      "published_date": "2026-08-05T02:43:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2427a3c463619c8cc29dc4f658fc6607",
-      "title": "HD Hyundai deploys advanced welding system at Huntington Ingalls shipyard",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805003100320",
-      "published_date": "2026-08-05T02:30:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "72213f5914778ecd7d7664f2c011ba70",
-      "title": "Unification ministry proposes not calling N. Korea 'main enemy'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805003000315",
-      "published_date": "2026-08-05T02:25:33Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "db8d5d5454ebeda4720a171df9f9e8a5",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806000500320",
+      "published_date": "2026-08-05T22:17:42Z",
+      "category": "Economy"
+    },
+    {
       "id": "f78b6e0c425d52274cce6899a09c556e",
       "title": "Daily turnover of single-stock leveraged ETFs falls below 1 tln won after curbs",
       "source": "Yonhap News Agency",
@@ -646,17 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260803002800320",
       "published_date": "2026-08-03T00:27:05Z",
       "category": "Economy"
-    },
-    {
-      "id": "8c52da60462f0e1161fab1c2fd2ba54a",
-      "title": "KGM secures US$75 mln investment from China's Chery",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803002300320",
-      "published_date": "2026-08-03T00:25:56Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "9d71cdde0b05aead5c4242f14bd6debe",
+      "title": "(EDITORIAL from The Korea Times on Aug. 6)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806000400320",
+      "published_date": "2026-08-05T22:17:29Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2d7e14919e4446f72900a65386518771",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806000200320",
+      "published_date": "2026-08-05T22:17:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "59ec49537c10d0d0f4da398470c33b44",
+      "title": "Team K League goalkeeper savors 'fun, happy' day on pitch vs. Man City",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805010400315",
+      "published_date": "2026-08-05T14:33:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2b7db489cd19ea0ebe438dc9fdd2f870",
+      "title": "(LEAD) Lee stresses addressing public concerns over exclusive police investigative authority",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805009851315",
+      "published_date": "2026-08-05T14:16:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a4b21c572a6ece1fe00410e1edde6dbc",
+      "title": "New Man City coach Maresca appreciates players' effort in his 1st win",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805010300315",
+      "published_date": "2026-08-05T14:14:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "42b3f4447342bafaea8028b1f421a074",
+      "title": "Record-breaking heat, absence of stars lead to small crowd in Man City match in Seoul",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805010200315",
+      "published_date": "2026-08-05T13:54:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a505c8763b46eba8108e1f35e6cb075a",
+      "title": "Manchester City beat S. Korean league All-Stars in Seoul friendly",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260805010100315",
+      "published_date": "2026-08-05T13:17:19Z",
+      "category": "Local Events"
+    },
     {
       "id": "4260dbcdafc9ca81b97acca6353bb423",
       "title": "Gov't to consider creating agency dealing exclusively with youth policy",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260805007000315",
       "published_date": "2026-08-05T06:27:30Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c268849b4e43776abf592bc70e0faa8d",
-      "title": "Number of employed people aged 55-79 tops 10 mln for 1st time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805006500320",
-      "published_date": "2026-08-05T05:34:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "247a5b8d590e94218672cd43f3af321c",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805000900315",
-      "published_date": "2026-08-05T05:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e701ac9dee8ce0071995c66f0d4f25eb",
-      "title": "10 baseball games canceled due to extreme heat",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805006000315",
-      "published_date": "2026-08-05T04:33:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3b4003a0f834ab36430cf7d0143e75e6",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805005900315",
-      "published_date": "2026-08-05T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4864cc4c06e7582160a4c1136bd2e62c",
-      "title": "Veterans ministry to expand state awards to independence activists",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804009500315",
-      "published_date": "2026-08-05T04:08:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0b05fc8aa5fe9d806de51dcb78e5940b",
-      "title": "43 pct of greater Seoul area placed under serious heat wave warnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805003900315",
-      "published_date": "2026-08-05T02:45:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a8a3b425e0414b50cfb1e101f69637e7",
-      "title": "Seoul shares extend gains late Wed. morning amid Hormuz hopes, easing AI concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805004000320",
-      "published_date": "2026-08-05T02:31:46Z",
       "category": "Local Events"
     }
   ]
