@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-07T11:47:08Z",
+  "generated_at": "2026-08-07T23:23:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "6d37af596876273a53b11481ba53924d",
+      "title": "North Korea remittance broker fees jump to 50% amid crackdown",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-remittance-broker-fees-50-percent/",
+      "published_date": "2026-08-07T17:27:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28a494dff64835e399e39cf60f641647",
+      "title": "Satellite images reveal chemical weapons potential at North Korea’s Sunchon complex",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/sunchon-chemical-weapons-satellite/",
+      "published_date": "2026-08-07T14:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a1adb9ed87bc6d5a7219798bc0006125",
+      "title": "(LEAD) Lee orders bold push for large-scale housing supply",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001951315",
+      "published_date": "2026-08-07T11:49:38Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "23ce0828a5d5e2059dd7e1b39ea32a87",
       "title": "POSCO Holdings to divest 2.5 tln won worth of shares in 2 affiliates",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260807003900315",
       "published_date": "2026-08-07T02:26:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2a44bebbb20c7686f8929d0657b47c4c",
-      "title": "S. Korea, U.S. sign MOU to expand cooperation on Korean War veterans affairs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807002900315",
-      "published_date": "2026-08-07T01:57:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "86091c106c8cc4b5661b0bf19788fba0",
-      "title": "Lee Kang-in set for Atletico Madrid debut on home soil",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807002700315",
-      "published_date": "2026-08-07T01:20:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5a758b069cad4ffa60d60e171e100040",
-      "title": "Lee set to hold closed-door meeting on housing supply plans",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807001900315",
-      "published_date": "2026-08-06T23:59:27Z",
       "category": "Diplomacy"
     }
   ],
