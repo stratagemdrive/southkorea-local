@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-06T12:57:45Z",
+  "generated_at": "2026-08-07T01:39:37Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "86091c106c8cc4b5661b0bf19788fba0",
+      "title": "Lee Kang-in set for Atletico Madrid debut on home soil",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807002700315",
+      "published_date": "2026-08-07T01:20:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5a758b069cad4ffa60d60e171e100040",
+      "title": "Lee set to hold closed-door meeting on housing supply plans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001900315",
+      "published_date": "2026-08-06T23:59:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "409ec85179ec61aa04bde017469507b6",
+      "title": "N. Korea's state media silent on Thursday's missile launch",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001300315",
+      "published_date": "2026-08-06T23:12:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5558d3d67c72271b0248b76d3d33f0b9",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001000320",
+      "published_date": "2026-08-06T22:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8e9971b086db2b089013d6e5a99f236d",
+      "title": "Korean War participating countries call for stronger solidarity in Washington forum",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000800315",
+      "published_date": "2026-08-06T21:41:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "418adda54ff9bfeef5c2a292e80ca16a",
+      "title": "North Korea farm workers caught between contradictory orders",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-farm-workers-contradictory-heat-directives/",
+      "published_date": "2026-08-06T17:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "10f0552c236c645b8d4297570fea3281",
+      "title": "Soaring prices squeeze North Korea’s vulnerable households",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-vulnerable-households-food-prices-exchange-rate/",
+      "published_date": "2026-08-06T13:09:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "717bd7dccb8cdc2f9e9b5579200a8b69",
       "title": "(2nd LD) Industry minister says U.S. likely to announce new Section 301 probe by end-Aug.",
@@ -112,65 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260806006000315",
       "published_date": "2026-08-06T06:42:14Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "325ea2df4fdcb2e04ac8ab72ab8c2a91",
-      "title": "Jecheon film fest to open next month with record 189 films",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806006200315",
-      "published_date": "2026-08-06T06:40:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f86a3cf7d28a4a064e1fe480ad61f762",
-      "title": "Russia to deploy North Korean missile unit and launchers to Ukraine border: Kyiv",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/russia-to-deploy-north-korean-missile-unit-and-launchers-to-ukraine-border-kyiv/",
-      "published_date": "2026-08-06T05:53:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "31c7288081b9ec3fe4e32e07619249a7",
-      "title": "Son Heung-min held goalless in LAFC's Leagues Cup victory",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806004700315",
-      "published_date": "2026-08-06T05:35:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0eff4677a6a87d9e9af3082d9cab6201",
-      "title": "Industry minister says U.S. likely to announce new Section 301 probe by end-Aug.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806004600320",
-      "published_date": "2026-08-06T05:29:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b5c40b43e78980c8f507263137d14496",
-      "title": "Samsung Electronics settles patent dispute with Netlist through 5-yr licensing deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806004400320",
-      "published_date": "2026-08-06T05:20:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a36d22fb15fb7e905e6b6a5d9d7c06ea",
-      "title": "Lee orders full mobilization of resources to minimize damage from extreme heat",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806004300315",
-      "published_date": "2026-08-06T03:31:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0fe0cfd5ad9db6f44d536eea631f9259",
-      "title": "Ask a North Korean: Why was stealing so prolific in North Korea?",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/ask-a-north-korean-why-was-stealing-so-prolific-in-north-korea/",
-      "published_date": "2026-08-06T03:12:05Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "1455f18158858479274e5dd699271d87",
+      "title": "U.S. military says it is aware of N.K. missile launch, reaffirms defense commitment to allies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806010600315",
+      "published_date": "2026-08-06T14:57:54Z",
+      "category": "Military"
+    },
     {
       "id": "384bbde19258d8072b323cfb7e9d400c",
       "title": "(3rd LD) N. Korea fires short-range ballistic missile toward East Sea: military",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260803007552315",
       "published_date": "2026-08-03T06:54:43Z",
-      "category": "Military"
-    },
-    {
-      "id": "6b2251f5005ea9966f55558e5c87c9a7",
-      "title": "(LEAD) Army's 1st Corps commander relieved of duty over unloaded weapons directive: military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260803007551315",
-      "published_date": "2026-08-03T06:15:11Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,86 @@
   ],
   "Economy": [
     {
+      "id": "2bb1d2f11b64d4b5928adab59fa02d5d",
+      "title": "Industry, climate ministries team up to promote battery recycling industry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807002800320",
+      "published_date": "2026-08-07T01:19:42Z",
+      "category": "Economy"
+    },
+    {
+      "id": "44d78839b13742b3603302ac2a7bfa67",
+      "title": "(LEAD) Lotte Shopping turns to black in Q2 on strong department store sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807002400320",
+      "published_date": "2026-08-07T00:27:14Z",
+      "category": "Economy"
+    },
+    {
+      "id": "86bc4e5ce152d35430a43466292f6d1b",
+      "title": "(LEAD) Naver Q2 net income up 41.6 pct as AI boosts core biz",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001451320",
+      "published_date": "2026-08-07T00:17:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f7b7c5c9ea0ac9f1781c6d2138a08c62",
+      "title": "(3rd LD) Trump signs proclamation imposing 15 pct tariff on polysilicon derivative products",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000354315",
+      "published_date": "2026-08-06T22:37:24Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2d30c088368d563514bc56b3657435c1",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000700320",
+      "published_date": "2026-08-06T22:00:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "76112ae9dfb3ddbc6a651bdf5cf4c0df",
+      "title": "(2nd LD) Trump signs proclamation imposing 15 pct tariff on polysilicon derivative products",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000353315",
+      "published_date": "2026-08-06T21:33:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6d0dfcc126a85cc5d3b9c9b507f3056f",
+      "title": "(URGENT) U.S. to impose 15 pct tariff on polysilicon derivative products: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000500315",
+      "published_date": "2026-08-06T21:10:38Z",
+      "category": "Economy"
+    },
+    {
+      "id": "82de27748c292631ed1764ccc0d072cf",
+      "title": "(LEAD) Trump signs proclamation to protect American polysilicon industry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000352315",
+      "published_date": "2026-08-06T21:04:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "88a0b680628f7078ef3546670c66d636",
+      "title": "Trump signs proclamation on polysilicon industry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000351315",
+      "published_date": "2026-08-06T20:34:55Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5b97c1a518b6783672c95d38ea5f90eb",
+      "title": "(URGENT) Trump signs proclamation on polysilicon industry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000300315",
+      "published_date": "2026-08-06T20:23:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "27f34d358e508b8743145a7cc73575e1",
       "title": "LG, Nvidia chiefs to discuss AI infrastructure, robotics partnership in person next week",
       "source": "Yonhap News Agency",
@@ -574,89 +654,73 @@
       "url": "https://en.yna.co.kr/view/AEN20260806003300315",
       "published_date": "2026-08-06T02:06:48Z",
       "category": "Economy"
-    },
-    {
-      "id": "28262c2783f13c34cc82e3fd36f05600",
-      "title": "T'way Air rebrands as Trinity Airways following acquisition",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806002600320",
-      "published_date": "2026-08-06T02:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "aae20b5245b11566118a8a3ffe1d1297",
-      "title": "(LEAD) LG Uplus Q2 net income slightly up; operating profit hits record",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806002051320",
-      "published_date": "2026-08-06T01:43:21Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9c9f1641fb085f815a738db5625b398c",
-      "title": "Finance minister voices confidence in economy, vows efforts to stabilize stock market",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806002500320",
-      "published_date": "2026-08-06T01:24:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "b64170a8657b0039d44fed1cd679eaa3",
-      "title": "Samsung Electronics wins 2 awards at int'l chip conference",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806001600320",
-      "published_date": "2026-08-06T00:33:34Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0a0094912b5d0d3bb0905aae97a1a870",
-      "title": "(LEAD) Seoul shares start sharply lower on tech losses amid Hormuz hopes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806001251320",
-      "published_date": "2026-08-06T00:21:08Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6301379434cdec8904360f7f7e49d1ba",
-      "title": "(LEAD) Kakao Q2 net profit down by nearly 90 pct",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806000951320",
-      "published_date": "2026-08-06T00:16:38Z",
-      "category": "Economy"
-    },
-    {
-      "id": "16d76983d54b72fac0f6c13b4ac30899",
-      "title": "Seoul shares start sharply lower on tech losses amid Hormuz hopes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806001200320",
-      "published_date": "2026-08-06T00:03:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "db8d5d5454ebeda4720a171df9f9e8a5",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 6)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806000500320",
-      "published_date": "2026-08-05T22:17:42Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f78b6e0c425d52274cce6899a09c556e",
-      "title": "Daily turnover of single-stock leveraged ETFs falls below 1 tln won after curbs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805009900320",
-      "published_date": "2026-08-05T11:29:55Z",
-      "category": "Economy"
-    },
-    {
-      "id": "066ee01c4ffc4edfd6012ccc2b905a43",
-      "title": "'Miss Baek' director Lee Ji-won back after 8 yrs with 'Portrait of a Family'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805006200315",
-      "published_date": "2026-08-05T04:58:06Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "250abb804fad46f09f4808b4d62809cc",
+      "title": "Election watchdog raided again over alleged data manipulation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807002600315",
+      "published_date": "2026-08-07T01:10:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fe5dbace15296110bb9fb910f1cd64f9",
+      "title": "(LEAD) Seoul shares open higher on tech gains despite renewed Hormuz tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001851320",
+      "published_date": "2026-08-07T00:24:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f0d3cf8f2c8be21f2665e8d5833dc335",
+      "title": "Seoul shares open higher on tech gains despite renewed Hormuz tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001800320",
+      "published_date": "2026-08-07T00:05:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1421dd25e1c9c4dd0bb2108c9a606bd2",
+      "title": "(URGENT) Seoul shares open higher on tech gains despite renewed Hormuz tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001700320",
+      "published_date": "2026-08-07T00:02:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c565d411da9beebe09ef7c07e99e1f23",
+      "title": "Football federation provided sexual entertainment for foreign referees: gov't audit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807001500315",
+      "published_date": "2026-08-06T23:47:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d98e6beb6090d84b887ed7fef2d81be2",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000600320",
+      "published_date": "2026-08-06T22:04:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "722d6607a129cb51ec1dada4ae71ca32",
+      "title": "(EDITORIAL from The Korea Times on Aug. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000900320",
+      "published_date": "2026-08-06T22:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "aded50fccfc2ef7458c4e127074d8473",
+      "title": "U.S. senator reintroduces bill to expedite humanitarian aid to N. Koreans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807000200315",
+      "published_date": "2026-08-06T18:08:02Z",
+      "category": "Local Events"
+    },
     {
       "id": "43845df5ee0ea5cb17d392a0caa7b50a",
       "title": "(LEAD) 3 student activists arrested over alleged infiltration into U.S. air base",
@@ -751,70 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260806002800320",
       "published_date": "2026-08-06T05:00:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8222ba156e9777c66f5069ace1128cc0",
-      "title": "(LEAD) Police raid Korea Football Association over controversial appointment of ex-head coach Hong",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806003251315",
-      "published_date": "2026-08-06T02:51:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "aff40a42bf108f99766ddb55a5370a1c",
-      "title": "PM calls for AI-based medical services",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806003900315",
-      "published_date": "2026-08-06T02:41:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "be29beabc7a105f7e5acc0d31868a923",
-      "title": "Arrest warrants sought for 4 student activists over alleged infiltration into U.S. air base",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806003600315",
-      "published_date": "2026-08-06T02:31:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bfccf02e35ebe59e00b5a0eed9c1b268",
-      "title": "S. Korea, Czech Republic agree to expand air routes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806003100320",
-      "published_date": "2026-08-06T02:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "36bff9524930fbfabaf490c35b1bc131",
-      "title": "Police raid Korea Football Association over controversial appointment of ex-head coach Hong",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806003200315",
-      "published_date": "2026-08-06T01:50:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d0ae1313237b2d9f8c02c870a5bacc2b",
-      "title": "No. of S. Koreans imprisoned overseas up 25 pct in 4 yrs: lawmaker",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806003000315",
-      "published_date": "2026-08-06T01:43:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9f69b3f584990bf82f6385e5a1796c14",
-      "title": "Korean animation 'Long Long Night' to screen at Toronto film fest",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806002900315",
-      "published_date": "2026-08-06T01:41:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d7975f1a8ef79e9159c37a5d20e9724e",
-      "title": "KRX activates sell-side sidecar for KOSPI on sharp decline",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806002300320",
-      "published_date": "2026-08-06T01:20:40Z",
       "category": "Local Events"
     }
   ]
