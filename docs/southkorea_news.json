@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-08T11:29:59Z",
+  "generated_at": "2026-08-08T23:17:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d88f33d48e07cae1412816bb9555506f",
+      "title": "(Yonhap Interview) 'Fundamental' overhaul of military service system vital for nat'l security: MMA chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260807005000315",
+      "published_date": "2026-08-08T21:00:04Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "84a735cd96340566987c0300a3503da6",
       "title": "Lee vows to review policies that discourage young couples from registering marriage",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260807004100315",
       "published_date": "2026-08-07T02:55:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e6ea588eefdbc43730aab4d9ef4bb813",
-      "title": "(LEAD) N. Korea's state media silent on Thursday's missile launch",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807001351315",
-      "published_date": "2026-08-07T02:53:57Z",
       "category": "Diplomacy"
     }
   ],
