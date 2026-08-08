@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-07T23:23:33Z",
+  "generated_at": "2026-08-08T11:29:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "84a735cd96340566987c0300a3503da6",
+      "title": "Lee vows to review policies that discourage young couples from registering marriage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808001600315",
+      "published_date": "2026-08-08T06:03:31Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6d37af596876273a53b11481ba53924d",
       "title": "North Korea remittance broker fees jump to 50% amid crackdown",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260807001351315",
       "published_date": "2026-08-07T02:53:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9ee1cca8110ee9494c65d156d08aab3b",
-      "title": "National security adviser met new U.S. envoy Steel: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807003900315",
-      "published_date": "2026-08-07T02:26:02Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,94 @@
   ],
   "Local Events": [
     {
+      "id": "b80b18917ea3ebfdc069c6ed28c1f385",
+      "title": "Ex-PM wins Jeju, Incheon party-member primaries in leadership race",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808002200320",
+      "published_date": "2026-08-08T10:58:25Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "48405b6cf41d07e0ac23c8b79d80d21a",
+      "title": "Man City boss Maresca eager to face 'fantastic' Lee Kang-in of Atletico Madrid",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808002100315",
+      "published_date": "2026-08-08T10:45:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "11ef2ebe1f007b973d1d8a8512189d52",
+      "title": "New Atletico Madrid midfielder Lee Kang-in ready to give '120 percent' to help team",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808002000315",
+      "published_date": "2026-08-08T09:32:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6410f09ce48d809ee87d0de9cd66cd51",
+      "title": "(LEAD) Heat-related illness patients in late summer up threefold over past decade: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808001051315",
+      "published_date": "2026-08-08T08:39:42Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "999f92cd9cf1ee62ad1142d14a38452a",
+      "title": "Yonhap News hosts annual badminton tournament for multicultural families",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808001500320",
+      "published_date": "2026-08-08T05:46:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4b435bcd7d510ab131231265180ec215",
+      "title": "Heat-related illness patients in late summer up threefold over past decade: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808001000315",
+      "published_date": "2026-08-08T05:04:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "dfa4448ef6513b769270a4dbe4db0929",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808000900320",
+      "published_date": "2026-08-08T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "07462040888291e116afd4e87cdb031a",
+      "title": "Football association apologizes amid allegations over providing sexual entertainment for foreign referees",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808000700315",
+      "published_date": "2026-08-08T02:42:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "35bd45f6920031c7c13def2149de531c",
+      "title": "'Spider-Man: Brand New Day' exceeds 5 mln ticket sales in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808000600320",
+      "published_date": "2026-08-08T02:02:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "57680b6e307fabf2a20b7ddc57a8db40",
+      "title": "Scorching heat continues across nation; heavy rains forecast on eastern coast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808000500315",
+      "published_date": "2026-08-08T02:01:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f96e1a6656fb6e37085566688d0a8e49",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260808000400315",
+      "published_date": "2026-08-08T00:04:57Z",
+      "category": "Local Events"
+    },
+    {
       "id": "cc5246998d9855bc7cb1ce2d79cdbd11",
       "title": "Police to transfer cases involving family members of police officers to other branches",
       "source": "Yonhap News Agency",
@@ -727,94 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260807006200320",
       "published_date": "2026-08-07T06:38:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3697a9d07187792585b56cfa74e42862",
-      "title": "(URGENT) Seoul shares fall for 2nd day on foreign selling amid renewed Hormuz tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807006000320",
-      "published_date": "2026-08-07T06:33:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f0a050f8cb2c8d3fed6d5e1f8e85907c",
-      "title": "State audit agency apologizes for sitting commissioner's indictment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807005900315",
-      "published_date": "2026-08-07T06:12:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8043a21847f3051a47c676af7e7eda08",
-      "title": "(LEAD) Football federation provided sexual entertainment for foreign referees: gov't audit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807001551315",
-      "published_date": "2026-08-07T05:37:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a0afb3d87955328530ed6680b883a8b8",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807001100320",
-      "published_date": "2026-08-07T05:00:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4040e588f16df8407a6888ceca6717df",
-      "title": "Na Hong-jin's 'Hope' to screen at Toronto film fest",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807005200315",
-      "published_date": "2026-08-07T04:59:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c5d1cae3c001315d0693997359b60be1",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807004900320",
-      "published_date": "2026-08-07T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f4cfda3a935cbfdc5f6c71e7b987551d",
-      "title": "Sweltering heat takes toll on restaurants, cafes and bars",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807004600315",
-      "published_date": "2026-08-07T03:01:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "29669ce6e916f8b8270c687d3ba37d81",
-      "title": "Appeals court upholds 3-yr prison term for ex-commander in 2023 Marine death case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807004400315",
-      "published_date": "2026-08-07T02:57:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2e6834ef907544ddd24ec1cba8d78419",
-      "title": "Seoul shares turn lower late Fri. morning amid renewed Hormuz tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807004000320",
-      "published_date": "2026-08-07T02:43:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e27e679eaa3d620ab2950942e4b6d0e3",
-      "title": "Gemini, BTS collaboration on display at Las Vegas Sphere",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807003200320",
-      "published_date": "2026-08-07T02:01:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a6581c7e9dd10f8bd439bb480df196d0",
-      "title": "BLACKPINK to mark 10th anniv. with fan event in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807003000315",
-      "published_date": "2026-08-07T01:42:16Z",
       "category": "Local Events"
     }
   ]
