@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-09T11:32:57Z",
+  "generated_at": "2026-08-09T23:19:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5e362e2ae6b299850a60673c10a7186b",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260810000400320",
+      "published_date": "2026-08-09T21:56:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "56cb525afd74888084fd8102965e0f17",
+      "title": "North Korea’s new factories struggle as workers sent to mines",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-local-factories-idle-workers-mines/",
+      "published_date": "2026-08-09T20:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "57d5eda135c641aca531285a43fe2418",
+      "title": "Atletico Madrid coach Simeone ready to lean on Lee Kang-in's versatility",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809003600315",
+      "published_date": "2026-08-09T14:16:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8cae35d6cedb9fe3da5a76278076ef49",
+      "title": "Fans show up in droves to watch Lee Kang-in's Atletico Madrid debut",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809003300315",
+      "published_date": "2026-08-09T13:43:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "682975891a86e0043dfd2fec57aae3f3",
+      "title": "30,000-50,000 N. Koreans to be deployed in Russia: Zelenskyy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809002900315",
+      "published_date": "2026-08-09T11:11:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2e24b6e21a6007a890ed4235fb67ea04",
+      "title": "Gov't calls for better protection for vulnerable workers amid heat wave",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809002100315",
+      "published_date": "2026-08-09T06:54:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b9c7db3f78f4581c0440dfa8ef230a4a",
+      "title": "Retail sales index marks record drop in Q2 amid Homeplus fiasco",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809001900320",
+      "published_date": "2026-08-09T05:05:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "06fd46b99f02738578d066384a6262fe",
+      "title": "Food prices surge amid unprecedented heat wave",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809000600320",
+      "published_date": "2026-08-09T01:09:26Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d88f33d48e07cae1412816bb9555506f",
       "title": "(Yonhap Interview) 'Fundamental' overhaul of military service system vital for nat'l security: MMA chief",
@@ -104,73 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260807007500315",
       "published_date": "2026-08-07T06:53:05Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "1c354295706615c469bac253f7f6ceb3",
-      "title": "Lee names Ajou University professor to head state diplomatic academy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807006700315",
-      "published_date": "2026-08-07T06:36:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8e8c5613561bb74ef8e6cd56d1cc32c8",
-      "title": "Unification advisers say using N. Korea's official name is not new",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807006100315",
-      "published_date": "2026-08-07T06:32:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cec9ace6f638dfda175d56da3590efa8",
-      "title": "State auditor indicted in presidential office relocation case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807004800315",
-      "published_date": "2026-08-07T06:31:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a0d16b0fa5851ab4baa27203587a9724",
-      "title": "Lee calls on generals to help restore public trust in military after martial law imposition",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807005800315",
-      "published_date": "2026-08-07T06:12:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b68ef84c9fb9d043295cdcd560b49b40",
-      "title": "(LEAD) KOGAS Q2 net nearly quadruples on equity gains",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807005451320",
-      "published_date": "2026-08-07T06:09:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "327d7a20abbe655d61a0fe907b4a7167",
-      "title": "PPP launches disciplinary process against lawmakers over insensitive remarks on assault victim",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807005700315",
-      "published_date": "2026-08-07T06:02:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4a634cbdfe8330965fe35584d1431d2e",
-      "title": "Lee pledges to remedy damage caused by state violence",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807005300315",
-      "published_date": "2026-08-07T05:14:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b63aaf52164040f882fd9cffe0ea4768",
-      "title": "6 S. Korean activists booked over unauthorized Ukraine visit on N. Korean POWs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807004100315",
-      "published_date": "2026-08-07T02:55:50Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "e94f2c35b8b663db2db99ef61430b2fd",
+      "title": "North Korea fortifies its side of the DMZ, satellite images show",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-dmz-fortification-satellite/",
+      "published_date": "2026-08-09T22:47:00Z",
+      "category": "Military"
+    },
+    {
+      "id": "d9233396bab8c7f504fc561cc178a82f",
+      "title": "USFK air defense unit participates in recent U.S. missile defense exercise in Palau",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809003400315",
+      "published_date": "2026-08-09T13:52:44Z",
+      "category": "Military"
+    },
     {
       "id": "8d6556599fe21a6d4737a73e9d44efca",
       "title": "Defense ministry reaffirms commitment to swift integration of military academies",
@@ -314,25 +330,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260805000400315",
       "published_date": "2026-08-04T22:15:06Z",
       "category": "Military"
-    },
-    {
-      "id": "a70a2cf81e93c86e002fb39377f4b04e",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 5)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805000800315",
-      "published_date": "2026-08-04T22:01:06Z",
-      "category": "Military"
-    },
-    {
-      "id": "d42534e8bc61d8a81d6cf640d56a71c9",
-      "title": "Army nearly downed military drone during flight test: lawmaker",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804007300315",
-      "published_date": "2026-08-04T07:28:51Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "7686778bf31453258309fa153774257d",
+      "title": "Energy demand hits yearly high on continued heat wave",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809000900320",
+      "published_date": "2026-08-09T02:24:11Z",
+      "category": "Energy"
+    },
+    {
+      "id": "c25845019c0e59d5fc4231bbb970148a",
+      "title": "Study shows gap between ideal, actual number of children among S. Koreans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809000500315",
+      "published_date": "2026-08-09T00:53:15Z",
+      "category": "Energy"
+    },
     {
       "id": "77a58f0a7df701d1aa630061972ce21e",
       "title": "S. Korea says revised network act nondiscriminatory amid U.S. lawmakers' pushback",
@@ -475,22 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260804002600315",
       "published_date": "2026-08-04T01:23:36Z",
-      "category": "Energy"
-    },
-    {
-      "id": "31225d4430996587e7521ea5e17d3696",
-      "title": "(2nd LD) Consumer prices up 2.8 pct in July; oil price hike slows",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804001352320",
-      "published_date": "2026-08-04T00:11:46Z",
-      "category": "Energy"
-    },
-    {
-      "id": "9930d045a09abf07396366c0ceb789f1",
-      "title": "(LEAD) Consumer prices up 2.8 pct in July; oil price hike slows",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260804001351320",
-      "published_date": "2026-08-03T23:32:03Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,118 @@
   ],
   "Local Events": [
     {
+      "id": "c4ac69a8712ca432d1af230e2a927a01",
+      "title": "Baseball season to resume this week after heat-forced stoppage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260810000800315",
+      "published_date": "2026-08-09T23:14:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fee07cabd10cb2c9df1dd0de943daa8b",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260810000600320",
+      "published_date": "2026-08-09T21:57:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "46b7c92e7b4c2073df1f84299453bbe0",
+      "title": "(EDITORIAL from The Korea Times on Aug. 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260810000500320",
+      "published_date": "2026-08-09T21:57:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "51511be392d52d3126f3cf4eeb2ce92d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260810000200320",
+      "published_date": "2026-08-09T21:56:42Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cc5fa2f980ed55a3f98c9ebeca43d224",
+      "title": "Grateful Lee Kang-in vows to keep improving for Atletico Madrid, nat'l team",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809003500315",
+      "published_date": "2026-08-09T14:07:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "830c8f1d47759ac675e617f8d2c2ac11",
+      "title": "Man City beat Atletico Madrid to foil Lee Kang-in's debut in Seoul",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809003200315",
+      "published_date": "2026-08-09T13:11:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5662e4ad61ee2a9e585a84f7a49db9d7",
+      "title": "Ex-PM Kim wins Gangwon, Daegu-North Gyeongsang primaries in leadership election",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809002800315",
+      "published_date": "2026-08-09T10:32:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a5995ea3d57e2cf2ba16bc43be525a78",
+      "title": "Police search Hangang Park after bomb threat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809002600320",
+      "published_date": "2026-08-09T08:17:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c12509ebd96349048fd083c12f8eabd7",
+      "title": "Gov't commissions research to promote use of arctic route: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809002000320",
+      "published_date": "2026-08-09T05:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2705de6896f8d08c91beece27e0500ea",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809001700320",
+      "published_date": "2026-08-09T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "509d23a5bff97edecde83fc7a149af51",
+      "title": "S. Korea's tourism balance hits record surplus since pandemic: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809001100320",
+      "published_date": "2026-08-09T02:38:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8cb26edd93ddce808a7a3c38d6146c87",
+      "title": "Number of S. Koreans not eating kimchi on rise: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809001000315",
+      "published_date": "2026-08-09T02:28:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7c544cf6dde47ddd9373c4b80dc0bc38",
+      "title": "Nat'l health insurance runs deficit in Q1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809000800315",
+      "published_date": "2026-08-09T01:55:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "16ea4aebdb651b14ebb1f0f1d3cd4d76",
+      "title": "Police to launch national crackdown on young gangsters",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260809000700315",
+      "published_date": "2026-08-09T01:26:57Z",
+      "category": "Local Events"
+    },
+    {
       "id": "b80b18917ea3ebfdc069c6ed28c1f385",
       "title": "Ex-PM wins Jeju, Incheon party-member primaries in leadership race",
       "source": "Yonhap News Agency",
@@ -703,118 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260808001000315",
       "published_date": "2026-08-08T05:04:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dfa4448ef6513b769270a4dbe4db0929",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260808000900320",
-      "published_date": "2026-08-08T05:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "07462040888291e116afd4e87cdb031a",
-      "title": "Football association apologizes amid allegations over providing sexual entertainment for foreign referees",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260808000700315",
-      "published_date": "2026-08-08T02:42:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "35bd45f6920031c7c13def2149de531c",
-      "title": "'Spider-Man: Brand New Day' exceeds 5 mln ticket sales in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260808000600320",
-      "published_date": "2026-08-08T02:02:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "57680b6e307fabf2a20b7ddc57a8db40",
-      "title": "Scorching heat continues across nation; heavy rains forecast on eastern coast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260808000500315",
-      "published_date": "2026-08-08T02:01:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f96e1a6656fb6e37085566688d0a8e49",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260808000400315",
-      "published_date": "2026-08-08T00:04:57Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cc5246998d9855bc7cb1ce2d79cdbd11",
-      "title": "Police to transfer cases involving family members of police officers to other branches",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807010300315",
-      "published_date": "2026-08-07T09:28:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "baa37af6200584b758d89138c683f7af",
-      "title": "(URGENT) Lee designates Andong, 4 nearby towns as special disaster zones after heavy rains",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807010000315",
-      "published_date": "2026-08-07T08:58:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4fa3095e065c0a174b93f55b05bedfa2",
-      "title": "(LEAD) BLACKPINK to mark 10th anniv. with fan event in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807003051315",
-      "published_date": "2026-08-07T08:08:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4f3650ecbf550432895d55d9fd7f12be",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807008800315",
-      "published_date": "2026-08-07T08:00:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5778cb529c07b4f55fd716dbce2c7108",
-      "title": "(2nd LD) Temperatures above 40 C recorded in Seoul, 2 other cities",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807007552315",
-      "published_date": "2026-08-07T07:51:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cb526c9157720f99f333e04dd60d4e09",
-      "title": "(2nd LD) Seoul shares fall for 2nd day on foreign selling amid renewed Hormuz tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807006252320",
-      "published_date": "2026-08-07T07:33:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5d6eb3217015dd6ec2b9ed64e136ed7d",
-      "title": "(LEAD) Temperatures above 40 C recorded in Seoul, 2 other cities",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807007551315",
-      "published_date": "2026-08-07T07:14:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "26e39a2fef07efa9ab2d2b598bfe001c",
-      "title": "(LEAD) Seoul shares fall for 2nd day on foreign selling amid renewed Hormuz tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807006251320",
-      "published_date": "2026-08-07T06:55:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4011fc4457986b40f7e1e6c3e7cc09d6",
-      "title": "Seoul shares fall for 2nd day on foreign selling amid renewed Hormuz tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807006200320",
-      "published_date": "2026-08-07T06:38:43Z",
       "category": "Local Events"
     }
   ]
