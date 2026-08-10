@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-10T11:48:01Z",
+  "generated_at": "2026-08-10T23:24:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "a9c7cd7559c515baf780ab397febabff",
+      "title": "N. Korea slams Japan's defense paper as justification for military buildup",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811001000315",
+      "published_date": "2026-08-10T23:09:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b2b9394f10082f5419204899c357750a",
+      "title": "Donju now run many of North Korea’s state grain shops",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/donju-run-north-korea-grain-sales-offices/",
+      "published_date": "2026-08-10T17:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b573269fe757f35d442ba84879e09a1d",
+      "title": "KASA announces revision easing permit procedures for multiple rocket launches",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260810005700320",
+      "published_date": "2026-08-10T15:00:03Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "38f225c1d4a2834669d52a63b9672ae8",
       "title": "Unification Minister walks back push to call North Korea by its official name",
@@ -144,33 +168,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260810000400320",
       "published_date": "2026-08-09T21:56:58Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "56cb525afd74888084fd8102965e0f17",
-      "title": "North Korea’s new factories struggle as workers sent to mines",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-local-factories-idle-workers-mines/",
-      "published_date": "2026-08-09T20:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "57d5eda135c641aca531285a43fe2418",
-      "title": "Atletico Madrid coach Simeone ready to lean on Lee Kang-in's versatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260809003600315",
-      "published_date": "2026-08-09T14:16:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8cae35d6cedb9fe3da5a76278076ef49",
-      "title": "Fans show up in droves to watch Lee Kang-in's Atletico Madrid debut",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260809003300315",
-      "published_date": "2026-08-09T13:43:01Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "156438d800beb24f3c9c90087d0ee06c",
+      "title": "U.S. military bases in Pacific 'highly vulnerable' to N. Korean, Chinese missiles, drones: expert",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811000300315",
+      "published_date": "2026-08-10T18:39:50Z",
+      "category": "Military"
+    },
+    {
+      "id": "576582e34a950de2f8f72cb3f2656048",
+      "title": "Pentagon official renews calls for allies' greater defense contributions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811000200315",
+      "published_date": "2026-08-10T16:43:12Z",
+      "category": "Military"
+    },
+    {
+      "id": "54a5b1cca641f6e6f8e7c9321beb2765",
+      "title": "Seoul cautious about Ukraine's defense request amid claims more N. Korean troops being sent to Russia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260810008900315",
+      "published_date": "2026-08-10T12:43:14Z",
+      "category": "Military"
+    },
     {
       "id": "8e4d0279a7b295a58825a7272ccc96de",
       "title": "US-ROK drills to counter North Korean threats shaped by lessons from Ukraine war",
@@ -305,30 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260806005700315",
       "published_date": "2026-08-06T06:15:36Z",
-      "category": "Military"
-    },
-    {
-      "id": "7dfb6de937fe9cea5019ed7765376f85",
-      "title": "(LEAD) LIG D&A Q2 net down 24.4 pct on increased financing costs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806005600320",
-      "published_date": "2026-08-06T06:09:38Z",
-      "category": "Military"
-    },
-    {
-      "id": "be81a689a2717f5caaea2b778b5bcecd",
-      "title": "U.S. Marines stage live-fire drills involving FPV drones for 1st time in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806002100315",
-      "published_date": "2026-08-06T03:00:01Z",
-      "category": "Military"
-    },
-    {
-      "id": "928a1f959fb50c532c54717752610295",
-      "title": "Defense company official arrested for bribing DAPA employee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806003800315",
-      "published_date": "2026-08-06T02:42:02Z",
       "category": "Military"
     }
   ],
@@ -658,6 +658,46 @@
   ],
   "Local Events": [
     {
+      "id": "c04a46f726ba3aa4b8740633632e1c46",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811000900315",
+      "published_date": "2026-08-10T22:09:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3f66cbe5adc6aa765b17c2a540757f36",
+      "title": "(EDITORIAL from Korea Times on Aug. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811000800315",
+      "published_date": "2026-08-10T22:08:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "82f123b1286a592a7ce21b679eefdd94",
+      "title": "(EDITORIAL from Korea Herald on Aug. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811000700315",
+      "published_date": "2026-08-10T22:08:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8b7397e9a66021022ae831017cc53f7c",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811000600315",
+      "published_date": "2026-08-10T22:00:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "07892e8465bf18f3313405828768139c",
+      "title": "Trump says U.S. has mine-swept 'entire' Strait of Hormuz, claims strait is open",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811000500315",
+      "published_date": "2026-08-10T21:14:31Z",
+      "category": "Local Events"
+    },
+    {
       "id": "8fefaf733dfe35b4d5b270a87e15f3f8",
       "title": "Police to strengthen whistleblower protections following investigative authority reform",
       "source": "Yonhap News Agency",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260810005400315",
       "published_date": "2026-08-10T04:57:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "440b7cf40b60ea9dc5e84402f1a16c83",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810004700320",
-      "published_date": "2026-08-10T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9a4581a3dca5bdc9eaf62f3108f56e3f",
-      "title": "Seoul shares pare gains late Mon. morning on foreign selling",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810004200320",
-      "published_date": "2026-08-10T02:37:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c10445a8b1dc255b75849b66b6c5b78f",
-      "title": "2 S. Korean teams finish among top 3 in int'l hacking competition",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810004100320",
-      "published_date": "2026-08-10T02:31:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c965f166f9a39a0ba24b3c12b80e4aa1",
-      "title": "Seventeen's Seungkwan, Dino to enlist together",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810003800315",
-      "published_date": "2026-08-10T01:54:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "af384c677437248857b945cedca1f31e",
-      "title": "Disabled activists' protest temporarily disrupts Yongsan Station",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810003600315",
-      "published_date": "2026-08-10T01:42:06Z",
       "category": "Local Events"
     }
   ]
