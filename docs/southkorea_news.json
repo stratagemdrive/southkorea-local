@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-11T11:44:13Z",
+  "generated_at": "2026-08-11T23:28:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "66d947bf2a17db72af95f0f55ceef9bb",
+      "title": "Presidential office labels N. Korea's missile launch as provocation, urges immediate halt",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001800315",
+      "published_date": "2026-08-11T23:15:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b41c0839939d4d7134efea0795ba8df8",
+      "title": "N. Korea sends condolences over death of ex-Lao parliament president",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001600315",
+      "published_date": "2026-08-11T22:59:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3917690839ee9c660d8c547c2e2dcd24",
+      "title": "S. Korea, U.S., 38 other countries call for advance notice of ICBM, SLBM launches in joint statement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001300315",
+      "published_date": "2026-08-11T22:22:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "014183fba4f69a7e30c5da9f510434a6",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001200315",
+      "published_date": "2026-08-11T22:04:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ff40dcb34decbf1070c8120c1f84a0e6",
+      "title": "N. Korea fires unidentified projectile eastward: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812000700315",
+      "published_date": "2026-08-11T21:19:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d8d5791c60c172625f960aee65a4677a",
+      "title": "(URGENT) N. Korea fires unidentified projectile eastward: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812000600315",
+      "published_date": "2026-08-11T21:08:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "95891cfd673435196c133af48adc64e3",
+      "title": "Coffee shops become NK’s heat wave refuge",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-coffee-shops-heat-wave-refuge/",
+      "published_date": "2026-08-11T20:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6ddd2c0fc90d2955b05f5c65b2a91e45",
+      "title": "North Korea quietly hikes phone prices at the border",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-phone-price-hike-border-provinces/",
+      "published_date": "2026-08-11T17:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ac4d0ed360ae08dea958f51771fab483",
+      "title": "Expert cautions against U.S. trade concerns defining entire relationship with Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812000200315",
+      "published_date": "2026-08-11T16:58:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "78eed9e179e73f9807dff7ff1fa80bb5",
+      "title": "Sick and denied rest, detainees beaten in North Korean heat wave",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-labor-training-camp-heat-wave-beatings/",
+      "published_date": "2026-08-11T14:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4c11c24c825f8663787eb5a627cc92b3",
+      "title": "9 Unification Church officials indicted over alleged illegal political donations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811010600315",
+      "published_date": "2026-08-11T12:12:54Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "0def5e7ee96bd3b8a6f027120e4ff182",
       "title": "Teams gear up for fresh starts as baseball season resumes following heat-induced break",
@@ -80,97 +168,49 @@
       "url": "https://www.nknews.org/2026/08/russia-cant-fight-ukraine-without-north-koreas-help-zelensky/",
       "published_date": "2026-08-11T03:51:26Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "1bd163a1f4a3b51f612d1143c2dae47c",
-      "title": "(LEAD) Lee calls for strategic investment in future industries to secure global leadership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811003351315",
-      "published_date": "2026-08-11T02:31:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "56082e5c358c80b40ea37230424500b9",
-      "title": "(LEAD) N. Korea slams Japan's defense paper as justification for military buildup",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811001051315",
-      "published_date": "2026-08-11T02:05:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4fbc9cae5e1e606e499d58e644158b3c",
-      "title": "S. Korea to launch system to automatically pay lottery prizes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811002700320",
-      "published_date": "2026-08-11T02:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "00207f07fa4e2a8b9a90f88149ca9161",
-      "title": "Lee calls for strategic investment in future industries to secure global leadership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811003300315",
-      "published_date": "2026-08-11T01:49:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8159419df0479daa294cd72282933fa5",
-      "title": "(LEAD) Fire at chemical warehouse in Pyeongtaek comes under initial control",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811001151315",
-      "published_date": "2026-08-11T01:28:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e64a13ab8a4d895859090bef0fbc00e7",
-      "title": "Hanwha makes up to $1.2 bln bid for Austal's U.S. unit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811003100320",
-      "published_date": "2026-08-11T01:27:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7d932be77b6bd1c4b1a1ca7f7c3f05cb",
-      "title": "Foreigners' credit card spending surges nearly 10-fold in June from 2023 level: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811001300320",
-      "published_date": "2026-08-10T23:38:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a9c7cd7559c515baf780ab397febabff",
-      "title": "N. Korea slams Japan's defense paper as justification for military buildup",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811001000315",
-      "published_date": "2026-08-10T23:09:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b2b9394f10082f5419204899c357750a",
-      "title": "Donju now run many of North Korea’s state grain shops",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/donju-run-north-korea-grain-sales-offices/",
-      "published_date": "2026-08-10T17:19:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b573269fe757f35d442ba84879e09a1d",
-      "title": "KASA announces revision easing permit procedures for multiple rocket launches",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810005700320",
-      "published_date": "2026-08-10T15:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "38f225c1d4a2834669d52a63b9672ae8",
-      "title": "Unification Minister walks back push to call North Korea by its official name",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/unification-minister-walks-back-push-to-call-north-korea-by-its-official-name/",
-      "published_date": "2026-08-10T09:25:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "fb14e6f98837a465f8d937016be3dea6",
+      "title": "(URGENT) N. Korea's latest ballistic missile flew more than 700 km: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001900315",
+      "published_date": "2026-08-11T23:13:27Z",
+      "category": "Military"
+    },
+    {
+      "id": "dc5569e492f4aed81938b9217b587ec3",
+      "title": "(LEAD) N. Korea fires at least 1 ballistic missile toward East Sea: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812000751315",
+      "published_date": "2026-08-11T22:24:10Z",
+      "category": "Military"
+    },
+    {
+      "id": "77eb1b28a0041da3263812d81515154b",
+      "title": "(EDITORIAL from Korea Times on Aug. 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001100315",
+      "published_date": "2026-08-11T22:04:00Z",
+      "category": "Military"
+    },
+    {
+      "id": "640f5ff4b155b1bc25ca3bbb5453b448",
+      "title": "North Korea appears to conduct second missile test in a week: Japan",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/north-korea-appears-to-conduct-second-missile-test-in-a-week-japan/",
+      "published_date": "2026-08-11T22:00:24Z",
+      "category": "Military"
+    },
+    {
+      "id": "5c110bffdf26e4f3ba71275935e3a3e3",
+      "title": "(URGENT) N. Korea fired at least 1 ballistic missile from Wonsan area: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812000900315",
+      "published_date": "2026-08-11T21:58:57Z",
+      "category": "Military"
+    },
     {
       "id": "1a3fe9fe002cb235dc3fc09431c30eaf",
       "title": "S. Korea, U.S. Army chiefs discuss strengthening combined defense posture",
@@ -290,49 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260810004500320",
       "published_date": "2026-08-10T03:00:02Z",
       "category": "Military"
-    },
-    {
-      "id": "e94f2c35b8b663db2db99ef61430b2fd",
-      "title": "North Korea fortifies its side of the DMZ, satellite images show",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-dmz-fortification-satellite/",
-      "published_date": "2026-08-09T22:47:00Z",
-      "category": "Military"
-    },
-    {
-      "id": "d9233396bab8c7f504fc561cc178a82f",
-      "title": "USFK air defense unit participates in recent U.S. missile defense exercise in Palau",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260809003400315",
-      "published_date": "2026-08-09T13:52:44Z",
-      "category": "Military"
-    },
-    {
-      "id": "8d6556599fe21a6d4737a73e9d44efca",
-      "title": "Defense ministry reaffirms commitment to swift integration of military academies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807007900315",
-      "published_date": "2026-08-07T07:26:19Z",
-      "category": "Military"
-    },
-    {
-      "id": "dbb18f131c1f97064dbd5afd80d86dbb",
-      "title": "PPP lawmakers submit resolution calling for halt to military academy integration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807004300315",
-      "published_date": "2026-08-07T02:52:42Z",
-      "category": "Military"
-    },
-    {
-      "id": "1455f18158858479274e5dd699271d87",
-      "title": "U.S. military says it is aware of N.K. missile launch, reaffirms defense commitment to allies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260806010600315",
-      "published_date": "2026-08-06T14:57:54Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "4155feb883b22b065bb362dc6e36d2df",
+      "title": "KBO reaches 9 mln fans in fewest games ever",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811010900315",
+      "published_date": "2026-08-11T14:12:53Z",
+      "category": "Energy"
+    },
     {
       "id": "76b2f314326f0baf2738e6d08c21a833",
       "title": "(2nd LD) Seoul shares end higher for 2nd day on chip gains",
@@ -480,6 +488,30 @@
   ],
   "Economy": [
     {
+      "id": "01f1c629d78714c0e2787d969d9d4d3d",
+      "title": "(LEAD) S. Korea adds 108,000 new jobs in July; manufacturing employment remains weak",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001551320",
+      "published_date": "2026-08-11T23:14:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "63a8593f113fe294bc2bbeecedb1de4b",
+      "title": "S. Korea adds 108,000 new jobs in July; manufacturing employment remains weak",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001500320",
+      "published_date": "2026-08-11T23:00:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6a5a34fc91dde71715722803c0490bbb",
+      "title": "(URGENT) S. Korea adds 108,000 new jobs in July; manufacturing remains weak",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001400320",
+      "published_date": "2026-08-11T23:00:02Z",
+      "category": "Economy"
+    },
+    {
       "id": "0912dfff2c50b574f3b37a7f981f238d",
       "title": "S. Korean won slightly gains against U.S. dollar",
       "source": "Yonhap News Agency",
@@ -614,33 +646,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260807008600320",
       "published_date": "2026-08-07T07:59:55Z",
       "category": "Economy"
-    },
-    {
-      "id": "c7ec3f50f457e9eda00720fb1449d25b",
-      "title": "S. Korean won strengthens on dollar selling by exporters",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807008000320",
-      "published_date": "2026-08-07T07:24:44Z",
-      "category": "Economy"
-    },
-    {
-      "id": "650214296113b9b86db7d9cf5863cbf6",
-      "title": "(4th LD) Trump signs proclamation imposing 15 pct tariff on polysilicon derivative products",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807000355315",
-      "published_date": "2026-08-07T07:18:03Z",
-      "category": "Economy"
-    },
-    {
-      "id": "fddd0ea17ced1ef2db70c9dffc28821e",
-      "title": "(URGENT) Seoul's northern ward of Nowon records 40.2 C",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807006800315",
-      "published_date": "2026-08-07T06:35:15Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "bb6c2844b996a1ba450930cd563908d8",
+      "title": "(EDITORIAL from Korea Herald on Aug. 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812001000315",
+      "published_date": "2026-08-11T22:03:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9aa1ac7c7ce20a3c25bcc5bc93df1b27",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812000800315",
+      "published_date": "2026-08-11T21:58:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "40907f796fb2c5250a540460cf8fdb91",
+      "title": "FBI investigating N. Korean IT staffer working for U.S. gov't agency: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260812000300315",
+      "published_date": "2026-08-11T18:21:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8b90e48b9a2a91442a0f99a29f26f59c",
+      "title": "Firefighting assets to be mobilized for drought-hit southeastern province",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811010800315",
+      "published_date": "2026-08-11T13:57:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8530be550caa2e3a3c08ec11a2c8e4e3",
+      "title": "Unions of 3 state-run banks stage large-scale rally against potential relocation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811010700315",
+      "published_date": "2026-08-11T13:46:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "599ccc2375c1c27ffd23f000dd12915b",
+      "title": "(2nd LD) Fire at chemical warehouse in Pyeongtaek fully extinguished",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260811001152315",
+      "published_date": "2026-08-11T13:31:07Z",
+      "category": "Local Events"
+    },
     {
       "id": "11bdcdb38b6a5c734948531e4552e9d1",
       "title": "Expanded election for football federation chief to be held this year",
@@ -751,54 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260811004800315",
       "published_date": "2026-08-11T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "598c8cdd32947cf5bdc827890e607c7b",
-      "title": "Seoul shares turn higher late Tuesday morning on tech gains",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811004400320",
-      "published_date": "2026-08-11T02:43:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fe307957c6ebedd32c1ec2482c896c18",
-      "title": "Ex-PM Kim leads former DP leaders in party leadership race: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811004300315",
-      "published_date": "2026-08-11T02:31:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6d597f93019bca79e6eaad34c91efadd",
-      "title": "(LEAD) Police raid Korea Airports Corp., transport ministry over Jeju Air crash",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811002951315",
-      "published_date": "2026-08-11T02:23:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e44498e40a70954d6f5b799ba45ded0f",
-      "title": "Paris Baguette opens 1st outlet in Laos",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811004200320",
-      "published_date": "2026-08-11T02:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e81244834391a06e87f939369368972f",
-      "title": "S. Korea, U.S. issue joint advisory on 'Gunra' ransomware attacks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811003400315",
-      "published_date": "2026-08-11T01:51:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e2c2f76eb51b67b6df0f82e04706cb8f",
-      "title": "(LEAD) CJ Cheiljedang swings to Q2 loss on non-operating losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811001951320",
-      "published_date": "2026-08-11T01:37:39Z",
       "category": "Local Events"
     }
   ]
