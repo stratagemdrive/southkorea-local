@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-11T23:28:25Z",
+  "generated_at": "2026-08-12T11:49:16Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "6cfc63e92303b367108d191e6f4a4359",
+      "title": "Seoul’s nuclear submarine plans could spark arms race, North Korea warns",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/seouls-nuclear-submarine-plans-could-spark-arms-race-north-korea-warns/",
+      "published_date": "2026-08-12T09:36:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "74eed5537afcdf058c4562bd9a8fe04e",
+      "title": "Buried missile facilities, mystery telecom site and North Korea’s naval buildup",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/buried-missile-facilities-mystery-telecom-site-and-north-koreas-naval-buildup/",
+      "published_date": "2026-08-12T08:19:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "98631d0696b015ee4faddb77f7baf24a",
+      "title": "South Korean experts debate merits of changing North Korea’s name to DPRK",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/south-korean-experts-debate-merits-of-changing-north-koreas-name-to-dprk/",
+      "published_date": "2026-08-12T07:11:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e730627a4c1b007c9b5386ee404fdfb0",
+      "title": "Ukraine blames North Korean missiles for killing 7 in Russia’s latest attack",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/ukraine-blames-north-korean-missiles-for-killing-7-in-russias-latest-attack/",
+      "published_date": "2026-08-12T03:07:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f92b4c0d05f51d7b31f16e178da7d151",
+      "title": "North Korea issues heat wave rules as deaths surpass 100",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-cabinet-heat-wave-guidelines-deaths/",
+      "published_date": "2026-08-12T00:13:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "66d947bf2a17db72af95f0f55ceef9bb",
       "title": "Presidential office labels N. Korea's missile launch as provocation, urges immediate halt",
@@ -128,46 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260811008200320",
       "published_date": "2026-08-11T07:26:01Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "a65db441a647ca4fa368b96f3994b274",
-      "title": "Rare flower discovered on mountain near North Korean border",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/rare-flower-discovered-on-mountain-near-north-korean-border/",
-      "published_date": "2026-08-11T07:15:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dd751605942e47d17e3c48beac879e78",
-      "title": "Ex-KTV chief indicted over alleged insurrection propaganda",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811007200315",
-      "published_date": "2026-08-11T06:46:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "757d192edd94df11fca633325f010417",
-      "title": "(2nd LD) Lee calls for strategic investment in future industries to secure global leadership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811003352315",
-      "published_date": "2026-08-11T05:13:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0fbe030f12d2817032c64a1573fd0b01",
-      "title": "Actor Ha Young apologizes over controversy surrounding family's pro-Japanese past",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811005200315",
-      "published_date": "2026-08-11T04:59:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "78dc3b76e5d42e4e92e980a0a3757109",
-      "title": "Russia can’t fight Ukraine without North Korea’s help: Zelensky",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/russia-cant-fight-ukraine-without-north-koreas-help-zelensky/",
-      "published_date": "2026-08-11T03:51:26Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -198,6 +198,14 @@
     {
       "id": "640f5ff4b155b1bc25ca3bbb5453b448",
       "title": "North Korea appears to conduct second missile test in a week: Japan",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/north-korea-appears-to-conduct-second-missile-test-in-a-week-japan/",
+      "published_date": "2026-08-11T22:00:24Z",
+      "category": "Military"
+    },
+    {
+      "id": "08ce3e773908843f64941530d1138a93",
+      "title": "North Korea conducts 2nd missile test in a week as US-ROK prep for joint drills",
       "source": "NK News",
       "url": "https://www.nknews.org/2026/08/north-korea-appears-to-conduct-second-missile-test-in-a-week-japan/",
       "published_date": "2026-08-11T22:00:24Z",
@@ -322,14 +330,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260810005000315",
       "published_date": "2026-08-10T05:01:34Z",
       "category": "Military"
-    },
-    {
-      "id": "320bf86abd99b58cf0ca932855bb8ec2",
-      "title": "S. Korean, Swedish nuclear watchdogs hold meeting in Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810004500320",
-      "published_date": "2026-08-10T03:00:02Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -452,41 +452,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260806001900320",
       "published_date": "2026-08-06T01:00:59Z",
       "category": "Energy"
-    },
-    {
-      "id": "d3135bce8bf907ff54a91d6da32af1c9",
-      "title": "62.5 pct of S. Koreans say prosecution's supplementary investigation rights necessary: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805008400315",
-      "published_date": "2026-08-05T07:42:41Z",
-      "category": "Energy"
-    },
-    {
-      "id": "b8af469185784b77c62cf98477165c21",
-      "title": "Chip startup FuriosaAI to participate in AI data center project in Sweden",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805006400320",
-      "published_date": "2026-08-05T05:24:23Z",
-      "category": "Energy"
-    },
-    {
-      "id": "cd94636b957c51e1d7b6d716c80f4720",
-      "title": "Tesla tops imported car sales for 6th consecutive month in July",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805003400320",
-      "published_date": "2026-08-05T02:05:43Z",
-      "category": "Energy"
-    },
-    {
-      "id": "a3a557e855c6274e3b9c9ccb601844b6",
-      "title": "(URGENT) Police raid Starbucks over controversial promotional event",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260805002400315",
-      "published_date": "2026-08-05T00:15:19Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "d916d37429d862a65083235e13017715",
+      "title": "40 North Korean women offered for hire as kimbap roll cooks, laborers in Russia",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/40-north-korean-women-offered-for-hire-as-kimbap-roll-cooks-laborers-in-russia/",
+      "published_date": "2026-08-12T08:10:25Z",
+      "category": "Economy"
+    },
     {
       "id": "01f1c629d78714c0e2787d969d9d4d3d",
       "title": "(LEAD) S. Korea adds 108,000 new jobs in July; manufacturing employment remains weak",
@@ -637,14 +613,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260810004300320",
       "published_date": "2026-08-10T02:39:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "28ccb4e34d21f6dead9fddd4886a37ff",
-      "title": "Sk hynix to invest 54.3 tln won in Yongin's Y2 fab, Cheongju's M17 fab",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260807008600320",
-      "published_date": "2026-08-07T07:59:55Z",
       "category": "Economy"
     }
   ],
