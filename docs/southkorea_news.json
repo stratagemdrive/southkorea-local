@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-13T11:49:10Z",
+  "generated_at": "2026-08-13T23:30:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "a33a4db36979dd6fb352d102f43dd90e",
+      "title": "N. Korea warns of 'new level of deterrent' ahead of key S. Korea-U.S. military drills",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814001100315",
+      "published_date": "2026-08-13T23:08:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f030e86f2ea2f7d76ed8856a398967c7",
+      "title": "Trump gov't announces new tariffs on drones, including 15 pct levy on S. Korea, Japan, others",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814000900315",
+      "published_date": "2026-08-13T22:15:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fc1d170592a8eda4fd9daba6913006a5",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814000800315",
+      "published_date": "2026-08-13T22:03:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "246423291d4dd693caeab1e5139af716",
+      "title": "N. Korea's Kim could seek renewed summitry with Trump after U.S. midterm elections: expert",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814000200315",
+      "published_date": "2026-08-13T18:01:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e24858067550025fd118c06dccf253fa",
+      "title": "S. Korean ambassador to China mourns death of ex-Chinese Premier Zhu Rongji",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260813011700320",
+      "published_date": "2026-08-13T14:23:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "16f10482dde874cc72a8cc4f0502fe3e",
+      "title": "Bill Gates in S. Korea to discuss cooperation in next-generation nuclear reactors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260813011600315",
+      "published_date": "2026-08-13T13:53:36Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ba9b983649e8d1eb13bcadf370bfedc3",
       "title": "Blacklisted North Korean oil firm defrauded of $366K in gasoline deal in Russia",
@@ -120,57 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260813006400315",
       "published_date": "2026-08-13T04:50:40Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "babcf32b2c56620ddc344429a6a8eafa",
-      "title": "LG Energy Solution's production facility utilization rate rebounds in H1",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813004800320",
-      "published_date": "2026-08-13T02:46:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "19da3510e19b3e25ec014559f307a57a",
-      "title": "Lee reportedly holds golf outings with senior opposition lawmakers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813004600315",
-      "published_date": "2026-08-13T02:39:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c9b64318ee7d9c903ea8b1b8c9977ccc",
-      "title": "(LEAD) Tax agency launches probe into KB Kookmin Bank: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813004251320",
-      "published_date": "2026-08-13T02:36:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5da1f845fb407148929c623c3c9ebe0e",
-      "title": "Tax agency launches probe into KB Kookmin Bank: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813004200320",
-      "published_date": "2026-08-13T02:10:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8fce3affc2306b1a27b4ffc6089abfa9",
-      "title": "KAI, Hyundai Rotem to team up on long-range air-to-air missiles for KF-21",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813002800320",
-      "published_date": "2026-08-13T00:23:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "692bacdca4a7e6631bbda912db3b37d6",
-      "title": "Gov't to announce details on job creation plan for youths",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813002700320",
-      "published_date": "2026-08-13T00:18:31Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "293f98ab59491dc3528cf2407890de7f",
+      "title": "(EDITORIAL from Korea Times on Aug. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814000700315",
+      "published_date": "2026-08-13T22:03:05Z",
+      "category": "Military"
+    },
     {
       "id": "12fe92a940c5f86e26275b4cb8e097d1",
       "title": "Defense minister stresses 'immediate' readiness after arms protocol lapse",
@@ -321,14 +329,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/08/north-korea-appears-to-conduct-second-missile-test-in-a-week-japan/",
       "published_date": "2026-08-11T22:00:24Z",
-      "category": "Military"
-    },
-    {
-      "id": "5c110bffdf26e4f3ba71275935e3a3e3",
-      "title": "(URGENT) N. Korea fired at least 1 ballistic missile from Wonsan area: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812000900315",
-      "published_date": "2026-08-11T21:58:57Z",
       "category": "Military"
     }
   ],
@@ -488,6 +488,46 @@
   ],
   "Economy": [
     {
+      "id": "369758bef469872992615dffd05a3dc5",
+      "title": "(EDITORIAL from Korea Herald on Aug. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814000600315",
+      "published_date": "2026-08-13T22:02:50Z",
+      "category": "Economy"
+    },
+    {
+      "id": "85b869233b06f75018b901b253f3796e",
+      "title": "Import prices fall for 2nd month in July on oil prices decline, stronger won",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260813009300320",
+      "published_date": "2026-08-13T21:00:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5e8b2fdc14aa562ef2988d0209b372c3",
+      "title": "(2nd LD) U.S. flags S. Korea, Japan, EU, others over transshipment risks involving China-linked goods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260813011352315",
+      "published_date": "2026-08-13T13:51:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "66091027057f6804d03fe587cb979660",
+      "title": "(LEAD) U.S. flags S. Korea, Japan, EU, others over transshipment risks involving China-linked goods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260813011351315",
+      "published_date": "2026-08-13T13:25:59Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c8833150affa690d21d46051c1235ced",
+      "title": "Korea Investment Holdings named preferred bidder for KDB Life Insurance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260813011400320",
+      "published_date": "2026-08-13T12:00:22Z",
+      "category": "Economy"
+    },
+    {
       "id": "c1fc8fa032cf82c00f669802e7fd2e37",
       "title": "U.S. flags S. Korea, Japan, EU, others over transshipment risks involving China-linked goods",
       "source": "Yonhap News Agency",
@@ -606,49 +646,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260812001551320",
       "published_date": "2026-08-11T23:14:57Z",
       "category": "Economy"
-    },
-    {
-      "id": "63a8593f113fe294bc2bbeecedb1de4b",
-      "title": "S. Korea adds 108,000 new jobs in July; manufacturing employment remains weak",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812001500320",
-      "published_date": "2026-08-11T23:00:06Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6a5a34fc91dde71715722803c0490bbb",
-      "title": "(URGENT) S. Korea adds 108,000 new jobs in July; manufacturing remains weak",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812001400320",
-      "published_date": "2026-08-11T23:00:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0912dfff2c50b574f3b37a7f981f238d",
-      "title": "S. Korean won slightly gains against U.S. dollar",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811008400320",
-      "published_date": "2026-08-11T07:45:58Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c4c46daafe1532277e1986ef0342ca56",
-      "title": "BOK expected to deliver 2nd rate hike to combat inflationary pressure: BOK senior deputy gov.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811006400320",
-      "published_date": "2026-08-11T06:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0506b1191a0a1c4e9d48f77eabc4f12d",
-      "title": "S. Korea's coffee market estimated at 3.7 tln won in 2024: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811006500320",
-      "published_date": "2026-08-11T05:49:42Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "cee80e41c175dc96fdc9ff9e55014fba",
+      "title": "Trump signs memo permitting foreign shipbuilders to build up to 2 U.S. ships in their shipyards",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814001200315",
+      "published_date": "2026-08-13T23:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "beacf1a1d24511ee6cc0d59c87d586d7",
+      "title": "(URGENT) Trump signs memo temporarily permitting foreign shipbuilders to build 2 ships in their shipyards",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814001000315",
+      "published_date": "2026-08-13T22:15:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "70bbffd6954de512eea598e4e8864aef",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814000500315",
+      "published_date": "2026-08-13T22:02:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bb40e30400995151d53dad81476ced91",
+      "title": "(URGENT) Trump signs proclamation to impose 15 pct on drones, components from S. Korea, Japan, others",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814000400315",
+      "published_date": "2026-08-13T21:32:58Z",
+      "category": "Local Events"
+    },
     {
       "id": "a71945dc12356540299d4bab2d39fb4c",
       "title": "Safety issues at football stadium prompts match relocation",
@@ -775,38 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260813001000320",
       "published_date": "2026-08-13T05:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a50e50f82d90bb6159946466f0acce96",
-      "title": "Milwaukee Brewers sign S. Korean high school player",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813006600315",
-      "published_date": "2026-08-13T04:47:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d0681e68a8a4abe8536437d972a0a9fb",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813006100320",
-      "published_date": "2026-08-13T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7690f12c8cbdb2e6ce13a973dcaf54b1",
-      "title": "(LEAD) Gov't aims to supply over 230,000 additional homes in Seoul metropolitan area to tame housing prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813003351320",
-      "published_date": "2026-08-13T04:29:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9788e8530bcf1270f491b87eec49810d",
-      "title": "Gov't aims to supply over 230,000 additional homes in Seoul metropolitan area to tame housing prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813003300320",
-      "published_date": "2026-08-13T03:00:16Z",
       "category": "Local Events"
     }
   ]
