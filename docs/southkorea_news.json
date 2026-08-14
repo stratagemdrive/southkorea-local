@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-14T11:44:50Z",
+  "generated_at": "2026-08-14T23:11:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "098baa46e1d1eaa3617d1bae79b6f6cb",
+      "title": "North Korea codifies soil pollution law, but enforcement remains in doubt",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-soil-pollution-prevention-law/",
+      "published_date": "2026-08-14T14:34:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d3072eff16af8fd5534056a5356a375b",
       "title": "(LEAD) Lee reiterates support for four-year, two-term presidential system",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260814003400315",
       "published_date": "2026-08-14T03:23:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "337ee4dac108cfe19b48e7d58ac2809a",
-      "title": "Money supply continues to rise in June on gains in deposits",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814002400320",
-      "published_date": "2026-08-14T03:00:06Z",
       "category": "Diplomacy"
     }
   ],
@@ -488,6 +488,30 @@
   ],
   "Economy": [
     {
+      "id": "5f6fbbd943cf16e56b1657a3c83197c4",
+      "title": "SK Group chairman again appeals divorce suit to Supreme Court",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814011800320",
+      "published_date": "2026-08-14T15:02:12Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ba989053663e7e08f99381092099ff8a",
+      "title": "(URGENT) SK Group chief appeals divorce ruling again to Supreme Court",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814011700320",
+      "published_date": "2026-08-14T15:00:53Z",
+      "category": "Economy"
+    },
+    {
+      "id": "211baaee59e6bb128c453acce99bde6e",
+      "title": "(LEAD) HD Hyundai, Hyundai E&C, TerraPower to collaborate to tap into U.S. SMR market",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814010151320",
+      "published_date": "2026-08-14T11:59:45Z",
+      "category": "Economy"
+    },
+    {
       "id": "17d1a30cf8eab7fc3393057c9b055037",
       "title": "Samsung chairman remains unpaid; SK Group chief receives 1.75 bln won in H1",
       "source": "Yonhap News Agency",
@@ -622,33 +646,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260813007000320",
       "published_date": "2026-08-13T07:00:01Z",
       "category": "Economy"
-    },
-    {
-      "id": "7b7cc7a6b7274ca9392ece28a036bba4",
-      "title": "Auto exports set new record, rising 7 pct in July",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813005100320",
-      "published_date": "2026-08-13T02:58:55Z",
-      "category": "Economy"
-    },
-    {
-      "id": "306a7ddf32dd4dad78b31db014b09ddc",
-      "title": "Naver invests in U.S. startup developing wave-powered AI data centers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813004700320",
-      "published_date": "2026-08-13T02:39:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "615940b6a06e3825635a86c254c13faf",
-      "title": "BOK holds US$250 mln in U.S. gold ETF, 1st gold investment in 13 yrs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813003200320",
-      "published_date": "2026-08-13T01:01:30Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "9c6fe0467c0a4979085739bb44a671f4",
+      "title": "(LEAD) Trump says he will declare Strait of Hormuz U.S. territory 'pretty soon'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000351315",
+      "published_date": "2026-08-14T21:03:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "48264118f46dac152755f33567d95fc9",
+      "title": "Trump says he will declare Strait of Hormuz U.S. territory 'pretty soon'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000300315",
+      "published_date": "2026-08-14T20:28:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1d5c6794d86ec090d8e402f5e63e3380",
+      "title": "Rubio calls S. Korea 'indispensable partner' in Liberation Day message",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000200315",
+      "published_date": "2026-08-14T17:29:35Z",
+      "category": "Local Events"
+    },
     {
       "id": "b0d8f3a6cf7fb1650d428d9bd392ff08",
       "title": "Justice minister seeks discipline for two prosecutors over courtroom walkout",
@@ -783,30 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260814004400320",
       "published_date": "2026-08-14T02:34:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6b8c117e94174dfb4c4a63b6367a2a7b",
-      "title": "Seoul shares pare earlier gains late Fri. morning",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814004500320",
-      "published_date": "2026-08-14T02:30:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4c4caff35c826160d0f808cf5577905a",
-      "title": "PPP slams gov't housing supply plan as lacking concrete measures",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814003900315",
-      "published_date": "2026-08-14T02:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e21f1a7c70da64f793a7f5c82b6b98e7",
-      "title": "Chief regulator vows to keep vigilant over household debts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814002800320",
-      "published_date": "2026-08-14T01:40:01Z",
       "category": "Local Events"
     }
   ]
