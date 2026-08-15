@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-15T11:21:23Z",
+  "generated_at": "2026-08-15T23:10:25Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -650,6 +650,14 @@
   ],
   "Local Events": [
     {
+      "id": "746546c733f09d193bdc20df53ea582b",
+      "title": "Trump posts photo with N.K. leader Kim, says he, Kim 'get along great'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816000200315",
+      "published_date": "2026-08-15T19:25:02Z",
+      "category": "Local Events"
+    },
+    {
       "id": "dc4c6529b69f7a389e43eb2b75f372b7",
       "title": "Ex-PM Kim wins Gwangju-Jeolla primaries in leadership election",
       "source": "Yonhap News Agency",
@@ -799,14 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260814004100315",
       "published_date": "2026-08-14T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "89ae9284c78dfccfc01c0cbcdd4780ef",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814005000315",
-      "published_date": "2026-08-14T04:38:22Z",
       "category": "Local Events"
     }
   ]
