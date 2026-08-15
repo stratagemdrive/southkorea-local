@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-14T23:11:02Z",
+  "generated_at": "2026-08-15T11:21:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,126 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "55fe2e62a1c9561e9103bc1ba9e5b040",
+      "title": "(LEAD) S. Korea deplores Japanese officials' visits to Yasukuni Shrine",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815002751320",
+      "published_date": "2026-08-15T08:59:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "379dcd39adcc0655bacd3d87e47be7e0",
+      "title": "LG Twins acquire Australian pitcher Jon Kennedy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815002900315",
+      "published_date": "2026-08-15T08:10:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e802208241d0a19f003104b429a95cb7",
+      "title": "S. Korea deplores Japanese officials' visits to Yasukuni Shrine",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815002700320",
+      "published_date": "2026-08-15T07:17:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9be02c06270e03138f11b7d3197ae4cf",
+      "title": "(LEAD) 180,000 cases of personal info leaked from Sogang University; ex-President Park believed to be affected",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815002551315",
+      "published_date": "2026-08-15T06:07:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a0f370bd11f1bd51f483aef49b47683b",
+      "title": "(LEAD) Japan PM refrains from visit to Yasukuni Shrine, but stops short of mentioning 'remorse'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001151315",
+      "published_date": "2026-08-15T05:08:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e76ec473665ab42a6e2639b44518ccb7",
+      "title": "180,000 pieces of personal info leaked from Sogang University in hacking attack",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815002500315",
+      "published_date": "2026-08-15T04:24:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "237cb423f463fdbc21431972ec124d0a",
+      "title": "Ruling, opposition parties express regret over Japanese officials' Yasukuni Shrine visits",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815002300320",
+      "published_date": "2026-08-15T02:42:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "78fca36a53384fb6f44dcdcc5e65aced",
+      "title": "(URGENT) Lee says will expand cooperation with Japan for mutual interests, address shared challenges",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001300315",
+      "published_date": "2026-08-15T01:43:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5b554af00528365975057d8546b96041",
+      "title": "(URGENT) Lee says will work to replace unstable armistice with peace regime on Korean Peninsula",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001000315",
+      "published_date": "2026-08-15T01:41:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5abbb9f69bddc82f55db7003d3c0bd72",
+      "title": "(URGENT) Lee says hopes South, North Korea will work together for peaceful coexistence, mutual growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000900315",
+      "published_date": "2026-08-15T01:40:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1b8940a4540750fa3e0f50aa017a95a3",
+      "title": "(URGENT) Lee says South, North Korea should respect each other, halt unnecessary confrontations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000800315",
+      "published_date": "2026-08-15T01:40:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e6aff5d6f1c39cde6cdf9a26a2c34d58",
+      "title": "N. Korean leader pays tribute to Soviet soldiers amid deepening Russia ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001500320",
+      "published_date": "2026-08-15T01:26:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bb5926f24ec3343bdd71f79f0436fd4d",
+      "title": "Japan PM sends offering to Yasukuni Shrine, but refrains from visit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001100315",
+      "published_date": "2026-08-15T00:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c3d07483f92d01f574a80cb1eb079515",
+      "title": "Only .400 hitter in S. Korean baseball history dies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000400315",
+      "published_date": "2026-08-15T00:03:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8df26890e3cc95786f81443daa9b3d34",
+      "title": "Kim Jong Un plays up Soviet war sacrifice ahead of Liberation Day",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/kim-jong-un-plays-up-soviet-war-sacrifice-ahead-of-liberation-day/",
+      "published_date": "2026-08-14T23:22:19Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "098baa46e1d1eaa3617d1bae79b6f6cb",
       "title": "North Korea codifies soil pollution law, but enforcement remains in doubt",
@@ -48,129 +168,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260814011000315",
       "published_date": "2026-08-14T08:04:07Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "9c3de51db99cf354c24b1535a8d04502",
-      "title": "(LEAD) UNC not to proceed with plan for security brigade after talks with S. Korea: defense minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814003451315",
-      "published_date": "2026-08-14T08:03:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b8a165f434d5030510b70b2b8f276001",
-      "title": "Two candidates shortlisted for special counsel investigating ballot shortages",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814010500315",
-      "published_date": "2026-08-14T07:36:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ea6c4425309ddc1a9362b4d8a878f1e6",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006400315",
-      "published_date": "2026-08-14T07:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6c0b6d79a36c5d8e50969e03c60c7c13",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006500315",
-      "published_date": "2026-08-14T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b588f3a19a49e47c0f112b3baf223a30",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006700315",
-      "published_date": "2026-08-14T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "47eced54a84bfb35d01a5d86598e5b87",
-      "title": "Russia-North Korea car bridge contractor faces $1.5M lawsuit ahead of opening",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/russia-north-korea-car-bridge-contractor-faces-1-5m-lawsuit-ahead-of-opening/",
-      "published_date": "2026-08-14T06:08:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "06720078317f8f925102faac24f466c6",
-      "title": "Only .400 hitter in S. Korean baseball history in critical condition",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814007600315",
-      "published_date": "2026-08-14T05:23:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0958e22e43580a63b43ae6dfd52ffa34",
-      "title": "Lee vows to restore honor of women sexually enslaved by imperial Japan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814007200315",
-      "published_date": "2026-08-14T05:07:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7047bcaec0758d27a949189ed457f4bc",
-      "title": "Son Heung-min's LAFC eliminated from Leagues Cup tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814007100315",
-      "published_date": "2026-08-14T05:02:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "59762fced212f57d0046d51978f5510d",
-      "title": "(LEAD) 4 PPP lawmakers indicted for blocking investigators from detaining ex-President Yoon in 2025",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006352315",
-      "published_date": "2026-08-14T04:32:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "23a214c70029f312482104fef868e0cf",
-      "title": "4 PPP lawmakers indicted for blocking investigators from detaining ex-President Yoon in 2025",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006351315",
-      "published_date": "2026-08-14T04:15:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5e94b4bc0027a32899f99be2a953bad1",
-      "title": "(URGENT) Special counsel indicts 4 PPP lawmakers for obstructing investigators from detaining ex-President Yoon",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006300315",
-      "published_date": "2026-08-14T03:57:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "316fd540a340e61c27b6273da40da5ef",
-      "title": "Kazakhstan designated as workforce-sending country",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006100315",
-      "published_date": "2026-08-14T03:48:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b1cb86e42a7f304ad10252c9094b7e91",
-      "title": "Lee believes Nat'l Assembly should decide constitutional revision: presidential office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814005100315",
-      "published_date": "2026-08-14T03:48:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "720b00b18475e511606c8dbf3b6def98",
-      "title": "UNC not to proceed with plan for security brigade after talks with S. Korea: defense minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814003400315",
-      "published_date": "2026-08-14T03:23:17Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "e04f312c5c323f14de5a9d4fc8aba294",
+      "title": "(2nd LD) Lee proposes dialogue with N. Korea to officially end Korean War, halt Pyongyang's nuclear program",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001452315",
+      "published_date": "2026-08-15T02:17:39Z",
+      "category": "Military"
+    },
+    {
+      "id": "e6e61bdec1d927df38d440cc7675e9cb",
+      "title": "(LEAD) Lee proposes dialogue with N. Korea to officially end Korean War, halt Pyongyang's nuclear program",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001451315",
+      "published_date": "2026-08-15T02:01:44Z",
+      "category": "Military"
+    },
+    {
+      "id": "3498233beab7c2973c629d81ff29e776",
+      "title": "Lee proposes dialogue with N. Korea to officially end Korean War, halt Pyongyang's nuclear program",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001400315",
+      "published_date": "2026-08-15T01:43:13Z",
+      "category": "Military"
+    },
+    {
+      "id": "08fb0769fd5dae3e0cc5e78f6785ab6c",
+      "title": "(URGENT) Lee proposes dialogue with N. Korea to officially end Korean War, halt Pyongyang's nuclear program",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001200315",
+      "published_date": "2026-08-15T01:42:16Z",
+      "category": "Military"
+    },
     {
       "id": "f6221b20f32ea57acd3f5919e194797b",
       "title": "1st Fighter Wing to be temporarily relocated amid chip cluster project push",
@@ -297,38 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260812009000315",
       "published_date": "2026-08-12T07:06:06Z",
-      "category": "Military"
-    },
-    {
-      "id": "d778f694533dd7610449af78e2d0e5dd",
-      "title": "(3rd LD) N. Korea conducts another missile launch ahead of key S. Korea-U.S. military drills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812000753315",
-      "published_date": "2026-08-12T01:52:04Z",
-      "category": "Military"
-    },
-    {
-      "id": "40e45e1fa482dc84ec38c1d905c02f96",
-      "title": "Defense chief to meet heads of alumni groups of 3 military academies amid integration push",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812003600315",
-      "published_date": "2026-08-12T01:51:52Z",
-      "category": "Military"
-    },
-    {
-      "id": "226108183b158429b940987da9c73a50",
-      "title": "(2nd LD) N. Korea fires 1 ballistic missile toward East Sea: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812000752315",
-      "published_date": "2026-08-11T23:46:57Z",
-      "category": "Military"
-    },
-    {
-      "id": "fb14e6f98837a465f8d937016be3dea6",
-      "title": "(URGENT) N. Korea's latest ballistic missile flew more than 700 km: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812001900315",
-      "published_date": "2026-08-11T23:13:27Z",
       "category": "Military"
     }
   ],
@@ -488,6 +488,22 @@
   ],
   "Economy": [
     {
+      "id": "705297a5558b8b685df11dcb8dd80632",
+      "title": "(LEAD) S. Korea's chief trade negotiator fired amid growing U.S. tariff pressure",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001651320",
+      "published_date": "2026-08-15T09:52:26Z",
+      "category": "Economy"
+    },
+    {
+      "id": "04c3523d969ad4e1cc1d5874b5739808",
+      "title": "S. Korea's chief trade negotiator sacked amid growing U.S. tariff pressure",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815001600320",
+      "published_date": "2026-08-15T01:56:35Z",
+      "category": "Economy"
+    },
+    {
       "id": "5f6fbbd943cf16e56b1657a3c83197c4",
       "title": "SK Group chairman again appeals divorce suit to Supreme Court",
       "source": "Yonhap News Agency",
@@ -630,25 +646,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260813011400320",
       "published_date": "2026-08-13T12:00:22Z",
       "category": "Economy"
-    },
-    {
-      "id": "c1fc8fa032cf82c00f669802e7fd2e37",
-      "title": "U.S. flags S. Korea, Japan, EU, others over transshipment risks involving China-linked goods",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813011300315",
-      "published_date": "2026-08-13T10:40:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9935bb74bc4b77150e732be95b3229f5",
-      "title": "S. Korea to host economic ministerial meeting with Africa in Sept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813007000320",
-      "published_date": "2026-08-13T07:00:01Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "dc4c6529b69f7a389e43eb2b75f372b7",
+      "title": "Ex-PM Kim wins Gwangju-Jeolla primaries in leadership election",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815003000320",
+      "published_date": "2026-08-15T11:11:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7d2fd7da726891f14268e373e2bae9b2",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000700320",
+      "published_date": "2026-08-15T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "84f948c122afefe1475d45f3fa120f87",
+      "title": "Xi congratulates Lee on 78th anniv. of S. Korean government's establishment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815002600320",
+      "published_date": "2026-08-15T04:42:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d2c8ffd09a6eb38f8648da078d382a53",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260815000600320",
+      "published_date": "2026-08-15T00:12:15Z",
+      "category": "Local Events"
+    },
     {
       "id": "9c6fe0467c0a4979085739bb44a671f4",
       "title": "(LEAD) Trump says he will declare Strait of Hormuz U.S. territory 'pretty soon'",
@@ -775,38 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260814005000315",
       "published_date": "2026-08-14T04:38:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "420e3e3e14270b9ef0b871ae2e6aeac1",
-      "title": "VANK fears 'Sea of Japan' still widely used worldwide for East Sea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006200315",
-      "published_date": "2026-08-14T03:53:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "30f1bae7a0a4d5639cdb5e59390a801e",
-      "title": "Daily FX transactions rise over 10 pct after 24-hour trading",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814004900320",
-      "published_date": "2026-08-14T03:03:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "928ab5777a099986d2136a34d26f175b",
-      "title": "Court fines photojournalist 5 mln won for unauthorized trip to cover Ukraine war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814004600315",
-      "published_date": "2026-08-14T02:34:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4f59d3bc4a56a5c4b5d23f5d52cb1eb4",
-      "title": "Musinsa to open offline outlet in Indonesia in global expansion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814004400320",
-      "published_date": "2026-08-14T02:34:37Z",
       "category": "Local Events"
     }
   ]
