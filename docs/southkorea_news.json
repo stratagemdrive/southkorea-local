@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-15T23:10:25Z",
+  "generated_at": "2026-08-16T11:21:26Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "99db9802574c03c96d05d6e730df4918",
+      "title": "Son Heung-min's MLS scoring streak snapped at 4 matches",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816002700315",
+      "published_date": "2026-08-16T08:25:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "811169bb5c114f61cc1cf5ba74a61334",
+      "title": "N. Korea silent on Lee's proposal for dialogue to officially end Korean War",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816001600315",
+      "published_date": "2026-08-16T02:09:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dc8ae7c8675d424823c3a1f3eaf11af5",
+      "title": "N.K. leader expects 'more excellent future' in ties with Russia in message to Putin",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816000800315",
+      "published_date": "2026-08-16T01:16:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1fbaa3daf055ad88fb28790d8e7507c2",
+      "title": "On Liberation Day, North Korea blasts fireworks as South Korea calls to end war",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/on-liberation-day-north-korea-blasts-fireworks-as-south-korea-calls-to-end-war/",
+      "published_date": "2026-08-15T23:33:16Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "55fe2e62a1c9561e9103bc1ba9e5b040",
       "title": "(LEAD) S. Korea deplores Japanese officials' visits to Yasukuni Shrine",
@@ -136,41 +168,17 @@
       "url": "https://www.dailynk.com/english/north-korea-soil-pollution-prevention-law/",
       "published_date": "2026-08-14T14:34:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "d3072eff16af8fd5534056a5356a375b",
-      "title": "(LEAD) Lee reiterates support for four-year, two-term presidential system",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814005151315",
-      "published_date": "2026-08-14T11:09:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "63986d2deef95d03569715e3d40a1ee9",
-      "title": "(LEAD) Lee calls for youth policy shift amid jobless growth, fewer opportunities",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814002551315",
-      "published_date": "2026-08-14T08:33:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b565761985b555c51f397de449765230",
-      "title": "Football league bans matches at old stadium over safety issues",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814011300315",
-      "published_date": "2026-08-14T08:24:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9a29d68c14a9b647807ea50f36d9834e",
-      "title": "PM meets with Bill Gates, discusses cooperation on SMRs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814011000315",
-      "published_date": "2026-08-14T08:04:07Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "eef5b3c1008b2ccc47e96a520ca9021b",
+      "title": "S. Korean military fires warning shots after N. Korean troops briefly cross MDL",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816000600315",
+      "published_date": "2026-08-16T00:42:50Z",
+      "category": "Military"
+    },
     {
       "id": "e04f312c5c323f14de5a9d4fc8aba294",
       "title": "(2nd LD) Lee proposes dialogue with N. Korea to officially end Korean War, halt Pyongyang's nuclear program",
@@ -322,14 +330,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260812009200315",
       "published_date": "2026-08-12T07:20:21Z",
       "category": "Military"
-    },
-    {
-      "id": "6058c21e875afa80500ec916c79fc4b3",
-      "title": "S. Korean military hosts exchange event for UNC troops ahead of key combined drills with U.S.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812009000315",
-      "published_date": "2026-08-12T07:06:06Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -468,25 +468,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260810005500315",
       "published_date": "2026-08-10T05:06:00Z",
       "category": "Energy"
-    },
-    {
-      "id": "7686778bf31453258309fa153774257d",
-      "title": "Energy demand hits yearly high on continued heat wave",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260809000900320",
-      "published_date": "2026-08-09T02:24:11Z",
-      "category": "Energy"
-    },
-    {
-      "id": "c25845019c0e59d5fc4231bbb970148a",
-      "title": "Study shows gap between ideal, actual number of children among S. Koreans",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260809000500315",
-      "published_date": "2026-08-09T00:53:15Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "bb9fef7916dd6552b62072ff0fa99d78",
+      "title": "Ex-PM Kim wins capital region primaries in ruling party leadership race",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816002900315",
+      "published_date": "2026-08-16T10:14:24Z",
+      "category": "Economy"
+    },
+    {
+      "id": "75135d9fb8e066016ac4e99c897e2dc0",
+      "title": "Stock loans on roll amid market rebound",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816001800320",
+      "published_date": "2026-08-16T06:00:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "22f2666a1c9b04ac2711a39cac23899b",
+      "title": "Industry minister again heads for Washington amid growing U.S. tariff pressure",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816002000320",
+      "published_date": "2026-08-16T05:18:18Z",
+      "category": "Economy"
+    },
+    {
+      "id": "d875e71d1c83ac1d7eebd6e830509d67",
+      "title": "LG Electronics begins operations of new refrigerator plant in Brazil",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816000900320",
+      "published_date": "2026-08-16T01:21:04Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9df2eb3a8c8c32504a0e2b7e49f8c2e0",
+      "title": "Household credit surely to have topped 2,000 tln-won mark for 1st time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816000700320",
+      "published_date": "2026-08-16T00:58:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "da6a0ab1035ba4ecb3e1687b6dbd5ab7",
+      "title": "Stock short selling on rise despite market upturn",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816000500320",
+      "published_date": "2026-08-16T00:36:46Z",
+      "category": "Economy"
+    },
     {
       "id": "705297a5558b8b685df11dcb8dd80632",
       "title": "(LEAD) S. Korea's chief trade negotiator fired amid growing U.S. tariff pressure",
@@ -598,57 +630,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260814001400320",
       "published_date": "2026-08-14T00:03:22Z",
       "category": "Economy"
-    },
-    {
-      "id": "91cf47fc00a181dec4d8eb0ec1a1c532",
-      "title": "(URGENT) Seoul shares open 2.68 pct higher on U.S. gains amid eased inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814001300320",
-      "published_date": "2026-08-14T00:01:56Z",
-      "category": "Economy"
-    },
-    {
-      "id": "369758bef469872992615dffd05a3dc5",
-      "title": "(EDITORIAL from Korea Herald on Aug. 14)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814000600315",
-      "published_date": "2026-08-13T22:02:50Z",
-      "category": "Economy"
-    },
-    {
-      "id": "85b869233b06f75018b901b253f3796e",
-      "title": "Import prices fall for 2nd month in July on oil prices decline, stronger won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813009300320",
-      "published_date": "2026-08-13T21:00:08Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5e8b2fdc14aa562ef2988d0209b372c3",
-      "title": "(2nd LD) U.S. flags S. Korea, Japan, EU, others over transshipment risks involving China-linked goods",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813011352315",
-      "published_date": "2026-08-13T13:51:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "66091027057f6804d03fe587cb979660",
-      "title": "(LEAD) U.S. flags S. Korea, Japan, EU, others over transshipment risks involving China-linked goods",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813011351315",
-      "published_date": "2026-08-13T13:25:59Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c8833150affa690d21d46051c1235ced",
-      "title": "Korea Investment Holdings named preferred bidder for KDB Life Insurance",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813011400320",
-      "published_date": "2026-08-13T12:00:22Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "c9f3c8b9fffeb01e9497ce1aa5d2da6d",
+      "title": "Sports organization to host int'l academic conference to celebrate 1988 Seoul Olympics",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816002800315",
+      "published_date": "2026-08-16T09:09:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d5e993a9b2c7782947de862ccccd9545",
+      "title": "Bae Ji-hwan designated for assignment by Brewers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816002600315",
+      "published_date": "2026-08-16T08:13:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5e71c0636d9ebb5d734a99171763bd64",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816000300315",
+      "published_date": "2026-08-16T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7778b0e5e40b3dd788e8cbb9fc72d00a",
+      "title": "Director Hong Sang-soo, actor Kim Min-hee win awards at Locarno film fest",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816001700315",
+      "published_date": "2026-08-16T02:50:59Z",
+      "category": "Local Events"
+    },
     {
       "id": "746546c733f09d193bdc20df53ea582b",
       "title": "Trump posts photo with N.K. leader Kim, says he, Kim 'get along great'",
@@ -775,38 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260814009200315",
       "published_date": "2026-08-14T06:53:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "415d070f07479379d38b0004c3e9edc0",
-      "title": "Seoul shares spike for 5th straight day on chip rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814008000320",
-      "published_date": "2026-08-14T06:38:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "460b13634cf825055262a28e85cb3d95",
-      "title": "(URGENT) Seoul shares spike for 5th straight day on chip rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814007900320",
-      "published_date": "2026-08-14T06:34:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "14aeaf65de2921b4468df4d109416146",
-      "title": "U.S. favorability for BTS hits record 46 pct in Q2: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814007700315",
-      "published_date": "2026-08-14T05:33:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cac4d127b77ade269c64fbe9001ab657",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814004100315",
-      "published_date": "2026-08-14T05:00:02Z",
       "category": "Local Events"
     }
   ]
