@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-16T11:21:26Z",
+  "generated_at": "2026-08-16T23:09:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -172,6 +172,22 @@
   ],
   "Military": [
     {
+      "id": "4dd05f29e964cd34f537d08321c49c3c",
+      "title": "(LEAD) Trump says he instructed Pentagon chief to 'substantially' reduce S. Korea-U.S. military drills",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000251315",
+      "published_date": "2026-08-16T23:02:34Z",
+      "category": "Military"
+    },
+    {
+      "id": "e814e5bb5acd26f28d481058efe39ba2",
+      "title": "Trump says he instructed Pentagon chief to 'substantially' reduce S. Korea-U.S. military drills",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000200315",
+      "published_date": "2026-08-16T22:37:44Z",
+      "category": "Military"
+    },
+    {
       "id": "eef5b3c1008b2ccc47e96a520ca9021b",
       "title": "S. Korean military fires warning shots after N. Korean troops briefly cross MDL",
       "source": "Yonhap News Agency",
@@ -314,22 +330,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260812000754315",
       "published_date": "2026-08-12T10:05:33Z",
       "category": "Military"
-    },
-    {
-      "id": "daae3dd77cdb6c31191861aa2cb1bbdf",
-      "title": "(LEAD) Defense chief meets alumni leaders of 3 military academies amid integration push",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812003651315",
-      "published_date": "2026-08-12T09:08:57Z",
-      "category": "Military"
-    },
-    {
-      "id": "1efe96b79fdf4c7a050914ac024a72fc",
-      "title": "(URGENT) N. Korea says needs capability for devastating retaliatory strike amid S. Korea's nuclear submarine push",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812009200315",
-      "published_date": "2026-08-12T07:20:21Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -471,6 +471,14 @@
     }
   ],
   "Economy": [
+    {
+      "id": "a486799d1aff51e8f01d08737fe759dc",
+      "title": "Heavy rainfall offers drought relief, causes damage in southeastern region",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816003400315",
+      "published_date": "2026-08-16T13:45:20Z",
+      "category": "Economy"
+    },
     {
       "id": "bb9fef7916dd6552b62072ff0fa99d78",
       "title": "Ex-PM Kim wins capital region primaries in ruling party leadership race",
@@ -622,17 +630,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260814001451320",
       "published_date": "2026-08-14T00:23:07Z",
       "category": "Economy"
-    },
-    {
-      "id": "55d3b35a81e5e3b49813ecb0a2c5333f",
-      "title": "Seoul shares open sharply higher on U.S. gains amid eased inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814001400320",
-      "published_date": "2026-08-14T00:03:22Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "2af299784960469bba6086edc19e3af3",
+      "title": "Google takes down 449 S. Korean YouTube channels in Q2 over political content",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816003300315",
+      "published_date": "2026-08-16T12:56:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cc7d6abd900fd46cbd038d457f45bf08",
+      "title": "(LEAD) Director Hong Sang-soo, actor Kim Min-hee win awards at Locarno Film Festival",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260816001751315",
+      "published_date": "2026-08-16T12:31:35Z",
+      "category": "Local Events"
+    },
     {
       "id": "c9f3c8b9fffeb01e9497ce1aa5d2da6d",
       "title": "Sports organization to host int'l academic conference to celebrate 1988 Seoul Olympics",
@@ -775,22 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260814006600315",
       "published_date": "2026-08-14T07:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "db7bf9c91984663a421222366f5f1ea4",
-      "title": "PPP lawmaker sends letters to U.S. House members over Coupang data breach",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814009300315",
-      "published_date": "2026-08-14T06:59:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "91b9c3643dc149d2fab1cfe5ce2d225b",
-      "title": "PM vows to put highest priority on overseeing housing supply",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814009200315",
-      "published_date": "2026-08-14T06:53:08Z",
       "category": "Local Events"
     }
   ]
