@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-16T23:09:27Z",
+  "generated_at": "2026-08-17T11:27:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "22902c89a36c51c3ea1d2c0a6468ec53",
+      "title": "Lee expresses condolences over deadly quake in Indonesia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817003100315",
+      "published_date": "2026-08-17T08:34:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "34bea47eca472b4578b26c65f794c3ab",
+      "title": "North Korea imposes Ebola-related travel restrictions on foreign tourists",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/north-korea-imposes-ebola-related-travel-restrictions-on-foreign-tourists/",
+      "published_date": "2026-08-17T05:20:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7e225e914997497860fa6a3b2dc13c82",
+      "title": "Nvidia executive to visit LG Electronics robotics hub on Tuesday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001300320",
+      "published_date": "2026-08-17T04:40:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "53ca2a9ac6576ec378ac1b50529ce859",
+      "title": "Lee's approval rating edges down to new low: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001400315",
+      "published_date": "2026-08-17T03:39:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6cb1ad297d888d85a651a7e3255648bf",
+      "title": "Trump praises relationship with Kim Jong Un, reduces military drills with Seoul",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/trump-praises-relationship-with-kim-jong-un-reduces-military-drills-with-seoul/",
+      "published_date": "2026-08-16T23:23:59Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "99db9802574c03c96d05d6e730df4918",
       "title": "Son Heung-min's MLS scoring streak snapped at 4 matches",
@@ -128,49 +168,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260815000800315",
       "published_date": "2026-08-15T01:40:01Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "e6aff5d6f1c39cde6cdf9a26a2c34d58",
-      "title": "N. Korean leader pays tribute to Soviet soldiers amid deepening Russia ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815001500320",
-      "published_date": "2026-08-15T01:26:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bb5926f24ec3343bdd71f79f0436fd4d",
-      "title": "Japan PM sends offering to Yasukuni Shrine, but refrains from visit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815001100315",
-      "published_date": "2026-08-15T00:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c3d07483f92d01f574a80cb1eb079515",
-      "title": "Only .400 hitter in S. Korean baseball history dies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815000400315",
-      "published_date": "2026-08-15T00:03:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8df26890e3cc95786f81443daa9b3d34",
-      "title": "Kim Jong Un plays up Soviet war sacrifice ahead of Liberation Day",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/kim-jong-un-plays-up-soviet-war-sacrifice-ahead-of-liberation-day/",
-      "published_date": "2026-08-14T23:22:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "098baa46e1d1eaa3617d1bae79b6f6cb",
-      "title": "North Korea codifies soil pollution law, but enforcement remains in doubt",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-soil-pollution-prevention-law/",
-      "published_date": "2026-08-14T14:34:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "ca970134949de9e2bd627d64c8dc4922",
+      "title": "South Korean troops fire warning shots at North’s forces crossing border",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/south-korean-troops-fire-warning-shots-at-norths-forces-crossing-border/",
+      "published_date": "2026-08-17T08:30:46Z",
+      "category": "Military"
+    },
+    {
+      "id": "07ecc5eb164f88aef54eb0d37506eb34",
+      "title": "(3rd LD) Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000253315",
+      "published_date": "2026-08-17T01:49:40Z",
+      "category": "Military"
+    },
+    {
+      "id": "6e0f10dc3a3f5bd5005632754a28b6b7",
+      "title": "(2nd LD) Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000252315",
+      "published_date": "2026-08-17T00:46:07Z",
+      "category": "Military"
+    },
+    {
+      "id": "67347fbb5f0fcc4ccd5fc0c93fd8560e",
+      "title": "Key S. Korea-U.S. military drills begin amid OPCON transition push",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260814009400315",
+      "published_date": "2026-08-17T00:00:08Z",
+      "category": "Military"
+    },
     {
       "id": "4dd05f29e964cd34f537d08321c49c3c",
       "title": "(LEAD) Trump says he instructed Pentagon chief to 'substantially' reduce S. Korea-U.S. military drills",
@@ -298,41 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260813007451315",
       "published_date": "2026-08-13T07:21:30Z",
       "category": "Military"
-    },
-    {
-      "id": "86e47029ed87222049432c03a3691241",
-      "title": "Lee calls for defense reforms centered on 'smart' military, selective conscription",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813007400315",
-      "published_date": "2026-08-13T06:09:55Z",
-      "category": "Military"
-    },
-    {
-      "id": "e8dc3d0b791cfd1e2a7d77fe73d47120",
-      "title": "N. Korea's Wed. rebuke marks its 1st official stance on Seoul's nuclear submarine push: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813005000315",
-      "published_date": "2026-08-13T02:53:25Z",
-      "category": "Military"
-    },
-    {
-      "id": "cb18d72bb46cc802c10fc31c21900160",
-      "title": "Fire trucks, military deployed to combat drought in southeast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813004300315",
-      "published_date": "2026-08-13T02:27:10Z",
-      "category": "Military"
-    },
-    {
-      "id": "9a1056b2e264fb4d56b68b204ca4de63",
-      "title": "(4th LD) N. Korea conducts another missile launch ahead of key S. Korea-U.S. military drills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260812000754315",
-      "published_date": "2026-08-12T10:05:33Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "9fac6d5027e211e3ca9a1e736597218c",
+      "title": "2 S. Koreans finish top 5 in 1st PGA Tour playoff event, move up in key standings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000300315",
+      "published_date": "2026-08-17T00:17:19Z",
+      "category": "Energy"
+    },
     {
       "id": "c0cee63043f4048319faea83a7b684b6",
       "title": "LG Innotek's Apple revenue believed to reach record high in H1",
@@ -460,17 +468,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260811002351320",
       "published_date": "2026-08-11T00:22:24Z",
       "category": "Energy"
-    },
-    {
-      "id": "ae5fce57b7096525225cde494a96b505",
-      "title": "From 'BTS Boulevard' to U.S. governor's praise: BTS sweeps N. America on 'Arirang' tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260810005500315",
-      "published_date": "2026-08-10T05:06:00Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "87ea33472705c2cb9480cc557cfeb664",
+      "title": "CJ eyes 12 tln won in annual sales in N. America by 2028",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001700320",
+      "published_date": "2026-08-17T04:55:48Z",
+      "category": "Economy"
+    },
+    {
+      "id": "513e8236df7595f8d458f36e3d95a810",
+      "title": "Industry minister says S. Korea, U.S. seek to resolve outstanding issues over investment plan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001000320",
+      "published_date": "2026-08-17T01:45:09Z",
+      "category": "Economy"
+    },
     {
       "id": "a486799d1aff51e8f01d08737fe759dc",
       "title": "Heavy rainfall offers drought relief, causes damage in southeastern region",
@@ -614,25 +630,113 @@
       "url": "https://en.yna.co.kr/view/AEN20260814003800315",
       "published_date": "2026-08-14T01:50:54Z",
       "category": "Economy"
-    },
-    {
-      "id": "bd818be7ee0171f17d911299024eba74",
-      "title": "S. Korean economic recovery strengthens on strong exports, consumption",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814002000320",
-      "published_date": "2026-08-14T01:00:04Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5fdfd7101b08fa585da683a556fea509",
-      "title": "(LEAD) Seoul shares open sharply higher on U.S. gains amid eased inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814001451320",
-      "published_date": "2026-08-14T00:23:07Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "ab582f59f0493cfa9eb0d83416ebaea0",
+      "title": "(3rd LD) Ex-PM Kim elected new head of ruling Democratic Party",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001253315",
+      "published_date": "2026-08-17T11:01:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "234b1e8620398277d52bd489bb71b722",
+      "title": "(2nd LD) Ex-PM Kim elected new head of ruling Democratic Party",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001252315",
+      "published_date": "2026-08-17T10:41:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "491b59d68a5ed9d6feb1841373c4504f",
+      "title": "(LEAD) Ex-PM Kim elected new head of ruling Democratic Party",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001251315",
+      "published_date": "2026-08-17T10:12:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bef369464ca34cf5269a46f03f210e62",
+      "title": "(URGENT) Ex-PM Kim elected new head of ruling Democratic Party",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817003000315",
+      "published_date": "2026-08-17T09:53:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c45bcec7e101d9c36d2392e2d02e052a",
+      "title": "Presidential office expects N. Korea-U.S. leaders' friendship to lead to dialogue",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817002800315",
+      "published_date": "2026-08-17T07:39:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ed4692fcbff91ebd11307517c36a492f",
+      "title": "31 Chinese nationals caught since 2019 for smuggling into S. Korea via Yellow Sea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001800315",
+      "published_date": "2026-08-17T05:46:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8781bd04ceca7a9bca42c093a34ab470",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001500315",
+      "published_date": "2026-08-17T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4500ccc11d8fdfd07ed895353f295f15",
+      "title": "Ruling DP set to elect new leader",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001200315",
+      "published_date": "2026-08-17T03:37:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "39c4cda9dc8f04d272a9881e154983cb",
+      "title": "(LEAD) More than 800 mm of rain pummels Geoje, southeastern region; 1 killed in landslide",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000951315",
+      "published_date": "2026-08-17T03:18:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "814975b7d3a736db8100e18fdfa2ec8d",
+      "title": "Stray Kids lands atop Billboard 200 with 'This & That,' group's 9th No. 1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817001100315",
+      "published_date": "2026-08-17T01:48:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7b8c39e6c7f550e96ace94cf1f57c6de",
+      "title": "More than 800 mm of rain pummels Geoje, southeastern region; 1 killed in landslide",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000900315",
+      "published_date": "2026-08-17T01:24:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5f6de6f28900c72b911835b9620c56d4",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000800315",
+      "published_date": "2026-08-17T00:20:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "546e1ae0e5a18b59788088baa6524891",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260817000700315",
+      "published_date": "2026-08-17T00:19:15Z",
+      "category": "Local Events"
+    },
     {
       "id": "2af299784960469bba6086edc19e3af3",
       "title": "Google takes down 449 S. Korean YouTube channels in Q2 over political content",
@@ -687,110 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260816000200315",
       "published_date": "2026-08-15T19:25:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dc4c6529b69f7a389e43eb2b75f372b7",
-      "title": "Ex-PM Kim wins Gwangju-Jeolla primaries in leadership election",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815003000320",
-      "published_date": "2026-08-15T11:11:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7d2fd7da726891f14268e373e2bae9b2",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815000700320",
-      "published_date": "2026-08-15T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "84f948c122afefe1475d45f3fa120f87",
-      "title": "Xi congratulates Lee on 78th anniv. of S. Korean government's establishment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815002600320",
-      "published_date": "2026-08-15T04:42:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d2c8ffd09a6eb38f8648da078d382a53",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815000600320",
-      "published_date": "2026-08-15T00:12:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9c6fe0467c0a4979085739bb44a671f4",
-      "title": "(LEAD) Trump says he will declare Strait of Hormuz U.S. territory 'pretty soon'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815000351315",
-      "published_date": "2026-08-14T21:03:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "48264118f46dac152755f33567d95fc9",
-      "title": "Trump says he will declare Strait of Hormuz U.S. territory 'pretty soon'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815000300315",
-      "published_date": "2026-08-14T20:28:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1d5c6794d86ec090d8e402f5e63e3380",
-      "title": "Rubio calls S. Korea 'indispensable partner' in Liberation Day message",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260815000200315",
-      "published_date": "2026-08-14T17:29:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b0d8f3a6cf7fb1650d428d9bd392ff08",
-      "title": "Justice minister seeks discipline for two prosecutors over courtroom walkout",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814011500315",
-      "published_date": "2026-08-14T09:28:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dbd8249f354c51521fc9f805156a486f",
-      "title": "Super app Toss operator Viva Republica's H1 net income up 120 pct on-year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814011100320",
-      "published_date": "2026-08-14T08:20:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "58196c10efb6f7226af5128ef0fc9c2e",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814010800320",
-      "published_date": "2026-08-14T08:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "88480023a85712419616f1dad79b5c6e",
-      "title": "(2nd LD) Seoul shares spike for 5th straight day on chip rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814008052320",
-      "published_date": "2026-08-14T07:38:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "396aa6720bd9529cf68e863d9de74b76",
-      "title": "(LEAD) Seoul shares spike for 5th straight day on chip rally",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814008051320",
-      "published_date": "2026-08-14T07:11:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3ad274b62c2841ff386fc88066f987d6",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260814006600315",
-      "published_date": "2026-08-14T07:00:02Z",
       "category": "Local Events"
     }
   ]
