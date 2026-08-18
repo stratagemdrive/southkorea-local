@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-18T11:26:46Z",
+  "generated_at": "2026-08-18T23:11:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "6a2f6601c7a73f4a595c53e093175218",
+      "title": "North Korea taps reserve grain stocks as farm workers in South Hwanghae go hungry",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/south-hwanghae-farm-workers-food-shortage-reserve-grain/",
+      "published_date": "2026-08-18T22:56:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f96304fc4b054352c9bb197638c6e437",
+      "title": "(EDITORIAL from Korea Times on Aug. 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260819000500315",
+      "published_date": "2026-08-18T22:00:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2272a2ffbb2bab5b1b7f7492ad0eef5f",
+      "title": "(EDITORIAL from Korea Herald on Aug. 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260819000400315",
+      "published_date": "2026-08-18T22:00:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "15798ae026bf208b04b80c101c9bf186",
+      "title": "Satellite images show growing waste buildup at North Korea’s uranium plant",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongsan-uranium-plant-sludge-wastewater-satellite/",
+      "published_date": "2026-08-18T18:01:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "dcf648487ef117032e3ed857c0afbb51",
       "title": "(LEAD) President Lee appoints special counsel to probe ballot shortages",
@@ -135,38 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260818005800315",
       "published_date": "2026-08-18T04:57:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c1843dda3e04d063d2832c579bb579f4",
-      "title": "Trump-Kim summit could boost peace on Korean Peninsula: Seoul official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818005700315",
-      "published_date": "2026-08-18T04:41:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d386649ce0a03a0d93552a7924bde555",
-      "title": "(2nd LD) Lee reaffirms push to retake wartime operational control of troops during his term",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818003952315",
-      "published_date": "2026-08-18T02:51:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d4a46ac1c64c26a79f306d7191ae96d9",
-      "title": "Baseball league adjusts starting times for games amid cooler conditions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818004900315",
-      "published_date": "2026-08-18T02:43:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "656757d2e54813e8ae50be5a70d7954b",
-      "title": "Lee stresses growth, inclusion in tribute to late President Kim Dae-jung",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818004800315",
-      "published_date": "2026-08-18T02:34:59Z",
       "category": "Diplomacy"
     }
   ],
@@ -404,14 +404,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260812008900315",
       "published_date": "2026-08-12T07:09:05Z",
       "category": "Energy"
-    },
-    {
-      "id": "4155feb883b22b065bb362dc6e36d2df",
-      "title": "KBO reaches 9 mln fans in fewest games ever",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260811010900315",
-      "published_date": "2026-08-11T14:12:53Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
@@ -578,6 +570,30 @@
   ],
   "Local Events": [
     {
+      "id": "bcb0c94a6a85e160a0af71932cc8a2e5",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260819000600315",
+      "published_date": "2026-08-18T22:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "39515aa614c0cf322da8a99b34953326",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260819000300315",
+      "published_date": "2026-08-18T22:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "22427d31091173264c79944c50de7428",
+      "title": "2 senior judges nominated as Supreme Court justices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260818010700315",
+      "published_date": "2026-08-18T11:36:11Z",
+      "category": "Local Events"
+    },
+    {
       "id": "34e89f000f7bc9f4775725764aa5a073",
       "title": "Death penalty sought for woman accused of killing 2 men with laced drinks",
       "source": "Yonhap News Agency",
@@ -711,30 +727,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260818003700315",
       "published_date": "2026-08-18T01:51:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "acf734624aa93bdf80bdd2a297bb90b2",
-      "title": "Lee Kang-in on joining Atletico Madrid: 'I come with that desire to win'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818002400315",
-      "published_date": "2026-08-18T00:53:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6e86f714636f14d986b41feafcf83a27",
-      "title": "Container shipping costs to Middle East continue rising in July amid conflict",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818002200320",
-      "published_date": "2026-08-18T00:41:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7d0bcd884f3271b61e5c08064c42f80e",
-      "title": "Over 2,500 damage cases reported due to heavy rain in southeastern region",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818002100315",
-      "published_date": "2026-08-18T00:40:34Z",
       "category": "Local Events"
     }
   ]
