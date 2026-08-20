@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-19T23:12:56Z",
+  "generated_at": "2026-08-20T11:27:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,255 @@
   ],
   "Diplomacy": [
     {
-      "id": "272adaa00bfe7d73a5e903cb45975a08",
-      "title": "(EDITORIAL from Korea Times on Aug. 20)",
+      "id": "3eaf19338a60e640b94f95be4955d22f",
+      "title": "Industry minister says 'meaningful progress' achieved in talks with U.S.",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000700320",
-      "published_date": "2026-08-19T23:00:37Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820011000320",
+      "published_date": "2026-08-20T10:55:49Z",
       "category": "Diplomacy"
     },
     {
-      "id": "5e4a4721506cd2b78fdb6b0ebbb01535",
-      "title": "(EDITORIAL from Korea Herald on Aug. 20)",
+      "id": "9d519f00e2bd13f04091e8d6b0432e21",
+      "title": "Lee meets Chinese FM, calls for close communication on Korean Peninsula issues",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000600320",
-      "published_date": "2026-08-19T23:00:27Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820011100315",
+      "published_date": "2026-08-20T10:54:18Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6ac68885c410c024c32fff30bbda517e",
-      "title": "Lee calls for unity among new DP chair, former leadership contenders",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011700315",
-      "published_date": "2026-08-19T14:49:06Z",
+      "id": "14fa9459422452a91ec4abc068c950bd",
+      "title": "North Korea rice prices hit 17-year high as corn costs surge",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-prices-record-high-corn-surge/",
+      "published_date": "2026-08-20T10:40:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "cdaac83808d2f9908af793236d26cd17",
-      "title": "Kim Yo Jong denies Trump-Kim contact, dismisses scale back of military drills",
+      "id": "60c65cb8ee01cb19a717f1355c285bbc",
+      "title": "What to make of Trump’s oddly specific claim that North Korea has 57 nukes",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/kim-yo-jong-denies-trump-kim-contact-dismisses-scale-back-of-military-drills/",
-      "published_date": "2026-08-19T14:46:20Z",
+      "url": "https://www.nknews.org/2026/08/what-to-make-of-trumps-oddly-specific-claim-that-north-korea-has-57-nukes/",
+      "published_date": "2026-08-20T10:08:47Z",
       "category": "Diplomacy"
     },
     {
-      "id": "c10a3862f5bb80a6454c9b3e05ba1566",
-      "title": "(LEAD) N.K. leader's sister says Pyongyang more focused on S. Korea-U.S. drills continuing than reduced scale",
+      "id": "f51476b985cfc4e89369dc7f88346bae",
+      "title": "Lee vows stern measures against circulation of illegally filmed sexual content",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011451315",
-      "published_date": "2026-08-19T14:32:21Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010800320",
+      "published_date": "2026-08-20T10:00:21Z",
       "category": "Diplomacy"
     },
     {
-      "id": "c6a5c9663165a523a0d0ed585ddb0252",
-      "title": "K League 1 champions Jeonbuk stunned at top nat'l football tournament",
+      "id": "b9a01c065f53d080af7ad963439e4009",
+      "title": "S. Korea says China's stance on Korean Peninsula unchanged despite no reference to denuclearization",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011600315",
-      "published_date": "2026-08-19T14:14:25Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010300315",
+      "published_date": "2026-08-20T09:26:18Z",
       "category": "Diplomacy"
     },
     {
-      "id": "5c55bd22fe009eb8f98b4b38307e566d",
-      "title": "N.K. leader's sister says Pyongyang more focused on fact S. Korea-U.S. drills continuing than reduced scale",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011400315",
-      "published_date": "2026-08-19T13:41:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "817852083bee2a97ce4da647117b5f6f",
-      "title": "(URGENT) Kim Yo-jong says unaware of any recent communication between N.K., U.S. leaders",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011200315",
-      "published_date": "2026-08-19T13:21:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b772a822325e73195dfb7bee1b5a9e4c",
-      "title": "(LEAD) Land minister says gov't considering part of Yongsan Park as housing site",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819008751320",
-      "published_date": "2026-08-19T13:21:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "62b8cf6c802f46cfb984c01c70308ffe",
-      "title": "(2nd LD) Chinese FM pledges to keep playing 'constructive role' for peace on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819000852315",
-      "published_date": "2026-08-19T12:24:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7dfa90f3f50d8fc6349d1c511789ac1e",
-      "title": "(LEAD) Chinese FM pledges to keep playing 'constructive role' for peace on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819000851315",
-      "published_date": "2026-08-19T11:34:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "eb5a8ebe25c941c75f46ccda2961c98c",
-      "title": "Emotional coach, athletes vow turnaround for S. Korean wrestling at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011000315",
-      "published_date": "2026-08-19T10:27:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8ed10ebe404f3e5bc22048fb02c70c98",
-      "title": "Trump courts Kim again, US-ROK drills shrink and a more confident North Korea",
+      "id": "7551ae84553206e7e445006d185eb4d1",
+      "title": "Kim Jong Un positioned in the driver’s seat as Trump races for a summit",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/trump-courts-kim-again-us-rok-drills-shrink-and-a-more-confident-north-korea/",
-      "published_date": "2026-08-19T08:37:17Z",
+      "url": "https://www.nknews.org/2026/08/kim-jong-un-positioned-in-the-drivers-seat-as-trump-races-for-a-summit/",
+      "published_date": "2026-08-20T09:21:31Z",
       "category": "Diplomacy"
     },
     {
-      "id": "b97dcd1663281c5bb9bd922e3b5c7181",
-      "title": "LG Twins lose key reliever to shoulder injury",
+      "id": "3402731396052f4d5795c1568bf8f635",
+      "title": "N. Korea fires unidentified projectile toward East Sea: S. Korean military",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819010700315",
-      "published_date": "2026-08-19T08:33:48Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010200315",
+      "published_date": "2026-08-20T08:21:10Z",
       "category": "Diplomacy"
     },
     {
-      "id": "3053053ce3bee645e9ddd619d7e60c3a",
-      "title": "North Korean ‘trainees’ appear packaging Finnish-marketed pet food in Russia",
+      "id": "a67ea70684b851da89657626967b504e",
+      "title": "North Korea test launches around 10 short-range missiles from Pyongyang",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/north-korean-trainees-appear-packaging-finnish-marketed-pet-food-in-russia/",
-      "published_date": "2026-08-19T07:41:32Z",
+      "url": "https://www.nknews.org/2026/08/north-korea-launches-suspected-ballistic-missile-on-thursday-japan/",
+      "published_date": "2026-08-20T08:17:25Z",
       "category": "Diplomacy"
     },
     {
-      "id": "8d5e3fb839725cface344e9c875fbd36",
-      "title": "Land minister says gov't considering part of Yongsan Park as housing site",
+      "id": "e50041b28235a22247211facdbd71b63",
+      "title": "(URGENT) N. Korea fires unidentified projectile toward East Sea: S. Korean military",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819008700320",
-      "published_date": "2026-08-19T07:31:56Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010100315",
+      "published_date": "2026-08-20T08:10:47Z",
       "category": "Diplomacy"
     },
     {
-      "id": "487a085d4f3fac297b67b287e6f38851",
-      "title": "(LEAD) Special counsel seeks 10 mln-won fine for ex-President Yoon over perjury",
+      "id": "fb3e4aabd109dd0ef2d6545a59fae867",
+      "title": "Lee calls for uninterrupted reforms for continued nat'l development",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819007351315",
-      "published_date": "2026-08-19T07:03:13Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820007700315",
+      "published_date": "2026-08-20T07:25:34Z",
       "category": "Diplomacy"
     },
     {
-      "id": "da7d8fead16bdb29f457932af8d9a251",
-      "title": "New ruling party chief visits ex-President Moon, vows to heal internal wounds",
+      "id": "9b9376472f842a918267623cbb3b3840",
+      "title": "Unionized members at Naver demand company engage in centralized bargaining",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819008500315",
-      "published_date": "2026-08-19T07:01:14Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820006400320",
+      "published_date": "2026-08-20T06:42:21Z",
       "category": "Diplomacy"
     },
     {
-      "id": "34eee61e7157129c73c0ec64b76539d3",
-      "title": "Special counsel seeks 10 mln-won fine for ex-President Yoon over perjury",
+      "id": "3dd69056bdf18368cbbc6b90aef71bff",
+      "title": "S. Korean FM to meet with Mexico, Kuwait counterparts in Seoul next week",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819007300315",
-      "published_date": "2026-08-19T06:09:37Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820006300315",
+      "published_date": "2026-08-20T06:34:32Z",
       "category": "Diplomacy"
     },
     {
-      "id": "3914b2836549dbff0410f6af58fdb55f",
-      "title": "Seoul to cover all sidewalks with shade by 2028 to combat heat waves",
+      "id": "04ca8b8b4d747966e293c7a6f09999a1",
+      "title": "Unification minister says U.S.-N. Korea dialogue key first step to halting Pyongyang's nuclear program",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819007000315",
-      "published_date": "2026-08-19T05:56:52Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820006200315",
+      "published_date": "2026-08-20T06:28:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "75b2b19e5a6873bb2a76919cc87ae96b",
+      "title": "S. Korea targets up to 45 gold medals at Asian Games as countdown reaches D-30",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820006000315",
+      "published_date": "2026-08-20T06:24:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cdbba982100604082a15d6cf15406909",
+      "title": "Russian greenhouse operator plans to hire 50 North Korean workers as students",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/russian-greenhouse-operator-plans-to-hire-50-north-korean-workers-as-students/",
+      "published_date": "2026-08-20T05:22:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f8888b969977f514a49d3331db18746f",
+      "title": "Trump says he’ll meet Kim this year, despite Pyongyang denying communication",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/trump-says-hell-meet-kim-this-year-despite-pyongyang-denying-communication/",
+      "published_date": "2026-08-20T03:18:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6189fe92dbab6116584a9c22729518cc",
+      "title": "New ruling party leader steps up unity drive amid factional tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820004800315",
+      "published_date": "2026-08-20T03:07:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6f5bb5f87c70eaffde3bc84ca23fe793",
+      "title": "Genesis debuts GV90 flagship electric SUV with 500-km range",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820003400320",
+      "published_date": "2026-08-20T03:00:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e5a9ffdb8c0dad06f5f8d848131a06a7",
+      "title": "FTC conditionally approves merger plan under gov't-led petrochemical restructuring scheme",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820004500320",
+      "published_date": "2026-08-20T03:00:00Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "85ba33862fc59041e7252fb034578664",
+      "title": "(2nd LD) N. Korea fires barrage of short-range ballistic missiles toward East Sea: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820010252315",
+      "published_date": "2026-08-20T09:43:18Z",
+      "category": "Military"
+    },
+    {
+      "id": "8c01b58d16eedb44fdd08de5f50ef920",
+      "title": "(URGENT) N. Korea's missiles flew about 300 kilometers: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820010700315",
+      "published_date": "2026-08-20T09:38:28Z",
+      "category": "Military"
+    },
+    {
+      "id": "7a4a5664363155ed08eccfeb46283058",
+      "title": "(LEAD) N. Korea fires barrage of short-range ballistic missiles toward East Sea: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820010251315",
+      "published_date": "2026-08-20T09:17:22Z",
+      "category": "Military"
+    },
+    {
+      "id": "22064d50212723c0e3073c04e2cbc99a",
+      "title": "(URGENT) N. Korea fires around dozen short-range ballistic missiles from Pyongyang: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820010600315",
+      "published_date": "2026-08-20T08:53:51Z",
+      "category": "Military"
+    },
+    {
+      "id": "a38b55c3230a18acbcdacc2661ee72f1",
+      "title": "(2nd LD) N. Korea typically estimated to have 80-120 nuclear weapons: defense minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820004752315",
+      "published_date": "2026-08-20T05:01:17Z",
+      "category": "Military"
+    },
+    {
+      "id": "a73442976efcf5f4ac21c56fad565f3b",
+      "title": "(LEAD) N. Korea typically estimated to have 80-120 nuclear weapons: defense minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820004751315",
+      "published_date": "2026-08-20T03:22:30Z",
+      "category": "Military"
+    },
+    {
+      "id": "79bf7a7538271b982c18e3ac7c718352",
+      "title": "Defense minister says N. Korea typically estimated to have 80-120 nuclear weapons",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820004700315",
+      "published_date": "2026-08-20T02:52:33Z",
+      "category": "Military"
+    },
+    {
+      "id": "5dd386d9ff983e6103fc1e8211428e26",
+      "title": "(URGENT) Defense minister says N. Korea typically estimated to have 80-120 nuclear weapons",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820004600315",
+      "published_date": "2026-08-20T02:44:49Z",
+      "category": "Military"
+    },
+    {
+      "id": "3dac200484ac1810af99efa6e85fdb9e",
+      "title": "Opposition leader blasts Lee's praise of Trump's decision to reduce S. Korea-U.S. drills",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820003500315",
+      "published_date": "2026-08-20T02:23:30Z",
+      "category": "Military"
+    },
+    {
+      "id": "1e76eded9c9108d459fe3781d0849065",
+      "title": "Navy to hold civil-military anti-terrorism drills on eastern island",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820002400315",
+      "published_date": "2026-08-20T00:45:33Z",
+      "category": "Military"
+    },
+    {
+      "id": "984d692826d015fc4768465cc59cde23",
+      "title": "Lee says respects Trump's decision to promote dialogue with N.K. through scaled-back military exercises",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820001200315",
+      "published_date": "2026-08-19T23:48:50Z",
+      "category": "Military"
+    },
     {
       "id": "37166d067bef3b6ac63b2e5def68b61d",
       "title": "(URGENT) Trump says N. Korea's Kim has 57 nuclear weapons, Kim will be 'fine'",
@@ -242,97 +330,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260819004151315",
       "published_date": "2026-08-19T02:06:50Z",
       "category": "Military"
-    },
-    {
-      "id": "130d3731c307f23bffba1d827c96f818",
-      "title": "Pentagon says adjustments to S. Korea-U.S. exercise will not degrade training objectives",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819004100315",
-      "published_date": "2026-08-19T01:47:25Z",
-      "category": "Military"
-    },
-    {
-      "id": "061d50967f4fdf73c8430b8bd55134e8",
-      "title": "(LEAD) S. Korea, U.S. cut short joint military exercise following Trump order",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819002651315",
-      "published_date": "2026-08-19T01:40:13Z",
-      "category": "Military"
-    },
-    {
-      "id": "a9c4e8fde204d6f5f758fd56723224e4",
-      "title": "(URGENT) Pentagon: S. Korea-U.S. exercise adjustments preserve 'essential readiness,' no degradation to training objectives",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819003800315",
-      "published_date": "2026-08-19T01:29:06Z",
-      "category": "Military"
-    },
-    {
-      "id": "e465975a579af07dfc135e0e09d2ed1a",
-      "title": "US-South Korea cuts military exercise length by half after Trump’s demand",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/us-south-korea-cut-military-exercise-length-by-half-after-trumps-demand/",
-      "published_date": "2026-08-19T01:19:55Z",
-      "category": "Military"
-    },
-    {
-      "id": "ac5782c6f57ba8b26ee5f04404ccc762",
-      "title": "S. Korea, U.S. sharply reduce joint military exercise following Trump order",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819002600315",
-      "published_date": "2026-08-19T00:48:52Z",
-      "category": "Military"
-    },
-    {
-      "id": "153b2e92260b4d19105e923982db7bd2",
-      "title": "(URGENT) S. Korea, U.S. to partly reduce scope of combined field training during UFS: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819002200315",
-      "published_date": "2026-08-19T00:37:06Z",
-      "category": "Military"
-    },
-    {
-      "id": "6ea48bc88b509a1fa84b6aa4601624ad",
-      "title": "(URGENT) S. Korea, U.S. to cut short combined exercise to Friday: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819002100315",
-      "published_date": "2026-08-19T00:36:00Z",
-      "category": "Military"
-    },
-    {
-      "id": "be683927f9cc65c5eb778ccec6062ab3",
-      "title": "Hanwha wins U.S. Army contract for K9 self-propelled howitzer prototypes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819001300320",
-      "published_date": "2026-08-19T00:02:34Z",
-      "category": "Military"
-    },
-    {
-      "id": "bc5fb86153f3ed5285c57d74001fae2b",
-      "title": "Top general inspects border troops amid key allied drills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818010600315",
-      "published_date": "2026-08-18T10:56:19Z",
-      "category": "Military"
-    },
-    {
-      "id": "e2ed9364230634893347fa8a9ca91798",
-      "title": "South Korea considers mandatory military service for North Korean defectors",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/south-korea-considers-mandatory-military-service-for-north-korean-defectors/",
-      "published_date": "2026-08-18T10:05:19Z",
-      "category": "Military"
-    },
-    {
-      "id": "4bbcaa09290a11329899a8dc14226795",
-      "title": "(LEAD) USFK commander visits defense ministry after Trump's order to reduce joint exercise with S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818008251315",
-      "published_date": "2026-08-18T09:07:18Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "e35229cef70baa0b1d2dab98d996c758",
+      "title": "Heat wave destroys North Hwanghae’s power grid, even at statues",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-heat-wave-power-grid-blackout/",
+      "published_date": "2026-08-20T09:52:00Z",
+      "category": "Energy"
+    },
+    {
+      "id": "95d0fee1e32a61b4bbd042437923c94a",
+      "title": "Nat'l Assembly passes bill to speed up review of fast-track bills",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820008100315",
+      "published_date": "2026-08-20T07:47:13Z",
+      "category": "Energy"
+    },
+    {
+      "id": "00d02b2632b065e93f2bdf5ffbeaf286",
+      "title": "S. Korea seeks to allow lawful hacking by investigators to delete illegal sexual material",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820003000315",
+      "published_date": "2026-08-20T02:30:02Z",
+      "category": "Energy"
+    },
+    {
+      "id": "db39353f7f6f9ebacb200a58a1d56525",
+      "title": "AI-based anti-phishing platform prevents over 66 bln won in financial damage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820002700320",
+      "published_date": "2026-08-20T01:25:21Z",
+      "category": "Energy"
+    },
     {
       "id": "3158aa347be8e95d181364996acab9c2",
       "title": "POSCO, Chinese firm to collaborate on battery materials business",
@@ -388,41 +420,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260814007300320",
       "published_date": "2026-08-14T05:12:23Z",
       "category": "Energy"
-    },
-    {
-      "id": "3c7136af10a44de70316c38b2142d231",
-      "title": "Asiana Airlines' net loss widens in Q2 on rising fuel costs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813011000320",
-      "published_date": "2026-08-13T09:04:55Z",
-      "category": "Energy"
-    },
-    {
-      "id": "5f73d202739f228d8d90a83ad5919e03",
-      "title": "PPP files constitutional complaint against revision to Criminal Procedure Act",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813010300315",
-      "published_date": "2026-08-13T07:54:54Z",
-      "category": "Energy"
-    },
-    {
-      "id": "f70807fe9b2fc321b67f41bb0604079e",
-      "title": "Daewoo E&C selected as preferred bidder for Papua New Guinea LNG project",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813006500320",
-      "published_date": "2026-08-13T04:37:43Z",
-      "category": "Energy"
-    },
-    {
-      "id": "29f3293e32b13b61ea7f19f82de029d8",
-      "title": "Baseball transaction foiled due to league's oversight",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260813001400315",
-      "published_date": "2026-08-12T23:16:59Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "78ebc2460445e0bbd22ad9f49b68967d",
+      "title": "S. Korean won hits fresh 11-month high on dollar selling",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820007900320",
+      "published_date": "2026-08-20T07:20:35Z",
+      "category": "Economy"
+    },
+    {
+      "id": "05c7d26f0aadeda3a32558482aac7c67",
+      "title": "Trade watchdog to recommend antidumping duties on Chinese, Taiwanese industrial material",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820001700320",
+      "published_date": "2026-08-20T04:31:10Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a421ac45366f68020c506ea4acfee70b",
+      "title": "Foreign investment in S. Korea rises at fastest clip in Q2 on stock rally",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820003100320",
+      "published_date": "2026-08-20T03:00:07Z",
+      "category": "Economy"
+    },
+    {
+      "id": "441bb612fe47cd426825de23581b4d22",
+      "title": "Unionized workers at No. 1 internet-only Kakao Bank to stage 5-day strike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820002600320",
+      "published_date": "2026-08-20T01:13:43Z",
+      "category": "Economy"
+    },
+    {
+      "id": "adf7e41a5ce7a4234001b0fda9de1934",
+      "title": "Innospace terminates 1st rocket test flight as Sebit veers off course",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820002500320",
+      "published_date": "2026-08-20T00:52:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "783c995892db1679b0d17a32f53b1d22",
+      "title": "S. Korea's Kakao Mobility confidentially files for U.S. listing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820002300320",
+      "published_date": "2026-08-20T00:34:04Z",
+      "category": "Economy"
+    },
     {
       "id": "d1acf3563de95cd1fcb83fc637c66392",
       "title": "(URGENT) Asked whether he's expecting to meet Kim later this year, Trump says, 'Yeah, I will be'",
@@ -534,215 +582,167 @@
       "url": "https://en.yna.co.kr/view/AEN20260818005600315",
       "published_date": "2026-08-18T04:30:19Z",
       "category": "Economy"
-    },
-    {
-      "id": "dbfba50bcb738e11ff05faf8ca87b42c",
-      "title": "SK Telecom, LG AI Research, Upstage advance to next stage in gov't-led AI project",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260818004700320",
-      "published_date": "2026-08-18T02:34:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "87ea33472705c2cb9480cc557cfeb664",
-      "title": "CJ eyes 12 tln won in annual sales in N. America by 2028",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260817001700320",
-      "published_date": "2026-08-17T04:55:48Z",
-      "category": "Economy"
-    },
-    {
-      "id": "513e8236df7595f8d458f36e3d95a810",
-      "title": "Industry minister says S. Korea, U.S. seek to resolve outstanding issues over investment plan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260817001000320",
-      "published_date": "2026-08-17T01:45:09Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a486799d1aff51e8f01d08737fe759dc",
-      "title": "Heavy rainfall offers drought relief, causes damage in southeastern region",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260816003400315",
-      "published_date": "2026-08-16T13:45:20Z",
-      "category": "Economy"
-    },
-    {
-      "id": "bb9fef7916dd6552b62072ff0fa99d78",
-      "title": "Ex-PM Kim wins capital region primaries in ruling party leadership race",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260816002900315",
-      "published_date": "2026-08-16T10:14:24Z",
-      "category": "Economy"
-    },
-    {
-      "id": "75135d9fb8e066016ac4e99c897e2dc0",
-      "title": "Stock loans on roll amid market rebound",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260816001800320",
-      "published_date": "2026-08-16T06:00:01Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "id": "97678088ee42ac7b4b268763376099d3",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 20)",
+      "id": "421bcbd3038f157fd786f2c29aa26ed3",
+      "title": "Chinese national gets 20 years for hacking accounts of BTS' Jungkook, others",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000800320",
-      "published_date": "2026-08-19T23:00:47Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010900320",
+      "published_date": "2026-08-20T10:39:35Z",
       "category": "Local Events"
     },
     {
-      "id": "6f716dccc846b313e30cdad364aa853b",
-      "title": "Top headlines in major S. Korean newspapers",
+      "id": "4d847b235f2d0e05bd51cf1857b0b76a",
+      "title": "(3rd LD) N. Korea fires barrage of short-range ballistic missiles despite Trump overture",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000500320",
-      "published_date": "2026-08-19T23:00:18Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010253315",
+      "published_date": "2026-08-20T10:26:42Z",
       "category": "Local Events"
     },
     {
-      "id": "e0236899ff08844ddf1776755b5a9592",
-      "title": "Lee Kang-in marks Spain return with 1st goal for Atletico Madrid",
+      "id": "effbb5b8dd9d6355b0d4ac8dac1250c8",
+      "title": "NC Dinos withdraw relocation threat, to stay put in current city",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000400315",
-      "published_date": "2026-08-19T22:47:29Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010500315",
+      "published_date": "2026-08-20T09:19:01Z",
       "category": "Local Events"
     },
     {
-      "id": "def6ba20b620b3e2d99083ace0f593c1",
-      "title": "(3rd LD) Trump says he will meet N. Korea's Kim this year, puts N.K. nukes at 57",
+      "id": "2d0371a64d98b621ef90f00b1df3d13e",
+      "title": "Police tracking down man for sexual harassment near Seoul university",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000354315",
-      "published_date": "2026-08-19T20:48:49Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820009800315",
+      "published_date": "2026-08-20T08:57:35Z",
       "category": "Local Events"
     },
     {
-      "id": "4b063762dd9daad46ed58beb27fa3cf3",
-      "title": "(2nd LD) Trump says he will meet N. Korea's Kim this year, puts N.K. nukes at 57",
+      "id": "0be2e953225ed5245447ee552bdc12d2",
+      "title": "Media watchdog sends letter to U.S. lawmakers over Network Act pushback",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000353315",
-      "published_date": "2026-08-19T19:19:39Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010400320",
+      "published_date": "2026-08-20T08:49:41Z",
       "category": "Local Events"
     },
     {
-      "id": "fc995628f6c5ad32a0617ffddab4a890",
-      "title": "(LEAD) Trump says he will meet N. Korea's Kim this year, puts N.K. nukes at 57",
+      "id": "4e9c2e0cba9d061b4171b92c8c583c07",
+      "title": "S. Korean judoka sets sights on Asian Games gold in native Japan",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000352315",
-      "published_date": "2026-08-19T18:40:56Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820010000315",
+      "published_date": "2026-08-20T08:23:37Z",
       "category": "Local Events"
     },
     {
-      "id": "a8866e05fbe12d46e23f846708dccffc",
-      "title": "Trump says he will meet N. Korea's Kim this year",
+      "id": "ea206aa4009083a720251370f01da0fd",
+      "title": "Enhypen returns as six-member group with new EP, 'The Sin: Bliss'",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000351315",
-      "published_date": "2026-08-19T16:06:19Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820009700315",
+      "published_date": "2026-08-20T08:04:45Z",
       "category": "Local Events"
     },
     {
-      "id": "ff6b2b0bc0a0a84729153bbc829a0b4a",
-      "title": "PGA Tour veteran Kim Si-woo looking to snap winless drought as playoffs wind down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819010800315",
-      "published_date": "2026-08-19T09:03:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "909ee40b75d09bed027a3956e92b46d3",
+      "id": "12d4f66cb4a3d8d27a576a4802cb2ac9",
       "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819010100315",
-      "published_date": "2026-08-19T08:04:41Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820009300320",
+      "published_date": "2026-08-20T08:00:01Z",
       "category": "Local Events"
     },
     {
-      "id": "5a7145d9361468f58e5597720bcface7",
-      "title": "(2nd LD) Seoul shares sink nearly 6 pct on tech rout, rising yields",
+      "id": "0b33f73a1f0055edc1e9e1752c75a243",
+      "title": "Top swimmers say are confident S. Korea can repeat Asian Games success",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819007452320",
-      "published_date": "2026-08-19T07:39:21Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820009500315",
+      "published_date": "2026-08-20T07:57:35Z",
       "category": "Local Events"
     },
     {
-      "id": "988ff08a4954b7f914c7aa27f4d57170",
-      "title": "(LEAD) Activist group says will halt subway protest on gov't pledge to review disability rights budget",
+      "id": "ce8b0772b79065897aef46d31085ba5a",
+      "title": "PM vows to boldly improve regulations on new industries, technologies",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819004251320",
-      "published_date": "2026-08-19T07:04:53Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820009600315",
+      "published_date": "2026-08-20T07:51:43Z",
       "category": "Local Events"
     },
     {
-      "id": "71d8284e40cd3e4a05d483e3c1a06953",
-      "title": "(LEAD) Seoul shares sink nearly 6 pct on tech rout, rising yields",
+      "id": "048bab7b48f31f55c3942f04c1f64f8a",
+      "title": "(2nd LD) Seoul stocks spike nearly 6 pct on chip rally, eased U.S. bond yield concerns",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819007451320",
-      "published_date": "2026-08-19T06:55:32Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820006152320",
+      "published_date": "2026-08-20T07:39:35Z",
       "category": "Local Events"
     },
     {
-      "id": "5e1bf814a7c04ecaa08ca5d14d7a7b4e",
-      "title": "Seoul shares sink nearly 6 pct on tech rout, rising yields",
+      "id": "49c4035e124b919dc309698a92fc1c7e",
+      "title": "Police launch probe into suspected leak of data on presidential officials",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819007400320",
-      "published_date": "2026-08-19T06:36:29Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820007800315",
+      "published_date": "2026-08-20T07:18:06Z",
       "category": "Local Events"
     },
     {
-      "id": "a01ba8aebdd3c47172487ae6b2996439",
-      "title": "(URGENT) Seoul shares sink nearly 6 pct on tech rout, rising yields",
+      "id": "87951c83a3c2611218d7ea7d497c5984",
+      "title": "32 booked, 13 detained over alleged distribution of newly classified narcotic etomidate",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819007500320",
-      "published_date": "2026-08-19T06:32:04Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820007400315",
+      "published_date": "2026-08-20T07:08:14Z",
       "category": "Local Events"
     },
     {
-      "id": "798d3205759759e74e8b516caec1f9ae",
-      "title": "(LEAD) DP leader urges Supreme Court chief to resign over written recommendation of new justices",
+      "id": "944da4ad53e5f13842c0ad5a6597d4dc",
+      "title": "S. Korean athletes keeping focus on selves, not opponents, ahead of Asian Games",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819005851315",
-      "published_date": "2026-08-19T05:13:00Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820007500315",
+      "published_date": "2026-08-20T07:07:29Z",
       "category": "Local Events"
     },
     {
-      "id": "82ad54a9b5f75cc1bfb12406900b779a",
-      "title": "Police say statute of limitations expired for KFA's sexual entertainment allegations",
+      "id": "8fd8820a031ce7d1c7e8716ad817ac51",
+      "title": "(LEAD) Seoul stocks spike nearly 6 pct on chip rally, eased U.S. bond yield concerns",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819006800315",
-      "published_date": "2026-08-19T05:12:08Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820006151320",
+      "published_date": "2026-08-20T06:49:31Z",
       "category": "Local Events"
     },
     {
-      "id": "1ef37aff1047cfa3fcc7ced620f17764",
-      "title": "Today in Korean history",
+      "id": "f8e5e56b1d9f61baaa719c14dca8b148",
+      "title": "Seoul stocks spike nearly 6 pct on chip rally, eased U.S. bond yield concerns",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819004400315",
-      "published_date": "2026-08-19T05:00:01Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820006100320",
+      "published_date": "2026-08-20T06:34:58Z",
       "category": "Local Events"
     },
     {
-      "id": "0ef22af945000eaf695eebc25695e4b3",
-      "title": "BIFF taps 'The Table: Day and Night' as opening film",
+      "id": "5ea80bc65cd93cf8573307aa5f20bd57",
+      "title": "(URGENT) Seoul stocks spike nearly 6 pct on chip rally, eased U.S. bond yield concerns",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819006700315",
-      "published_date": "2026-08-19T04:49:35Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820005800320",
+      "published_date": "2026-08-20T06:33:38Z",
       "category": "Local Events"
     },
     {
-      "id": "b7c43aeb681c43dfab4b394e9dfa0930",
-      "title": "Yonhap News Summary",
+      "id": "127142948169e835fba88b301456680e",
+      "title": "Seventeen's Vernon to drop new song marking enlistment",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819006500315",
-      "published_date": "2026-08-19T04:30:01Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820006500315",
+      "published_date": "2026-08-20T06:31:32Z",
       "category": "Local Events"
     },
     {
-      "id": "40693e7d1cb55ede9b93a930a00cfe16",
-      "title": "(LEAD) Appeals court increases ex-spy chief's sentence to 2 1/2 yrs in martial law-linked trial",
+      "id": "7bfb730f00b2e5050f8a912496afeb5b",
+      "title": "Seoul mayor rejects gov't proposal to build apartments in Yongsan Park",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819005551315",
-      "published_date": "2026-08-19T03:22:57Z",
+      "url": "https://en.yna.co.kr/view/AEN20260820005700315",
+      "published_date": "2026-08-20T06:07:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a7038a0a8b16355516911dab196e4cf9",
+      "title": "Police move to tackle high suicide rate of officers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260820005600315",
+      "published_date": "2026-08-20T06:03:28Z",
       "category": "Local Events"
     }
   ]
