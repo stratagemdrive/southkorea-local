@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-21T11:27:40Z",
+  "generated_at": "2026-08-21T23:12:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ff84e0ddca819abb6f17b3995a31a7fc",
+      "title": "Democrats step up offensive over Trump's reduction of drills with S. Korea, push for summitry with Kim",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822000400315",
+      "published_date": "2026-08-21T19:29:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2dadde70944d500909c14f5855d95501",
+      "title": "North Korea military officer discharged over wife’s Chinese relative",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-military-officer-discharged-china-relative/",
+      "published_date": "2026-08-21T17:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f0c32c99fcf5d5a3189b4890631cd2b6",
+      "title": "In North Korea, homes near markets fetch triple pre-pandemic prices",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/chongjin-housing-prices-sunam-market-north-korea/",
+      "published_date": "2026-08-21T14:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "57242d6235052c3c1da997c46c5694f1",
+      "title": "North Korea weather agency faces month-long ideological review",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-weather-agency-ideological-review/",
+      "published_date": "2026-08-21T14:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e111804800d611544c6479c259fc3b56",
+      "title": "Top-ranked An Se-young reaches semifinals at badminton world championships",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260821010300320",
+      "published_date": "2026-08-21T14:01:04Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "3c43b90e0e661f081e407573ee569edf",
       "title": "State Department seeks $3 million projects to counter North Korean propaganda",
@@ -128,49 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260821004900315",
       "published_date": "2026-08-21T03:31:36Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "4087d4f688a59ae4410004d3ecaa48b6",
-      "title": "(LEAD) S. Korea-U.S. combined exercise to conclude ahead of schedule after Trump order",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821002151315",
-      "published_date": "2026-08-21T02:43:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f7e9746397e87823a9a2ff4e798fb67b",
-      "title": "Lee's approval rating inches up from record low to 45 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821005000315",
-      "published_date": "2026-08-21T02:27:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ecdf420cd4cc17479423a9212f6bd831",
-      "title": "Int'l track and field competition for veteran athletes kicks off in Daegu",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821004700315",
-      "published_date": "2026-08-21T02:09:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "881969e469c18445ba8caf9c5e63b40a",
-      "title": "Genesis' cumulative U.S. sales surpass 450,000 units",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821004600320",
-      "published_date": "2026-08-21T02:03:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "10e53beac57bc0fa98fd2265de716ee8",
-      "title": "Moon Geun-young to return as film lead after 9 years",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821004400315",
-      "published_date": "2026-08-21T01:54:47Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "158309c3a8a3db125eb6638bfa62c6e1",
+      "title": "U.S. approves potential sale to S. Korea of AIM-9X air-to-air missiles",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822000300315",
+      "published_date": "2026-08-21T18:40:10Z",
+      "category": "Military"
+    },
+    {
+      "id": "2ee78919aa669b709745d994004f2f36",
+      "title": "Expert: S. Korea, U.S. need to address fallout from Trump's exercise reduction for 'productive' engagement with Kim",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822000200315",
+      "published_date": "2026-08-21T18:07:20Z",
+      "category": "Military"
+    },
     {
       "id": "5a1db261ce415635532d9a523d1df998",
       "title": "Kim Yo Jong mocks ‘puppet’ Seoul as Trump cuts short U.S.-ROK military drills",
@@ -313,22 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260820000200315",
       "published_date": "2026-08-19T15:33:15Z",
-      "category": "Military"
-    },
-    {
-      "id": "a4843d9bc8a82bb83cef72debfe8c712",
-      "title": "Bipartisan senators call for reversing UFS exercise cuts in letters to Trump, Hegseth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011500315",
-      "published_date": "2026-08-19T14:06:32Z",
-      "category": "Military"
-    },
-    {
-      "id": "d9033ff847c70e69332e0ee0009e4dca",
-      "title": "(URGENT) Kim Yo-jong denies N. Korea sent additional troops to Russia for Ukraine war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819011300315",
-      "published_date": "2026-08-19T13:26:31Z",
       "category": "Military"
     }
   ],
