@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-22T11:21:43Z",
+  "generated_at": "2026-08-22T23:10:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e6526940e333c17874a899a7d1f2089a",
+      "title": "President expresses condolence over death of Ven. Myeongjin",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822002800315",
+      "published_date": "2026-08-22T14:11:32Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ec46fd02aa929803b65b8b2620791eec",
       "title": "Lee to host all ruling party lawmakers for luncheon next week",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260821001251320",
       "published_date": "2026-08-21T05:48:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8a41fee093b25e546d0f2afa69ab8e60",
-      "title": "Cheong Wa Dae says N. Korea's derogatory remarks unhelpful to building mutual trust",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821006100315",
-      "published_date": "2026-08-21T05:34:47Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,14 @@
   ],
   "Local Events": [
     {
+      "id": "8655192db91c74d924a3a7427f6f2072",
+      "title": "S. Korean container ship leaves for Europe via Arctic route for 1st time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822002600315",
+      "published_date": "2026-08-22T13:30:14Z",
+      "category": "Local Events"
+    },
+    {
       "id": "a948788e3b6280540c59f20df78bf4b3",
       "title": "Today in Korean history",
       "source": "Yonhap News Agency",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260821001500320",
       "published_date": "2026-08-21T00:01:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2dca70231301e588efab2761a4647684",
-      "title": "Emerging sprinter chasing Asian Games medal, nat'l record in 100m dash",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821001600315",
-      "published_date": "2026-08-20T23:56:54Z",
       "category": "Local Events"
     }
   ]
