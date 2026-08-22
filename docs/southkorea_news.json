@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-21T23:12:55Z",
+  "generated_at": "2026-08-22T11:21:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ec46fd02aa929803b65b8b2620791eec",
+      "title": "Lee to host all ruling party lawmakers for luncheon next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822001500315",
+      "published_date": "2026-08-22T07:09:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1da38f12b9ad987ea67bee971154f960",
+      "title": "Girls' Generation's HRS unit to debut with 'Skibidi' single",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822001200315",
+      "published_date": "2026-08-22T02:40:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cfa251e67cffa043b773bb67a2d63d54",
+      "title": "N. Korea denounces Japan's record defense budget as 'war preparation'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822001100315",
+      "published_date": "2026-08-22T00:57:03Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ff84e0ddca819abb6f17b3995a31a7fc",
       "title": "Democrats step up offensive over Trump's reduction of drills with S. Korea, push for summitry with Kim",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260821006100315",
       "published_date": "2026-08-21T05:34:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ee6d99f9ad7da03a1c292cf8304d30f0",
-      "title": "Pro-North Korea newspaper chief in Japan returns to foreign-policy polemics",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/pro-north-korea-newspaper-chief-in-japan-returns-to-foreign-policy-polemics/",
-      "published_date": "2026-08-21T05:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "78e34f6757b095bf3600003c1b683e3b",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821001100315",
-      "published_date": "2026-08-21T05:00:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e510add67023b7b0beffa6071536d32e",
-      "title": "Prosecutors raid home of late President Roh's wife over alleged slush fund",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821004900315",
-      "published_date": "2026-08-21T03:31:36Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "a948788e3b6280540c59f20df78bf4b3",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822000900315",
+      "published_date": "2026-08-22T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8c02f94bcae3837c72bb568b038f131e",
+      "title": "Enhypen's new EP sells 1.77 mln copies on release day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822001400315",
+      "published_date": "2026-08-22T04:43:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f62a9de3b1b1c3ea963d8ef7a3e7e8ed",
+      "title": "Katseye scores career-best No. 2 on British albums chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822001000315",
+      "published_date": "2026-08-22T00:54:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0491412a7a51ce8186ac8cc8b8750d6a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260822000800315",
+      "published_date": "2026-08-22T00:11:21Z",
+      "category": "Local Events"
+    },
+    {
       "id": "d7895e764d4a56f01cbe030212d0213a",
       "title": "Lee designates flood-hit Geoje, Tongyeong as special disaster zones",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260821001600315",
       "published_date": "2026-08-20T23:56:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f1be31a554b246474f33d470f8687b44",
-      "title": "(Yonhap Interview) Wiz pitcher Allen thriving in 2nd chance in KBO: 'In a really good spot right now'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821001300315",
-      "published_date": "2026-08-20T23:34:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d3a6501b671d72788c8f7de1f5f54fb5",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821000700315",
-      "published_date": "2026-08-20T22:03:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "618293b3c333122838680110e7a6befe",
-      "title": "PPP ethics committee suspends membership rights of 4 lawmakers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820011200320",
-      "published_date": "2026-08-20T12:15:57Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e5bf0653b37e502d56c1ab4490b2458d",
-      "title": "(URGENT) N.K. leader's sister says scaling down Ulchi Freedom Shield put Seoul 'in poor plight of canceling war games it liked very much'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820011400320",
-      "published_date": "2026-08-20T12:12:18Z",
       "category": "Local Events"
     }
   ]
