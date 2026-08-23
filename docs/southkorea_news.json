@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-22T23:10:10Z",
+  "generated_at": "2026-08-23T11:21:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "7ba38fbd9e9ab35de21b593e8ba7175f",
+      "title": "S. Korea's alcoholic beverage output falls to 27-year low in 2025 amid shifting drinking trends",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823001600315",
+      "published_date": "2026-08-23T04:20:57Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "e6526940e333c17874a899a7d1f2089a",
       "title": "President expresses condolence over death of Ven. Myeongjin",
@@ -160,17 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260821006800315",
       "published_date": "2026-08-21T06:31:52Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "c4afbfa00e5acada0ed1418682340a6c",
-      "title": "(LEAD) Hyundai Motor workers stage full-scale strike over wage disputes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821001251320",
-      "published_date": "2026-08-21T05:48:02Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "4141f60b286f4da67f7df1c5026f111e",
+      "title": "No signs of additional deployment of N. Korean troops to Russia detected: S. Korean military",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823000600315",
+      "published_date": "2026-08-23T01:13:18Z",
+      "category": "Military"
+    },
     {
       "id": "158309c3a8a3db125eb6638bfa62c6e1",
       "title": "U.S. approves potential sale to S. Korea of AIM-9X air-to-air missiles",
@@ -322,17 +330,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260820001200315",
       "published_date": "2026-08-19T23:48:50Z",
       "category": "Military"
-    },
-    {
-      "id": "37166d067bef3b6ac63b2e5def68b61d",
-      "title": "(URGENT) Trump says N. Korea's Kim has 57 nuclear weapons, Kim will be 'fine'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820000200315",
-      "published_date": "2026-08-19T15:33:15Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "d61f5c1129cf6c5301eff788b0b7b5da",
+      "title": "Gov't, ruling party discuss housing policy at high-level meeting",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823001900315",
+      "published_date": "2026-08-23T05:19:53Z",
+      "category": "Energy"
+    },
+    {
+      "id": "851714889198f5fa5d73cb1f0b5ac5c0",
+      "title": "Nuclear power plants unaffected by earthquake off southwest coast: authorities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823000700315",
+      "published_date": "2026-08-23T01:14:27Z",
+      "category": "Energy"
+    },
     {
       "id": "a42cd2774711942a2ec88c347ff89430",
       "title": "Gov't freezes fuel price caps amid Mideast tensions",
@@ -476,25 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260819004200320",
       "published_date": "2026-08-19T01:54:30Z",
       "category": "Energy"
-    },
-    {
-      "id": "4a0093bd6bc6ee7a64e5b3057f87ffbf",
-      "title": "LG Energy starts operations at 7th North American battery plant",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819002400320",
-      "published_date": "2026-08-19T00:52:56Z",
-      "category": "Energy"
-    },
-    {
-      "id": "9fac6d5027e211e3ca9a1e736597218c",
-      "title": "2 S. Koreans finish top 5 in 1st PGA Tour playoff event, move up in key standings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260817000300315",
-      "published_date": "2026-08-17T00:17:19Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "0a6445402637e60af882f27c1a77d33d",
+      "title": "Banks' net income falls in H1; interest profit hits record high: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823001800320",
+      "published_date": "2026-08-23T05:19:20Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2120c6c7b285bdeee8f73d4e26d13b1a",
+      "title": "S. Korea's top pharmaceutical firms spend over 100 bln won each in H1 for R&D: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823001000320",
+      "published_date": "2026-08-23T02:32:58Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c43366d3002174510203f247d5ac4b4b",
+      "title": "BOK expected to raise S. Korea's 2026 growth estimate to over 3 pct: experts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823000800320",
+      "published_date": "2026-08-23T01:43:20Z",
+      "category": "Economy"
+    },
     {
       "id": "e4d5f5e226d406023b85a75a1be95ab0",
       "title": "(2nd LD) Samsung Electronics expects up to 110 tln won for shareholder returns this year",
@@ -630,33 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260820005300320",
       "published_date": "2026-08-20T21:00:10Z",
       "category": "Economy"
-    },
-    {
-      "id": "ffcbe389dcc97087be6ff308af6932f5",
-      "title": "North Korea garment factories draw women with pay, perks",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-garment-factories-draw-women-with-pay-perks/",
-      "published_date": "2026-08-20T20:58:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "dc6e5326dd563c70e4552568138a668e",
-      "title": "Bessent urges U.S. allies to join economic pressure campaign on Iran",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821000300315",
-      "published_date": "2026-08-20T19:53:12Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c8bc278ca155added769e1c6143db945",
-      "title": "Senior official appointed as BOK's No. 2",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820011300315",
-      "published_date": "2026-08-20T11:46:24Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "8f85ead97111853611d3664c746b5ef6",
+      "title": "S. Korean women's badminton doubles team captures world title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823005700315",
+      "published_date": "2026-08-23T10:44:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e925e5b63c1850258944c73993fabd4f",
+      "title": "(LEAD) Gov't, ruling party share need to relax tax rule for single-home owners not living in property",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823001951315",
+      "published_date": "2026-08-23T07:08:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "438dc33a58934c9729e0b897c51252c7",
+      "title": "Admissions for 'Spider-Man' top 8 mln, 'The Odyssey' at 7 mln: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823002000320",
+      "published_date": "2026-08-23T06:00:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a596bb473f2fd8aab1b647bc560e96ab",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823000900315",
+      "published_date": "2026-08-23T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5424d4d3e492ee2f88d393412de4af03",
+      "title": "Ex-President Moon heads to Mongolia for U.N. desertification conference",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823001100315",
+      "published_date": "2026-08-23T02:33:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2cf21801afdc9068ab783574eaae1b8c",
+      "title": "(LEAD) Police officer under arrest for prematurely closing missing person cases in Jeju",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823000551315",
+      "published_date": "2026-08-23T02:18:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8c7da7ed94c9e817d0da2d645322a008",
+      "title": "Police officer under arrest for prematurely closing missing person cases in Jeju",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823000500315",
+      "published_date": "2026-08-23T00:46:17Z",
+      "category": "Local Events"
+    },
     {
       "id": "8655192db91c74d924a3a7427f6f2072",
       "title": "S. Korean container ship leaves for Europe via Arctic route for 1st time",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260821005800315",
       "published_date": "2026-08-21T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d8252c3cc82a039ef10ec56e7c8d76e7",
-      "title": "Ex-pilot gets life sentence for killing former airline colleague",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821005200315",
-      "published_date": "2026-08-21T02:38:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f739f8cf162d92f994be88689970c634",
-      "title": "Supervisor's approval to be required for police officer to close missing person case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821003100315",
-      "published_date": "2026-08-21T01:58:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "696c2f864731ad7a7f29df55d28c63aa",
-      "title": "Korea National Opera chief reports largest assets",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821004500315",
-      "published_date": "2026-08-21T01:54:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1e43c41b73635398042373db6e6176f3",
-      "title": "(LEAD) Seoul shares open lower as U.S. bond yields climb again",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821001451320",
-      "published_date": "2026-08-21T00:22:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8aca5431797bf8dc6d31c1af6a4fdea5",
-      "title": "Musinsa to open 1st Vietnam store in global expansion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821002200320",
-      "published_date": "2026-08-21T00:18:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fce9f128fc5d17e0870ff54aacb37b61",
-      "title": "Seoul shares open lower as U.S. bond yields climb again",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821001400320",
-      "published_date": "2026-08-21T00:03:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2f67381a3bea3bd2444726d6e798d0b6",
-      "title": "(URGENT) Seoul shares open 1.35 pct lower as U.S. bond yields climb again",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821001500320",
-      "published_date": "2026-08-21T00:01:37Z",
       "category": "Local Events"
     }
   ]
