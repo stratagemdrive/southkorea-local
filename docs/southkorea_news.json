@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-23T11:21:47Z",
+  "generated_at": "2026-08-23T23:10:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "4678f17295e2ff5ee7edcb95bfd5ff87",
+      "title": "Im Sung-jae misses out on PGA Tour playoff finale for 1st time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824000800315",
+      "published_date": "2026-08-23T22:30:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7c79a9ca4ed3882bc7a8906ffe2fd291",
+      "title": "North Korea money-transfer brokers make a comeback amid bank distrust",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-money-transfer-brokers-bank-crackdown/",
+      "published_date": "2026-08-23T17:52:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "120b5738b770cb1455e2cff65bfffa3d",
+      "title": "BIGBANG launches 20th anniv. world tour with hit-filled Goyang shows",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823006000315",
+      "published_date": "2026-08-23T14:02:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "add5de76825aa03850b60d02f8bf0912",
+      "title": "(2nd LD) An Se-young captures 2nd career badminton world title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823005752315",
+      "published_date": "2026-08-23T12:54:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "49ec1e71943809a2386bde4d92a1f21c",
+      "title": "(LEAD) An Se-young captures 2nd career badminton world title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260823005751315",
+      "published_date": "2026-08-23T12:44:27Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "7ba38fbd9e9ab35de21b593e8ba7175f",
       "title": "S. Korea's alcoholic beverage output falls to 27-year low in 2025 amid shifting drinking trends",
@@ -127,46 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/south-korea-us-alliance-trump-kim-jong-un-strain/",
       "published_date": "2026-08-21T07:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8fdf66690585158defc39f18d03d3798",
-      "title": "(LEAD) Lee appoints senior trade official Park Jung-sung as new trade minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821007951315",
-      "published_date": "2026-08-21T07:27:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "866ce2d5b09296e2b9765316f116c451",
-      "title": "Alleged drug smuggler caught after 18 yrs on run overseas",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821006600315",
-      "published_date": "2026-08-21T07:24:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d0cd9e100938eeba7fb7b98bc0f53517",
-      "title": "Lee appoints senior trade official Park Jung-sung as new trade minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821007900315",
-      "published_date": "2026-08-21T07:04:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "731bf2038acdf633bde21d4ccc20634b",
-      "title": "(URGENT) Lee appoints senior trade official Park Jung-sung as chief trade negotiator",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821007300315",
-      "published_date": "2026-08-21T06:38:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "828dd6294f134c7d44f037bf4643b1aa",
-      "title": "U.S.-N. Korea talks key to breaking stalemate: Seoul official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821006800315",
-      "published_date": "2026-08-21T06:31:52Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,22 @@
   ],
   "Energy": [
     {
+      "id": "a2c2058a5cea5af917751046beea3863",
+      "title": "(EDITORIAL from The Korea Times on Aug. 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824000600315",
+      "published_date": "2026-08-23T22:00:23Z",
+      "category": "Energy"
+    },
+    {
+      "id": "755931228a6bbafa7e4d71e2caffdc1d",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824000500315",
+      "published_date": "2026-08-23T22:00:11Z",
+      "category": "Energy"
+    },
+    {
       "id": "d61f5c1129cf6c5301eff788b0b7b5da",
       "title": "Gov't, ruling party discuss housing policy at high-level meeting",
       "source": "Yonhap News Agency",
@@ -475,22 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260819006251315",
       "published_date": "2026-08-19T07:40:29Z",
-      "category": "Energy"
-    },
-    {
-      "id": "414ae134dfd3a5d2da0de3da5e72ed6a",
-      "title": "Listed firms' profits soar in H1, driven by AI-led semiconductor boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819004600320",
-      "published_date": "2026-08-19T03:00:23Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d0373806af1755af4c886d41f6aafeb6",
-      "title": "Budget minister vows to closely review disability rights budget",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819004200320",
-      "published_date": "2026-08-19T01:54:30Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,46 @@
   ],
   "Local Events": [
     {
+      "id": "74e5c62256d107bf4ea64172d22dc510",
+      "title": "KBO's top 2 teams set for weekend clash",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824001000315",
+      "published_date": "2026-08-23T23:01:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "92f99e72b04f1d662c51d26e82f85fd3",
+      "title": "(LEAD) Katseye scores its first No. 1 on Billboard 200",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824000351315",
+      "published_date": "2026-08-23T22:08:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8b5c6a41697ab0da78693e5b69785ab3",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 24)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824000700315",
+      "published_date": "2026-08-23T22:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "23c266ff5b973906e574930c09442eae",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824000400315",
+      "published_date": "2026-08-23T21:58:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "57a5bf84379b81d76c7303e95740af21",
+      "title": "Katseye scores its first No. 1 on Billboard 200",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260824000300315",
+      "published_date": "2026-08-23T21:19:56Z",
+      "category": "Local Events"
+    },
+    {
       "id": "8f85ead97111853611d3664c746b5ef6",
       "title": "S. Korean women's badminton doubles team captures world title",
       "source": "Yonhap News Agency",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260821008051320",
       "published_date": "2026-08-21T07:56:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d0766b06ddec45ae1f60e58ddf474841",
-      "title": "'The Odyssey' tops 6 mln admissions in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821008800315",
-      "published_date": "2026-08-21T07:52:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b3a5cbdab31a6edd5af41f6843e1bc1f",
-      "title": "Galaxy Corp. opens Seoul robot park featuring K-pop performances",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821008000320",
-      "published_date": "2026-08-21T06:56:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ae63cb9f61342ebfcc880cffddf2ccaa",
-      "title": "Ruling party slams opposition for attacking Lee over nat'l security",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821006500315",
-      "published_date": "2026-08-21T05:58:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7962a2dffb6a51c76af5bfc9f0be8c0c",
-      "title": "DP leader vows support for Lee's efforts to promote dialogue with N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821006400315",
-      "published_date": "2026-08-21T05:43:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6f449da7f0aaf6059feb50f968f0e7cc",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821005800315",
-      "published_date": "2026-08-21T04:30:01Z",
       "category": "Local Events"
     }
   ]
