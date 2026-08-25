@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-25T11:29:08Z",
+  "generated_at": "2026-08-25T23:15:39Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "30d8fe61cb32f79974592bcab9aa9da9",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 26)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260826000900315",
+      "published_date": "2026-08-25T21:59:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ba73a29a5064fc5a34ad19e7f775a798",
+      "title": "(EDITORIAL from The Korea Times on Aug. 26)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260826000800315",
+      "published_date": "2026-08-25T21:58:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "869d06dda360a9db02236f50a5840fed",
+      "title": "(Yonhap Interview) Mexico committed to FTA talks with S. Korea, eyes more cooperation in AI, space: top diplomat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825010400315",
+      "published_date": "2026-08-25T21:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2680e8d932311da522ec0b95f7d7c571",
+      "title": "Kia, labor union tentatively reach wage deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825011000320",
+      "published_date": "2026-08-25T13:40:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1fd29671894d03aa49eea844cf0b3ac3",
+      "title": "Body of missing Chinese student found in Gyeongsan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825010900320",
+      "published_date": "2026-08-25T13:17:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0ba85f2b438469152a617f58bf5453e7",
+      "title": "S. Korea, Kuwait discuss cooperation on energy, infrastructure",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825010700320",
+      "published_date": "2026-08-25T11:46:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b71ed11dcc72c054378a853eaa3d5a9f",
+      "title": "Lee asks for unity in meeting with newly elected leadership of ruling party",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825010600320",
+      "published_date": "2026-08-25T11:43:34Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "78ccf8b0797d67a3e72f16636bae1909",
       "title": "(LEAD) S. Korea, U.S. remain committed to N.K. denuclearization despite omission from call readouts: Seoul",
@@ -112,65 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260825006000315",
       "published_date": "2026-08-25T04:33:41Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "bc1eb634795a66df3db6fba02e0f6eaf",
-      "title": "Tax agency launches probes into 50 firms over misuse of corporate-owned homes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825003100320",
-      "published_date": "2026-08-25T03:00:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "782f790a7807febc4c9de90a5de31db1",
-      "title": "(Movie Review) 'The Journey to Gyeong-ju' explores grief, reconciliation beyond revenge plot",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825002400315",
-      "published_date": "2026-08-25T01:01:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "df0994ce7e38ecd721b67ec9ba0b01db",
-      "title": "Hanwha Aerospace to launch U.S. entity for LNG business",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825002800320",
-      "published_date": "2026-08-25T01:00:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "02101930a59d635e903a3c05d2996f4d",
-      "title": "Fair trade watchdog sets standard contract terms for funeral halls",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825001900320",
-      "published_date": "2026-08-25T01:00:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f1acf75a4403964def09af7254d797dd",
-      "title": "SK hynix union rejects tentative wage deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825002600320",
-      "published_date": "2026-08-25T00:50:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "566185131757593b618a5cf7619a57d1",
-      "title": "Hyundai Motor launches 2027 Palisade with high roof, new trims",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825002300320",
-      "published_date": "2026-08-25T00:22:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fe9fc5729e7c08b8f30dff7a55c5d796",
-      "title": "As smugglers vanish from North Korea’s border, security agents’ lifestyles take a hit",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-security-agents-smuggling-crackdown-side-income/",
-      "published_date": "2026-08-25T00:21:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "cca78c0febc378708d89f624355824ab",
+      "title": "Trump reiterates remarks on S. Korea-U.S. exercise cuts, 'very good' ties with N. Korea's Kim",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260826000300315",
+      "published_date": "2026-08-25T17:46:02Z",
+      "category": "Military"
+    },
     {
       "id": "db6ad7cee4cdf157ba6a0fca45de51ec",
       "title": "Public hearing set for Wed. over integration plan of military academies",
@@ -322,17 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260820004700315",
       "published_date": "2026-08-20T02:52:33Z",
       "category": "Military"
-    },
-    {
-      "id": "5dd386d9ff983e6103fc1e8211428e26",
-      "title": "(URGENT) Defense minister says N. Korea typically estimated to have 80-120 nuclear weapons",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260820004600315",
-      "published_date": "2026-08-20T02:44:49Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "0c4478033e95e20d2ae14c3aa0d8f710",
+      "title": "Corporate direct financing down in July on decreased debt sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825006700320",
+      "published_date": "2026-08-25T21:00:15Z",
+      "category": "Energy"
+    },
     {
       "id": "70bb86a8f25509a22ef4f561b4a60a6c",
       "title": "SK Innovation to absorb battery materials unit",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260821002700320",
       "published_date": "2026-08-21T00:56:30Z",
       "category": "Energy"
-    },
-    {
-      "id": "0dab9f282d657218191936f86e52f173",
-      "title": "(LEAD) Exports up 56 pct in first 20 days of Aug. on robust chip shipments",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260821002051320",
-      "published_date": "2026-08-21T00:21:36Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "fe0d569392b09f6106ccf252dac0e1d2",
+      "title": "Veteran divers looking to end China stranglehold in Asian Games diving",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825010000315",
+      "published_date": "2026-08-25T23:00:04Z",
+      "category": "Economy"
+    },
     {
       "id": "a9d6b91bd06ba0aec492a4d95e1e9df5",
       "title": "(2nd LD) Seoul stocks end higher ahead of Nvidia earnings",
@@ -646,17 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260824007100320",
       "published_date": "2026-08-24T06:36:05Z",
       "category": "Economy"
-    },
-    {
-      "id": "983fb74744aba16e16c85a09f23d1d85",
-      "title": "(LEAD) New trade chief vows all-out efforts to manage Seoul-Washington trade risks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260824003751320",
-      "published_date": "2026-08-24T06:02:19Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "16e136940794b4eca33861a195b041a5",
+      "title": "Newly formed artistic swimming tandem targeting Asian Games medal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825009200315",
+      "published_date": "2026-08-25T23:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "63b6932b56cb47549e74623cc0cc43a4",
+      "title": "(EDITORIAL from The Korea Herald on Aug. 26)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260826000700315",
+      "published_date": "2026-08-25T21:58:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "21d03523f63b99bd989b3fa0a13223a2",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260826000600315",
+      "published_date": "2026-08-25T21:57:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d3855e6bdd58564223825c0bedfbc06b",
+      "title": "Biz sentiment rises to near 4-yr high in Aug. on improved service outlook in vacation season: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260825009300320",
+      "published_date": "2026-08-25T21:00:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0d11ab91c97fa4b05132a04ba965dc43",
+      "title": "Expert says chance of Trump-Kim meeting is 'slim to none'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260826000400315",
+      "published_date": "2026-08-25T19:15:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fa7262300287f41c5462f05328706f2c",
+      "title": "Trump says all Hormuz mines removed, threatens to destroy any ship placing new mines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260826000200315",
+      "published_date": "2026-08-25T15:54:34Z",
+      "category": "Local Events"
+    },
     {
       "id": "7b103e7dfe3ac3a85175bfb5ee1b9d7a",
       "title": "(LEAD) Arrest warrant issued for Jeju police officer over mishandling of missing person case",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260825006600315",
       "published_date": "2026-08-25T05:37:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9410ca79c3e2a7c3bde370b753d51601",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825001800315",
-      "published_date": "2026-08-25T05:00:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2797fd597ec1ae3ada44604873368817",
-      "title": "Coaching staff set for Asian Games baseball team",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825006400315",
-      "published_date": "2026-08-25T04:50:30Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ac1210097964bb2d41cf6068f8a8b33c",
-      "title": "4 Jeju police officers placed on administrative leave over premature closure of missing person case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825005900315",
-      "published_date": "2026-08-25T04:48:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eec38c4b45e2f53c4bd5ebc642d48335",
-      "title": "Police bust China-based phishing ring with local police",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825005700315",
-      "published_date": "2026-08-25T04:37:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c630551e6b7ab8c45c0a3d80105c702c",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825006100315",
-      "published_date": "2026-08-25T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "148223f6da694d6d23efe12757921dcb",
-      "title": "KAIST president calls physical AI next 'game changer' for school",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260824010200320",
-      "published_date": "2026-08-25T03:00:19Z",
       "category": "Local Events"
     }
   ]
