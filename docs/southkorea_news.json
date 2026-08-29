@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-28T21:19:44Z",
+  "generated_at": "2026-08-29T03:56:56Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "4b1d382e16908c392fab656fef370777",
+      "title": "Globally popular 'Baby Shark' aims to expand storyline with younger sibling",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829001100320",
+      "published_date": "2026-08-29T02:58:51Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "dd633eb53e110cbd8de0b92bd6b47be8",
       "title": "Trump could discuss 'tacit' N.K. nuke acceptance, peace treaty, allied drills with Kim in possible summit: ex-official",
@@ -160,17 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260828002352315",
       "published_date": "2026-08-28T02:46:37Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "e0c19250f5b952495bcfd4ef101f1404",
-      "title": "Lee's approval rating hits record low of 42 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828004400315",
-      "published_date": "2026-08-28T02:23:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "f8c0163300f16e4b98e433d3108e0f49",
+      "title": "S. Korea, France discuss strategic coordination amid deepening N.K.-Russia ties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829001000315",
+      "published_date": "2026-08-29T02:49:12Z",
+      "category": "Military"
+    },
     {
       "id": "3990368823b6f614d769dcd5b5d109ba",
       "title": "North Korean troops ‘recently’ crossed MDL in second encroachment in weeks",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260824002300315",
       "published_date": "2026-08-24T02:10:06Z",
-      "category": "Military"
-    },
-    {
-      "id": "4141f60b286f4da67f7df1c5026f111e",
-      "title": "No signs of additional deployment of N. Korean troops to Russia detected: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260823000600315",
-      "published_date": "2026-08-23T01:13:18Z",
       "category": "Military"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "b172126a6088e92399aa1bc7463b1cb3",
+      "title": "(LEAD) S. Korean response teams continue search for 9 missing in Nepal floods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000951315",
+      "published_date": "2026-08-29T03:46:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5ebd4ebc7ce88b89290b0d72045faebb",
+      "title": "S. Korean response team continues search efforts for 9 missing in Nepal floods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000900315",
+      "published_date": "2026-08-29T01:00:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "72e8eddf13d6f32a905b46a4742a1d5d",
+      "title": "Go Woo-suk designated for assignment by Minnesota Twins",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000800315",
+      "published_date": "2026-08-29T00:08:57Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bb8d33819ab8625d9bfee1a39db338e8",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000500315",
+      "published_date": "2026-08-28T23:56:58Z",
+      "category": "Local Events"
+    },
+    {
       "id": "adcb27542987a4a51f922012f5fd2a3f",
       "title": "S. Korea issues special travel advisory for 4 Nepal provinces due to additional flood risks",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260828005451315",
       "published_date": "2026-08-28T07:15:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a0e1c539800bfb07fbd9a578c1c90215",
-      "title": "Seoul court holds North Korea liable for torture, sexual abuse of defector",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/seoul-court-holds-north-korea-liable-for-torture-sexual-abuse-of-defector/",
-      "published_date": "2026-08-28T07:10:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eeb9b3f36e65acf8e1c3d8b2df0f9e0e",
-      "title": "(LEAD) Jeju police officer partially admits to alleged mishandling of missing person case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828004351315",
-      "published_date": "2026-08-28T06:34:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0ce44f6cebeda18611c02a2e5ba04522",
-      "title": "(LEAD) Cheong Wa Dae says asked chief justice to make new recommendation for Supreme Court justice",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828005951315",
-      "published_date": "2026-08-28T06:25:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7389a40173ebead71992f9e821bb57f8",
-      "title": "(LEAD) 3 killed, 2 injured in paint ingredient factory fire in Cheonan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828005651315",
-      "published_date": "2026-08-28T05:42:33Z",
       "category": "Local Events"
     }
   ]
