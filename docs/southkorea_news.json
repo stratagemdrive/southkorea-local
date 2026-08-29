@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-29T03:56:56Z",
+  "generated_at": "2026-08-29T15:31:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -658,6 +658,70 @@
   ],
   "Local Events": [
     {
+      "id": "3823d8f96b5491a9e569ab743be748f1",
+      "title": "(LEAD) Centenarian athlete grabs 2 golds at Daegu WMAC",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829002251315",
+      "published_date": "2026-08-29T13:18:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5413697bd41a7a35642ec858e5903cfd",
+      "title": "(4th LD) S. Korean response team heads to flood site in Nepal in search of 9 missing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000954315",
+      "published_date": "2026-08-29T12:55:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0e25017b39ff7c5d74ca09df05b33505",
+      "title": "Centenarian athlete grabs 2 golds at Daegu WMAC",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829002200315",
+      "published_date": "2026-08-29T11:38:29Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c32dbc48639fb6257f79c7a3d975733e",
+      "title": "Minor Justice Party elects new leader",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829002100315",
+      "published_date": "2026-08-29T09:48:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8f75f3aa031cab68d72c19a4b292da65",
+      "title": "(3rd LD) S. Korean response team heads to flood site in Nepal in search of 9 missing",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000953315",
+      "published_date": "2026-08-29T07:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c4c7e6d449a84b1e847004963349bb2e",
+      "title": "PM vows to boost housing supply",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829001800320",
+      "published_date": "2026-08-29T05:49:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "814f7ea1d8c3dc0d2504789f7dcebbef",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000600315",
+      "published_date": "2026-08-29T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "73f49b3813f9d90d801391aa74bc5e3b",
+      "title": "(2nd LD) S. Korean response teams continue search for 9 missing in Nepal floods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260829000952315",
+      "published_date": "2026-08-29T04:26:26Z",
+      "category": "Local Events"
+    },
+    {
       "id": "b172126a6088e92399aa1bc7463b1cb3",
       "title": "(LEAD) S. Korean response teams continue search for 9 missing in Nepal floods",
       "source": "Yonhap News Agency",
@@ -751,70 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260828011100315",
       "published_date": "2026-08-28T09:31:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "24a84b9b6637037603342cc4da5d367a",
-      "title": "Gov't finalizes Muan County area as site for Gwangju air base relocation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828010900315",
-      "published_date": "2026-08-28T09:06:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c547400516bdacfbe41e8cbcc113bdfe",
-      "title": "Ex-MLB player Choi Ji-man to participate in KBO pre-draft workout",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828010700315",
-      "published_date": "2026-08-28T08:47:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "abc2b039b3432048cc313d8183309ecd",
-      "title": "(2nd LD) 3 killed, 2 injured in paint ingredient factory fire in Cheonan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828005652315",
-      "published_date": "2026-08-28T08:35:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "57bbd7db4be75ee36a30b2ea553ef4b5",
-      "title": "S. Korean coach for Vietnam men's national football team eyes historic World Cup berth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828010500315",
-      "published_date": "2026-08-28T08:22:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e4ac5df11203f3519b3e57dc171cba24",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828009300315",
-      "published_date": "2026-08-28T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3a2f0fe6a7c3ba6a0cd25209f307e28d",
-      "title": "Police agency issues special alert on discipline",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828008700315",
-      "published_date": "2026-08-28T07:40:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3684245c421ab29f7fce1a7b153ed067",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828008300315",
-      "published_date": "2026-08-28T07:23:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4d7aa824ef791854d84788a2f4b9ff45",
-      "title": "(LEAD) S. Korea's religious communities offer condolences to Nepal flood victims",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828005451315",
-      "published_date": "2026-08-28T07:15:35Z",
       "category": "Local Events"
     }
   ]
