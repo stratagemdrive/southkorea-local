@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-29T15:31:38Z",
+  "generated_at": "2026-08-30T00:52:46Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5556b4ff48de4314aeb4f71cf143d0bf",
+      "title": "(2nd LD) N. Korea names new defense minister amid modernization drive",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260830000352315",
+      "published_date": "2026-08-30T00:49:38Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "4b1d382e16908c392fab656fef370777",
       "title": "Globally popular 'Baby Shark' aims to expand storyline with younger sibling",
@@ -160,17 +168,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260828004800315",
       "published_date": "2026-08-28T02:55:27Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "b5fe73da8fb03865af893f189bce328d",
-      "title": "(2nd LD) S. Korea, U.S., Japan to conduct Freedom Edge joint drills in early Sept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828002352315",
-      "published_date": "2026-08-28T02:46:37Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "2cfdb39345c2e9b0061c91ec57d3119a",
+      "title": "North Korea reshuffles top military leadership, replaces defense minister",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/north-korea-reshuffles-top-military-leadership-replaces-defense-minister/",
+      "published_date": "2026-08-29T23:37:20Z",
+      "category": "Military"
+    },
+    {
+      "id": "c45f3c4f71c3c512e8ae14130882e349",
+      "title": "(LEAD) N. Korea replaces defense minister with Kim Song-gi in military reshuffle: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260830000351315",
+      "published_date": "2026-08-29T22:05:41Z",
+      "category": "Military"
+    },
+    {
+      "id": "c17312d7d43ae9afbb44056544f1b81a",
+      "title": "N. Korea replaces defense minister with Kim Song-gi in military reshuffle: state media",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260830000300315",
+      "published_date": "2026-08-29T21:25:51Z",
+      "category": "Military"
+    },
+    {
+      "id": "f822d91646e60f3ed69918c8d344ed05",
+      "title": "(URGENT) N. Korea replaces defense minister with Kim Song-gi in military reshuffle: state media",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260830000200315",
+      "published_date": "2026-08-29T21:18:07Z",
+      "category": "Military"
+    },
     {
       "id": "f8c0163300f16e4b98e433d3108e0f49",
       "title": "S. Korea, France discuss strategic coordination amid deepening N.K.-Russia ties",
@@ -297,38 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260826002000315",
       "published_date": "2026-08-26T00:26:53Z",
-      "category": "Military"
-    },
-    {
-      "id": "cca78c0febc378708d89f624355824ab",
-      "title": "Trump reiterates remarks on S. Korea-U.S. exercise cuts, 'very good' ties with N. Korea's Kim",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260826000300315",
-      "published_date": "2026-08-25T17:46:02Z",
-      "category": "Military"
-    },
-    {
-      "id": "db6ad7cee4cdf157ba6a0fca45de51ec",
-      "title": "Public hearing set for Wed. over integration plan of military academies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825002500315",
-      "published_date": "2026-08-25T00:44:59Z",
-      "category": "Military"
-    },
-    {
-      "id": "e2a18df3549bf7715e97e9cdf17d32ac",
-      "title": "(LEAD) S. Korea develops domestic guidelines on NATO standards to help boost defense exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260824002351315",
-      "published_date": "2026-08-24T05:15:53Z",
-      "category": "Military"
-    },
-    {
-      "id": "8dfe699bcea304e4428823598cfc6f56",
-      "title": "S. Korea creates domestic guidelines on NATO standards to help boost defense exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260824002300315",
-      "published_date": "2026-08-24T02:10:06Z",
       "category": "Military"
     }
   ],
