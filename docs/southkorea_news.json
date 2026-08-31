@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-08-31T00:58:35Z",
+  "generated_at": "2026-08-31T17:56:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,142 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "6be4b941f6a7f8bca114dc34b502608c",
+      "title": "North Korean official kills coworker to hide embezzlement scheme",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/printing-plant-official-kills-coworker-embezzlement-south-pyongan/",
+      "published_date": "2026-08-31T17:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e15615c80314b4566f39ea980f11e9ee",
+      "title": "Cheap North Korean coal keeps flowing into China despite U.N. ban",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-coal-mineral-exports-china-sanctions/",
+      "published_date": "2026-08-31T14:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "323bc637afcbd9609d26ccba48a2bf3e",
+      "title": "Body of suspected 6-year-old North Korean boy found near island",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/body-of-suspected-6-year-old-north-korean-boy-found-near-island/",
+      "published_date": "2026-08-31T09:19:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4c96de4285c137dcfd4486b0011b0a67",
+      "title": "ROK taps veteran general for defense minister as North also names new top brass",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/rok-taps-veteran-general-for-defense-minister-as-north-also-names-new-top-brass/",
+      "published_date": "2026-08-31T08:01:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1d1c791e3d3addeac471c8702ebbf8ad",
+      "title": "(2nd LD) Seoul shares end higher despite hawkish Fed chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831007552320",
+      "published_date": "2026-08-31T07:38:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ecfcf89af53530c84e8d686873ea743d",
+      "title": "(LEAD) S. Korean ambassador to Moscow to attend Russia's economic forum",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831004451315",
+      "published_date": "2026-08-31T07:02:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "096d61d96211c1288b0aa61e719cf3b6",
+      "title": "(LEAD) Seoul shares end higher despite hawkish Fed chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831007551320",
+      "published_date": "2026-08-31T07:00:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b2ee8910190a35a88573a837c333292e",
+      "title": "Seoul shares end higher despite hawkish Fed chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831007500320",
+      "published_date": "2026-08-31T06:43:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "01934e2fce5cb6ec886bf1d235d242d3",
+      "title": "(LEAD) N. Korea denounces U.S. hostile policy toward it, vows 'toughest' response",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831006951315",
+      "published_date": "2026-08-31T06:38:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "badf120508958aec781201e8a2517eca",
+      "title": "(URGENT) Court sentences Unification Church leader to 2 years in prison in bribery case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831007000315",
+      "published_date": "2026-08-31T05:41:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4fc368388aad7a669d12f8bc98b69a3b",
+      "title": "N. Korea denounces U.S. hostile policy toward it, vows 'toughest' response",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831006900315",
+      "published_date": "2026-08-31T05:38:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "95c2da7fce379eae3bad047d489d0616",
+      "title": "(URGENT) N. Korea denounces U.S. hostile policy toward it, vows 'toughest' response",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831006700315",
+      "published_date": "2026-08-31T05:15:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "846bd78e2bf2fc40d7df0f6921f738d1",
+      "title": "S. Korea, U.S. agree to expand cooperation in nuclear, high-energy physics",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831006100320",
+      "published_date": "2026-08-31T04:39:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2e9a450d7b94f33da580c7e158968bb2",
+      "title": "Unification ministry not to attend Russia's economic forum this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831004400315",
+      "published_date": "2026-08-31T02:29:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "583f3b47ebf7f747ca9504a1d91a448e",
+      "title": "(LEAD) S. Korea, U.S. discuss energy cooperation amid heightened uncertainty",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831002451320",
+      "published_date": "2026-08-31T01:56:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3fd49ef90fe69e2bd7a76802f96f2bb0",
+      "title": "T'way Air to operate as Trinity Airways from Sept. 10",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831003300320",
+      "published_date": "2026-08-31T01:02:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "159b760ef8865f6c52eac827d180105d",
+      "title": "Girls' Generation's HRS unit to drop debut single",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831003400315",
+      "published_date": "2026-08-31T00:58:14Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "e087f44fe5cf406ac269ccd082332ff7",
       "title": "Song Sung-mun marks MLB return with RBI for Padres",
@@ -32,145 +168,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260831001500315",
       "published_date": "2026-08-30T23:45:34Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "efbd49d644c7b356dff07cc5b64381c9",
-      "title": "Kim Hyo-joo finishes runner-up on LPGA Tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831000900315",
-      "published_date": "2026-08-30T22:23:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cf456712cdb73917ecb35bc93ab5cfef",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 31)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831000700315",
-      "published_date": "2026-08-30T21:57:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ec9b90f9d17c08106b0042290a26e642",
-      "title": "(EDITORIAL from Korea Times on Aug. 31)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831000600315",
-      "published_date": "2026-08-30T21:57:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "49937f7351d68626a8fd9dc4b3de2af9",
-      "title": "(EDITORIAL from Korea Herald on Aug. 31)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831000500315",
-      "published_date": "2026-08-30T21:57:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e3dd687f65b718046ba32f5208dccb5a",
-      "title": "North Korean youth embrace hand gestures to express emotion",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-youth-hand-gestures-v-sign/",
-      "published_date": "2026-08-30T21:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "812d299f19eff3690132456fc802a1e1",
-      "title": "North Korea skims pay hike meant for workers sent to China",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-workers-china-wages-take-home-pay/",
-      "published_date": "2026-08-30T18:52:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0d806820ffac52f1310b55f4512f979d",
-      "title": "81 pct of S. Koreans want marriage vs. 58 pct of Japanese: survey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830003100315",
-      "published_date": "2026-08-30T08:44:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a7dad838b586e4b3118782c3d20320bc",
-      "title": "(profile) Basic income advocate tapped as gender equality minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830002500315",
-      "published_date": "2026-08-30T06:43:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c2e14d046625fa616ecc9458b649e0e1",
-      "title": "(profile) Prosecutorial reform advocate tapped as new justice minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830002300315",
-      "published_date": "2026-08-30T05:58:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "af0596996d2cddec08caba6184c0a6ae",
-      "title": "(profile) Ambassador to Saudi Arabia tapped as new defense minister nominee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830002200315",
-      "published_date": "2026-08-30T05:08:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "648f4a036382bcbf0e28ad6e59111270",
-      "title": "(2nd LD) Lee nominates 6 ministers in major Cabinet reshuffle, including finance minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001652315",
-      "published_date": "2026-08-30T04:22:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "227f547201b16f9cd07f94965f9a2441",
-      "title": "(LEAD) Lee nominates 6 ministers in major Cabinet reshuffle, including finance minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001651315",
-      "published_date": "2026-08-30T03:52:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9171f5d132974a0650407c089b43ad99",
-      "title": "Lee nominates 6 ministers in major Cabinet reshuffle, including finance minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001600315",
-      "published_date": "2026-08-30T03:11:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "08b5b2016c32b1863e67df3b010add81",
-      "title": "(LEAD) Finance minister proceeds with planned trip to G20 meeting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830000951320",
-      "published_date": "2026-08-30T03:02:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "81c517694b4c94824af546a98b614256",
-      "title": "(URGENT) Lee taps ruling party lawmaker Kim Seung-won as new justice minister, minor party lawmaker Yong Hye-in as new gender equality minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001400315",
-      "published_date": "2026-08-30T02:46:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0098e366ba86894a41727b51f20942e3",
-      "title": "(URGENT) Lee taps Vice Land Minister Hong Jee-sun as new land minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001300315",
-      "published_date": "2026-08-30T02:42:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5cafac060ba9d2da0b798abed76238c5",
-      "title": "(URGENT) Lee taps Vice Finance Minister Lee Hyoung-il as new finance minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001100315",
-      "published_date": "2026-08-30T02:38:36Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "474129a00a56ce89aeb7ecff36b2e2c5",
+      "title": "Trump’s trifecta of failure on Seoul hands Kim Jong Un the advantage",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/08/trumps-trifecta-of-failure-on-seoul-hands-kim-jong-un-the-advantage/",
+      "published_date": "2026-08-31T09:32:41Z",
+      "category": "Military"
+    },
+    {
+      "id": "1374ad019642e0363ccdbcaa55d8b109",
+      "title": "Outgoing defense minister expresses 'mixed' feelings following Cabinet reshuffle",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831009800315",
+      "published_date": "2026-08-31T08:52:38Z",
+      "category": "Military"
+    },
+    {
+      "id": "91536dc9c3af7e458bccfd463d0bf92e",
+      "title": "Hanwha Aerospace signs deal to export K9 howitzers to Spain",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831004000320",
+      "published_date": "2026-08-31T02:07:16Z",
+      "category": "Military"
+    },
     {
       "id": "84d0a7aaf05e738888eeb193cd776018",
       "title": "Gov't launches 2nd half program to recover remains of fallen Korean War soldiers",
@@ -306,33 +330,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260827009100315",
       "published_date": "2026-08-27T07:29:10Z",
       "category": "Military"
-    },
-    {
-      "id": "50b6f27e9e99266d7afc961529528c8b",
-      "title": "Ex-special forces commander sentenced to 12-yr prison term for martial law role",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260827007900315",
-      "published_date": "2026-08-27T06:39:59Z",
-      "category": "Military"
-    },
-    {
-      "id": "b437bfccbdee3164b01689e38cbc8296",
-      "title": "Seoul seeks better public input after disrupted hearing on military academy plan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260827006200315",
-      "published_date": "2026-08-27T04:57:38Z",
-      "category": "Military"
-    },
-    {
-      "id": "2b44b425d0f21b4346701912320b98fd",
-      "title": "PPP lawmakers propose special bill on nuclear-powered subs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260827004300315",
-      "published_date": "2026-08-27T02:24:27Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "afdbc2a3d7ee622cf2d626261e868bbf",
+      "title": "S. Korea imposes travel ban on parts of Pakistan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831010200320",
+      "published_date": "2026-08-31T10:12:39Z",
+      "category": "Energy"
+    },
+    {
+      "id": "e8e2c51fa5406926d414979111c33095",
+      "title": "S. Korean won advances to 13-month high on dollar selling",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831008600320",
+      "published_date": "2026-08-31T07:30:31Z",
+      "category": "Energy"
+    },
+    {
+      "id": "7c578ca02d862078abaa604133637069",
+      "title": "DAPA completes development of armored medical evacuation vehicle",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831003600315",
+      "published_date": "2026-08-31T01:41:59Z",
+      "category": "Energy"
+    },
+    {
+      "id": "abc119c927ffca374cbcba60326b047e",
+      "title": "SK On signs ESS battery deal with U.S. firm NeoVolta Power",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831003500320",
+      "published_date": "2026-08-31T01:32:51Z",
+      "category": "Energy"
+    },
     {
       "id": "36e33eaf86f6b7de1f149eebe86fdc16",
       "title": "PM orders thorough readiness against heavy rain",
@@ -460,41 +492,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260825010500320",
       "published_date": "2026-08-25T10:18:17Z",
       "category": "Energy"
-    },
-    {
-      "id": "5eabc6aa3d26f49111803e401fba6f66",
-      "title": "Space agency to develop 5-seat hybrid VTOL aircraft",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825006800320",
-      "published_date": "2026-08-25T06:02:05Z",
-      "category": "Energy"
-    },
-    {
-      "id": "2e92ca25934e658fa0aa21a84fb8f054",
-      "title": "EV-related complaints, petitions rise 1.8-fold over 3 yrs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825003300315",
-      "published_date": "2026-08-25T01:25:34Z",
-      "category": "Energy"
-    },
-    {
-      "id": "c70a9663d7bde76c69290f0e5f177199",
-      "title": "S. Korea to develop environmental, ocean observation satellite",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825001400320",
-      "published_date": "2026-08-25T00:00:02Z",
-      "category": "Energy"
-    },
-    {
-      "id": "4c2bd12eeeaadc9acc69bb0354d4ac0f",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Aug. 25)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260825001000315",
-      "published_date": "2026-08-24T22:03:30Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "090f2bd77cca08f29b7405265792b01f",
+      "title": "North Korean man arrested for running job placement scam",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-sariwon-job-placement-scam-arrest/",
+      "published_date": "2026-08-31T14:23:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0d14b49ca925b06fa9080f21f3d0a508",
+      "title": "S. Korea's biz lobby group chief calls for stronger economic ties with Japan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831007100320",
+      "published_date": "2026-08-31T06:01:07Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5efee3bc8a6a6421eafe58b87aa43325",
+      "title": "Fair trade watchdog approves Hanwha's acquisition of additional KAI stakes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831006800320",
+      "published_date": "2026-08-31T05:29:50Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9a018da9e8ba53bb6626ad0c1a3f75d9",
+      "title": "GS Retail fined 12.8 bln won over personal data leak of 1.66 mln customers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831003900315",
+      "published_date": "2026-08-31T02:22:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "53ecc76af5e72efa3d98b826cb711ec4",
+      "title": "Tax revenue up 8.4 tln won in July on higher wages, brisk stock trading",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260831002300320",
+      "published_date": "2026-08-31T02:00:08Z",
+      "category": "Economy"
+    },
     {
       "id": "d5cf1c13ca9b5749c61cb002497e16e0",
       "title": "(2nd LD) Industrial output flat in July; retail sales down, facility investment up",
@@ -614,207 +654,167 @@
       "url": "https://en.yna.co.kr/view/AEN20260828005100320",
       "published_date": "2026-08-28T07:30:03Z",
       "category": "Economy"
-    },
-    {
-      "id": "8814f0c452f23b52b5f1cf89e54d7799",
-      "title": "(LEAD) Seoul stocks snap 3-day rise on tech slump",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828006651320",
-      "published_date": "2026-08-28T06:58:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a7a5edd8e7e47ca6bdd0293edfad28b8",
-      "title": "Seoul stocks snap 3-day rise on tech slump",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828006600320",
-      "published_date": "2026-08-28T06:35:20Z",
-      "category": "Economy"
-    },
-    {
-      "id": "354a6bb388174def9bf230ac01b44621",
-      "title": "(URGENT) Seoul stocks snap 3-day winning streak on tech slump",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828006300320",
-      "published_date": "2026-08-28T06:33:53Z",
-      "category": "Economy"
-    },
-    {
-      "id": "77f948ff86dfa76865f0885ab00fb22b",
-      "title": "(URGENT) Cheong Wa Dae says asked chief justice of Supreme Court to make fresh recommendation of new justice",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828005700315",
-      "published_date": "2026-08-28T05:07:17Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6729b90d8c2597b65bc397936795821e",
-      "title": "Foreign currency deposits rise to all-time high in July",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828003000320",
-      "published_date": "2026-08-28T03:00:03Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "id": "25f542e2533b7c451c02ee3ba83f6aca",
-      "title": "Land minister nominee vows close consultations with Seoul on housing supply",
+      "id": "7498b488b59b17dbbc50e9e710f7a8e5",
+      "title": "(3rd LD) Despite helicopter, drone searches, no meaningful progress in finding missing Koreans in Nepal: official",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831003100320",
-      "published_date": "2026-08-31T00:54:56Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831006053315",
+      "published_date": "2026-08-31T17:49:29Z",
       "category": "Local Events"
     },
     {
-      "id": "bc48f428287d0ea86f2279e2dc63434c",
-      "title": "(LEAD) Seoul shares open sharply lower on Fed chief's hawkish comments",
+      "id": "98d1350dd29828c37103487f202e0f21",
+      "title": "Nine S. Koreans rescued from Nepal floods return home",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001851320",
-      "published_date": "2026-08-31T00:33:02Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831010300320",
+      "published_date": "2026-08-31T11:39:31Z",
       "category": "Local Events"
     },
     {
-      "id": "ee938fd9aa3867f229aa57cae487f0e9",
-      "title": "Seoul shares open sharply lower on Fed chief's hawkish comments",
+      "id": "d538fda8ce33300d94012fcdbb8c32ec",
+      "title": "(2nd LD) Helicopter search resumes for 9 missing Koreans in Nepal floods",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001800320",
-      "published_date": "2026-08-31T00:04:34Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831006052315",
+      "published_date": "2026-08-31T11:19:59Z",
       "category": "Local Events"
     },
     {
-      "id": "b4fe30104538645f3cfade038cfd89b5",
-      "title": "KBO's Seoul rivals set for final 3-game series at historic stadium",
+      "id": "ac64a49b09a8ea14b0325605f7112762",
+      "title": "Police to disclose identity of suspect in murder of Chinese graduate student",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001900315",
-      "published_date": "2026-08-31T00:03:02Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831010100315",
+      "published_date": "2026-08-31T10:04:58Z",
       "category": "Local Events"
     },
     {
-      "id": "9ceec56ceb4ad8501144614925700a8e",
-      "title": "(URGENT) Seoul shares open 2.58 pct lower on Fed chief's hawkish comments",
+      "id": "4be93f9729a5dddb28f351cf720697bb",
+      "title": "Prosecutors seek death penalty for Gwangju murder suspect",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001700320",
-      "published_date": "2026-08-31T00:01:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831010000315",
+      "published_date": "2026-08-31T09:36:12Z",
       "category": "Local Events"
     },
     {
-      "id": "85422b510f9e428c39a4469f950b73e1",
-      "title": "Court set to rule on Unification Church leader's bribery case involving ex-first lady",
+      "id": "d1e0e18b5333a9f1d36bbef33298fc04",
+      "title": "(LEAD) Gov't team begins ground search for 9 missing Koreans in Nepal floods",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001600315",
-      "published_date": "2026-08-30T23:55:58Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831006051315",
+      "published_date": "2026-08-31T09:17:55Z",
       "category": "Local Events"
     },
     {
-      "id": "801cd89e5e23534c1ed22f1835a8d29c",
-      "title": "(LEAD) 2 S. Koreans tie for 14th at PGA Tour playoff finale",
+      "id": "965535e153406aca5bb3e035d2530614",
+      "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001251315",
-      "published_date": "2026-08-30T23:38:55Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831009100315",
+      "published_date": "2026-08-31T08:04:54Z",
       "category": "Local Events"
     },
     {
-      "id": "ca832e0c61cb5827a2660283c9a7ed4b",
-      "title": "'The Odyssey' becomes most-watched foreign film in S. Korea this year",
+      "id": "7ba2d377e1b156641f9e12d26e3baef4",
+      "title": "Prosecutors seek 10-yr sentence for Pakistani man in child rape case",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001300315",
-      "published_date": "2026-08-30T23:36:16Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831008900315",
+      "published_date": "2026-08-31T07:52:56Z",
       "category": "Local Events"
     },
     {
-      "id": "aa0553bbd848cf6a303c0ee98ce7dd2f",
-      "title": "2 S. Koreans tie for 14th at PGA Tour playoff finale",
+      "id": "87f47c310240aca361fefff42d106650",
+      "title": "(3rd LD) Unification Church leader sentenced to 2-yr prison term in bribery case",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831001200315",
-      "published_date": "2026-08-30T22:57:03Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831001653315",
+      "published_date": "2026-08-31T07:46:47Z",
       "category": "Local Events"
     },
     {
-      "id": "a628dcec925962e8923af0b0f6c9a639",
-      "title": "Top headlines in major S. Korean newspapers",
+      "id": "7bfff76367e519138a06225f7c26f65a",
+      "title": "(LEAD) Korean films set for back-to-back release after 'The Odyssey,' 'Spider-Man' hype",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831000400315",
-      "published_date": "2026-08-30T21:57:17Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831003851315",
+      "published_date": "2026-08-31T07:25:39Z",
       "category": "Local Events"
     },
     {
-      "id": "f0b670655478f88bf8a8c7a173119dff",
-      "title": "(LEAD) Enhypen claims 1st No. 1 on Billboard 200 with 'The Sin: Bliss'",
+      "id": "c7ee131f431914346c08174282a9e3dc",
+      "title": "(2nd LD) Unification Church leader sentenced to 2-yr prison term in bribery case",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831000251315",
-      "published_date": "2026-08-30T21:27:58Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831001652315",
+      "published_date": "2026-08-31T06:37:41Z",
       "category": "Local Events"
     },
     {
-      "id": "878bf90d77ad73d60c9489ad8901961f",
-      "title": "Enhypen claims 1st No. 1 on Billboard 200 with 'The Sin: Bliss'",
+      "id": "4536f0452c4d2ad6ca65d990fdd60c63",
+      "title": "Hybe chairman to be referred to prosecution over alleged deception of shareholders: police",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831000200315",
-      "published_date": "2026-08-30T20:47:22Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831007600315",
+      "published_date": "2026-08-31T06:37:22Z",
       "category": "Local Events"
     },
     {
-      "id": "193acbd835cfb7bbd59de4bcd28d9bca",
-      "title": "(LEAD) S. Korean helicopter search canceled for 9 missing in Nepal floods",
+      "id": "aa64d8ba6254adfb6100c8719134b78b",
+      "title": "(URGENT) Seoul shares end higher despite hawkish Fed chief",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830002751315",
-      "published_date": "2026-08-30T13:49:29Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831007400320",
+      "published_date": "2026-08-31T06:31:42Z",
       "category": "Local Events"
     },
     {
-      "id": "703d015fd88844840b86fce16e6a5fba",
-      "title": "Heavy rains batter southern region, flooding roads, trapping hikers",
+      "id": "700c689220af61bf943e35b098fe4fcd",
+      "title": "(LEAD) Unification Church leader sentenced to 2-yr prison term in bribery case",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830004300315",
-      "published_date": "2026-08-30T13:35:59Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831001651315",
+      "published_date": "2026-08-31T05:47:04Z",
       "category": "Local Events"
     },
     {
-      "id": "844bb7dbeb8223e50ef756f219a16c73",
-      "title": "S. Korea employs helicopters for 2nd day to search for 9 missing nationals following massive flood",
+      "id": "5cde2feee2051c27b57eb79f929a7e80",
+      "title": "Main opposition slams Lee's Cabinet reshuffle over key ministerial picks",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830002700315",
-      "published_date": "2026-08-30T08:01:57Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831005900315",
+      "published_date": "2026-08-31T05:14:40Z",
       "category": "Local Events"
     },
     {
-      "id": "b32432f3aaff4c3c334055ddd3154f5c",
-      "title": "SME biz sentiment up for 2nd month for Sept. but still below par",
+      "id": "030744dae7a212afcb005e5294f129a6",
+      "title": "Go Woo-suk headed back to minors for Minnesota Twins after clearing waivers",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830002400320",
-      "published_date": "2026-08-30T06:02:05Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831006600315",
+      "published_date": "2026-08-31T05:01:22Z",
       "category": "Local Events"
     },
     {
-      "id": "1e39e5fce841ed6fa42dca6264425319",
+      "id": "1b2665c8dfb4b047d7342774af88c963",
       "title": "Today in Korean history",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830000400315",
-      "published_date": "2026-08-30T05:00:36Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831002600315",
+      "published_date": "2026-08-31T05:00:03Z",
       "category": "Local Events"
     },
     {
-      "id": "ca4a10f3dd84a37edbe01351ff9a1a9b",
-      "title": "(profile) Climate lawyer tapped as new SME minister",
+      "id": "4fbaeb665f036e6a1527c9841c71268c",
+      "title": "Cause of death unknown for missing woman found dead on Jeju: police",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830002100320",
-      "published_date": "2026-08-30T04:59:13Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831006500315",
+      "published_date": "2026-08-31T04:52:28Z",
       "category": "Local Events"
     },
     {
-      "id": "4e1c82e3a7f0b285f223ade34159a810",
-      "title": "(profile) Seasoned gov't official in housing, transport policy named new land minister",
+      "id": "a5925f8c1c407df71fdcb2b12e05049c",
+      "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001900320",
-      "published_date": "2026-08-30T04:08:49Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831006200315",
+      "published_date": "2026-08-31T04:30:00Z",
       "category": "Local Events"
     },
     {
-      "id": "b93eb4a1b6b09a44aeece4d22f1f10d2",
-      "title": "Over 350 police disciplinary actions overturned on appeal over 5 years",
+      "id": "af34bfa249bfac7b64d5fcc282ba71a1",
+      "title": "Gov't team begins ground search for 9 missing Koreans in Nepal floods",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001500315",
-      "published_date": "2026-08-30T03:07:58Z",
+      "url": "https://en.yna.co.kr/view/AEN20260831006000315",
+      "published_date": "2026-08-31T03:43:55Z",
       "category": "Local Events"
     }
   ]
