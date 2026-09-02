@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-01T15:24:25Z",
+  "generated_at": "2026-09-02T00:39:00Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "cec61c93044da3a59a55c6e92d9443ec",
+      "title": "Kia's U.S. sales hit record high in August; Hyundai sales decline",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902002400320",
+      "published_date": "2026-09-02T00:33:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a673f77adfd943a8b4d0be0017239238",
+      "title": "Hwang Hee-chan loaned to German club Schalke",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001500315",
+      "published_date": "2026-09-01T23:33:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6d52550acb07a58bb018efcaede1e726",
+      "title": "N. Korea's Kim reaffirms strong ties with Vietnam in National Day letter",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001400315",
+      "published_date": "2026-09-01T23:30:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "affed7d0b01e4ab380021a34d992cdaa",
+      "title": "White House says U.S. policy on N. Korea unchanged, reaffirms Trump's openness to dialogue with Kim",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001100315",
+      "published_date": "2026-09-01T22:53:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3d3167be58e30a04fc2329f5f69c2d63",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902000800320",
+      "published_date": "2026-09-01T22:01:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9fe174b479b15413ce77de43762743d6",
+      "title": "Bolton sees possibility of Trump meeting Kim in Pyongyang, warns of summit risks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902000200315",
+      "published_date": "2026-09-01T18:46:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6eee4b71adc71223c2f5019208cfa0b9",
+      "title": "North Korea sends new wave of workers to China as surveillance tightens",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-workers-return-china-factories/",
+      "published_date": "2026-09-01T17:10:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b6b0f795b624c0f3227043972c062d05",
       "title": "North Korean neighborhoods see rise of privately run makeshift stalls",
@@ -111,62 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/09/north-korea-starts-selling-travel-insurance-for-citizens-going-overseas/",
       "published_date": "2026-09-01T06:34:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fdd4d201396a567de2715587e897235a",
-      "title": "Ex-MLB player Choi Ji-man says young prospects deserve attention at KBO draft",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901008500315",
-      "published_date": "2026-09-01T06:25:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "96f958326906e53450ff19ac16120f60",
-      "title": "(2nd LD) S. Korea's spy agency notes possible signs of U.S.- N. Korea dialogue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901007152315",
-      "published_date": "2026-09-01T05:57:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bca1b6b326a583286284da3b2e6e5ecb",
-      "title": "Giant Russia-DPRK mural divides Vladivostok as artist embraces controversy",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/giant-russia-dprk-mural-divides-vladivostok-as-artist-embraces-controversy/",
-      "published_date": "2026-09-01T05:41:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1631ecfddc5f2c47928ab7fc7b6f0802",
-      "title": "Interim boss for men's nat'l football team tasked with restoring fans' faith",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901007400315",
-      "published_date": "2026-09-01T05:35:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4486ae0e555141700610d7fb62faf2f8",
-      "title": "(LEAD) S. Korea's spy agency notes possible signs of U.S.- N. Korea dialogue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901007151315",
-      "published_date": "2026-09-01T04:59:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2f6a1b4223f93543511731c5a566e7cf",
-      "title": "S. Korea's spy agency notes possible signs of U.S.- N. Korea dialogue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901007100315",
-      "published_date": "2026-09-01T04:04:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e6af38924b97d7be15b0539cf1c30568",
-      "title": "(URGENT) S. Korea's spy agency says summit between U.S., N. Korea possible at any time",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901007000315",
-      "published_date": "2026-09-01T03:50:33Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,46 @@
   ],
   "Energy": [
     {
+      "id": "6914f9702615928cd93896d344964f85",
+      "title": "FTC carries out on-site probe into Coupang on previous day: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902002200320",
+      "published_date": "2026-09-02T00:15:57Z",
+      "category": "Energy"
+    },
+    {
+      "id": "7ec674463fc70a53d8eb3a118cb2fd0d",
+      "title": "(LEAD) Consumer prices up 3.1 pct in Aug. on fuel, mobile subscription fees",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001251320",
+      "published_date": "2026-09-01T23:21:49Z",
+      "category": "Energy"
+    },
+    {
+      "id": "98941853705d56e1c838e9ecd3f5487d",
+      "title": "Consumer prices up 3.1 pct in Aug. amid high oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001200320",
+      "published_date": "2026-09-01T23:00:05Z",
+      "category": "Energy"
+    },
+    {
+      "id": "2134e6af9b96ade9f9a8de820528c801",
+      "title": "(URGENT) Consumer prices up 3.1 pct in Aug., jump back to 3 pct levels",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001000320",
+      "published_date": "2026-09-01T23:00:02Z",
+      "category": "Energy"
+    },
+    {
+      "id": "d473ff1443066fea4de9b3e172787e5e",
+      "title": "Bessent says Strait of Hormuz would be 'worthless piece of water' as oil pipelines bypass it",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902000300315",
+      "published_date": "2026-09-01T19:58:17Z",
+      "category": "Energy"
+    },
+    {
       "id": "3e0617c65cee8738d900f972f48a66e2",
       "title": "7 in 10 S. Koreans support social media restriction for teens",
       "source": "Yonhap News Agency",
@@ -452,49 +492,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260827001252320",
       "published_date": "2026-08-27T01:53:39Z",
       "category": "Energy"
-    },
-    {
-      "id": "0442327090312cacd116f606367ae692",
-      "title": "(LEAD) BOK raises key rate for 2nd consecutive session to 3 pct, revises up 2026 forecast to 3.3 pct",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260827001251320",
-      "published_date": "2026-08-27T01:05:50Z",
-      "category": "Energy"
-    },
-    {
-      "id": "bcccd7ebc99be1a49f90266e47ddc5b1",
-      "title": "(URGENT) BOK revises up S. Korea's 2026 growth outlook to 3.3 pct",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260819009200320",
-      "published_date": "2026-08-27T00:52:38Z",
-      "category": "Energy"
-    },
-    {
-      "id": "0be78de21d5d04cec54245998a967f70",
-      "title": "KBO attendance tops 10 mln in fewest games ever",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260826010600315",
-      "published_date": "2026-08-26T14:08:37Z",
-      "category": "Energy"
-    },
-    {
-      "id": "71feac6ef97865b0c3cd537d45be9827",
-      "title": "(2nd LD) Stocks close nearly 1 pct higher on chip gains ahead of Nvidia earnings release",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260826005952320",
-      "published_date": "2026-08-26T07:38:25Z",
-      "category": "Energy"
-    },
-    {
-      "id": "7a54f5245973ad7070629d9a9e547581",
-      "title": "(LEAD) Stocks close nearly 1 pct higher on chip gains ahead of Nvidia earnings release",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260826005951320",
-      "published_date": "2026-08-26T06:58:48Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "d00d5f0b41cc66b5998e84ab222aa7f1",
+      "title": "(LEAD) Seoul stocks open sharply lower amid escalating hostilities in Mideast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001751320",
+      "published_date": "2026-09-02T00:21:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c1b97238d82d36ea9853bd89c8a649c4",
+      "title": "Seoul stocks open sharply lower amid escalating hostilities in Mideast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001700320",
+      "published_date": "2026-09-02T00:02:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a34d59a2bf3baa54fdda9db8bf6ed096",
+      "title": "(URGENT) Seoul stocks open sharply lower amid escalating hostilities in Mideast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001600320",
+      "published_date": "2026-09-02T00:01:44Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9881cb5ad55aec83b6930568b8eaa82d",
+      "title": "(EDITORIAL from Korea Herald on Sept. 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902000600320",
+      "published_date": "2026-09-01T22:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "debbe4dc041da225707fa542605beeed",
+      "title": "Banks' bad-loan ratio up in Q2",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260901009700320",
+      "published_date": "2026-09-01T21:00:08Z",
+      "category": "Economy"
+    },
     {
       "id": "2e8b1f9763d9e60a64847494db6017af",
       "title": "LG Twins manager, GM welcome back pitcher Go Woo-suk from U.S.",
@@ -614,49 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260901003100315",
       "published_date": "2026-09-01T02:54:16Z",
       "category": "Economy"
-    },
-    {
-      "id": "f29c788a158e2a7c259c71106e477f43",
-      "title": "Labor ministry seeks over 38 tln won in 2027 budget",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901003400315",
-      "published_date": "2026-09-01T02:53:17Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9eb424c353409b260b703b2b4e94e9f6",
-      "title": "(News Focus) Gov't to set aside 162 tln won in chip-boom tax 'windfall' for sustainable growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901001200320",
-      "published_date": "2026-09-01T02:42:43Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0b0a85634eeb17069c5e5498721ca735",
-      "title": "Gist of proposed state budget for 2027",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901000600320",
-      "published_date": "2026-09-01T02:41:15Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4eb0dc3d9632ce21cc2859899960826a",
-      "title": "(LEAD) Gov't proposes record 821 tln-won budget for 2027 to boost growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901000700320",
-      "published_date": "2026-09-01T02:40:50Z",
-      "category": "Economy"
-    },
-    {
-      "id": "481f5e5494643e2a132b798de8c68e05",
-      "title": "Seoul shares down Tues. morning on renewed military tensions in Mideast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901006300320",
-      "published_date": "2026-09-01T02:33:06Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "2f19f2072619421665b9cfd4eaf5b59e",
+      "title": "S. Korea's biggest art fairs to open in Seoul",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902002300315",
+      "published_date": "2026-09-02T00:31:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "aace809c882468a897c862cbd8193558",
+      "title": "Man ordered to pay full damages for wasting police resources with fake bomb threat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001300315",
+      "published_date": "2026-09-02T00:13:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b3527f63a01eb8d324c50f7b7f96cbc9",
+      "title": "Im Sung-jae to compete at Presidents Cup as captain's pick",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902001800315",
+      "published_date": "2026-09-01T23:54:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "64bb111b1a1413eb9d59fb2cc213f1fa",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902000500320",
+      "published_date": "2026-09-01T22:18:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f811b3e2ccdb737108f0c67faed795e7",
+      "title": "(EDITORIAL from Korea Times on Sept. 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902000700320",
+      "published_date": "2026-09-01T22:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2fb1e4fabf6716aa4afbcd80779f1696",
+      "title": "(3rd LD) S. Korea dispatches disaster relief team to Nepal to support flood recovery efforts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260901003554315",
+      "published_date": "2026-09-01T16:51:04Z",
+      "category": "Local Events"
+    },
     {
       "id": "8642328c529d89c2d01ec25d4b19e43a",
       "title": "Gyeongnam police chief appointed acting commissioner of Korean National Police Agency",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260901006700315",
       "published_date": "2026-09-01T05:18:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4580f9bada1f2677975a52f1cb026505",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901004800315",
-      "published_date": "2026-09-01T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "25337e6934bbb44313d146577ad1985b",
-      "title": "4 Uzbek men nabbed in S. Korea over alleged support to terrorist group in Syria",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901007200315",
-      "published_date": "2026-09-01T04:52:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8cd98f9ad701c757cd80429191030b1c",
-      "title": "(LEAD) Ex-Spain head coach Robert Moreno named temporary manager for men's nat'l football team",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901006251315",
-      "published_date": "2026-09-01T04:32:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "643273f38c1982eef5d3f06bd2165593",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901006800315",
-      "published_date": "2026-09-01T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a773483c294856f0a8c256cca2e69e31",
-      "title": "(URGENT) S. Korea's spy agency says there are signs of possible dialogue between N. Korea, U.S.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901006900315",
-      "published_date": "2026-09-01T03:41:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8236de1e2a3e2df560ee6a4a495acaba",
-      "title": "Online shopping sales up 7.3 pct in July on food delivery services",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901003700320",
-      "published_date": "2026-09-01T03:00:06Z",
       "category": "Local Events"
     }
   ]
