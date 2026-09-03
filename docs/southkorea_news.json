@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-02T15:00:15Z",
+  "generated_at": "2026-09-03T00:50:03Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,8 +10,48 @@
   ],
   "Diplomacy": [
     {
+      "id": "ba55b358fbcbe201066358dd34bf6a56",
+      "title": "Hyundai Mobis begins EV power system production in Slovakia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903002100320",
+      "published_date": "2026-09-03T00:44:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "67e4cc37ac5fce881933a0a8953641b7",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903000800315",
+      "published_date": "2026-09-02T22:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dc6ca069892a6805d6080ed785841dc1",
+      "title": "North Korea tightens control over vehicle use, expands road traffic law",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-road-traffic-law-vehicle-restrictions/",
+      "published_date": "2026-09-02T20:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1489c91e73b67ca0f0b9fbc2b21c726e",
+      "title": "(LEAD) S. Korean, Japanese, Turkish frigates being considered for new U.S. frigate class: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902010551315",
+      "published_date": "2026-09-02T17:54:48Z",
+      "category": "Diplomacy"
+    },
+    {
       "id": "3140be423d199c2839931d1a29275dcf",
       "title": "S. Korea, Japanese, Turkish warships being considered for new U.S. frigate competition: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902010500315",
+      "published_date": "2026-09-02T14:49:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "198af66f4b9ec80ea5f7bb8185ce26e1",
+      "title": "S. Korean, Japanese, Turkish warships being considered for new U.S. frigate competition: report",
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260902010500315",
       "published_date": "2026-09-02T14:49:30Z",
@@ -127,46 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/09/rok-japan-lambast-russia-north-korea-military-ties-at-un-debate-on-ukraine/",
       "published_date": "2026-09-02T04:01:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dd1bb78dbd788a5c3be50a5aa069beee",
-      "title": "KISO announces 1st deliberation results after Network Act revision",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902005500320",
-      "published_date": "2026-09-02T03:21:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "086cc1126b891173f6140ac33f851746",
-      "title": "Trump-Kim summit could do more harm than good for US interests, Bolton warns",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/trump-kim-summit-could-do-more-harm-than-good-for-us-interests-bolton-warns/",
-      "published_date": "2026-09-02T02:49:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ac5fed751dec4990432aad0eb816797a",
-      "title": "(LEAD) Lee says now is time to expand economic pie, rather than welfare",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902003551315",
-      "published_date": "2026-09-02T02:27:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "af1eb66987062e0de91f9558c1f02de6",
-      "title": "Lee says now is time to expand economic pie, rather than welfare",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902003500315",
-      "published_date": "2026-09-02T01:49:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2fe4f2ea6b7e6d42de349b361c8e6860",
-      "title": "LG Twins sign ex-closer Go Woo-suk following brief MLB stint",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902003300315",
-      "published_date": "2026-09-02T01:31:11Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,46 @@
   ],
   "Energy": [
     {
+      "id": "46f941fa1779ddb988bf09fd09bd3040",
+      "title": "(LEAD) Seoul stocks open higher tracking U.S. gains as oil prices ease",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903001451320",
+      "published_date": "2026-09-03T00:24:16Z",
+      "category": "Energy"
+    },
+    {
+      "id": "2456dca6c34739f8379fe973e06ecf19",
+      "title": "Seoul stocks open higher tracking U.S. gains as oil prices ease",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903001400320",
+      "published_date": "2026-09-03T00:03:50Z",
+      "category": "Energy"
+    },
+    {
+      "id": "8a7c0a554c5fc46a08345163b5bd3ff7",
+      "title": "(URGENT) Seoul stocks open higher tracking U.S. gains as oil prices ease",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903001300320",
+      "published_date": "2026-09-03T00:01:24Z",
+      "category": "Energy"
+    },
+    {
+      "id": "63195efa1a41c376e69f2e3fed49747b",
+      "title": "Trump says S. Korea, Japan, others going to Alaska to 'load up' with oil, build pipelines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903000300315",
+      "published_date": "2026-09-02T21:02:51Z",
+      "category": "Energy"
+    },
+    {
+      "id": "971ba0c5748ff98e36887d4b8a47ec9a",
+      "title": "Lutnick: Trump gov't considering 'targeted,' thoughtful' tariff policy for semiconductors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903000200315",
+      "published_date": "2026-09-02T16:59:12Z",
+      "category": "Energy"
+    },
+    {
       "id": "760351c0cbfe193206e39ab18ff0cabd",
       "title": "U.S. restaurant chain Chipotle opens 1st Asian outlet in Seoul",
       "source": "Yonhap News Agency",
@@ -452,49 +492,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260831010200320",
       "published_date": "2026-08-31T10:12:39Z",
       "category": "Energy"
-    },
-    {
-      "id": "e8e2c51fa5406926d414979111c33095",
-      "title": "S. Korean won advances to 13-month high on dollar selling",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831008600320",
-      "published_date": "2026-08-31T07:30:31Z",
-      "category": "Energy"
-    },
-    {
-      "id": "7c578ca02d862078abaa604133637069",
-      "title": "DAPA completes development of armored medical evacuation vehicle",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831003600315",
-      "published_date": "2026-08-31T01:41:59Z",
-      "category": "Energy"
-    },
-    {
-      "id": "abc119c927ffca374cbcba60326b047e",
-      "title": "SK On signs ESS battery deal with U.S. firm NeoVolta Power",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260831003500320",
-      "published_date": "2026-08-31T01:32:51Z",
-      "category": "Energy"
-    },
-    {
-      "id": "36e33eaf86f6b7de1f149eebe86fdc16",
-      "title": "PM orders thorough readiness against heavy rain",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830003300315",
-      "published_date": "2026-08-30T11:27:54Z",
-      "category": "Energy"
-    },
-    {
-      "id": "ad670da612560888737be98fd536bb92",
-      "title": "Bears manager not relaxing even with club firmly in KBO postseason position",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260828010600315",
-      "published_date": "2026-08-28T08:32:04Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "c71e75dc8caf9bc374a93fac40cced9b",
+      "title": "Hanwha Ocean clinches 1.5 tln-won deal for 6 container ships from Taiwan's Yang Ming",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903001200320",
+      "published_date": "2026-09-02T23:40:56Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3379dba6f1b596f5f7d9885da273a6e7",
+      "title": "(EDITORIAL from Korea Herald on Sept. 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903000600315",
+      "published_date": "2026-09-02T21:59:23Z",
+      "category": "Economy"
+    },
     {
       "id": "a48560a227b652f8f505348585574c58",
       "title": "(2nd LD) Seoul shares tumble 4 pct on renewed U.S.-Iran tensions; won strengthens",
@@ -638,25 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260901008351320",
       "published_date": "2026-09-01T06:53:14Z",
       "category": "Economy"
-    },
-    {
-      "id": "dcb064c8627b1da8edf4951c29463ea9",
-      "title": "Hanwha Ocean wins 477.8 bln-won order for 3 VLGCs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901008900320",
-      "published_date": "2026-09-01T06:43:44Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4f1836e0cb2ca5c25146c9904bd6c6b0",
-      "title": "Seoul shares rise for 2nd day on tech gains despite renewed Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260901008300320",
-      "published_date": "2026-09-01T06:34:30Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "bac07c12287a1b2ab3dfc8a0d5f79991",
+      "title": "N. Korea's Kim stresses role of education at teachers' conference",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903001900315",
+      "published_date": "2026-09-03T00:35:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e5ba16636514bf6f4a9f726b441c24c7",
+      "title": "(EDITORIAL from Korea Times on Sept. 3)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903000700315",
+      "published_date": "2026-09-02T21:59:42Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9e03e5cf092daccaf46674daab0145e7",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260903000500315",
+      "published_date": "2026-09-02T21:59:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9d5a8e30363b810eebdda26599d0ab12",
+      "title": "S. Korea's foreign reserves post record monthly gain in Aug.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260902009100320",
+      "published_date": "2026-09-02T21:00:11Z",
+      "category": "Local Events"
+    },
     {
       "id": "d40bab365fe136c3934d68f299ee258f",
       "title": "(LEAD) Intensive search under way for 9 S. Koreans missing in Nepal floods",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260902005900315",
       "published_date": "2026-09-02T05:15:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4bfc6ebbf29236b29828f9c0412ad41f",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902000900320",
-      "published_date": "2026-09-02T05:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f9d66a115355e8bcd5ac9002e1c08f33",
-      "title": "Players, manager for high school baseball team suspended over trash talk",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902005700315",
-      "published_date": "2026-09-02T04:45:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "92543dc754db60207cd14ad585dc43fe",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902005600320",
-      "published_date": "2026-09-02T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "42f0fc50e44e302bc31861fecf6ea1d5",
-      "title": "Foreigners' card spending in S. Korea hits record high in Q2",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902003700320",
-      "published_date": "2026-09-02T03:00:04Z",
       "category": "Local Events"
     }
   ]
