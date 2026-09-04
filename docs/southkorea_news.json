@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-03T14:54:27Z",
+  "generated_at": "2026-09-04T00:30:33Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "f34a8ec60e81b97622707b76bcc3c632",
+      "title": "Japan's defense minister to skip annual security dialogue in Seoul after war shrine visit: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904001200315",
+      "published_date": "2026-09-03T23:21:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c19db7b1069ffd5425afb93806c22331",
+      "title": "S. Korea to launch next-generation land observation satellites from 2030",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904001300320",
+      "published_date": "2026-09-03T23:18:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5e44349078d04d1f2a1a130d109b20c6",
+      "title": "S. Korea extends current account surplus in July amid strong exports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904001100320",
+      "published_date": "2026-09-03T23:00:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2e1123356442e83596fa92549b310f26",
+      "title": "(URGENT) S. Korea logs US$42 bln current account surplus in July, posts monthly record: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904001000320",
+      "published_date": "2026-09-03T23:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "09bd8bc292396403e710cbe0473a4992",
+      "title": "Vance warns against relying on 'brittle,' 'adversarial' countries for supply chains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904000300315",
+      "published_date": "2026-09-03T20:11:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3f68e996653c6bd0c7a4a0d257299e27",
+      "title": "New leadership signals shift in North Korea’s political prison camp oversight",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-political-prison-camps-reorganization-2026/",
+      "published_date": "2026-09-03T18:11:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "fb33225797d2a677ba6082a2f37cc39b",
       "title": "North Koreans are winning — Kim Jong Un isn’t",
@@ -120,57 +168,17 @@
       "url": "https://www.nknews.org/2026/09/south-korean-company-seeks-a-return-to-north-korea-to-make-school-uniforms/",
       "published_date": "2026-09-03T05:22:37Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "2a36e5ab71bd6f7f31722833821946fd",
-      "title": "Senior military official calls for joint operational readiness in Indo-Pacific",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903006400315",
-      "published_date": "2026-09-03T05:18:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fa2eb834767879831d6495385b4b5ea0",
-      "title": "Gov't to merge, restructure state-run firms, guarantee job security",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903006200320",
-      "published_date": "2026-09-03T05:16:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a541f4925f6f48595084816cc8627034",
-      "title": "(LEAD) Justice minister nominee denies intention to cancel indictments against Lee once in office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903002851315",
-      "published_date": "2026-09-03T05:13:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "217887721e283fdc40a465af695f54d8",
-      "title": "Presidential security service launches situation room for upcoming Korea-Central Asia summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903006300315",
-      "published_date": "2026-09-03T05:10:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "997e1abacf00d2c59d5b4fc5ec5678ef",
-      "title": "Nearly 40 mln Tving accounts compromised in massive data breach: probe",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903006100320",
-      "published_date": "2026-09-03T05:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cd133738e192a7eceace1ad19a99090a",
-      "title": "N. Korea drops unification goal, cements Kim as sole leader in revised party charter",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903006000315",
-      "published_date": "2026-09-03T04:48:57Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "b512c61369e844d5d4c60dab5e976937",
+      "title": "Massive flooding in Sinuiju area displaces infrastructure as poor defenses prove costly",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-satellite-sinuiju-flood-740-hectares-damage/",
+      "published_date": "2026-09-03T20:27:00Z",
+      "category": "Military"
+    },
     {
       "id": "b46a038a4aef991b1eb4e3ff1d9b63c1",
       "title": "Defense chief stresses push for AI technology application in military",
@@ -322,17 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260830000351315",
       "published_date": "2026-08-29T22:05:41Z",
       "category": "Military"
-    },
-    {
-      "id": "c17312d7d43ae9afbb44056544f1b81a",
-      "title": "N. Korea replaces defense minister with Kim Song-gi in military reshuffle: state media",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830000300315",
-      "published_date": "2026-08-29T21:25:51Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "c5ca0e9dd082cb8250f8d1b67b3663c6",
+      "title": "Seoul attracts 2.8 tln won from 4 U.S. firms in chip, energy sectors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904001900320",
+      "published_date": "2026-09-04T00:20:55Z",
+      "category": "Energy"
+    },
     {
       "id": "d98a129b89eaa9b1e2e8d9ca48bc57e2",
       "title": "(2nd LD) Seoul shares end higher on easing oil prices",
@@ -484,17 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260902002200320",
       "published_date": "2026-09-02T00:15:57Z",
       "category": "Energy"
-    },
-    {
-      "id": "7ec674463fc70a53d8eb3a118cb2fd0d",
-      "title": "(LEAD) Consumer prices up 3.1 pct in Aug. on fuel, mobile subscription fees",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902001251320",
-      "published_date": "2026-09-01T23:21:49Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "6ff2ed2cd5129c75e1cec0f7dee5adaa",
+      "title": "Seoul stocks open higher on eased U.S. rate-hike woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904002000320",
+      "published_date": "2026-09-04T00:07:10Z",
+      "category": "Economy"
+    },
+    {
+      "id": "459e29ac588230daa5cf202b5a536768",
+      "title": "(URGENT) Seoul stocks open 1.14 pct higher on easing rate-hike woes in U.S.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904001500320",
+      "published_date": "2026-09-04T00:01:39Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8523768ba801c4f3ec42dcb9d67a6946",
+      "title": "Chip tariff talks with U.S. based on understanding S. Korea won't be disadvantaged: Seoul official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904000500315",
+      "published_date": "2026-09-03T21:25:43Z",
+      "category": "Economy"
+    },
     {
       "id": "12d4c25c94e869eb7e82f2bada50d7b9",
       "title": "Samsung narrows gap with SK hynix in HBM market in Q2",
@@ -630,33 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260902002600315",
       "published_date": "2026-09-02T01:00:01Z",
       "category": "Economy"
-    },
-    {
-      "id": "5c2caac1035068ffb37bf71d590f6641",
-      "title": "Consumer price hike seen at 2.5 pct without mobile bills: finance ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902002500320",
-      "published_date": "2026-09-02T00:38:41Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d00d5f0b41cc66b5998e84ab222aa7f1",
-      "title": "(LEAD) Seoul stocks open sharply lower amid escalating hostilities in Mideast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902001751320",
-      "published_date": "2026-09-02T00:21:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c1b97238d82d36ea9853bd89c8a649c4",
-      "title": "Seoul stocks open sharply lower amid escalating hostilities in Mideast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260902001700320",
-      "published_date": "2026-09-02T00:02:45Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "60fcff365d222c6ae7b33d7b7acfea4d",
+      "title": "Nat'l football body opens disciplinary case against referee over alleged remark on player",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904001400315",
+      "published_date": "2026-09-03T23:34:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6f3ec5f044af1114b5c446ca244de0d6",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904000900315",
+      "published_date": "2026-09-03T22:02:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b169bccfc8d469b862ef88a4e156d24a",
+      "title": "(EDITORIAL from Korea Times on Sept. 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904000800315",
+      "published_date": "2026-09-03T22:02:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "15be702028649cd95d2891f1a1022592",
+      "title": "(EDITORIAL from Korea Herald on Sept. 4)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904000700315",
+      "published_date": "2026-09-03T22:02:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2c78ff4370b588b115a4df9d5ea47417",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904000600315",
+      "published_date": "2026-09-03T22:01:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "727fc7bfdfe79702852220498d2959a3",
+      "title": "Expert says Trump may not have problem acknowledging N.K. nuke possession",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904000200315",
+      "published_date": "2026-09-03T18:59:42Z",
+      "category": "Local Events"
+    },
     {
       "id": "0c7cdd595e4de1df45cf41d64942fa9b",
       "title": "Cheong Wa Dae denies report of possible troop deployment to Hormuz",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260903005800320",
       "published_date": "2026-09-03T04:56:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "95cfb64007b288e22cbd78a548cb2703",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903005900315",
-      "published_date": "2026-09-03T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "af5c7e81e60c36712601e8b8587c5208",
-      "title": "Hybe chairman referred to prosecution over alleged deception of shareholders",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903005600315",
-      "published_date": "2026-09-03T03:58:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9af3e189a787656d5d00d3daf27f830c",
-      "title": "Supreme Court backs subtitles, audio descriptions for disabled audiences",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903005300315",
-      "published_date": "2026-09-03T03:37:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d7f383ff0f2f7e16c0aca4810ee8e3b6",
-      "title": "Court holds arrest warrant hearing for man accused of murdering estranged wife",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903004500315",
-      "published_date": "2026-09-03T02:42:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "34e22a8c30fb7d60b106f3ede48450e3",
-      "title": "(LEAD) Gov't to relocate central administrative agencies remaining in Seoul to Sejong from 2027: PM",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903004151315",
-      "published_date": "2026-09-03T02:42:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c3ca9e46daa43cdd3f414dba01b46aad",
-      "title": "S. Korea steps up search for 9 missing nationals, expands humanitarian aid to Nepal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903004900315",
-      "published_date": "2026-09-03T02:41:41Z",
       "category": "Local Events"
     }
   ]
