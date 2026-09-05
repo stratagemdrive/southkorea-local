@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-04T14:51:16Z",
+  "generated_at": "2026-09-05T00:28:24Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "3fb699e731366438307c55a17167e4b6",
+      "title": "North Korean youth rush marriage for a shot at overseas work",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-youth-marriage-overseas-workers/",
+      "published_date": "2026-09-04T17:47:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "b72d9c44b531f5e07cf8f81059306f7a",
       "title": "Foreign ministry lifts travel alerts for parts of Thailand, 3 other countries",
@@ -159,14 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/09/why-would-the-eu-want-to-sanction-a-childrens-camp-in-north-korea/",
       "published_date": "2026-09-04T03:42:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a24e7fadf6a710994bb00fed67ba8336",
-      "title": "S. Korean firms unveil plans for gov't-led AI project",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904005900320",
-      "published_date": "2026-09-04T02:51:23Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "60f3ec755a9f0b6e64e8e649ee07580e",
+      "title": "Industry minister urges U.S. to ease tariffs on hard-to-source steel mill equipment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260904012200320",
+      "published_date": "2026-09-04T21:00:00Z",
+      "category": "Economy"
+    },
+    {
       "id": "929db7e1ec4d5809def2d1160b67fd3e",
       "title": "Samsung Electronics, LG Electronics win 11 innovation awards at IFA 2026",
       "source": "Yonhap News Agency",
@@ -646,17 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260903002300320",
       "published_date": "2026-09-03T00:59:18Z",
       "category": "Economy"
-    },
-    {
-      "id": "c71e75dc8caf9bc374a93fac40cced9b",
-      "title": "Hanwha Ocean clinches 1.5 tln-won deal for 6 container ships from Taiwan's Yang Ming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903001200320",
-      "published_date": "2026-09-02T23:40:56Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "69642ffc1e05e457f2f06d4b1da86050",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260905000400315",
+      "published_date": "2026-09-05T00:20:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e9945ec137e9f2cdd7bd4959bcced4f1",
+      "title": "North Korea cuts English classes, expands Russian at foreign language schools",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-foreign-language-schools-russian-classes/",
+      "published_date": "2026-09-04T20:53:00Z",
+      "category": "Local Events"
+    },
     {
       "id": "e4d470dc6442ffdd2ae127ce46e2304a",
       "title": "N. Korea tightens vetting for overseas workers, demands verified contacts",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260904007600315",
       "published_date": "2026-09-04T04:58:57Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4da600132a04fc606ab28834fe9dae28",
-      "title": "New head coach for men's nat'l football team promises 'work, honesty, respect'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904007000315",
-      "published_date": "2026-09-04T04:49:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8ea032555d26f5a70d323601d1db02d5",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904006700315",
-      "published_date": "2026-09-04T04:30:00Z",
       "category": "Local Events"
     }
   ]
