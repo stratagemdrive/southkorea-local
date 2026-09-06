@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-06T00:21:21Z",
+  "generated_at": "2026-09-06T13:59:57Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ea4b32da3ffba4ebcb239f78037e3428",
+      "title": "Civic groups call for UNESCO listing of comfort women documents",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906002600315",
+      "published_date": "2026-09-06T07:53:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f0048edd9fa8921fc56a8ffb378ae85f",
+      "title": "Badminton star An Se-young wins final competition before Asian Games",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906002300315",
+      "published_date": "2026-09-06T06:07:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4dacda27004ef0b8ed842cec3c360795",
+      "title": "Seoul fireworks show attracts 1 million spectators",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906001800320",
+      "published_date": "2026-09-06T04:50:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eab37471df9a89097a532dcd79449937",
+      "title": "(LEAD) Lee heads to France for state visit, summit with Macron",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906000251315",
+      "published_date": "2026-09-06T02:03:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7606a9fd1dfd32007fe30b67123bb459",
+      "title": "Lee heads to France for state visit, summit with Macron",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906000200315",
+      "published_date": "2026-09-06T01:25:09Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "e873c6e5648018068ffbebc145b9cee9",
       "title": "(3rd LD) FM Cho arrives in Nepal for ministerial talks on massive flood response",
@@ -127,46 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/09/rok-defense-chief-nominee-vows-opcon-push-as-north-korea-threat-drives-spending/",
       "published_date": "2026-09-04T07:34:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "94fda11b3a05201afa4833c8ed01e6e5",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904007300315",
-      "published_date": "2026-09-04T07:00:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "256c0291ce0585044320f0883200b5e8",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904007500315",
-      "published_date": "2026-09-04T07:00:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3ae1863e6f4b2fe5e93792bca4b64413",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904007200315",
-      "published_date": "2026-09-04T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f858b722ebf2ed2868ac6f7ca07e200c",
-      "title": "Samsung Electronics union leaders under probe over 'union blacklist'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008600315",
-      "published_date": "2026-09-04T06:46:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b4b5de21e46eb433c0b3c6e1a02bb426",
-      "title": "Special counsel appeals Unification Church leader's sentence in bribery case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008700315",
-      "published_date": "2026-09-04T06:44:33Z",
       "category": "Diplomacy"
     }
   ],
@@ -305,14 +305,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260831002500315",
       "published_date": "2026-08-31T00:29:20Z",
-      "category": "Military"
-    },
-    {
-      "id": "253bc409aad19950de59d47e79fd5450",
-      "title": "(URGENT) Lee taps Kang Shin-chul, ex-deputy commander of the South Korea-U.S. Combined Forces Command, as new defense minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830001200315",
-      "published_date": "2026-08-30T02:39:24Z",
       "category": "Military"
     }
   ],
@@ -480,6 +472,22 @@
   ],
   "Economy": [
     {
+      "id": "77fdf680362ffc2cc2a7dee71fc7c272",
+      "title": "Household loans fall as banks maintain tight lending rules: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906000900320",
+      "published_date": "2026-09-06T01:53:32Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e74ac9fbd4dd6a09c19055f57bec305d",
+      "title": "Corporate dollar deposits peak in Sept. as won strengthens: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906000700320",
+      "published_date": "2026-09-06T00:56:07Z",
+      "category": "Economy"
+    },
+    {
       "id": "6055550295888d3952721e3321e76dac",
       "title": "(LEAD) Industry minister urges U.S. to ease tariffs on hard-to-source steel mill equipment",
       "source": "Yonhap News Agency",
@@ -622,25 +630,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260903004051320",
       "published_date": "2026-09-03T04:55:29Z",
       "category": "Economy"
-    },
-    {
-      "id": "45b8730639f4bd084716acb0f0dbbe21",
-      "title": "Twosome Place to enter U.S. market in Oct. for 'next phase of growth'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903004000320",
-      "published_date": "2026-09-03T02:07:34Z",
-      "category": "Economy"
-    },
-    {
-      "id": "59dc7dae5221e840c0ea05741d77d944",
-      "title": "S. Korean director Lee Chang-dong wins Mill Valley Auteur Award",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903003000315",
-      "published_date": "2026-09-03T01:47:56Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "49260667bfcf764321e436cbd2e42ccb",
+      "title": "(LEAD) Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906003151315",
+      "published_date": "2026-09-06T10:09:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "61f3f8bff665a82766e4f448de59361d",
+      "title": "Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906003100315",
+      "published_date": "2026-09-06T08:49:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "49bd7cbe9d6406161159a72aa4f5b517",
+      "title": "'The Odyssey' tops 10 mln admissions in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906002400320",
+      "published_date": "2026-09-06T07:19:30Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "25dadea935203cb1eb82e71886739516",
+      "title": "Police to launch dedicated body for reform this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906001900315",
+      "published_date": "2026-09-06T05:59:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e52bd833b095b17d9c891cd2768cde01",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906001400320",
+      "published_date": "2026-09-06T05:00:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0c20d30f7c3d267c596db313f3a0d853",
+      "title": "Taiwanese man sentenced to 6-year prison term in S. Korea for smuggling meth from Cambodia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906001500315",
+      "published_date": "2026-09-06T02:47:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f7d4cba8f254b2aba6e358e7d8440b40",
+      "title": "Tourist complaints in S. Korea hit record high amid travel boom",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906000800315",
+      "published_date": "2026-09-06T01:32:45Z",
+      "category": "Local Events"
+    },
     {
       "id": "c4a1bfec96d5735f84012b667567629e",
       "title": "(LEAD) Fireworks show lights up Seoul skies",
@@ -743,62 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260904010000315",
       "published_date": "2026-09-04T07:44:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "050d53aa72554088b183e1365d0c03aa",
-      "title": "Unionized workers of state-run banks stage rally in Seoul to protest planned relocation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008100315",
-      "published_date": "2026-09-04T07:26:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "66fea046a6c3b7fefd7245b5170e328c",
-      "title": "(LEAD) Gwangju Biennale chief regrets China's withdrawal over Taiwan row",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008451315",
-      "published_date": "2026-09-04T07:10:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6b83c6498966f8c000bba634205e6ebe",
-      "title": "(LEAD) New head coach for men's nat'l football team promises 'work, honesty, respect'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904007051315",
-      "published_date": "2026-09-04T07:01:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cc742f6cae4ffad16337a829930e6704",
-      "title": "Summary of inter-Korean news this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904007400315",
-      "published_date": "2026-09-04T07:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9eddaf2ceccce8d020747994ab2aec6c",
-      "title": "Gwangju Biennale chief regrets China's withdrawal over Taiwan row",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008400315",
-      "published_date": "2026-09-04T06:33:50Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "676b33c9164a17ba23129f465b4d7075",
-      "title": "(URGENT) Seoul shares rise 1.6 pct for 2nd session on eased rate-hike woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008000320",
-      "published_date": "2026-09-04T06:31:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c5a194389345f42681a53a5b5a433134",
-      "title": "S. Korea, British chip firm Arm open training school in southwestern city of Gwangju",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008300320",
-      "published_date": "2026-09-04T06:25:30Z",
       "category": "Local Events"
     }
   ]
