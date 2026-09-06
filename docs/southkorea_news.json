@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-05T13:43:48Z",
+  "generated_at": "2026-09-06T00:21:21Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e873c6e5648018068ffbebc145b9cee9",
+      "title": "(3rd LD) FM Cho arrives in Nepal for ministerial talks on massive flood response",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260905000653315",
+      "published_date": "2026-09-05T13:42:39Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6b6ec64357d1faa507a5e14daa3442a3",
       "title": "(2nd LD) FM Cho to visit Nepal for ministerial talks on massive flood response",
@@ -160,14 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260904008700315",
       "published_date": "2026-09-04T06:44:33Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "743f8d6447dd425c7ccbfdeeae917b27",
-      "title": "Hanwha Aerospace nearing deal to export Chunmoo rocket launchers to Croatia: sources",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904008800320",
-      "published_date": "2026-09-04T06:38:34Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -313,22 +313,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260830001200315",
       "published_date": "2026-08-30T02:39:24Z",
-      "category": "Military"
-    },
-    {
-      "id": "2cfdb39345c2e9b0061c91ec57d3119a",
-      "title": "North Korea reshuffles top military leadership, replaces defense minister",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/08/north-korea-reshuffles-top-military-leadership-replaces-defense-minister/",
-      "published_date": "2026-08-29T23:37:20Z",
-      "category": "Military"
-    },
-    {
-      "id": "c45f3c4f71c3c512e8ae14130882e349",
-      "title": "(LEAD) N. Korea replaces defense minister with Kim Song-gi in military reshuffle: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260830000351315",
-      "published_date": "2026-08-29T22:05:41Z",
       "category": "Military"
     }
   ],
