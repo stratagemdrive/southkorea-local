@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-06T13:59:57Z",
+  "generated_at": "2026-09-07T00:27:38Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "c173c0e6db10e33c0e75568dc61f43bc",
+      "title": "Lee's approval rating hits new low of 37.4 pct: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907001400315",
+      "published_date": "2026-09-06T23:55:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "11f215710807daa17ad8cd60ccdfa4c4",
+      "title": "N. Korea commissions nuclear-capable naval destroyer Kang Kon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907001100315",
+      "published_date": "2026-09-06T23:29:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d34a52d8fa98fe6765c5c8ae08e819f1",
+      "title": "S. Korea launches 'K-Book Week' in Paris to mark 140 years of ties with France",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907001000315",
+      "published_date": "2026-09-06T23:19:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "33a2b072df7e90c46900b35f85e314cf",
+      "title": "Onsong county mother ordered back to labor training camp",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-onsong-mother-labor-training-camp/",
+      "published_date": "2026-09-06T18:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "704091f319a36e3e884f4473cbfd3d9a",
+      "title": "Lee arrives in France, set for summit with Macron in Paris",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260906000300315",
+      "published_date": "2026-09-06T15:15:08Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "ea4b32da3ffba4ebcb239f78037e3428",
       "title": "Civic groups call for UNESCO listing of comfort women documents",
@@ -128,49 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260905000500315",
       "published_date": "2026-09-05T00:22:13Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "3fb699e731366438307c55a17167e4b6",
-      "title": "North Korean youth rush marriage for a shot at overseas work",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-youth-marriage-overseas-workers/",
-      "published_date": "2026-09-04T17:47:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b72d9c44b531f5e07cf8f81059306f7a",
-      "title": "Foreign ministry lifts travel alerts for parts of Thailand, 3 other countries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904012100315",
-      "published_date": "2026-09-04T12:12:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5ee66dddf84925b15838bf2d5c94597f",
-      "title": "North Korea’s rice prices fall for the first time in two months",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-rice-prices-fall-market-survey/",
-      "published_date": "2026-09-04T10:59:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3fa39c171209b3f66b30ed134b23f2a4",
-      "title": "Naver founder, Brookfield chief meet for follow-up talks on AI factory",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904010100320",
-      "published_date": "2026-09-04T08:00:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bc09ecd76292eea359757a733d0fb4da",
-      "title": "ROK defense chief nominee vows OPCON push as North Korea threat drives spending",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/rok-defense-chief-nominee-vows-opcon-push-as-north-korea-threat-drives-spending/",
-      "published_date": "2026-09-04T07:34:47Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "d070ee706ad379f695b68c37bd17ce1c",
+      "title": "North Korea deploys naval destroyer on east coast to boost nuclear deterrence",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-korea-deploys-naval-destroyer-on-east-coast-to-boost-nuclear-deterrence/",
+      "published_date": "2026-09-06T21:59:52Z",
+      "category": "Military"
+    },
     {
       "id": "b512c61369e844d5d4c60dab5e976937",
       "title": "Massive flooding in Sinuiju area displaces infrastructure as poor defenses prove costly",
@@ -309,6 +317,14 @@
     }
   ],
   "Energy": [
+    {
+      "id": "22adb9f0738880f49f863066da9f147f",
+      "title": "(EDITORIAL from Korea Herald on Sept. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907000400315",
+      "published_date": "2026-09-06T22:05:23Z",
+      "category": "Energy"
+    },
     {
       "id": "e28a2fe4e7c3c54521b6ce2bd6019f33",
       "title": "(3rd LD) Presidential office says no decision reached on troop deployment to Hormuz; review ongoing",
@@ -460,17 +476,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260903000300315",
       "published_date": "2026-09-02T21:02:51Z",
       "category": "Energy"
-    },
-    {
-      "id": "971ba0c5748ff98e36887d4b8a47ec9a",
-      "title": "Lutnick: Trump gov't considering 'targeted,' thoughtful' tariff policy for semiconductors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903000200315",
-      "published_date": "2026-09-02T16:59:12Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "23ebbbf9a241a5e16998a197c2ca590a",
+      "title": "(LEAD) Seoul shares open sharply higher on tech gains despite heightened Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907001351320",
+      "published_date": "2026-09-07T00:20:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a6feefce5b8bd1779ae23d202dcb8cd2",
+      "title": "Seoul shares open sharply higher on tech gains despite heightened Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907001300320",
+      "published_date": "2026-09-07T00:03:19Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3f64eb30a295851ebed523416311836e",
+      "title": "(EDITORIAL from Korea Times on Sept. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907000500315",
+      "published_date": "2026-09-06T22:05:42Z",
+      "category": "Economy"
+    },
     {
       "id": "77fdf680362ffc2cc2a7dee71fc7c272",
       "title": "Household loans fall as banks maintain tight lending rules: data",
@@ -606,33 +638,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260903010700320",
       "published_date": "2026-09-03T09:10:31Z",
       "category": "Economy"
-    },
-    {
-      "id": "d529b29f8e29d61164c19ef6f5db4f5a",
-      "title": "Ex-MLB pitcher Go Woo-suk trying to put aside regrets to help old team in KBO postseason push",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903008800315",
-      "published_date": "2026-09-03T07:31:49Z",
-      "category": "Economy"
-    },
-    {
-      "id": "e80e3837ad6def81f3d04f8c13988405",
-      "title": "S. Korean won hits 14-month high against U.S. dollar as Japan's yen strengthens",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903008900320",
-      "published_date": "2026-09-03T07:17:27Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6e94a4d32eecfd8f59a49e042e21aa72",
-      "title": "(LEAD) Twosome Place to enter U.S. market in Oct. for 'next phase of growth'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260903004051320",
-      "published_date": "2026-09-03T04:55:29Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "02bfde056fa8fc11b90a5add7e34c2ea",
+      "title": "'The Odyssey' tops weekend box office for 5th week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907001800315",
+      "published_date": "2026-09-07T00:22:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d0fec0b1bd28290d1d71d5fde6e62587",
+      "title": "(URGENT) Seoul shares open sharply higher on tech gains despite heightened Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907001200320",
+      "published_date": "2026-09-07T00:01:29Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "196ad6a65b1c1be557b4b6c2600cae1d",
+      "title": "Dinos making another late push for KBO postseason berth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907000800315",
+      "published_date": "2026-09-06T22:54:59Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c44f7c41c6c0ad19d77b32859015d324",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 7)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907000600315",
+      "published_date": "2026-09-06T22:06:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8f2a4e57687401d31c75cff4589aec10",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260907000300315",
+      "published_date": "2026-09-06T22:01:30Z",
+      "category": "Local Events"
+    },
     {
       "id": "49260667bfcf764321e436cbd2e42ccb",
       "title": "(LEAD) Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
@@ -751,46 +799,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/north-korea-finger-heart-crackdown-teens/",
       "published_date": "2026-09-04T13:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "18ae1c26e22e9f8b02bbad925aeb2372",
-      "title": "3 ex-prosecutors, 1 former judge shortlisted for new investigative agency chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904012000315",
-      "published_date": "2026-09-04T10:09:32Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d1c4cf69b686aa29f4f5f7e751a241c1",
-      "title": "Lee designates flood-hit Tongyeong as special disaster zone",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904011900320",
-      "published_date": "2026-09-04T09:37:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dfc93aa29133a1f2f98b54f03ff0a8cc",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904011700315",
-      "published_date": "2026-09-04T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3b2982bbf5949057b420aa039880b2c1",
-      "title": "Lawmaker proposes bill barring proportional lawmakers from concurrently holding Cabinet posts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904010900315",
-      "published_date": "2026-09-04T07:53:34Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a0de4067a49db10e9adeb7de6a151ef5",
-      "title": "Police to push for legal grounds to track locations of missing adults",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260904010000315",
-      "published_date": "2026-09-04T07:44:12Z",
       "category": "Local Events"
     }
   ]
