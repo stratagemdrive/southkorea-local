@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-09T15:02:09Z",
+  "generated_at": "2026-09-10T00:42:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5d5b65541ac506759aee55f97c895068",
+      "title": "49 foreign envoys in S. Korea avoid prosecution under diplomatic immunity: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910001300315",
+      "published_date": "2026-09-09T23:58:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "396071eae3e018b822adeba79405648f",
+      "title": "N.K. leader thanks troops in overseas military operations, calls for patriotism on founding anniv.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910001200315",
+      "published_date": "2026-09-09T23:57:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b8ca004794ce9d9440eef3332447a6c2",
+      "title": "South Pyongan officials told to silence criticism of Pyongyang construction",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongyang-construction-provincial-crackdown-south-pyongan/",
+      "published_date": "2026-09-09T23:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d60d9ee85900e22fcec3f1b5378b9cb7",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910000600315",
+      "published_date": "2026-09-09T21:56:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "16d7dc98e63efea0ec525fc577568af5",
+      "title": "(EDITORIAL from The Korea Times on Sept. 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910000500315",
+      "published_date": "2026-09-09T21:56:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f7a51b8e7e5cc46eab7fbeeef8038721",
+      "title": "(EDITORIAL from The Korea Herald on Sept. 10)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910000400315",
+      "published_date": "2026-09-09T21:56:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c7e577e264dbb08fbb7a6f0f61e7c7a2",
+      "title": "(News Focus) Lee's trip to France builds fresh momentum to deepen 140-yr-old relationship",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260909011500315",
+      "published_date": "2026-09-09T18:01:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "445bbff87021d879a8ccda0d2279e044",
+      "title": "Hoeryong railway maintenance drive forced onto factory and enterprise workers",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/hoeryong-railway-maintenance-drive/",
+      "published_date": "2026-09-09T18:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "db20804bee978d45d95290f44690c128",
+      "title": "S. Korean President Lee wraps up France visit, heads home",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260909012100315",
+      "published_date": "2026-09-09T17:05:09Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "33a5cfa26e5946565511f770d43d7044",
       "title": "(2nd LD) S. Korean President Lee meets French National Assembly speaker",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260909007200320",
       "published_date": "2026-09-09T06:03:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d00ce5c7f013377a64def13cd1d0accd",
-      "title": "University finds no misconduct in Korea studies scholar’s fabricated citations",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/university-finds-no-misconduct-in-korea-studies-scholars-fabricated-citations/",
-      "published_date": "2026-09-09T05:41:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6217f78a669950daf046c3740abe495c",
-      "title": "SK hynix union to revote on rejected wage deal next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909007000320",
-      "published_date": "2026-09-09T05:27:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c64876d08ff6a133815c5873a99fbfc9",
-      "title": "Russia bridge opens, Songdowon sanctions and North Korea’s forgotten UK insurer",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/russia-bridge-opens-songdowon-sanctions-and-north-koreas-forgotten-uk-insurer/",
-      "published_date": "2026-09-09T05:05:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9bf0bd26a36afbfdab9a6d717617963d",
-      "title": "Unionized members of Naver's metaverse affiliate stage partial strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909006500320",
-      "published_date": "2026-09-09T04:59:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "be0077663ab7190b7c184eea697c90c3",
-      "title": "Gov't to spend extra 90 bln won on food discounts ahead of Chuseok",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909006100320",
-      "published_date": "2026-09-09T04:30:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6eabec61d4efcb0cd4a89e9da1af9dcc",
-      "title": "(Yonhap Interview) EU official warns 'structural' N. Korea-Russia ties likely to continue beyond Ukraine war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909003200315",
-      "published_date": "2026-09-09T03:00:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1ae715d0ae260aef5a63688d322d84dd",
-      "title": "New men's nat'l football coach Moreno due in S. Korea on Sunday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909005100315",
-      "published_date": "2026-09-09T02:22:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d08635a135dbd929fc098ffe4421ae45",
-      "title": "S. Korea, UNDP sign agreement on mine removal cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909004500315",
-      "published_date": "2026-09-09T02:02:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "724d619cbf9456f46f933c2e10be6ce5",
-      "title": "President Lee conferred France's highest decoration for promoting bilateral ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909004600315",
-      "published_date": "2026-09-09T02:02:48Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,22 @@
   ],
   "Energy": [
     {
+      "id": "8914343d71d3eaf1fe65458b65cca04d",
+      "title": "(LEAD) Seoul shares open lower amid escalating Mideast tensions, rising oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910001151320",
+      "published_date": "2026-09-10T00:27:13Z",
+      "category": "Energy"
+    },
+    {
+      "id": "bfdb6e8cad46a17d2114ee43aa9b6882",
+      "title": "Seoul shares open lower amid escalating Mideast tensions, rising oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910001100320",
+      "published_date": "2026-09-10T00:03:28Z",
+      "category": "Energy"
+    },
+    {
       "id": "6b2ae5a221336dc2dc0ccc12b7027e3f",
       "title": "(LEAD) Rival parties clash over Cabinet reshuffle, constitutional revision at interpellation session",
       "source": "Yonhap News Agency",
@@ -476,25 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260908001200320",
       "published_date": "2026-09-08T00:01:17Z",
       "category": "Energy"
-    },
-    {
-      "id": "dd1a64498cc4d17511af88438a16ebe4",
-      "title": "Athlete eyes Asian Games gold medals in real, virtual taekwondo events",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260907004600315",
-      "published_date": "2026-09-07T02:46:35Z",
-      "category": "Energy"
-    },
-    {
-      "id": "2811f0e8250952aab7931238633a6edc",
-      "title": "S. Korea exports to India jump over 30 pct in Jan.-Aug. on chip demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260907002100320",
-      "published_date": "2026-09-07T02:00:02Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "c322dc8aae61254514b1d01cdeb37a5f",
+      "title": "PM orders preemptive securing of crude amid rekindled Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910001700315",
+      "published_date": "2026-09-10T00:13:43Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8e46794b5bbf35c61d6be4598e73cc1d",
+      "title": "(URGENT) Seoul shares open lower, tracking Wall Street losses amid inflation concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910001000320",
+      "published_date": "2026-09-10T00:01:34Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8e059e2382b67abd4bdaf2043b5a0401",
+      "title": "S. Korea showing clearer signs of economic recovery: finance minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910000900320",
+      "published_date": "2026-09-09T23:47:11Z",
+      "category": "Economy"
+    },
     {
       "id": "f322cbd3c11ba80de2fe6be970c332b9",
       "title": "Samsung Electronics chairman to buy 1.9 tln won worth of shares from mother",
@@ -630,33 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260909001500320",
       "published_date": "2026-09-08T23:00:06Z",
       "category": "Economy"
-    },
-    {
-      "id": "60a5ce8c6b5168d67a2f8652bfd29cd0",
-      "title": "(URGENT) S. Korea adds 184,000 jobs in Aug., most in 5 months",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909001300320",
-      "published_date": "2026-09-08T23:00:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8978b70faa17495ffc1b251cd69497d7",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 9)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909001000315",
-      "published_date": "2026-09-08T22:00:43Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9460cebc2f03eb26414158ae32bddf62",
-      "title": "Samsung partners with French AI startup to enhance chip operations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260908011300320",
-      "published_date": "2026-09-08T16:00:00Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "d12c1ad235349edf4bd8c697bd503197",
+      "title": "Foreign students in S. Korea top 500,000 for 1st time on Korean cultural boom",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910000700315",
+      "published_date": "2026-09-09T23:26:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e08eeff55a252b41ca4f6b3e81b6ea08",
+      "title": "(Yonhap Interview) Spotify committed to exporting K-culture, says APAC executive",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260909012000320",
+      "published_date": "2026-09-09T22:00:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f5ebf2ea3046130f720d4ffd887aff05",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910000300315",
+      "published_date": "2026-09-09T21:56:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9f88c5064c478a3b73c2e84a8ab2107d",
+      "title": "Securities firms' Q2 net spikes 20 pct on increased commission income",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260909007100320",
+      "published_date": "2026-09-09T21:00:11Z",
+      "category": "Local Events"
+    },
     {
       "id": "b2ff4b34c8d5d0a506144b8677ca4a10",
       "title": "University mobilizes students to dig trenches for campus intranet",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260909006300320",
       "published_date": "2026-09-09T04:57:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e32d5a44bd5ba5d2f8e1e76bf6e38584",
-      "title": "S. Korea pursuing 4 gold medals in judo at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909006200315",
-      "published_date": "2026-09-09T04:50:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "38ba5667b77dce6a6cf71fa44730d2db",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909006000315",
-      "published_date": "2026-09-09T04:30:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "29cd0a86662b1cb0aefbb203c0b52c6e",
-      "title": "Police launch task force to pursue sweeping organizational reforms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909005800315",
-      "published_date": "2026-09-09T03:19:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b9484310a796f61c54199c6d9d7fa08d",
-      "title": "Seoul shares up 1.7 pct late Wed. morning on tech gains",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909005400320",
-      "published_date": "2026-09-09T02:31:48Z",
       "category": "Local Events"
     }
   ]
