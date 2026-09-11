@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-10T14:54:58Z",
+  "generated_at": "2026-09-11T00:39:06Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "38e96b94e70c19c8ed9fa612b04aee5e",
+      "title": "(EDITORIAL from Korea Times on Sept. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000300315",
+      "published_date": "2026-09-10T22:09:41Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "6f24b5ff2a11af59d8986d42b32674f9",
       "title": "Nine youths in Chongjin face public criticism over foreign videos",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260910005100315",
       "published_date": "2026-09-10T05:52:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "800a931e4a8a96ace3fcf3164b7721a4",
-      "title": "Head of S. Korea's fair trade watchdog to visit U.S. next week for conference",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910004800320",
-      "published_date": "2026-09-10T05:03:20Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "657a834afc1a68c7a2ed25177bc0b08c",
+      "title": "(LEAD) Exports up 83 pct in first 10 days of Sept. on chips",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911001351320",
+      "published_date": "2026-09-11T00:23:55Z",
+      "category": "Energy"
+    },
+    {
       "id": "1d1079339f07cf2285d125bb5d4cb97b",
       "title": "(2nd LD) Seoul shares end lower on inflation fears",
       "source": "Yonhap News Agency",
@@ -484,17 +492,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260908011100320",
       "published_date": "2026-09-08T11:45:57Z",
       "category": "Energy"
-    },
-    {
-      "id": "efd49a6017d638a30346d85c525647cb",
-      "title": "S. Korean won weakens against U.S. dollar as oil prices climb",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260908008400320",
-      "published_date": "2026-09-08T07:17:00Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "e72edb9cfe36cce18e7c895ceaa61e65",
+      "title": "(LEAD) Seoul shares open sharply lower, tracking U.S. losses, amid inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000951320",
+      "published_date": "2026-09-11T00:28:48Z",
+      "category": "Economy"
+    },
+    {
+      "id": "fbd2f927db03f6dff44ca2976afc0571",
+      "title": "Samsung E&A wins 4.7 tln-won fertilizer EPC contract in Saudi Arabia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911001500320",
+      "published_date": "2026-09-11T00:20:35Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a5de4534c4fe10e823d402bde293295c",
+      "title": "Exports up 83 pct in first 10 days of Sept.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911001300320",
+      "published_date": "2026-09-11T00:06:14Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0993dd72afe7f17f283a494ef3a0ce9f",
+      "title": "Seoul shares open sharply lower, tracking U.S. losses, amid inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000900320",
+      "published_date": "2026-09-11T00:03:28Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f3991613427e11b061d95afa41b90553",
+      "title": "(URGENT) Seoul shares open sharply lower, tracking U.S. losses, amid inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000800320",
+      "published_date": "2026-09-11T00:01:31Z",
+      "category": "Economy"
+    },
     {
       "id": "8c29d367e5deb479fdbb691e1fda823f",
       "title": "(LEAD) Hanwha Aerospace inks 640 bln-won deal to export 18 Chunmoo rocket launchers to Croatia",
@@ -614,49 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260909010800315",
       "published_date": "2026-09-09T09:05:45Z",
       "category": "Economy"
-    },
-    {
-      "id": "db477d83b77b7bea4fe2dcedce7b05aa",
-      "title": "Men's handball team ready to surprise people at Asian Games: coach",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909009400315",
-      "published_date": "2026-09-09T07:41:27Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c8cf50db36744a36a0b0507bde2b5944",
-      "title": "S. Korean won advances to 23-month high on dollar selling",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909009300320",
-      "published_date": "2026-09-09T07:36:28Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5d0795a009f99957b9b9143dc7fbfcb7",
-      "title": "Korea Exchange to embark on after-market stock trading starting next Mon.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909009200320",
-      "published_date": "2026-09-09T07:34:03Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ac9ff1d3e22163e35b2a6aa90c05cc75",
-      "title": "Fitch, Moody's offer positive assessment of 2027 budget proposal: gov't",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909006900320",
-      "published_date": "2026-09-09T05:25:42Z",
-      "category": "Economy"
-    },
-    {
-      "id": "24dd11e8eb04d05f2cfaece6b0ed240c",
-      "title": "Corporate sales growth, profitability improve in Q2",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909005600320",
-      "published_date": "2026-09-09T03:01:00Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "993817f978bfbda75ac560d6dff66776",
+      "title": "S. Korea sends 2nd disaster relief team to Nepal for flood recovery efforts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911001400315",
+      "published_date": "2026-09-11T00:22:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6584991b81c0bb0cc53c2521bb96580f",
+      "title": "Court to rule on ex-President Yoon's trial over appointment of former envoy to Australia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000600315",
+      "published_date": "2026-09-10T23:57:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "db03e6c2a9dd7bd948fe426b573cc817",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000500315",
+      "published_date": "2026-09-10T22:10:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ed96e109c6a07002749876e8dea901c6",
+      "title": "(EDITORIAL from Korea Herald on Sept. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000400315",
+      "published_date": "2026-09-10T22:09:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5aa814d4a0d6d9d4c35ced33e51711d1",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911000200315",
+      "published_date": "2026-09-10T22:01:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "47e7da67f08390d71f71add36bdb2f85",
+      "title": "Asset managers' Q2 net sharply up on commission income gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260910005000320",
+      "published_date": "2026-09-10T21:00:11Z",
+      "category": "Local Events"
+    },
     {
       "id": "c933eabd07da339e72f61a86133e15e1",
       "title": "(2nd LD) S. Korea to send 2nd disaster relief team to Nepal as flood response shifts to recovery",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260910003500320",
       "published_date": "2026-09-10T03:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6e24e01f305ac245cdf23fcac09707c3",
-      "title": "S. Korea to introduce strengthened penalties for large-scale data leaks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910004000315",
-      "published_date": "2026-09-10T02:54:38Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2669a76e47f049176d99ad4b796fe8e7",
-      "title": "Supreme Court confirms life sentence for leader of Telegram sex crime ring",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910003600315",
-      "published_date": "2026-09-10T02:27:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "90b426d7f24a31e8e94d23bcc9c8bf40",
-      "title": "Bond yields rise in Aug. on BOK's back-to-back rate hike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910003200320",
-      "published_date": "2026-09-10T02:17:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "af0cb2398f6c243a60f1475e4dc3449a",
-      "title": "12 S. Koreans arrested in Thailand over alleged voice phishing operation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910003000315",
-      "published_date": "2026-09-10T02:15:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f601d079abde5732d5b8ad763cde319f",
-      "title": "Seoul city to spend 86.1 tln won to become 'global top 3' city by 2030",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910003100315",
-      "published_date": "2026-09-10T02:07:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "287f9b5040bf674c570d73d6e34d7e93",
-      "title": "Decision on appointments of justice, gender ministers to be made after confirmation hearings: official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910002900315",
-      "published_date": "2026-09-10T01:34:44Z",
       "category": "Local Events"
     }
   ]
