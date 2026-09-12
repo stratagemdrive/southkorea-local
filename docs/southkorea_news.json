@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-11T14:52:49Z",
+  "generated_at": "2026-09-12T00:46:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "2e8f741c82231e34379cfea80d59d50c",
+      "title": "Cheong Wa Dae denounces N.K. missile launch as violation of UNSC resolution",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000700315",
+      "published_date": "2026-09-12T00:29:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c8b6943067c19a3259bb303a29d4123e",
+      "title": "(LEAD) N. Korea fires unidentified projectile toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000351315",
+      "published_date": "2026-09-11T21:45:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3c29b6f588fc0a9feb3612c66b82ff4d",
+      "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000300315",
+      "published_date": "2026-09-11T20:46:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a94b4f9fd0356a9480039c257572c4dd",
+      "title": "(URGENT) N. Korea fires unidentified projectile toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260526006200315",
+      "published_date": "2026-09-11T20:33:49Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "124cfd4be5511f04901e017dc6c07e8c",
       "title": "North Korea’s smartphone payments reveal convenience and control",
@@ -136,41 +168,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260911003100315",
       "published_date": "2026-09-11T02:17:18Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "dcaf89e8d53b50bb1d0d2650b08e9a6c",
-      "title": "Lee's approval rating dips to record low of 38 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911002900315",
-      "published_date": "2026-09-11T02:03:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b0aa3d1d8e528c8e0ab09fc765f769eb",
-      "title": "Justice minister nominee apologizes for causing concern over alleged lobbying",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911002400315",
-      "published_date": "2026-09-11T01:43:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1648c9df785939de3de32fd463f2bf18",
-      "title": "Naval unit embarks on 4-month cadet training mission across Pacific Ocean",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911001800315",
-      "published_date": "2026-09-11T00:54:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "38e96b94e70c19c8ed9fa612b04aee5e",
-      "title": "(EDITORIAL from Korea Times on Sept. 11)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911000300315",
-      "published_date": "2026-09-10T22:09:41Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "d90768d14825ab811a5395263efcc185",
+      "title": "(URGENT) N. Korea's ballistic missiles flew about 250 km: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260806009500315",
+      "published_date": "2026-09-11T23:47:02Z",
+      "category": "Military"
+    },
+    {
+      "id": "00d27cef9af6c9f5b83e093803313669",
+      "title": "U.S. military says it is aware of N.K. missile launch, reaffirms defense commitment to allies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000400315",
+      "published_date": "2026-09-11T23:44:18Z",
+      "category": "Military"
+    },
+    {
+      "id": "8bcd3836f74a1b94f559aafbc40ebbd4",
+      "title": "North Korea fires multiple ballistic missiles towards East Sea: ROK military",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-korea-fires-projectile-towards-east-sea-rok-military-2/",
+      "published_date": "2026-09-11T22:07:28Z",
+      "category": "Military"
+    },
     {
       "id": "aa656bfb716a2ca8ea997a656cc03282",
       "title": "Ex-commander acquitted of military secrets leak ahead of martial law",
@@ -306,33 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260907009900320",
       "published_date": "2026-09-07T14:26:38Z",
       "category": "Military"
-    },
-    {
-      "id": "9c96ec2d1b477273160bb6d84b7d9344",
-      "title": "(URGENT) N. Korea says joint exercise of S. Korea, U.S., Japan pushing instability to limit, will take necessary steps",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260907009800320",
-      "published_date": "2026-09-07T14:10:35Z",
-      "category": "Military"
-    },
-    {
-      "id": "c643d82f3a2e787ab56ecaeb15e86fb3",
-      "title": "PPP leader vows to block planned integration of military academies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260907008200315",
-      "published_date": "2026-09-07T07:50:30Z",
-      "category": "Military"
-    },
-    {
-      "id": "8aad22b09e453a906c73574b32989f4a",
-      "title": "(LEAD) S. Korea, U.S., Japan kick off 3-way military exercise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260907002351315",
-      "published_date": "2026-09-07T02:08:49Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "8c3a2f23c530a636da4d7983bf81e72c",
+      "title": "U.S. lawmaker calls on State Dept. to revise policy on N. Korea travel ban",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000200315",
+      "published_date": "2026-09-11T19:26:18Z",
+      "category": "Energy"
+    },
     {
       "id": "7407ef1789257e8e1c17f14d2d816f35",
       "title": "(2nd LD) Seoul shares dip 1.76 pct on rising oil prices, inflation woes",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260909006600315",
       "published_date": "2026-09-09T05:05:06Z",
       "category": "Energy"
-    },
-    {
-      "id": "e2af7ad72f9d92231a6335a9c78db3ad",
-      "title": "OpenAI Korea head confident AI-led memory boom will continue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909005900320",
-      "published_date": "2026-09-09T03:39:49Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "9608261d8e094f8152e7b3972cdfd221",
+      "title": "Pork prices near record 160,000 won per kilogram in North Korea",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-pork-prices-record-high-swine-fever/",
+      "published_date": "2026-09-11T17:32:00Z",
+      "category": "Economy"
+    },
     {
       "id": "a56f105824967205c06e7463bc1973f7",
       "title": "(LEAD) (Asiad) S. Korea hammers Indonesia in men's basketball, reaches quarterfinals",
@@ -646,17 +654,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260910005651315",
       "published_date": "2026-09-10T12:45:22Z",
       "category": "Economy"
-    },
-    {
-      "id": "12cdfd1ee2185c440f2c779355b98393",
-      "title": "S. Korea inks 640 bln-won deal to export 19 Chunmoo rocket launchers to Croatia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910005600315",
-      "published_date": "2026-09-10T11:35:39Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "3be6257a4fea40556146b342f4eac61a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000800315",
+      "published_date": "2026-09-12T00:39:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5bb4d08e830ee2c682ac6ecb6db70f8c",
+      "title": "(3rd LD) N. Korea fires multiple short-range ballistic missiles toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000353315",
+      "published_date": "2026-09-12T00:34:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "994db37db258efd62e219ee3b82c358e",
+      "title": "(2nd LD) N. Korea fires multiple ballistic missiles toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000352315",
+      "published_date": "2026-09-11T23:44:03Z",
+      "category": "Local Events"
+    },
     {
       "id": "f114398946f3fe66dac7318f3432f92e",
       "title": "Unionized workers of Seoul's city buses vote to strike over wages",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260911004800315",
       "published_date": "2026-09-11T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "19ccd10333d7ad5fd5a7d690701137fe",
-      "title": "Death penalty sought for YouTuber over alleged murder of own daughter",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911002500315",
-      "published_date": "2026-09-11T02:00:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f529aeb9bf65c92d1757a9a4136fd581",
-      "title": "Aespa to drop digital single featuring new solo pieces from each member",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911002300315",
-      "published_date": "2026-09-11T01:33:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "791388f09fba37f24706788fafee273f",
-      "title": "BTS to stream live concerts in Argentina, Brazil at theaters worldwide",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911002000315",
-      "published_date": "2026-09-11T01:16:06Z",
       "category": "Local Events"
     }
   ]
