@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-12T00:46:08Z",
+  "generated_at": "2026-09-12T13:54:45Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5c82e4509d846e634c9941f96d5f6235",
+      "title": "Lee reassures public over oil prices amid escalating Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912002200320",
+      "published_date": "2026-09-12T09:09:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "67bf49df9897109c5b07214ce801f581",
+      "title": "Dinos sign ex-MLB pitcher Clevinger as temporary injury replacement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912000900315",
+      "published_date": "2026-09-12T00:46:35Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "2e8f741c82231e34379cfea80d59d50c",
       "title": "Cheong Wa Dae denounces N.K. missile launch as violation of UNSC resolution",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260911004900315",
       "published_date": "2026-09-11T04:47:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "34e72009b71e9983fe6c9a3d42bbe073",
-      "title": "4-yr prison term sought for Yoon in appellate trial over free opinion polls",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911004600315",
-      "published_date": "2026-09-11T04:04:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "eb4b20d8a797d7b89bae3a80d2edab9b",
-      "title": "Jung Ho-yeon, Ryu Jun-yeol cast in new Netflix series 'Outback'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911003100315",
-      "published_date": "2026-09-11T02:17:18Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "59ba2ddc62cef64811665f453d868b15",
+      "title": "Japan again makes no mention of Koreans' forced labor at Sado memorial event",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912002000320",
+      "published_date": "2026-09-12T08:48:38Z",
+      "category": "Energy"
+    },
+    {
       "id": "8c3a2f23c530a636da4d7983bf81e72c",
       "title": "U.S. lawmaker calls on State Dept. to revise policy on N. Korea travel ban",
       "source": "Yonhap News Agency",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260909007800315",
       "published_date": "2026-09-09T06:31:23Z",
-      "category": "Energy"
-    },
-    {
-      "id": "b6447991d8774775870db0eca83987b4",
-      "title": "S. Korea not to attend Japan's Sado mine memorial event this year for 3rd year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909006600315",
-      "published_date": "2026-09-09T05:05:06Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "0faf94d0efedf4d46414744762485f1b",
+      "title": "KBO reaches 11 mln fans in record-setting fashion, closes in on all-time mark",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912002300315",
+      "published_date": "2026-09-12T12:04:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c28e1914407319abd6ea44c5d4591892",
+      "title": "S. Korean container ship arrives in Britain via Arctic route in 21 days",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912002100320",
+      "published_date": "2026-09-12T09:00:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bc0fcc9dafb69b3ba1e91c917d99b587",
+      "title": "S. Korea to consult with Nepal on resumption of search, rescue efforts: Seoul official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912001700315",
+      "published_date": "2026-09-12T06:07:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "377d0ae4d374269f7c14900e73f1bec6",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260912001000315",
+      "published_date": "2026-09-12T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "id": "3be6257a4fea40556146b342f4eac61a",
       "title": "Top headlines in major S. Korean newspapers",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260911001451315",
       "published_date": "2026-09-11T05:01:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cca0ccad657a33e77478078e0613a912",
-      "title": "Le Sserafim drops new single 'Made My Night'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911005100315",
-      "published_date": "2026-09-11T05:00:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "12398dd519a99096ed9668f1a0fb0cd2",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911000700315",
-      "published_date": "2026-09-11T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "16c39401903095136e7bdc6d048b7ce7",
-      "title": "PM says S. Korea does not discriminate against foreign companies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911004700320",
-      "published_date": "2026-09-11T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9be040ec9d53fdd2a6a69b2aa8fa9dc9",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911004800315",
-      "published_date": "2026-09-11T04:30:01Z",
       "category": "Local Events"
     }
   ]
