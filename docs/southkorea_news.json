@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-12T13:54:45Z",
+  "generated_at": "2026-09-13T00:29:23Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "21e5b38c5354f5ea5ccaf475ffa21ebc",
+      "title": "(News Focus) Inside 42dot: Hyundai Motor accelerates autonomous driving push with AI data flywheel",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911007900320",
+      "published_date": "2026-09-13T00:00:06Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5c82e4509d846e634c9941f96d5f6235",
       "title": "Lee reassures public over oil prices amid escalating Middle East tensions",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260911005800315",
       "published_date": "2026-09-11T05:06:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "470a1d7deaa76a4d902280b476ce861d",
-      "title": "S. Korea, U.S. hold public diplomacy forum on Global South cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911004900315",
-      "published_date": "2026-09-11T04:47:37Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,46 @@
   ],
   "Local Events": [
     {
+      "id": "1f70db0465023cf1f8c7965a8884abaa",
+      "title": "(Yonhap Interview) Argentine cybersecurity chief anticipates cooperation with S. Korea amid complex, delocalized threats",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911008700320",
+      "published_date": "2026-09-12T20:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8798ae6950c015ed2cb3f728057f2c2c",
+      "title": "(2nd LD) Lee Chang-dong's 'Possible Love' wins Grand Jury Prize at Venice film fest",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911004452315",
+      "published_date": "2026-09-12T19:58:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b47652e7ee9764bc3a0120d405de9c02",
+      "title": "(LEAD) Lee Chang-dong's 'Possible Love' wins Grand Jury Prize at Venice film fest",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911004451315",
+      "published_date": "2026-09-12T19:20:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9f0e474461206beba63cdb661169b62b",
+      "title": "Lee Chang-dong's 'Possible Love' wins grand jury prize at Venice film fest",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911004400315",
+      "published_date": "2026-09-12T18:53:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7bc1f3a379216aa91a8247983d25ae3b",
+      "title": "(URGENT) Lee Chang-dong's 'Possible Love' wins grand jury prize at Venice film fest",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260911005700315",
+      "published_date": "2026-09-12T18:47:20Z",
+      "category": "Local Events"
+    },
+    {
       "id": "0faf94d0efedf4d46414744762485f1b",
       "title": "KBO reaches 11 mln fans in record-setting fashion, closes in on all-time mark",
       "source": "Yonhap News Agency",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260911006800315",
       "published_date": "2026-09-11T06:36:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e36349a84699944a485c38fd78f05179",
-      "title": "(LEAD) Court acquits ex-President Yoon in power abuse case over envoy appointment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911000651315",
-      "published_date": "2026-09-11T06:14:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e62361116e89be64b49b5f537ef232c4",
-      "title": "(URGENT) Court acquits ex-President Yoon in power abuse case over envoy appointment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911006400315",
-      "published_date": "2026-09-11T06:03:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2ed819f5f3993105985f27ca5a9988dd",
-      "title": "DP says will take controversy over gender minister nominee 'seriously'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911006000315",
-      "published_date": "2026-09-11T05:23:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "22e02ec6fc614bb83f9606c217f256f7",
-      "title": "Korean Air, Asiana to offer free in-flight Wi-Fi service powered by Starlink",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911005300320",
-      "published_date": "2026-09-11T05:08:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dd1742fa5244e16e6a8bc98e8dd55be9",
-      "title": "(LEAD) S. Korea sends 2nd disaster relief team to Nepal for flood recovery efforts",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911001451315",
-      "published_date": "2026-09-11T05:01:11Z",
       "category": "Local Events"
     }
   ]
