@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-13T14:49:34Z",
+  "generated_at": "2026-09-14T00:31:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "54ce224d6ab657ae1a69a2d23bee50f1",
+      "title": "Seoul stocks open sharply lower amid Mideast uncertainty",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914001200320",
+      "published_date": "2026-09-14T00:03:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4d1ee93c1758652428fac275a4c25b15",
+      "title": "(URGENT) Seoul stocks open sharply lower on Mideast uncertainty",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914001100320",
+      "published_date": "2026-09-14T00:01:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "78958a830dadc2b08ff4f12ab7b51382",
+      "title": "(Yonhap Interview) Kazakhstan seeks to deepen economic ties with S. Korea beyond autos into high-tech, key minerals",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260913001500315",
+      "published_date": "2026-09-13T22:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9872a9a259d7269004c6132fb80d6752",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914000600320",
+      "published_date": "2026-09-13T21:51:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dbc03e9a76284916bc744d328dfe3859",
+      "title": "N. Korea reports latest missile launches, calling it strike drill",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914000851320",
+      "published_date": "2026-09-13T21:26:18Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "9ce47a25e97b167af62989fc9d62cf71",
       "title": "(Asiad) KBO home run leader returns from injury with bang, boosts nat'l team hope",
@@ -128,49 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260911007900320",
       "published_date": "2026-09-13T00:00:06Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "5c82e4509d846e634c9941f96d5f6235",
-      "title": "Lee reassures public over oil prices amid escalating Middle East tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912002200320",
-      "published_date": "2026-09-12T09:09:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "67bf49df9897109c5b07214ce801f581",
-      "title": "Dinos sign ex-MLB pitcher Clevinger as temporary injury replacement",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000900315",
-      "published_date": "2026-09-12T00:46:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2e8f741c82231e34379cfea80d59d50c",
-      "title": "Cheong Wa Dae denounces N.K. missile launch as violation of UNSC resolution",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000700315",
-      "published_date": "2026-09-12T00:29:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c8b6943067c19a3259bb303a29d4123e",
-      "title": "(LEAD) N. Korea fires unidentified projectile toward East Sea: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000351315",
-      "published_date": "2026-09-11T21:45:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3c29b6f588fc0a9feb3612c66b82ff4d",
-      "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000300315",
-      "published_date": "2026-09-11T20:46:11Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "dad2f54ce5cbe8c95a9566348f906ff5",
+      "title": "North Korea launched several missiles and drones in ‘concentrated’ attack drill",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-korea-launched-several-missiles-and-drones-in-concentrated-attack-drill/",
+      "published_date": "2026-09-13T23:38:31Z",
+      "category": "Military"
+    },
+    {
+      "id": "2b3f29972432a1b2980e4a320328c091",
+      "title": "(URGENT) N. Korea says conducted firepower drill on Saturday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914000800320",
+      "published_date": "2026-09-13T21:10:29Z",
+      "category": "Military"
+    },
     {
       "id": "d90768d14825ab811a5395263efcc185",
       "title": "(URGENT) N. Korea's ballistic missiles flew about 250 km: JCS",
@@ -314,25 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260908002000315",
       "published_date": "2026-09-08T00:31:18Z",
       "category": "Military"
-    },
-    {
-      "id": "015bbe23c250d2e2b85944f48f0065b7",
-      "title": "(LEAD) N. Korean defense minister blasts U.S.' joint military drills, says will take necessary measures",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260907009951320",
-      "published_date": "2026-09-07T14:52:04Z",
-      "category": "Military"
-    },
-    {
-      "id": "7c1250c2180035af0cee2f2f6c283ad7",
-      "title": "N. Korean defense minister blasts U.S.' joint military drills, says will take necessary measures",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260907009900320",
-      "published_date": "2026-09-07T14:26:38Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "29945e22c5f210a53c7f0bd0dbfa2753",
+      "title": "S. Korea hosts industry ministerial meeting with Central Asian partners",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914000900320",
+      "published_date": "2026-09-14T00:00:08Z",
+      "category": "Energy"
+    },
     {
       "id": "59ba2ddc62cef64811665f453d868b15",
       "title": "Japan again makes no mention of Koreans' forced labor at Sado memorial event",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260909007600320",
       "published_date": "2026-09-09T06:32:58Z",
-      "category": "Energy"
-    },
-    {
-      "id": "0d796a8fc090f6d5dcc57e4922682d78",
-      "title": "Women's handball team seeks revenge vs. host Japan at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909007800315",
-      "published_date": "2026-09-09T06:31:23Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,30 @@
   ],
   "Local Events": [
     {
+      "id": "22c33b53d9ecbf9641eef8d2599f6529",
+      "title": "(EDITORIAL from Korea Times on Sept. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914000500320",
+      "published_date": "2026-09-13T21:51:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a73025de1b364ca744a4a78363b09484",
+      "title": "(EDITORIAL from Korea Herald on Sept. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914000400320",
+      "published_date": "2026-09-13T21:51:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "87fbb3a4973d8e66de35a76f413fabd3",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914000300320",
+      "published_date": "2026-09-13T21:50:59Z",
+      "category": "Local Events"
+    },
+    {
       "id": "c9a2169cadbf24c90e74f4f11f78688d",
       "title": "(Asiad) Women's football coach not feeling pressure ahead of match vs. predecessor",
       "source": "Yonhap News Agency",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260912001000315",
       "published_date": "2026-09-12T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3be6257a4fea40556146b342f4eac61a",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000800315",
-      "published_date": "2026-09-12T00:39:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5bb4d08e830ee2c682ac6ecb6db70f8c",
-      "title": "(3rd LD) N. Korea fires multiple short-range ballistic missiles toward East Sea: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000353315",
-      "published_date": "2026-09-12T00:34:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "994db37db258efd62e219ee3b82c358e",
-      "title": "(2nd LD) N. Korea fires multiple ballistic missiles toward East Sea: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000352315",
-      "published_date": "2026-09-11T23:44:03Z",
       "category": "Local Events"
     }
   ]
