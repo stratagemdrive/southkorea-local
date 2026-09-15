@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-15T01:03:10Z",
+  "generated_at": "2026-09-15T15:28:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "a05446f274af94e155531b3a018caaa3",
+      "title": "North Korea kicks off Asian Games with 10-0 women’s soccer win",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-korea-kicks-off-asian-games-with-10-0-womens-soccer-win/",
+      "published_date": "2026-09-15T05:46:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9717375dc735a730c1eca3bb998c3298",
+      "title": "North Korea’s talk about Taiwan is bad news for the US",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-koreas-talk-about-taiwan-is-bad-news-for-the-us/",
+      "published_date": "2026-09-15T05:37:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9507aefe97fba76ca765215830d7c481",
+      "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
+      "published_date": "2026-09-15T04:10:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "25bb591b8d965e1fb8ef536ccbf91e76",
+      "title": "What will it take for the Trump administration to achieve denuclearization of N. Korea",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-denuclearization-strategy-achievable/",
+      "published_date": "2026-09-15T03:28:23Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "46524f4f65a5b25caec13bed273854df",
       "title": "North Korean worker dispatches to China rise as factories spread hires thinner",
@@ -136,38 +168,6 @@
       "url": "https://en.yna.co.kr/view/AEN20260914006700320",
       "published_date": "2026-09-14T06:15:50Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "f1ed2cd1b2c2ddd0c052481ef3efac11",
-      "title": "TXT to launch new world tour in Nov.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006200315",
-      "published_date": "2026-09-14T06:10:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "942fbab5c6e8211a4f8f09198fd74c25",
-      "title": "Tax agency to probe 41 businesses for causing consumer price instability",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914005000320",
-      "published_date": "2026-09-14T04:50:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d8c102413d1c827b08abad44fe94f8ff",
-      "title": "North Korea still closed to private car travel after bridge opening with Russia",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-still-closed-to-private-car-travel-after-bridge-opening-with-russia/",
-      "published_date": "2026-09-14T04:21:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f007cc214d16bd39fa6d7f46f7481603",
-      "title": "(Asiad) Coach embraces opportunity to restore pride in S. Korean football",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914004600315",
-      "published_date": "2026-09-14T03:36:20Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -281,54 +281,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/09/google-maps-starts-blurring-images-of-south-korean-military-sites-and-dmz/",
       "published_date": "2026-09-09T07:22:16Z",
-      "category": "Military"
-    },
-    {
-      "id": "b1d01087aa288c50c181774342a49f76",
-      "title": "(URGENT) S. Korea to dispatch inspection team to Hormuz Strait to assess situation: defense ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260908011200320",
-      "published_date": "2026-09-08T12:19:22Z",
-      "category": "Military"
-    },
-    {
-      "id": "6e327a0f8ba77362d400708947fb2d37",
-      "title": "Hanwha Ocean clinches 680 bln-won frigate project from Thai Navy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260908010700320",
-      "published_date": "2026-09-08T11:04:04Z",
-      "category": "Military"
-    },
-    {
-      "id": "5dad4c5511ab88b45297e40c41c0fe81",
-      "title": "(LEAD) Philippine defense chief slams China over audience note on South China Sea at Seoul forum",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260908006551315",
-      "published_date": "2026-09-08T08:14:34Z",
-      "category": "Military"
-    },
-    {
-      "id": "970235bebf4dc885453632326c07309f",
-      "title": "Philippine defense chief slams China over audience note on South China Sea at Seoul forum",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260908006500315",
-      "published_date": "2026-09-08T06:08:56Z",
-      "category": "Military"
-    },
-    {
-      "id": "6606302f6ca1220c76f0847ab3da57d8",
-      "title": "North Korean defense chief warns of ‘powerful’ response to US-ROK-Japan drills",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korean-defense-chief-warns-of-powerful-response-to-us-rok-japan-drills/",
-      "published_date": "2026-09-08T05:31:54Z",
-      "category": "Military"
-    },
-    {
-      "id": "d4cef2d0420ca2c3792c1baa64bd8dd6",
-      "title": "Defense chief says 'strongly' hopes for resumption of N. Korea-U.S. dialogue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260908004500315",
-      "published_date": "2026-09-08T03:36:19Z",
       "category": "Military"
     }
   ],
@@ -658,6 +610,22 @@
   ],
   "Local Events": [
     {
+      "id": "28dab6e78b7b6856a67a1a3692efea2c",
+      "title": "North Korea touts “world-class education,” but rural skepticism persists",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rural-education-skepticism-teachers-congress/",
+      "published_date": "2026-09-15T14:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "89076792bf57b4325d1aaae9d1fa6a63",
+      "title": "North Korea, Iran ordered to pay $487 million to US victims of terrorism",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-korea-iran-ordered-to-pay-487-million-to-us-victims-of-terrorism/",
+      "published_date": "2026-09-15T07:39:28Z",
+      "category": "Local Events"
+    },
+    {
       "id": "a3a7ed70b8c200d3fa3bcf916c7660d5",
       "title": "Container shipping costs to Middle East extend gains in Aug. amid conflict",
       "source": "Yonhap News Agency",
@@ -799,22 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260914008400315",
       "published_date": "2026-09-14T07:10:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8e51daab560bf9bd3fc23d09fa6fdb49",
-      "title": "India to bring 'Sarang' cultural festival to cities across S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914008100315",
-      "published_date": "2026-09-14T07:08:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c38dbedda618649690ee51bf3ef787a6",
-      "title": "(LEAD) Dozen K Leaguers named to Moreno's 1st S. Korean squad",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914005951315",
-      "published_date": "2026-09-14T07:03:40Z",
       "category": "Local Events"
     }
   ]
