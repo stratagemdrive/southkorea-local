@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-14T16:49:26Z",
+  "generated_at": "2026-09-15T01:03:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "46524f4f65a5b25caec13bed273854df",
+      "title": "North Korean worker dispatches to China rise as factories spread hires thinner",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-workers-china-dispersed-dispatch/",
+      "published_date": "2026-09-15T00:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6f9ec1f319338da8874b99cf9ea1a8a3",
+      "title": "N. Korea's Kim vows to deepen ties with Russia in reply to Putin",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915000900315",
+      "published_date": "2026-09-15T00:04:01Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8e8aab2878fcd4bf8dbae8f672aa4632",
       "title": "Elementary schools press students for fees days after fall semester starts",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260914004600315",
       "published_date": "2026-09-14T03:36:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8929d0ec80bf15df181f27edf02f317d",
-      "title": "Ex-broadcasting watchdog chief unfairly involved in YTN stake sell-off: state auditor",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914004100315",
-      "published_date": "2026-09-14T03:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "63bd40ff3898d42f52c79831301b0894",
-      "title": "Money laundering ring busted for laundering proceeds from fraud groups",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914004200315",
-      "published_date": "2026-09-14T02:58:01Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,38 @@
   ],
   "Economy": [
     {
+      "id": "360aaadbb0b609be37a456b828b26f60",
+      "title": "(LEAD) Stocks dip sharply lower as AI leaders call for industry slow down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915001051320",
+      "published_date": "2026-09-15T00:30:59Z",
+      "category": "Economy"
+    },
+    {
+      "id": "4f1ca2acd8ca73ed69c93ba168fd0646",
+      "title": "Stocks dip sharply lower as AI leaders call for industry slow down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915001000320",
+      "published_date": "2026-09-15T00:06:26Z",
+      "category": "Economy"
+    },
+    {
+      "id": "589157ecd6d91d2ec878fe4236d63d12",
+      "title": "(URGENT) Stocks open 0.38 pct lower on tech sell-off amid calls for AI slowdown",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915000800320",
+      "published_date": "2026-09-15T00:04:54Z",
+      "category": "Economy"
+    },
+    {
+      "id": "fb51b06dbc0e3e04e17508ecca6025e2",
+      "title": "Import prices fall for 3rd month in Aug. on stronger won",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914010100320",
+      "published_date": "2026-09-14T21:00:01Z",
+      "category": "Economy"
+    },
+    {
       "id": "4f96c435972479d51562158e684ab70d",
       "title": "1.8 tln won traded in first KRX after-hours stock trading session",
       "source": "Yonhap News Agency",
@@ -622,41 +654,89 @@
       "url": "https://en.yna.co.kr/view/AEN20260911009600320",
       "published_date": "2026-09-11T09:58:20Z",
       "category": "Economy"
-    },
-    {
-      "id": "5d75fd3dddbe043960edd5180f65d8dd",
-      "title": "(Asiad) S. Korea hammers Indonesia for 2nd straight win in men's basketball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911009300315",
-      "published_date": "2026-09-11T08:55:22Z",
-      "category": "Economy"
-    },
-    {
-      "id": "446be6e8a618596d6a331b431e3450ff",
-      "title": "Trade minister seeks U.K. exemption from Russian LNG sanctions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911008300320",
-      "published_date": "2026-09-11T08:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ce675752a9c820079dd78a37c6860f0c",
-      "title": "Families of motel attack victims accuse police officer of dereliction of duty",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911006500315",
-      "published_date": "2026-09-11T07:20:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "973bcaaf0d589010cd87190cd778b463",
-      "title": "(LEAD) Gender minister says Google must take responsibility for any legal violations over data leak",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911002751315",
-      "published_date": "2026-09-11T04:55:04Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "a3a7ed70b8c200d3fa3bcf916c7660d5",
+      "title": "Container shipping costs to Middle East extend gains in Aug. amid conflict",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915001600320",
+      "published_date": "2026-09-15T00:43:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "da5107ab7cdce03e214755abdba15ab6",
+      "title": "(Asiad) Myanmar women's football coach Bell says holds soft spot for ex-team S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915001100315",
+      "published_date": "2026-09-15T00:06:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a5d9cfa873ef15d33958f98ed5604024",
+      "title": "U.S. judge blocks Trump's move to limit duration of stay for foreign students, journalists: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915000700315",
+      "published_date": "2026-09-14T23:13:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "03239f483de6af04af57ccd35a0d9ddb",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915000600320",
+      "published_date": "2026-09-14T21:58:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "14db9450bd7a6850675f9c6f784258ee",
+      "title": "(EDITORIAL from Korea Times on Sept. 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915000500320",
+      "published_date": "2026-09-14T21:58:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a1020aa4d3d8219ef23f68e11e339786",
+      "title": "(EDITORIAL from Korea Herald on Sept. 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915000400320",
+      "published_date": "2026-09-14T21:57:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d8bdf354219b1a7223082d225615743a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915000300320",
+      "published_date": "2026-09-14T21:57:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4c06764be1c8e5dd0f617e94fa3aa1fb",
+      "title": "Insurers suffer 1st losses in 6 yrs from auto insurance biz in H1",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260914009900320",
+      "published_date": "2026-09-14T21:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9bb9d39a9336241fd456a048ab97c951",
+      "title": "Drone pilot arrested for secretly filming inside homes in Kaesong",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kaesong-drone-secret-filming-arrest/",
+      "published_date": "2026-09-14T20:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ff9de81e328844c6ce5522db57309e8c",
+      "title": "Smartphone apps widen North Korea’s education gap",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-education-gap-smartphone-language-learning/",
+      "published_date": "2026-09-14T17:46:00Z",
+      "category": "Local Events"
+    },
     {
       "id": "8a623647a378e6dff74446127654c4b8",
       "title": "(LEAD) (Asiad) S. Korea shut down Myanmar to kick off women's football tournament",
@@ -735,86 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260914005951315",
       "published_date": "2026-09-14T07:03:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "046e47b20f0c00f088856f0af7b02770",
-      "title": "(2nd LD) Seoul ready to provide medical equipment to hospital in N. Korea if asked: gov't",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914001652315",
-      "published_date": "2026-09-14T07:03:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "89c08d5fa15d17996056690b697ba356",
-      "title": "Broadcaster MBC confirms new chief executive",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006900315",
-      "published_date": "2026-09-14T06:26:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2977467be4c6948cf987fee5f328d361",
-      "title": "Acting police chief reaffirms efforts for investigative reform",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006500315",
-      "published_date": "2026-09-14T06:25:16Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f330ef46c401088af9519355d64d7337",
-      "title": "PM says takes drop in gov't approval rating seriously",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006800315",
-      "published_date": "2026-09-14T06:23:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bab284e1be33d7de4832dbf637153654",
-      "title": "S. Korea condemns Houthi attacks on Saudi Arabia, calls for immediate halt",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006300315",
-      "published_date": "2026-09-14T06:05:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ad85d4708f38730d352f15cbb03615e6",
-      "title": "(Asiad) Women's volleyball coach confident of winning medal after 1st training in Japan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006000320",
-      "published_date": "2026-09-14T05:48:23Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5aeb7e1a0586ba60a3924382909c9341",
-      "title": "Dozen K Leaguers named to Moreno's 1st S. Korean squad",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914005900315",
-      "published_date": "2026-09-14T05:47:55Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4f2f0c4cc7479fb89e28e2282774b503",
-      "title": "Korean Air to begin booking migration ahead of Asiana integration",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914005300320",
-      "published_date": "2026-09-14T05:24:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fdf0f35b17752bfcaed3027f765dc9e9",
-      "title": "Girl group Illit to return with new EP next month",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914005200315",
-      "published_date": "2026-09-14T05:09:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1c97ed8cf1f5cdf745c31a091a352326",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914000700320",
-      "published_date": "2026-09-14T05:00:04Z",
       "category": "Local Events"
     }
   ]
