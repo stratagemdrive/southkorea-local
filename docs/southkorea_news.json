@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-15T15:28:07Z",
+  "generated_at": "2026-09-16T00:52:48Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,175 @@
   ],
   "Diplomacy": [
     {
-      "id": "a05446f274af94e155531b3a018caaa3",
-      "title": "North Korea kicks off Asian Games with 10-0 women’s soccer win",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-kicks-off-asian-games-with-10-0-womens-soccer-win/",
-      "published_date": "2026-09-15T05:46:29Z",
+      "id": "4599eb6e43975f6d50ec64aef699db1e",
+      "title": "Seoul stocks open almost flat as investors digest external uncertainties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916002900320",
+      "published_date": "2026-09-16T00:40:17Z",
       "category": "Diplomacy"
     },
     {
-      "id": "9717375dc735a730c1eca3bb998c3298",
-      "title": "North Korea’s talk about Taiwan is bad news for the US",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-koreas-talk-about-taiwan-is-bad-news-for-the-us/",
-      "published_date": "2026-09-15T05:37:53Z",
+      "id": "4ba625f6221f844c6eaca72710204472",
+      "title": "SK hynix union approves revised wage deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916002700320",
+      "published_date": "2026-09-16T00:36:41Z",
       "category": "Diplomacy"
     },
     {
-      "id": "9507aefe97fba76ca765215830d7c481",
-      "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
-      "published_date": "2026-09-15T04:10:58Z",
+      "id": "ee473249c5a7e1194581dc7a5ced3d16",
+      "title": "Korean Air finalizes purchase agreement for 103 Boeing aircraft, GE engines",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916002600320",
+      "published_date": "2026-09-16T00:23:32Z",
       "category": "Diplomacy"
     },
     {
-      "id": "25bb591b8d965e1fb8ef536ccbf91e76",
-      "title": "What will it take for the Trump administration to achieve denuclearization of N. Korea",
+      "id": "c239245089f0a3e28c4e6409b27c8735",
+      "title": "(URGENT) Seoul stocks open lower on external uncertainties, rising oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916002100320",
+      "published_date": "2026-09-16T00:03:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "031e07a324e47b622b600660a73f48ee",
+      "title": "S. Korea offers guidelines for RFI-K under won's internationalization vision",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916002200320",
+      "published_date": "2026-09-16T00:00:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2b9d6537b3baec2f497732db80de9210",
+      "title": "FM Cho to visit U.S. for talks with Rubio on Fri.: foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916002000315",
+      "published_date": "2026-09-15T23:54:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3d1675f7910da6e7d1578402b76ba756",
+      "title": "N. Korea's minister-led delegation departs for Asian Games in Japan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916001700315",
+      "published_date": "2026-09-15T23:54:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c46aaa3dc4d2d7480a8f6248df041f02",
+      "title": "(URGENT) FM Cho to visit U.S. for talks with Rubio on Friday : foreign ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916001800315",
+      "published_date": "2026-09-15T23:46:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0c2a581f35d76ce8aa429abb2d860a5f",
+      "title": "POSCO workers stage 2nd partial strike over wage demands",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916001500320",
+      "published_date": "2026-09-15T23:37:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7a528178c5db80f81a75ad69bf61a928",
+      "title": "N. Korea's vice defense minister attends Chinese defense forum",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916001300315",
+      "published_date": "2026-09-15T23:14:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e56302887ba263c7b85c5dc6b7336349",
+      "title": "North Hamgyong pushes design contest on factories that already make clothes to order",
       "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-denuclearization-strategy-achievable/",
-      "published_date": "2026-09-15T03:28:23Z",
+      "url": "https://www.dailynk.com/english/north-korea-design-competition-clothing-factories/",
+      "published_date": "2026-09-15T17:02:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "46524f4f65a5b25caec13bed273854df",
-      "title": "North Korean worker dispatches to China rise as factories spread hires thinner",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-workers-china-dispersed-dispatch/",
-      "published_date": "2026-09-15T00:42:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6f9ec1f319338da8874b99cf9ea1a8a3",
-      "title": "N. Korea's Kim vows to deepen ties with Russia in reply to Putin",
+      "id": "5e061e9c30b1857cdc1d269ef892fe3d",
+      "title": "Trump says countries that have been 'no help' should reimburse U.S. when Iran war ends",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915000900315",
-      "published_date": "2026-09-15T00:04:01Z",
+      "url": "https://en.yna.co.kr/view/AEN20260916000200315",
+      "published_date": "2026-09-15T16:07:15Z",
       "category": "Diplomacy"
     },
     {
-      "id": "8e8aab2878fcd4bf8dbae8f672aa4632",
-      "title": "Elementary schools press students for fees days after fall semester starts",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-schools-collect-fees-new-term/",
-      "published_date": "2026-09-14T14:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "88c2ed4f502624116d7f9e44ed8b303c",
-      "title": "(Asiad) Midfielder blocking out noise ahead of men's football competition",
+      "id": "309b031795c6515556911e3f14c6864b",
+      "title": "(2nd LD) Seoul city bus union to go on strike Wed. after wage talks fail",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914010200315",
-      "published_date": "2026-09-14T11:33:55Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915008252315",
+      "published_date": "2026-09-15T14:06:14Z",
       "category": "Diplomacy"
     },
     {
-      "id": "8d96304aa190b9a45b65457d53c8cbae",
-      "title": "(LEAD) S. Korean president says hopes to deepen strategic partnership with Uzbekistan",
+      "id": "3add5fb8a09d9df78b749a18260bc1fe",
+      "title": "(LEAD) (Asiad) Midfielder Eom Ji-sung stays hot with hat trick in men's football opener",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009651315",
-      "published_date": "2026-09-14T10:58:59Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915011051315",
+      "published_date": "2026-09-15T13:39:40Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6634b49b22142838a7c5f6dbdcbb0589",
-      "title": "(Asiad) N. Korea pound Bangladesh to open women's football tournament",
+      "id": "d8c4e89e661616cbb4c589da4a92daa2",
+      "title": "(LEAD) Seoul city bus union to go on strike Wed. after wage talks fail",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009800315",
-      "published_date": "2026-09-14T10:02:33Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915008251315",
+      "published_date": "2026-09-15T13:35:28Z",
       "category": "Diplomacy"
     },
     {
-      "id": "7fde8a93dc44fc598cab07c2d4f7cf90",
-      "title": "S. Korean president says hopes to deepen strategic partnership with Uzbekistan",
+      "id": "35626ef84be71d5804fdc8682c22ea37",
+      "title": "(URGENT) Seoul city bus union to strike from early Wed. after wage talks fail",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009600315",
-      "published_date": "2026-09-14T09:54:36Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915011100315",
+      "published_date": "2026-09-15T13:14:30Z",
       "category": "Diplomacy"
     },
     {
-      "id": "c292210cc4ed63ef54cfcd5f67285af2",
-      "title": "Swiss firm denies North Korea’s claim it operates office in Pyongyang",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/swiss-firm-denies-north-koreas-claim-it-operates-office-in-pyongyang/",
-      "published_date": "2026-09-14T09:41:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1ad0c764df5656594dc67d33fb0ed781",
-      "title": "POSCO International to raise 532.9 bln won for U.S. shale gas assets",
+      "id": "94dc619ce43158bae258c83d1d9f57d9",
+      "title": "(Asiad) Midfielder Eom Ji-sung stays hot with hat trick in men's football opener",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009500320",
-      "published_date": "2026-09-14T09:39:21Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915011000315",
+      "published_date": "2026-09-15T12:33:18Z",
       "category": "Diplomacy"
     },
     {
-      "id": "73add293ee96be06f157bfe27f2f396d",
-      "title": "Seoul plans to donate medical equipment to one of North Korea’s major hospitals",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/seoul-plans-to-donate-medical-equipment-to-one-of-north-koreas-major-hospitals/",
-      "published_date": "2026-09-14T09:25:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cddf10475fc49644cf4ee1d14afd375e",
-      "title": "Lim Yunchan nominated again for Gramophone Classical Music Awards",
+      "id": "7e51fa5e48e18b994937b76008c1dce9",
+      "title": "(2nd LD) PM calls for critical minerals, AI cooperation with Kazakhstan, Uzbekistan, Turkmenistan",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009000315",
-      "published_date": "2026-09-14T07:54:55Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915005952315",
+      "published_date": "2026-09-15T11:30:07Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0c1b559c250916394e891175e42fe5e1",
-      "title": "(2nd LD) Seoul stocks dip over 3 pct on Mideast uncertainties, AI warnings",
+      "id": "273550c82f842a9b941f2c3b0ba42b95",
+      "title": "Defense chiefs of S. Korea, Japan agree on defense cooperation based on 'mutual understanding'",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006452320",
-      "published_date": "2026-09-14T07:31:18Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915010400315",
+      "published_date": "2026-09-15T10:44:09Z",
       "category": "Diplomacy"
     },
     {
-      "id": "15b15bb389dc748dd1b3e9645a657525",
-      "title": "(LEAD) Seoul stocks dip over 3 pct on Mideast uncertainties, AI warnings",
+      "id": "07821eb56a9152df99c97cfedfc8f53b",
+      "title": "S. Korea, Turkmenistan sign investment protection agreement",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006451320",
-      "published_date": "2026-09-14T07:01:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3945936f28eab31df3f37aec8228cd62",
-      "title": "Seoul stocks dip over 3 pct on Mideast uncertainties, AI warnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006400320",
-      "published_date": "2026-09-14T06:36:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "898cfd3139fc8d4d4cf4faeeceaeadae",
-      "title": "Lee, ADB chief agree to boost cooperation on critical minerals, AI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006600315",
-      "published_date": "2026-09-14T06:18:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d1d85bb1f3680c66cf4c70b352236475",
-      "title": "Science minister eyes more partnerships in AI, science with Central Asia",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914006700320",
-      "published_date": "2026-09-14T06:15:50Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915010300315",
+      "published_date": "2026-09-15T10:41:49Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "b3c7715d6dfaa2e9706fd1c62cc2e58e",
+      "title": "N. Korea's ex-defense official linked to nuclear, missile programs dies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915001700315",
+      "published_date": "2026-09-15T01:22:48Z",
+      "category": "Military"
+    },
     {
       "id": "8bcf4ed97638e763a1cd408ff56960f9",
       "title": "S. Korea's nuclear agency chief attends IAEA meeting in Austria",
@@ -285,6 +293,38 @@
     }
   ],
   "Energy": [
+    {
+      "id": "a0eec5c44251a85fb2c26554ca4c3170",
+      "title": "S. Korea, Kazakhstan elevate ties, agree to boost cooperation in crude oil, nuclear power",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915010700315",
+      "published_date": "2026-09-15T12:38:17Z",
+      "category": "Energy"
+    },
+    {
+      "id": "ac82dd06e92a749d108946ed6d83aab1",
+      "title": "(LEAD) 5 injured due to gas leak on Russian fishing boat in Busan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915003351315",
+      "published_date": "2026-09-15T07:28:47Z",
+      "category": "Energy"
+    },
+    {
+      "id": "8c5ae9fd5c9162b24ca3b5d9befb0be4",
+      "title": "FTC approves revised mileage integration plan for Korean Air, Asiana",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915003700320",
+      "published_date": "2026-09-15T03:00:01Z",
+      "category": "Energy"
+    },
+    {
+      "id": "67b10e641bfe1b5f5787bb35ca80631f",
+      "title": "2 in cardiac arrest, 2 injured after gas leak on Russian fishing boat in Busan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915003300315",
+      "published_date": "2026-09-15T02:28:22Z",
+      "category": "Energy"
+    },
     {
       "id": "91f54cbb1e84501d061e17495d0507c6",
       "title": "S. Korea, ADB discuss supply chain, AI, energy ties",
@@ -412,41 +452,73 @@
       "url": "https://en.yna.co.kr/view/AEN20260910005951320",
       "published_date": "2026-09-10T06:59:02Z",
       "category": "Energy"
-    },
-    {
-      "id": "b6d1591641c0e37a04c9bddda570edd6",
-      "title": "Seoul shares end lower on inflation fears",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910005900320",
-      "published_date": "2026-09-10T06:37:18Z",
-      "category": "Energy"
-    },
-    {
-      "id": "8914343d71d3eaf1fe65458b65cca04d",
-      "title": "(LEAD) Seoul shares open lower amid escalating Mideast tensions, rising oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910001151320",
-      "published_date": "2026-09-10T00:27:13Z",
-      "category": "Energy"
-    },
-    {
-      "id": "bfdb6e8cad46a17d2114ee43aa9b6882",
-      "title": "Seoul shares open lower amid escalating Mideast tensions, rising oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260910001100320",
-      "published_date": "2026-09-10T00:03:28Z",
-      "category": "Energy"
-    },
-    {
-      "id": "6b2ae5a221336dc2dc0ccc12b7027e3f",
-      "title": "(LEAD) Rival parties clash over Cabinet reshuffle, constitutional revision at interpellation session",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260909003451315",
-      "published_date": "2026-09-09T07:55:32Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "376c69cbc436cc6ca08c3ec6072b6995",
+      "title": "(EDITORIAL from Korea Times on Sept. 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916000700320",
+      "published_date": "2026-09-15T21:55:58Z",
+      "category": "Economy"
+    },
+    {
+      "id": "d022dba1d8422c54ab1b57aabd5b5365",
+      "title": "S. Korean won weakens against U.S. dollar amid surging bond yields",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915008000320",
+      "published_date": "2026-09-15T07:28:29Z",
+      "category": "Economy"
+    },
+    {
+      "id": "b7d9d109e6e0cc5332e842ef43ce5bf1",
+      "title": "Budget ministry discusses AI, structural challenges with German delegation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915006300320",
+      "published_date": "2026-09-15T06:32:39Z",
+      "category": "Economy"
+    },
+    {
+      "id": "fe4417d438b13fa33b8c3adfd6527133",
+      "title": "Science ministry seeks nearly 3 tln won in ICT research budget next year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915002500320",
+      "published_date": "2026-09-15T05:00:04Z",
+      "category": "Economy"
+    },
+    {
+      "id": "44206f0aea3f1646db033a05b28954ad",
+      "title": "(LEAD) Finance minister nominee vows to tackle inflation, bolster economic recovery",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915002251320",
+      "published_date": "2026-09-15T02:43:35Z",
+      "category": "Economy"
+    },
+    {
+      "id": "96624a23e268aaf569957e170f1ee5f4",
+      "title": "Stocks flat late Tue. morning as investors digest warnings from AI execs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915003600320",
+      "published_date": "2026-09-15T02:40:20Z",
+      "category": "Economy"
+    },
+    {
+      "id": "86bb3bc7d2f1ba907e28aba6719a38b6",
+      "title": "SK chief Chey appeals prosecution's decision not to indict ex-wife's lawyer",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915002900315",
+      "published_date": "2026-09-15T02:03:51Z",
+      "category": "Economy"
+    },
+    {
+      "id": "703401ffb72c1e4d2b77f5f8f38d755c",
+      "title": "Finance minister nominee vows to tackle inflation, bolster economic recovery",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915002200320",
+      "published_date": "2026-09-15T01:35:44Z",
+      "category": "Economy"
+    },
     {
       "id": "360aaadbb0b609be37a456b828b26f60",
       "title": "(LEAD) Stocks dip sharply lower as AI leaders call for industry slow down",
@@ -542,73 +614,73 @@
       "url": "https://en.yna.co.kr/view/AEN20260914002400320",
       "published_date": "2026-09-14T02:04:37Z",
       "category": "Economy"
-    },
-    {
-      "id": "53bda9422e3b7a8bbd503444d3bd1f34",
-      "title": "(Asiad) S. Korea basketball coach praises team for timely effort in win over Japan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260913002900315",
-      "published_date": "2026-09-13T13:02:35Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ecb56919d7036fad2d9cb6a3f281a8ef",
-      "title": "(LEAD) (Asiad) S. Korea defeats Japan to top group in men's basketball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260913002851315",
-      "published_date": "2026-09-13T12:48:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "6d83fbc9f09b77391df3cce74239d5db",
-      "title": "(Asiad) S. Korea defeats Japan to top group in men's basketball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260913002800315",
-      "published_date": "2026-09-13T12:16:42Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8b854ca36726f971b5435d47710d1d9a",
-      "title": "SK chairman calls for sustainable AI biz model amid investment boom",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260913000500320",
-      "published_date": "2026-09-13T01:00:50Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9608261d8e094f8152e7b3972cdfd221",
-      "title": "Pork prices near record 160,000 won per kilogram in North Korea",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-pork-prices-record-high-swine-fever/",
-      "published_date": "2026-09-11T17:32:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a56f105824967205c06e7463bc1973f7",
-      "title": "(LEAD) (Asiad) S. Korea hammers Indonesia in men's basketball, reaches quarterfinals",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911009351315",
-      "published_date": "2026-09-11T12:48:19Z",
-      "category": "Economy"
-    },
-    {
-      "id": "00548109af582057df8d9ddc35ccdddc",
-      "title": "Private traders still control goods distribution after passing through customs",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/private-traders-chinese-goods-distribution-hyesan/",
-      "published_date": "2026-09-11T12:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "51f1d173bea811811771c687650f6d46",
-      "title": "KB Financial selects seasoned financier as candidate for next chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911009600320",
-      "published_date": "2026-09-11T09:58:20Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "4b860ad32161ae3f810ec26009790cd7",
+      "title": "Ex-President Yoon to be handed appellate ruling in perjury case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916001900315",
+      "published_date": "2026-09-16T00:05:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5a5315a6b40ad974b17eccd5c71d3b8c",
+      "title": "S. Korea expands China routes, gives more flight rights to LCCs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916001600320",
+      "published_date": "2026-09-15T23:47:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d00a73461b4963e349ca7d6a3c95707b",
+      "title": "Seoul city bus union calls off strike after reaching last-minute wage deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916001400315",
+      "published_date": "2026-09-15T23:18:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7db1c7efbc60ad324e6b7a1da6d39cc7",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916000800320",
+      "published_date": "2026-09-15T21:56:17Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ba0bd67c1a2c1c9cbc0cbf4f808769c4",
+      "title": "(EDITORIAL from Korea Herald on Sept. 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916000600320",
+      "published_date": "2026-09-15T21:55:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e91cec4388cdabcd4a10c9240ec13d1a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916000500320",
+      "published_date": "2026-09-15T21:55:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bf993e74f9632b0fc54e7047b2bdce99",
+      "title": "Over 300 S. Korean workers challenging Trump gov't over last year's immigration raid in Georgia: CNN",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916000300315",
+      "published_date": "2026-09-15T20:16:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fd9cb81bd3eb54b1c8a0ba5f671d22d0",
+      "title": "(Asiad) Football coach implores players to learn from defensive lapse in opening victory",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915011200315",
+      "published_date": "2026-09-15T14:01:35Z",
+      "category": "Local Events"
+    },
     {
       "id": "28dab6e78b7b6856a67a1a3692efea2c",
       "title": "North Korea touts “world-class education,” but rural skepticism persists",
@@ -618,155 +690,91 @@
       "category": "Local Events"
     },
     {
-      "id": "89076792bf57b4325d1aaae9d1fa6a63",
-      "title": "North Korea, Iran ordered to pay $487 million to US victims of terrorism",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-iran-ordered-to-pay-487-million-to-us-victims-of-terrorism/",
-      "published_date": "2026-09-15T07:39:28Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a3a7ed70b8c200d3fa3bcf916c7660d5",
-      "title": "Container shipping costs to Middle East extend gains in Aug. amid conflict",
+      "id": "b123ac99ab62883a1993eb6f1a0f469a",
+      "title": "(LEAD) (Asiad) S. Korea beat Qatar in men's football behind midfielder's hat trick",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915001600320",
-      "published_date": "2026-09-15T00:43:53Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915010851315",
+      "published_date": "2026-09-15T12:42:06Z",
       "category": "Local Events"
     },
     {
-      "id": "da5107ab7cdce03e214755abdba15ab6",
-      "title": "(Asiad) Myanmar women's football coach Bell says holds soft spot for ex-team S. Korea",
+      "id": "6bdf8039bba039d66cc344ca07cd3898",
+      "title": "(Asiad) S. Korea beat Qatar in men's football behind midfielder's hat trick",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915001100315",
-      "published_date": "2026-09-15T00:06:20Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915010800315",
+      "published_date": "2026-09-15T12:27:48Z",
       "category": "Local Events"
     },
     {
-      "id": "a5d9cfa873ef15d33958f98ed5604024",
-      "title": "U.S. judge blocks Trump's move to limit duration of stay for foreign students, journalists: report",
+      "id": "030ccbb859a895148d9e2341f329622c",
+      "title": "'Dracula' featuring Jennie longest-charting song by K-pop artist in Hot 100's top 10",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915000700315",
-      "published_date": "2026-09-14T23:13:08Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915010600315",
+      "published_date": "2026-09-15T12:03:07Z",
       "category": "Local Events"
     },
     {
-      "id": "03239f483de6af04af57ccd35a0d9ddb",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 15)",
+      "id": "8ecca9fd39da7018ec9f34fc235b6f0a",
+      "title": "(LEAD) Volatility controls spike in 1st day of after-hours trading on Korea Exchange",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915000600320",
-      "published_date": "2026-09-14T21:58:36Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915004551320",
+      "published_date": "2026-09-15T11:06:38Z",
       "category": "Local Events"
     },
     {
-      "id": "14db9450bd7a6850675f9c6f784258ee",
-      "title": "(EDITORIAL from Korea Times on Sept. 15)",
+      "id": "6b88fa8cfdcfa0823d6f161c5e756599",
+      "title": "(Asiad) Football teams arrive late to stadium after bus drivers get lost",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915000500320",
-      "published_date": "2026-09-14T21:58:12Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915010200315",
+      "published_date": "2026-09-15T10:13:38Z",
       "category": "Local Events"
     },
     {
-      "id": "a1020aa4d3d8219ef23f68e11e339786",
-      "title": "(EDITORIAL from Korea Herald on Sept. 15)",
+      "id": "eb1d9a8ab457fdc24e63e6f6995cc0b9",
+      "title": "(Asiad) Baseball team of KBO stars holds 1st practice in Seoul",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915000400320",
-      "published_date": "2026-09-14T21:57:55Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915010100315",
+      "published_date": "2026-09-15T09:26:38Z",
       "category": "Local Events"
     },
     {
-      "id": "d8bdf354219b1a7223082d225615743a",
-      "title": "Top headlines in major S. Korean newspapers",
+      "id": "db7ef21cc86e2d8db455a65fbb1f240d",
+      "title": "(LEAD) Rival parties clash over justice minister nominee's illegal lobbying allegations",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915000300320",
-      "published_date": "2026-09-14T21:57:39Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915004151315",
+      "published_date": "2026-09-15T08:39:00Z",
       "category": "Local Events"
     },
     {
-      "id": "4c06764be1c8e5dd0f617e94fa3aa1fb",
-      "title": "Insurers suffer 1st losses in 6 yrs from auto insurance biz in H1",
+      "id": "ee618ffa19ec2b2a2f952ff5776f0f23",
+      "title": "(Asiad) Shooters land in Nagoya carrying high medal hopes",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009900320",
-      "published_date": "2026-09-14T21:00:04Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915009700315",
+      "published_date": "2026-09-15T08:11:21Z",
       "category": "Local Events"
     },
     {
-      "id": "9bb9d39a9336241fd456a048ab97c951",
-      "title": "Drone pilot arrested for secretly filming inside homes in Kaesong",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/kaesong-drone-secret-filming-arrest/",
-      "published_date": "2026-09-14T20:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ff9de81e328844c6ce5522db57309e8c",
-      "title": "Smartphone apps widen North Korea’s education gap",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-education-gap-smartphone-language-learning/",
-      "published_date": "2026-09-14T17:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8a623647a378e6dff74446127654c4b8",
-      "title": "(LEAD) (Asiad) S. Korea shut down Myanmar to kick off women's football tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914010451315",
-      "published_date": "2026-09-14T13:43:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "245949b4f368f5d10dcb75e769bd57f7",
-      "title": "(Asiad) S. Korea shut down Myanmar to kick off women's football tournament",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914010400315",
-      "published_date": "2026-09-14T12:31:28Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6b62d101b1c65bf05d0ae5e47c89e9f1",
-      "title": "Kia PV7 makes global debut at IAA Transportation in Germany",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914005600320",
-      "published_date": "2026-09-14T08:50:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "844d04edd49fd6b53ab2d5e95d26aefa",
+      "id": "b98e3df37402f369a6f36a7294f6f1ac",
       "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009300320",
-      "published_date": "2026-09-14T08:20:47Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915009800315",
+      "published_date": "2026-09-15T08:01:24Z",
       "category": "Local Events"
     },
     {
-      "id": "832038491cc7386c62aaf0306e30b845",
-      "title": "New investigation agency chief nominee says supports criminal justice system reform",
+      "id": "a149bd3ce512b10b13adc155000d6f03",
+      "title": "S. Korea, Uzbekistan discuss cultural cooperation in ministerial meeting",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914009200315",
-      "published_date": "2026-09-14T08:06:07Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915008600315",
+      "published_date": "2026-09-15T07:53:14Z",
       "category": "Local Events"
     },
     {
-      "id": "03518098981bac8c45f4c634acf33ec3",
-      "title": "Arrest warrants sought for 8 petrochemical executives over alleged price fixing",
+      "id": "bc74ed6862770fd2b58e2eb4772527f3",
+      "title": "Seoul's city bus union sets 9 p.m. Tuesday deadline for strike",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914008700315",
-      "published_date": "2026-09-14T07:38:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3adf0f20beb15897df8856d462b12b48",
-      "title": "(Asiad) Volleyball captain Kang So-hwi eyes medal in likely final Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914008500320",
-      "published_date": "2026-09-14T07:22:55Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "39f8d07f9ee80909df6bc50c5a8c073d",
-      "title": "Stray Kids electrifies 100,000 fans at Brazil's Rock in Rio",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914008400315",
-      "published_date": "2026-09-14T07:10:03Z",
+      "url": "https://en.yna.co.kr/view/AEN20260915008200315",
+      "published_date": "2026-09-15T07:43:29Z",
       "category": "Local Events"
     }
   ]
