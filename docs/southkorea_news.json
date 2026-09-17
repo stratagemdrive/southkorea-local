@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-16T15:21:33Z",
+  "generated_at": "2026-09-17T00:57:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "f403985579c5e7d3edbe06a97a81a818",
+      "title": "(LEAD) U.S. Embassy runs Korea-U.S. alliance ad on S. Korea's high-speed rail network",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916005452315",
+      "published_date": "2026-09-17T00:44:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1cacdd0ad073867f506f843fae7f1b19",
+      "title": "(LEAD) BOK pressed to further raise key rate to track Fed's latest hike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001451320",
+      "published_date": "2026-09-17T00:20:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6a841ea64df9e435b441ce9d44df1450",
+      "title": "BOK pressed to further raise key rate to track Fed's latest hike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001400320",
+      "published_date": "2026-09-17T00:04:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8e3a815022f5986e19b4b65cd7c8d8ee",
+      "title": "N.K. leader's sister dismisses IAEA's denuclearization calls, reiterates nuclear status",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001300315",
+      "published_date": "2026-09-16T23:07:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "67bfe4998b62b3e940559788bf8c5a5f",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001200315",
+      "published_date": "2026-09-16T22:05:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "64cd5425081134ca775111354cc3a663",
+      "title": "(EDITORIAL from Korea Times on Sept. 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001100315",
+      "published_date": "2026-09-16T22:05:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a1a6c41121e621aacf02c40bd3e16fa0",
+      "title": "(EDITORIAL from Korea Herald on Sept. 17)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001000315",
+      "published_date": "2026-09-16T22:05:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4202f7473b198a8438030c27d0a43eb6",
+      "title": "U.S. Embassy to run Korea-U.S. alliance ad on S. Korea's high-speed rail network",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260916005400315",
+      "published_date": "2026-09-16T22:00:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "47d37fafa9aa8e952719123f672d39ad",
+      "title": "Ex-U.S. official says Trump, Xi may 'talk the talk' on N.K. denuclearization at planned summit, expects little new",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000600315",
+      "published_date": "2026-09-16T19:58:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5c3163eacbbc73ee23119e4ae33e477e",
+      "title": "North Korea’s meth prices surge as drug trafficking crackdown intensifies",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-drug-crackdown-meth-prices/",
+      "published_date": "2026-09-16T19:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "36b3b74cc477b7829507d50fd36ceae7",
+      "title": "As summer heat fades, North Korean people flock to parks in evenings",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-people-parks-heat-wave-relief/",
+      "published_date": "2026-09-16T19:17:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "856fbe94b84f1f62766bd97887513ff9",
       "title": "(2nd LD) S. Korean, Central Asian leaders agree to deepen cooperation in critical minerals, energy",
@@ -79,94 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260916009200315",
       "published_date": "2026-09-16T08:04:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2a47556faf1e30f00320db393bfd18a6",
-      "title": "(2nd LD) Seoul stocks snap 4-day losing streak on chip bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916007352320",
-      "published_date": "2026-09-16T07:36:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2e9e516e3f843339d32ea460aafcb484",
-      "title": "(LEAD) Seoul stocks snap 4-day losing streak on chip bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916007351320",
-      "published_date": "2026-09-16T07:06:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "446e75a6e817b588accdf79d3bf2dedb",
-      "title": "(LEAD) S. Korean president says Kyrgyzstan a solid partner, calls for expanded exchanges",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916006251315",
-      "published_date": "2026-09-16T06:40:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b8ac619d5f9680dd3ff9bfbbe29f3cfe",
-      "title": "Seoul stocks snap 4-day losing streak on chip bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916007300320",
-      "published_date": "2026-09-16T06:35:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c07eac7bb4387cf5749f5b24f1c5e59f",
-      "title": "Korean auteur Lee Chang-dong calls 'Possible Love' attempt to understand humans",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916007000315",
-      "published_date": "2026-09-16T06:32:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "356d9f61a47c08a366986a4cc126dca1",
-      "title": "(2nd LD) Leaders of S. Korea, Tajikistan agree to forge comprehensive partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916004152315",
-      "published_date": "2026-09-16T06:17:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "97e050aac76147855eb58a9a68a286dd",
-      "title": "North Korea bars Western, Chinese visitors from Pyongyang trade fair: sources",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-bars-western-chinese-visitors-from-pyongyang-trade-fair-sources/",
-      "published_date": "2026-09-16T05:46:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "335a1efd5f1dee4a44a2b77a703787ec",
-      "title": "Lee calls for renewed spirit of 'Silk Road' to bind East with West at Central Asia Summit",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916006600315",
-      "published_date": "2026-09-16T05:37:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bf45e50359aeeabd3d7404d760c375fa",
-      "title": "(2nd LD) Gov't announces plans to formally introduce abortion pills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916003552315",
-      "published_date": "2026-09-16T05:36:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "19a3d6d9c92cb940ab0b1710ca8041ee",
-      "title": "Yonhap Hanam Int'l Trail Running Festival to launch in Dec.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916006300315",
-      "published_date": "2026-09-16T05:13:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "91ef9fa1b74fd849b394dd4d02022aee",
-      "title": "(LEAD) Leaders of S. Korea, Tajikistan agree to forge comprehensive partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916004151315",
-      "published_date": "2026-09-16T04:58:44Z",
       "category": "Diplomacy"
     }
   ],
@@ -488,6 +488,78 @@
   ],
   "Economy": [
     {
+      "id": "0e5a73de6b1c91cb879bcec76af694fc",
+      "title": "(LEAD) Seoul stocks open higher despite first Fed rate hike in over 3 yrs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001651320",
+      "published_date": "2026-09-17T00:20:58Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8dc459b0bfc9349f9a6025290fac5f33",
+      "title": "Seoul stocks open higher despite first Fed rate hike in over 3 yrs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001600320",
+      "published_date": "2026-09-17T00:03:48Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8ae99d72f4718f044ca0b1dbdbb1b22f",
+      "title": "(URGENT) Seoul stocks open higher despite first Fed rate hike in over 3 yrs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001500320",
+      "published_date": "2026-09-17T00:01:37Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7faac6517c2878540e3d16e2af587c11",
+      "title": "(3rd LD) Fed raises key interest rate by quarter point in 1st hike since 2023",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000353315",
+      "published_date": "2026-09-16T20:56:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e710bdce09fdf830476e058a9d1027df",
+      "title": "U.S. trade commission institutes probe into Samsung, Apple, Google following patent infringement claims",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000700315",
+      "published_date": "2026-09-16T20:50:10Z",
+      "category": "Economy"
+    },
+    {
+      "id": "49960a20553873772852e6a257373662",
+      "title": "(2nd LD) Fed raises key interest rate by quarter point in 1st hike since 2023",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000352315",
+      "published_date": "2026-09-16T19:27:25Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1b62661093903e058acc114cc7e5838f",
+      "title": "(LEAD) Fed raises key interest rate by quarter point in 1st hike since 2023",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000351315",
+      "published_date": "2026-09-16T18:30:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8085b1f4c347a9e1e878c6a5373b8e2e",
+      "title": "Fed raises key interest rate by quarter point in 1st hike since July 2023",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000300315",
+      "published_date": "2026-09-16T18:02:23Z",
+      "category": "Economy"
+    },
+    {
+      "id": "7b243d88522a1f141b77dff9b0e31cab",
+      "title": "(URGENT) Fed raises key interest rate by a quarter percentage point in 1st hike since July 2023",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000200315",
+      "published_date": "2026-09-16T18:01:43Z",
+      "category": "Economy"
+    },
+    {
       "id": "0399a3c6f12e98c747db4a395b519055",
       "title": "Seoul seeks to bolster ties with Central Asia through summit: finance ministry",
       "source": "Yonhap News Agency",
@@ -574,81 +646,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260916000700320",
       "published_date": "2026-09-15T21:55:58Z",
       "category": "Economy"
-    },
-    {
-      "id": "d022dba1d8422c54ab1b57aabd5b5365",
-      "title": "S. Korean won weakens against U.S. dollar amid surging bond yields",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915008000320",
-      "published_date": "2026-09-15T07:28:29Z",
-      "category": "Economy"
-    },
-    {
-      "id": "b7d9d109e6e0cc5332e842ef43ce5bf1",
-      "title": "Budget ministry discusses AI, structural challenges with German delegation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915006300320",
-      "published_date": "2026-09-15T06:32:39Z",
-      "category": "Economy"
-    },
-    {
-      "id": "fe4417d438b13fa33b8c3adfd6527133",
-      "title": "Science ministry seeks nearly 3 tln won in ICT research budget next year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915002500320",
-      "published_date": "2026-09-15T05:00:04Z",
-      "category": "Economy"
-    },
-    {
-      "id": "44206f0aea3f1646db033a05b28954ad",
-      "title": "(LEAD) Finance minister nominee vows to tackle inflation, bolster economic recovery",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915002251320",
-      "published_date": "2026-09-15T02:43:35Z",
-      "category": "Economy"
-    },
-    {
-      "id": "96624a23e268aaf569957e170f1ee5f4",
-      "title": "Stocks flat late Tue. morning as investors digest warnings from AI execs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915003600320",
-      "published_date": "2026-09-15T02:40:20Z",
-      "category": "Economy"
-    },
-    {
-      "id": "86bb3bc7d2f1ba907e28aba6719a38b6",
-      "title": "SK chief Chey appeals prosecution's decision not to indict ex-wife's lawyer",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915002900315",
-      "published_date": "2026-09-15T02:03:51Z",
-      "category": "Economy"
-    },
-    {
-      "id": "703401ffb72c1e4d2b77f5f8f38d755c",
-      "title": "Finance minister nominee vows to tackle inflation, bolster economic recovery",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915002200320",
-      "published_date": "2026-09-15T01:35:44Z",
-      "category": "Economy"
-    },
-    {
-      "id": "360aaadbb0b609be37a456b828b26f60",
-      "title": "(LEAD) Stocks dip sharply lower as AI leaders call for industry slow down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915001051320",
-      "published_date": "2026-09-15T00:30:59Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4f1ca2acd8ca73ed69c93ba168fd0646",
-      "title": "Stocks dip sharply lower as AI leaders call for industry slow down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915001000320",
-      "published_date": "2026-09-15T00:06:26Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "cd49a27e35f91310ba7d83f53f0fa436",
+      "title": "(Asiad) Table tennis player, rower to carry nat'l flag at opening ceremony",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917002800315",
+      "published_date": "2026-09-17T00:43:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ad31463a580de3a76b2d81db2fa959db",
+      "title": "Special counsel team raids election watchdog in probe into ballot shortages",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917002700315",
+      "published_date": "2026-09-17T00:38:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2632795de93484be21fc72262d63bbd6",
+      "title": "S. Korean Catholic Church voices 'deep concerns' over abortion bill plan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917001800315",
+      "published_date": "2026-09-17T00:08:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "400a6a66e89add06357468b0ae90d851",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917000900315",
+      "published_date": "2026-09-16T22:04:40Z",
+      "category": "Local Events"
+    },
     {
       "id": "4a4d64ec4441bf85a5079419fc44b2fd",
       "title": "(Asiad) Celtic winger ready to do more after helping S. Korea to opening win",
@@ -775,38 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260916001952315",
       "published_date": "2026-09-16T02:27:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cfcab75720f271b95a24548889d6f43f",
-      "title": "Court orders N. Korea to pay S. Korea 44.6 bln won over 2020 demolition of liaison office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916003800315",
-      "published_date": "2026-09-16T02:09:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "392c19b2cee8f4f6cfae3d8bdfa24625",
-      "title": "(LEAD) Ex-President Yoon acquitted of perjury in appellate trial",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916001951315",
-      "published_date": "2026-09-16T01:52:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8c742a553ea5d5f72fdb4d38717f2ba5",
-      "title": "(URGENT) Ex-President Yoon acquitted of perjury in appellate trial",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916003700315",
-      "published_date": "2026-09-16T01:49:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "23dcf7678d98379e5648a745f38c6cab",
-      "title": "Parliamentary committee adopts confirmation hearing report for Supreme Court justice nominee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916003600315",
-      "published_date": "2026-09-16T01:30:10Z",
       "category": "Local Events"
     }
   ]
