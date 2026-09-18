@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-17T15:27:29Z",
+  "generated_at": "2026-09-18T00:53:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "8a2d17bb4065c1d0b052e8380a32aa59",
+      "title": "Lee designates town in southwestern county as special disaster zone",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918002200315",
+      "published_date": "2026-09-18T00:33:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d05e0112ae018c6cca27fbc60297bad6",
+      "title": "Lee set for press conference amid falling approval ratings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001500315",
+      "published_date": "2026-09-17T23:39:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e0c7d8c558b2ae4d6efc4f83a2a88714",
+      "title": "KoFIU, Tajikistani counterpart agree on anti-money laundering cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001200320",
+      "published_date": "2026-09-17T23:15:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7e3faba13f3c47e409736f7a34146e03",
+      "title": "China may not block U.S.-N.K. diplomacy, but unlikely to play central role: ex-U.S. diplomat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001400315",
+      "published_date": "2026-09-17T22:42:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "37362773e954dcf8c0123d399d55ffbb",
+      "title": "(EDITORIAL from Korea Times on Sept. 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918000700320",
+      "published_date": "2026-09-17T21:59:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0ce5eb9d8700ad04543f3c3e48d7a6b8",
+      "title": "(EDITORIAL from Korea Herald on Sept. 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918000600320",
+      "published_date": "2026-09-17T21:59:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "52d6fc73b669657363e66df158fdbb52",
+      "title": "N.K. leader's sister condemns U.S. maritime exercise, calls it 'war rehearsal'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001100320",
+      "published_date": "2026-09-17T21:40:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dc6ab2620fead102f435117ca7caa6f3",
+      "title": "N. Korean vice FM to attend U.N. General Assembly next week: source",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918000300315",
+      "published_date": "2026-09-17T20:29:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f07249452822edb3042cabab56b586ef",
+      "title": "U.S. expected to delay new excess capacity tariff announcement until after Trump-Xi summit: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918000200315",
+      "published_date": "2026-09-17T19:26:28Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "1f0325b8c26c398c640bcd196470c2f1",
       "title": "Umbrella union to join gov't-proposed talks amid push to roll back some labor rules",
@@ -96,81 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260917003051315",
       "published_date": "2026-09-17T06:58:20Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "ab5ead6b9d55711bcf61efbb22c017e6",
-      "title": "(2nd LD) (Asiad) S. Korean player reaches semifinals in men's singles as teqball makes debut",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917006052315",
-      "published_date": "2026-09-17T06:49:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3ff44066404b9fc4685d8021632e0a50",
-      "title": "(Asiad) S. Korean teqball player says quitting day job for Asian Games 'well worth it'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917007300315",
-      "published_date": "2026-09-17T06:28:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "99f4258c51d7ca40f483bbfbfd4e1cc8",
-      "title": "Air Force chief visits Czech Republic to attend largest security show in Europe",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917006400315",
-      "published_date": "2026-09-17T05:41:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "68f83187097851bff8b6876673f0a065",
-      "title": "(LEAD) (Asiad) S. Korean player breezes through group stage as teqball makes debut",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917006051315",
-      "published_date": "2026-09-17T05:34:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8afb23580faa843c00340281b93f73eb",
-      "title": "(Asiad) S. Korean player breezes through group stage as teqball makes debut",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917006000315",
-      "published_date": "2026-09-17T05:06:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "849c4e3a95c88e761f14a48f09d4bc8d",
-      "title": "North Korea warns US-ROK WMD cooperation could trigger nuclear response",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-warns-us-rok-wmd-cooperation-could-trigger-nuclear-response/",
-      "published_date": "2026-09-17T04:59:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "24c26d5c6f8203a619e8560ec2af9196",
-      "title": "The UN Divide: How the two Koreas battled for decades over global legitimacy",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/the-un-divide-how-the-two-koreas-battled-for-decades-over-global-legitimacy/",
-      "published_date": "2026-09-17T04:35:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "28b5ebcaa8337d07218dd0cebfa646bf",
-      "title": "(LEAD) N.K. leader's sister dismisses IAEA's denuclearization calls, reiterates nuclear status",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917001351315",
-      "published_date": "2026-09-17T02:56:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ab71532d0d11c78ee6a202ddb9d1b1a8",
-      "title": "PM discusses economic cooperation with Kyrgyz president",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917005200315",
-      "published_date": "2026-09-17T02:47:43Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "6aaaa1838ac7f2f1496a62c842096f7c",
+      "title": "(LEAD) N.K. leader's sister slams U.S.-led maritime drill, vows nuclear build-up",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001151320",
+      "published_date": "2026-09-17T22:35:03Z",
+      "category": "Military"
+    },
+    {
+      "id": "621193b783d96ccd0018ca44cf889329",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 18)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918000800320",
+      "published_date": "2026-09-17T22:00:14Z",
+      "category": "Military"
+    },
     {
       "id": "0668bdcd82c0c337836dfa584875a6fe",
       "title": "S. Korean, U.S. troops conduct annual explosive ordinance disposal drills",
@@ -314,25 +330,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260806009500315",
       "published_date": "2026-09-11T23:47:02Z",
       "category": "Military"
-    },
-    {
-      "id": "00d27cef9af6c9f5b83e093803313669",
-      "title": "U.S. military says it is aware of N.K. missile launch, reaffirms defense commitment to allies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260912000400315",
-      "published_date": "2026-09-11T23:44:18Z",
-      "category": "Military"
-    },
-    {
-      "id": "8bcd3836f74a1b94f559aafbc40ebbd4",
-      "title": "North Korea fires multiple ballistic missiles towards East Sea: ROK military",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-fires-projectile-towards-east-sea-rok-military-2/",
-      "published_date": "2026-09-11T22:07:28Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "a10bd35ae4272cd07e6033f153aa697e",
+      "title": "Gov't to closely monitor energy price volatility, vows diversification",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001700320",
+      "published_date": "2026-09-17T23:55:09Z",
+      "category": "Energy"
+    },
+    {
+      "id": "6dcc0c6ca85458269a860942b6674edf",
+      "title": "S. Korea to extend fuel tax cut through Nov. amid price burdens",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001000320",
+      "published_date": "2026-09-17T23:00:02Z",
+      "category": "Energy"
+    },
+    {
+      "id": "f5db02f25d9b79ea4d69da88e0dc90eb",
+      "title": "Foreigners snap 7-month sell-offs of Korean stocks in Aug.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917008900320",
+      "published_date": "2026-09-17T21:00:13Z",
+      "category": "Energy"
+    },
     {
       "id": "971c9f50265dfda285c6991542e94691",
       "title": "(Movie Review) 'The Assassin(s)' paints vivid snapshot of 1970s Korea in tribute to those who lived through it",
@@ -468,25 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260911006600320",
       "published_date": "2026-09-11T06:33:33Z",
       "category": "Energy"
-    },
-    {
-      "id": "01221c64462add475d230864b10fd007",
-      "title": "(Movie Review) 'The Intern': charming leads shine in feel-good Korean remake with little edge",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911002200315",
-      "published_date": "2026-09-11T02:07:33Z",
-      "category": "Energy"
-    },
-    {
-      "id": "657a834afc1a68c7a2ed25177bc0b08c",
-      "title": "(LEAD) Exports up 83 pct in first 10 days of Sept. on chips",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260911001351320",
-      "published_date": "2026-09-11T00:23:55Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "92aee74fbd0f62565d23c7d775a37b8e",
+      "title": "(LEAD) Seoul stocks open sharply higher on eased inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001851320",
+      "published_date": "2026-09-18T00:26:03Z",
+      "category": "Economy"
+    },
+    {
+      "id": "187dfb50e8ad585fa81ae2fbf823194c",
+      "title": "Seoul stocks open sharply higher on eased inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001800320",
+      "published_date": "2026-09-18T00:03:11Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9fa9fa6d61bc6913b6b603feb49677fa",
+      "title": "(URGENT) Seoul stocks open sharply higher on eased inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918001600320",
+      "published_date": "2026-09-18T00:01:26Z",
+      "category": "Economy"
+    },
     {
       "id": "03523f69fba762630c2af5a2fb2413c5",
       "title": "Tajik President Rahmon presented honorary taekwondo black belt",
@@ -622,33 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260917000351315",
       "published_date": "2026-09-16T18:30:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "8085b1f4c347a9e1e878c6a5373b8e2e",
-      "title": "Fed raises key interest rate by quarter point in 1st hike since July 2023",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917000300315",
-      "published_date": "2026-09-16T18:02:23Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7b243d88522a1f141b77dff9b0e31cab",
-      "title": "(URGENT) Fed raises key interest rate by a quarter percentage point in 1st hike since July 2023",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917000200315",
-      "published_date": "2026-09-16T18:01:43Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0399a3c6f12e98c747db4a395b519055",
-      "title": "Seoul seeks to bolster ties with Central Asia through summit: finance ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916007700320",
-      "published_date": "2026-09-16T08:00:03Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "e049ef0eaf402c6591f44fc66d657a4d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918000500320",
+      "published_date": "2026-09-17T21:59:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "b638635c31fb3c61193594311827c94d",
+      "title": "Producer prices up in August on prices of agricultural goods",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260917009000320",
+      "published_date": "2026-09-17T21:00:12Z",
+      "category": "Local Events"
+    },
     {
       "id": "17bb200166a494ea20d7959bd40d23a1",
       "title": "(LEAD) (Asiad) S. Korea blank Bangladesh, reach quarterfinals in women's football",
@@ -791,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260917006500315",
       "published_date": "2026-09-17T05:42:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "448fcf59dae74ebc765b7d8f31497c4a",
-      "title": "(Asiad) S. Korea beats Qatar in women's volleyball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917006300320",
-      "published_date": "2026-09-17T05:18:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dc3e07b260a91a9a7074382bac4ec362",
-      "title": "BIFF names Chinese auteur Zhang Yimou as Competition jury chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917006100315",
-      "published_date": "2026-09-17T05:04:36Z",
       "category": "Local Events"
     }
   ]
