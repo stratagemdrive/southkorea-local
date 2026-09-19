@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-19T00:45:05Z",
+  "generated_at": "2026-09-19T14:12:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d7b0ec946581e6a126243e031ec9546d",
+      "title": "(Asiad) Lee voices support for nat'l team on opening of Asian Games",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003700315",
+      "published_date": "2026-09-19T10:14:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d99af8645b947480c207f11d9984785e",
+      "title": "Lee says considering creating dedicated body for youth policies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919002700315",
+      "published_date": "2026-09-19T06:44:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fa44dc588f7eff80c3f5b128aa5b0e60",
+      "title": "(Asiad) Boxer, table tennis player to carry N. Korean flag at opening ceremony",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919002600320",
+      "published_date": "2026-09-19T06:07:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2d7dc8082c905a0a27831bb2c1f40f45",
+      "title": "(Asiad) Lee hopes his Asian Games medal helps teqball make presence felt in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919002500320",
+      "published_date": "2026-09-19T04:47:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c9a399cb7fe2a43dd65b82ce0f213b14",
+      "title": "(LEAD) Justice minister nominee withdraws candidacy amid controversy over lobbying allegations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919001252315",
+      "published_date": "2026-09-19T03:44:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f88bba67bf5b1efa730bbb934e7b5338",
+      "title": "(Asiad) Lee Jun-suk reaches men's teqball final",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919002300320",
+      "published_date": "2026-09-19T03:43:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "352c1622f15542480afe35ed7936a957",
+      "title": "Justice minister nominee withdraws candidacy amid controversy over lobbying allegations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919001251315",
+      "published_date": "2026-09-19T02:29:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4a1893259af727e69d7bd56699812954",
+      "title": "(URGENT) Justice Minister nominee Kim Seung-won says to withdraw from consideration",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919001200315",
+      "published_date": "2026-09-19T02:02:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28c4373ea36c21e4e063b4db0b6b65f7",
+      "title": "(LEAD) N. Korea rejects IAEA resolution, vows to maintain nuclear force amid U.S. threats",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919000451315",
+      "published_date": "2026-09-19T01:35:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4b1a258f56377c9c30e8bf6848ef952",
+      "title": "N.K. leader calls for 'most concentrated and destructive' artillery capability",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919001000315",
+      "published_date": "2026-09-19T01:10:12Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "259e151a96377fa53eccfbf85b2535f3",
       "title": "(2nd LD) Cho, Rubio agree to work together for 'good' results from talks on investment projects in U.S.",
@@ -87,86 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260918011900315",
       "published_date": "2026-09-18T13:23:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a45c4ad28735c342881ff6ebe8a86fd7",
-      "title": "(Asiad) Jun Woong-tae advances to modern pentathlon final, eyes 3rd straight Asiad gold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918011800320",
-      "published_date": "2026-09-18T13:08:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aa81d25ee2f5691752072550a437cd21",
-      "title": "(Asiad) N. Korean team attends welcome ceremony for Aichi-Nagoya Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918011500320",
-      "published_date": "2026-09-18T12:15:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4b27f0bd0127c971d707e4ac0336320a",
-      "title": "Lee meets UAE official to discuss continued cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918011200315",
-      "published_date": "2026-09-18T10:49:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "22f10c89b27a49cc8139583e28934783",
-      "title": "(Asiad) Final-bound hoops coach praises defensive effort: 'We deserved to win today'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918011100315",
-      "published_date": "2026-09-18T10:27:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "38bff66f0dfe601425579191c948ccbc",
-      "title": "(LEAD) U.S. ambassador says S. Korea-U.S. alliance 'linchpin' of peace on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007751315",
-      "published_date": "2026-09-18T09:15:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "00eee289100f1469fd38b997f00730c4",
-      "title": "Teacher apprehended for allegedly threatening students with stun gun in Gumi",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918008600315",
-      "published_date": "2026-09-18T07:37:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e4d15c108111ff1bbdff6e56116736b6",
-      "title": "U.S. ambassador says S. Korea-U.S. alliance 'linchpin' of peace on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007700315",
-      "published_date": "2026-09-18T07:03:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7869b35f5f71f64a843f63d627d3e97f",
-      "title": "Lee reaffirms commitment to establishing peace regime on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006900315",
-      "published_date": "2026-09-18T06:13:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5bde3fc7ef85a497fcdc1769721a6bb5",
-      "title": "(5th LD) Lee says S. Korea reviewing possible contribution to Hormuz but will not get involved in war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918001555315",
-      "published_date": "2026-09-18T05:43:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1aa1ffc0edbbd77b5699d19a02a01807",
-      "title": "(4th LD) Lee says S. Korea reviewing possible contribution to Hormuz but will not get involved in war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918001554315",
-      "published_date": "2026-09-18T05:17:23Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "fcd0fd0eabab10e8ea484f2a1c4a3b44",
+      "title": "(Asiad) Swimmer all smiles on eve of 1st race",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003500315",
+      "published_date": "2026-09-19T09:11:23Z",
+      "category": "Energy"
+    },
+    {
       "id": "4207a88cbce7252c0e239c5a6ff7fc1d",
       "title": "(Asiad) 'We never wanted to repeat past failure,' says S. Korean setter Kim Da-in",
       "source": "Yonhap News Agency",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260914001700320",
       "published_date": "2026-09-14T00:37:51Z",
-      "category": "Energy"
-    },
-    {
-      "id": "29945e22c5f210a53c7f0bd0dbfa2753",
-      "title": "S. Korea hosts industry ministerial meeting with Central Asian partners",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914000900320",
-      "published_date": "2026-09-14T00:00:08Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,102 @@
   ],
   "Local Events": [
     {
+      "id": "74426c4ebca1089d43a10a560ac395de",
+      "title": "(3rd LD) (Asiad) Competition begins with celebration of host city's hospitality, harmony in Asia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003253315",
+      "published_date": "2026-09-19T11:01:42Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f142653a2ce44993d3610aa049ace6e2",
+      "title": "(2nd LD) (Asiad) Competition begins with celebration of host city's hospitality, harmony in Asia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003252315",
+      "published_date": "2026-09-19T10:22:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1f0b6497692db0fe9d6e11808f7f18f0",
+      "title": "(LEAD) (Asiad) Competition begins with celebration of host city's hospitality, harmony in Asia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003251315",
+      "published_date": "2026-09-19T09:54:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a97c4091066719cd41af8d9c6bbec332",
+      "title": "(Asiad) Confident swimmer not afraid of world record holder",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003600315",
+      "published_date": "2026-09-19T09:42:08Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e934d67a5e9ae2fbf946b74c18cf368c",
+      "title": "(Asiad) Competition begins with celebration of host city's hospitality, harmony in Asia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003200315",
+      "published_date": "2026-09-19T09:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "94588d92892ef6cc7f2fb1bae42671cd",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919003400315",
+      "published_date": "2026-09-19T07:53:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "29b72ab355009e020d1e6f832351532f",
+      "title": "(Asiad) S. Korea beats Hong Kong to begin women's handball competition",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919002400315",
+      "published_date": "2026-09-19T04:28:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "394b79b8b49a1ba8433b5ce03391d44b",
+      "title": "Cheong Wa Dae says Lee's 'no war intervention' remark not a rejection of Trump's Hormuz request",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919002100315",
+      "published_date": "2026-09-19T03:05:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2ab20404b7ca16f4cf3524c4137b690c",
+      "title": "(Asiad) Swimming competition set to begin as S. Korea looks to replicate 2023 success",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919001300315",
+      "published_date": "2026-09-19T02:12:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "649e69f6ef15da37860d14bda9f7207b",
+      "title": "Stray Kids' Bang Chan donates 200 mln won for rehabilitation patients, Nepal relief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919001100315",
+      "published_date": "2026-09-19T01:50:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0b01e009875ce81b16ca59d7fae81313",
+      "title": "BTS, Cortis land 3rd nomination at 2026 MTV Video Music Awards",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919000900315",
+      "published_date": "2026-09-19T00:59:45Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "56d003513d3e952dab27daf42cc0af33",
+      "title": "(Asiad) Organizing committee apologizes for playing N. Korean anthem at S. Korean hockey match",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260919000800320",
+      "published_date": "2026-09-19T00:49:12Z",
+      "category": "Local Events"
+    },
+    {
       "id": "782ab91093f4ad8f2a2b7d697ee113f5",
       "title": "Top headlines in major S. Korean newspapers",
       "source": "Yonhap News Agency",
@@ -719,102 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260918010900315",
       "published_date": "2026-09-18T10:03:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "556e3e0049b43d568ddb7e7fab10c75b",
-      "title": "Lee approves appointment of new Supreme Court justice",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918010800315",
-      "published_date": "2026-09-18T09:46:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4f57ba993ef6066820110a8f276c8e4e",
-      "title": "(Asiad) S. Korea secures 1st place in Pool D in women's volleyball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918010700320",
-      "published_date": "2026-09-18T09:31:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "919a3e515ba148d23380dfefd7c8e77c",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918009600315",
-      "published_date": "2026-09-18T08:00:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "04ad5cba71c29bcb3ed10274f5b787d3",
-      "title": "(LEAD) (Asiad) S. Korean men, women win 1st games in field hockey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007551315",
-      "published_date": "2026-09-18T07:58:31Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cd2d36b19fa7d4f3ee5eede11caeafd5",
-      "title": "Confirmation hearing for special inspector nominee held for 1st time in 11 years",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918008900315",
-      "published_date": "2026-09-18T07:13:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "75f0b2e0613525eac564b5318f673b24",
-      "title": "Prosecutors indict Jeju police officer over mishandling of missing person cases",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918008800315",
-      "published_date": "2026-09-18T07:09:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4423005b980daee8f1fa650a7729dcaa",
-      "title": "(Asiad) Baseball team lands in Nagoya with eyes set on 5th straight gold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918008700315",
-      "published_date": "2026-09-18T07:02:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5c1d6959d763c57541b3e31b3885d4b7",
-      "title": "(Asiad) S. Korean men, women win 1st games in field hockey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007500315",
-      "published_date": "2026-09-18T06:24:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2ee9cbb203f735b65f63979aa2b32c6c",
-      "title": "DP lawmaker fined 10 mln won, faces loss of Assembly seat",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006800315",
-      "published_date": "2026-09-18T06:12:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "99d4734461c64dbf35b98d21ae7db844",
-      "title": "Korean director Yeon Sang-ho credits mother for inspiring new film 'Paradise Lost'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006200315",
-      "published_date": "2026-09-18T05:55:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9dcf879fe9f3e9cdee462887993954e8",
-      "title": "PM calls for thorough readiness for security threats",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006400315",
-      "published_date": "2026-09-18T05:54:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "490bf4808ea72bddf9791caa6bad8f04",
-      "title": "S. Korea, Indonesia agree to expand partnerships in halal certification",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006100320",
-      "published_date": "2026-09-18T05:25:46Z",
       "category": "Local Events"
     }
   ]
