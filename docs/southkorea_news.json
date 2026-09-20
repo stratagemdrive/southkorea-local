@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-19T14:12:34Z",
+  "generated_at": "2026-09-20T00:29:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "f235e2da6c4c6317a00229c41cd61043",
+      "title": "(Asiad) S. Korea to start gold medal campaign on 1st day of medal events",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260915005700320",
+      "published_date": "2026-09-19T21:00:01Z",
+      "category": "Energy"
+    },
+    {
       "id": "fcd0fd0eabab10e8ea484f2a1c4a3b44",
       "title": "(Asiad) Swimmer all smiles on eve of 1st race",
       "source": "Yonhap News Agency",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260914002700320",
       "published_date": "2026-09-14T02:22:18Z",
-      "category": "Energy"
-    },
-    {
-      "id": "9edf4bdc14d52afe25c0baa45fe97e85",
-      "title": "S. Korea's 2 major chipmakers reject KEPCO's proposal to prepay 5 yrs of electricity bills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260914001700320",
-      "published_date": "2026-09-14T00:37:51Z",
       "category": "Energy"
     }
   ],
