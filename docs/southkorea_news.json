@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-21T00:37:30Z",
+  "generated_at": "2026-09-21T16:49:45Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,239 @@
   ],
   "Diplomacy": [
     {
-      "id": "cb2bf837a49b43e3e721c23e444f55ea",
-      "title": "N. Korea stays quiet on Sunday's missile launches",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260921001000315",
-      "published_date": "2026-09-20T23:02:25Z",
+      "id": "b099d64886b9f2bd9781bb4139bc6b37",
+      "title": "North Korea’s market rice prices fall as yuan exchange rate plunges",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-prices-yuan-exchange-rate-drop/",
+      "published_date": "2026-09-21T14:02:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "39a8660153f5609a97045158411eb9c2",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 21)",
+      "id": "e1d2ba878df562eacc10ef34e61d36eb",
+      "title": "(Asiad) Young swimmer soars to gold; baseball team opens title quest with win",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260921000700315",
-      "published_date": "2026-09-20T21:56:53Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011900315",
+      "published_date": "2026-09-21T13:50:32Z",
       "category": "Diplomacy"
     },
     {
-      "id": "a18fa2b1782333138ee4971b4f584efc",
-      "title": "(EDITORIAL from Korea Times on Sept. 21)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260921000600315",
-      "published_date": "2026-09-20T21:56:45Z",
+      "id": "860e7299d1167daca98b0734da41353a",
+      "title": "Why is North Korea’s loyalty language to Kim Jong Un suddenly softer?",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/kim-jong-un-loyalty-oath-language-softens/",
+      "published_date": "2026-09-21T13:19:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "66f341aedd9215c4a27a6a2c0bcb3260",
-      "title": "(LEAD) Gov't to brief Nat'l Assembly on 1st U.S.-bound investment project under summit deal",
+      "id": "6f41f4a13493b007eb663901caeadb07",
+      "title": "(Asiad) N. Korean coach stresses focus on football after draw with S. Korea at Asian Games",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004351315",
-      "published_date": "2026-09-20T14:13:53Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011500320",
+      "published_date": "2026-09-21T12:56:01Z",
       "category": "Diplomacy"
     },
     {
-      "id": "dbe7c00adcd68a3126bf16e275c2b9b9",
-      "title": "(4th LD) N. Korea fires 2 short-range ballistic missiles hours apart ahead of Trump-Xi summit",
+      "id": "1ce8534afe1d2ac1f39fb2791e4b8e87",
+      "title": "Seoul, Washington still in tough negotiations over investment projects ahead of parliamentary briefing",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002954315",
-      "published_date": "2026-09-20T11:20:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011200320",
+      "published_date": "2026-09-21T11:16:23Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0cce259e24f019e3f64aaa73c01b4c69",
-      "title": "(LEAD) (Asiad) Kim Young-beom, Hwang Sun-woo take silver, bronze in men's 100m freestyle swimming",
+      "id": "649bef21e6766aef61fb5b33b72ea846",
+      "title": "(Asiad) S. Korean football coach rues 2nd-place finish in group round at Asian Games",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004451315",
-      "published_date": "2026-09-20T10:30:59Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921010700320",
+      "published_date": "2026-09-21T10:36:54Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6d9f5345f30a730f6be027ef899644f3",
-      "title": "Gov't to brief Nat'l Assembly on 1st U.S.-bound investment project under summit deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004300315",
-      "published_date": "2026-09-20T09:20:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4a70936cf78778965aa3d7302c8f992f",
-      "title": "(Asiad) Kim Young-beom, Hwang Sun-woo take silver, bronze in men's 100m freestyle swimming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004400315",
-      "published_date": "2026-09-20T09:18:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "05e8090c3ef75bb515e67525eed30431",
-      "title": "(3rd LD) N. Korea fires additional projectile after short-range ballistic missile launch: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002953315",
-      "published_date": "2026-09-20T09:15:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "837e24b7608774346eceac54d02c0dac",
-      "title": "(URGENT) N. Korea fires additional unidentified projectile toward East Sea: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004200315",
-      "published_date": "2026-09-20T09:02:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d84d8703c45cfbb27abdfc54327fb182",
-      "title": "(Asiad) Jun Woong-tae misses 3rd Asiad individual gold in modern pentathlon, but helps S. Korea retain team title",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004100320",
-      "published_date": "2026-09-20T08:24:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2cbd5f330879d8a97de2f4410e1bd795",
-      "title": "(LEAD) (Asiad) Lee Jun-suk becomes inaugural gold medalist in men's teqball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920003751315",
-      "published_date": "2026-09-20T08:00:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "eb943d5687276c800f9e1c683f1ffab6",
-      "title": "(Asiad) Lee Jun-suk becomes inaugural gold medalist in men's teqball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920003700315",
-      "published_date": "2026-09-20T07:42:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "eb132b16d4f6c7a61236991f47196dcc",
-      "title": "(URGENT) Lee Jun-suk wins gold in men's singles teqball at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920003600315",
-      "published_date": "2026-09-20T07:29:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9e58a93d2517665c7b76c512fb37fdb2",
-      "title": "Heavy truck spotted on unopened Yalu River bridge, stokes rumors of opening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920003400315",
-      "published_date": "2026-09-20T07:07:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4289449c0fc5df63d6d23d239e7c89bc",
-      "title": "(Asiad) S. Korea cruises past Kazakhstan for 2nd straight win in women's handball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920003300315",
-      "published_date": "2026-09-20T06:48:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6dd98c5a8d9d55875d2c9207ca5c9502",
-      "title": "North Korea launches suspected ballistic missiles toward East Sea: JCS",
+      "id": "3a9ff46e5f80b5c6bc98f7dd285f191c",
+      "title": "North and South Korea battle to 1-1 draw in Asian Games women’s soccer clash",
       "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-launches-unidentified-projectile-toward-east-sea-jcs-2/",
-      "published_date": "2026-09-20T06:25:03Z",
+      "url": "https://www.nknews.org/2026/09/north-and-south-korea-battle-to-1-1-draw-in-asian-games-womens-soccer-clash/",
+      "published_date": "2026-09-21T09:58:43Z",
       "category": "Diplomacy"
     },
     {
-      "id": "010be98b777bce69bc714b965d6a6816",
-      "title": "N. Korea fires unidentified projectile toward East Sea: S. Korean military",
+      "id": "493a177313ac5aa21d38bfa7a2786fe9",
+      "title": "(LEAD) (Asiad) Teen swimmer Kim Seung-won wins bronze in women's 50m backstroke",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002900315",
-      "published_date": "2026-09-20T06:22:35Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921009951315",
+      "published_date": "2026-09-21T09:50:56Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6fa2056bea67756df19022f915b379e8",
-      "title": "(URGENT) N. Korea fires unidentified projectile toward East Sea: JCS",
+      "id": "352bfa36a46ec82ad6adf71aa9ae0228",
+      "title": "S. Korea, U.S., Japan FMs set for talks in New York on economic, security ties",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002800315",
-      "published_date": "2026-09-20T06:10:43Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921010200315",
+      "published_date": "2026-09-21T08:52:23Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0ab02b6411ebcc2c949eae476e93fe11",
-      "title": "Hyundai to launch all-new Tucson SUV next month",
+      "id": "05c8d75056f776f411767c2e6f310f3d",
+      "title": "(LEAD) (Asiad) Kim Young-beom wins men's 50m freestyle swimming in record time",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002600320",
-      "published_date": "2026-09-20T06:03:39Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921010151315",
+      "published_date": "2026-09-21T08:45:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "06ccf5d23305fcecb8f3633fad37ab67",
+      "title": "Lee embarks on trip to U.S., Mexico",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006300315",
+      "published_date": "2026-09-21T08:35:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d4741ecc75bc0f11ef9813d8e2d517d1",
+      "title": "(Asiad) Kim Young-beom wins men's 50m freestyle swimming in record time",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921010100315",
+      "published_date": "2026-09-21T08:26:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ca8fad8ecf45a41fc858d95535615180",
+      "title": "(Asiad) Teen swimmer Kim Seung-won wins bronze in women's 50m backstroke",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921009900315",
+      "published_date": "2026-09-21T08:21:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7ec406c0cbdaf231458e0a6edc2262a4",
+      "title": "(URGENT) Kim Young-beom wins Asian Games gold in men's 50m freestyle swimming",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921010000315",
+      "published_date": "2026-09-21T08:19:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b20cfa1ba25051f59ad48785f9d103d3",
+      "title": "‘Unidentified explosion’ near North Korean border injures 3 South Korean troops",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/unidentified-explosion-near-north-korean-border-injures-3-south-korean-troops/",
+      "published_date": "2026-09-21T08:10:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "60bb545db16ee9e5c6d84e8569d419ab",
+      "title": "(Asiad) S. Korean karate fighter wins 1st inter-Korean match at Aichi-Nagoya Asian Games",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921008800320",
+      "published_date": "2026-09-21T07:33:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5b8b508959a9cf172778790993b58b05",
+      "title": "N. Korea denounces sanctions report as 'illegal,' calls overseas labor 'legitimate'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921008700315",
+      "published_date": "2026-09-21T07:23:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d8b53815446c92495f065b011a785a48",
+      "title": "(Asiad) S. Korea pounds Mongolia to grab quarterfinal berth in women's hoops",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921008500315",
+      "published_date": "2026-09-21T07:02:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ccb6a4d1ce1a2efbadeeb22d1236f2a5",
+      "title": "Korea Zinc's U.S. project clears environmental impact assessment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921007300320",
+      "published_date": "2026-09-21T06:37:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cd773259b28fc367ef494b77a187ef0c",
+      "title": "Unification minister calls for fresh start in dialogue with N. Korea during meeting with ex-U.S. envoy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921007100315",
+      "published_date": "2026-09-21T06:28:17Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "efb1cafe8f01a85f4fd7ca2d36c8bfba",
+      "title": "(LEAD) (Asiad) S. Korea shuts out Chinese Taipei to begin baseball title defense",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921011451315",
+      "published_date": "2026-09-21T13:34:13Z",
+      "category": "Military"
+    },
+    {
+      "id": "b80350b1f927d8a48785f6d6cc047e41",
+      "title": "(Asiad) S. Korea shuts out Chinese Taipei to begin baseball title defense",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921011400315",
+      "published_date": "2026-09-21T12:23:00Z",
+      "category": "Military"
+    },
+    {
+      "id": "5163da11a15482b9683eca7e1ea694a1",
+      "title": "(3rd LD) 3 military officers injured in suspected landmine explosion during operation at DMZ",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006153315",
+      "published_date": "2026-09-21T10:33:39Z",
+      "category": "Military"
+    },
+    {
+      "id": "02c3800aaa6e1142eba738484bef210d",
+      "title": "(2nd LD) 3 military officers injured in suspected landmine explosion during operation at DMZ",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006152315",
+      "published_date": "2026-09-21T09:34:15Z",
+      "category": "Military"
+    },
+    {
+      "id": "359ec42301471a43852759a6ba328dcc",
+      "title": "Marine Corps stages regular live-fire drills on western border islands",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921010300315",
+      "published_date": "2026-09-21T08:57:20Z",
+      "category": "Military"
+    },
+    {
+      "id": "b4198f684bbcfc8c63333bc9c6eee741",
+      "title": "Audit finds military helicopter mistakenly entered DMZ during wildfire operation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921007800315",
+      "published_date": "2026-09-21T06:46:33Z",
+      "category": "Military"
+    },
+    {
+      "id": "9aaff507a605e952719fee95793e6078",
+      "title": "(LEAD) 3 military officers injured in suspected landmine explosion during operation at DMZ",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006151315",
+      "published_date": "2026-09-21T06:26:31Z",
+      "category": "Military"
+    },
+    {
+      "id": "8922917573b15f738c36c8a71f909425",
+      "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006100315",
+      "published_date": "2026-09-21T04:51:27Z",
+      "category": "Military"
+    },
+    {
+      "id": "dea28ccf8f2d93d7f7e7bc37062d154e",
+      "title": "(URGENT) 3 military officers injured in unidentified explosion during operation at DMZ: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921005900315",
+      "published_date": "2026-09-21T04:33:23Z",
+      "category": "Military"
+    },
     {
       "id": "c167a36a0d011485fef6a9a84b7be295",
       "title": "(URGENT) 2nd N. Korean short-range missile flew more than 600 km: S. Korean military",
@@ -258,81 +330,73 @@
       "url": "https://en.yna.co.kr/view/AEN20260918000800320",
       "published_date": "2026-09-17T22:00:14Z",
       "category": "Military"
-    },
-    {
-      "id": "0668bdcd82c0c337836dfa584875a6fe",
-      "title": "S. Korean, U.S. troops conduct annual explosive ordinance disposal drills",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917008800315",
-      "published_date": "2026-09-17T07:12:36Z",
-      "category": "Military"
-    },
-    {
-      "id": "0a0d8f51e70f292d24b8f41d9dfd5581",
-      "title": "(LEAD) Confirmation hearing reports adopted for justice, defense minister nominees",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917005751315",
-      "published_date": "2026-09-17T05:46:18Z",
-      "category": "Military"
-    },
-    {
-      "id": "792d78c011da8c8252f2e167f147162f",
-      "title": "(Yonhap Feature) Hanwha spearheads S. Korea's ground defense innovation with next-gen unmanned fleet",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917002300315",
-      "published_date": "2026-09-17T03:00:15Z",
-      "category": "Military"
-    },
-    {
-      "id": "6c949fd4c14b0c9fe8dea121e7ad128d",
-      "title": "S. Korea, France stage joint air drills to enhance interoperability",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917004800315",
-      "published_date": "2026-09-17T02:33:37Z",
-      "category": "Military"
-    },
-    {
-      "id": "0ee4dcfa1d33ae79a6c98928744fee55",
-      "title": "Hanwha Systems, UAE's EDGE Group to team up on integrated air defense network",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917002900320",
-      "published_date": "2026-09-17T01:03:02Z",
-      "category": "Military"
-    },
-    {
-      "id": "d7e07afad8bc121172b2d1c90850e1ba",
-      "title": "(2nd LD) Defense minister nominee says feels heavy responsibility for 2024 martial law bid",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916006752315",
-      "published_date": "2026-09-16T09:39:45Z",
-      "category": "Military"
-    },
-    {
-      "id": "41ce17a428a92f40725f2b814254eff3",
-      "title": "(LEAD) Defense minister nominee says feels heavy responsibility for 2024 martial law bid",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916006751315",
-      "published_date": "2026-09-16T07:54:28Z",
-      "category": "Military"
-    },
-    {
-      "id": "9189973b22e5edb6c05eb4169a674191",
-      "title": "North Korea’s attack drill, Wonsan Kalma slowdown and Google’s blurry maps",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-koreas-attack-drill-wonsan-kalma-slowdown-and-googles-blurry-maps/",
-      "published_date": "2026-09-16T07:07:47Z",
-      "category": "Military"
-    },
-    {
-      "id": "a84009d5717b9e519bfd9cf0d8c19eff",
-      "title": "North Korea sends military delegation to China’s major security conference",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-sends-military-delegation-to-chinas-major-security-conference/",
-      "published_date": "2026-09-16T06:24:28Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "8589c8de8341645c02b42c03e429203c",
+      "title": "(2nd LD) Seoul stocks rise 1.65 pct on chip gains despite Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006852320",
+      "published_date": "2026-09-21T07:39:55Z",
+      "category": "Energy"
+    },
+    {
+      "id": "e17d266f2698b6dc99fc94e7b17d5e71",
+      "title": "FTC chief seeks measures to prevent firms from dodging probes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921007400320",
+      "published_date": "2026-09-21T07:00:01Z",
+      "category": "Energy"
+    },
+    {
+      "id": "265238ae50fa193d7b7f82466491ca4f",
+      "title": "(LEAD) Seoul stocks rise 1.65 pct on chip gains despite Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006851320",
+      "published_date": "2026-09-21T06:47:57Z",
+      "category": "Energy"
+    },
+    {
+      "id": "666adade6947ca563c932c3044087509",
+      "title": "Seoul stocks rise 1.65 pct on chip gains despite Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006800320",
+      "published_date": "2026-09-21T06:34:52Z",
+      "category": "Energy"
+    },
+    {
+      "id": "d83068eb82ea25e663154020c3910a13",
+      "title": "(URGENT) Seoul stocks rise on chip gains despite Middle East tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006700320",
+      "published_date": "2026-09-21T06:31:44Z",
+      "category": "Energy"
+    },
+    {
+      "id": "258b81a4e6794b7dbdbd36878c91089e",
+      "title": "(Asiad) S. Korea takes bronze in men's rifle team event, misses out on individual medals",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921005800315",
+      "published_date": "2026-09-21T04:35:33Z",
+      "category": "Energy"
+    },
+    {
+      "id": "d2ef5247c537a9fefa9e37c31a1c773d",
+      "title": "KEPCO to keep electricity rates frozen for Q4 despite higher costs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921005000320",
+      "published_date": "2026-09-21T02:49:48Z",
+      "category": "Energy"
+    },
+    {
+      "id": "4d4afa9383af8caa4ccfefba0d9401ef",
+      "title": "Seoul stocks up 1.5 pct late Mon. morning as chipmakers advance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921004600320",
+      "published_date": "2026-09-21T02:28:29Z",
+      "category": "Energy"
+    },
     {
       "id": "5e89fc81342ab30fab3804f84037e64d",
       "title": "(LEAD) Seoul stocks open higher on chip gains",
@@ -428,73 +492,81 @@
       "url": "https://en.yna.co.kr/view/AEN20260919003500315",
       "published_date": "2026-09-19T09:11:23Z",
       "category": "Energy"
-    },
-    {
-      "id": "4207a88cbce7252c0e239c5a6ff7fc1d",
-      "title": "(Asiad) 'We never wanted to repeat past failure,' says S. Korean setter Kim Da-in",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918011300320",
-      "published_date": "2026-09-18T11:02:34Z",
-      "category": "Energy"
-    },
-    {
-      "id": "769513878979a7bab5e9b1d4e9ac0015",
-      "title": "(LEAD) (Asiad) S. Korea secures bronze medals in men's, women's team events in soft tennis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918010551315",
-      "published_date": "2026-09-18T10:36:58Z",
-      "category": "Energy"
-    },
-    {
-      "id": "7350ed891de55162b57c5471806ef3bf",
-      "title": "Seoul freezes fuel price caps amid Mideast tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007400320",
-      "published_date": "2026-09-18T09:00:03Z",
-      "category": "Energy"
-    },
-    {
-      "id": "a1da178bc8a10ad16070d233e048307e",
-      "title": "(Asiad) S. Korea secures bronze medals in men's, women's team events in soft tennis",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918010500315",
-      "published_date": "2026-09-18T08:53:17Z",
-      "category": "Energy"
-    },
-    {
-      "id": "61856096548dcb815c04b96f01743190",
-      "title": "(URGENT) Lee says has no intention to seek reelection through constitutional revision",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918004400315",
-      "published_date": "2026-09-18T01:50:56Z",
-      "category": "Energy"
-    },
-    {
-      "id": "b3193fa92c3fc864a557a204758575ce",
-      "title": "(URGENT) Lee says public is always right, everything is due to his own shortcoming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918003000315",
-      "published_date": "2026-09-18T01:41:13Z",
-      "category": "Energy"
-    },
-    {
-      "id": "a10bd35ae4272cd07e6033f153aa697e",
-      "title": "Gov't to closely monitor energy price volatility, vows diversification",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918001700320",
-      "published_date": "2026-09-17T23:55:09Z",
-      "category": "Energy"
-    },
-    {
-      "id": "6dcc0c6ca85458269a860942b6674edf",
-      "title": "S. Korea to extend fuel tax cut through Nov. amid price burdens",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918001000320",
-      "published_date": "2026-09-17T23:00:02Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "7bec84a81d6e202fd28e7aa7fa438c94",
+      "title": "(LEAD) (Asiad) S. Korea claims bronze in 4x200m freestyle relay swimming",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921010551315",
+      "published_date": "2026-09-21T11:17:54Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6cd3117d8822a60853a4d1e2a2ea9679",
+      "title": "(Asiad) S. Korea claims bronze in 4x200m freestyle relay swimming",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921010500315",
+      "published_date": "2026-09-21T09:46:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f4ee405ede3d420fcb90d70cfd321e6f",
+      "title": "(LEAD) (Asiad) Yoon Ji-hwan wins bronze in men's 50m backstroke swimming",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921009851315",
+      "published_date": "2026-09-21T09:05:07Z",
+      "category": "Economy"
+    },
+    {
+      "id": "dcbda00c5ed53794bf2d6e6e57d80737",
+      "title": "(Asiad) Yoon Ji-hwan wins bronze in men's 50m backstroke swimming",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921009800315",
+      "published_date": "2026-09-21T08:17:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "95c1a08564641ade4ae2fcb966086153",
+      "title": "Man sent to prosecution over alleged murder at Itaewon bar",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921009000315",
+      "published_date": "2026-09-21T07:48:36Z",
+      "category": "Economy"
+    },
+    {
+      "id": "82689127146147354004c77e5b88cfa5",
+      "title": "BOK launches pilot program for 24-hour offshore won settlement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921005200320",
+      "published_date": "2026-09-21T05:00:03Z",
+      "category": "Economy"
+    },
+    {
+      "id": "189d8fc1ad8bf29c9edab1e70b1822ed",
+      "title": "Budget ministry pledges support for Coast Guard's patrol cutter program",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006000320",
+      "published_date": "2026-09-21T05:00:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "eb8093d98d8e4cc6e3e3adbfaee6a970",
+      "title": "S. Korea's trade reliance up in 2024: BOK data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921004700320",
+      "published_date": "2026-09-21T03:00:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "d96f3bb910cae945467c4f7aa358566e",
+      "title": "(Asiad) Mother of men's basketball champion proud of son, excited to see further growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921004800315",
+      "published_date": "2026-09-21T02:41:18Z",
+      "category": "Economy"
+    },
     {
       "id": "4e74a84d2e55a51f8450ca9040943f67",
       "title": "Exports up 78 pct in first 20 days of Sept.",
@@ -582,239 +654,167 @@
       "url": "https://en.yna.co.kr/view/AEN20260918010651315",
       "published_date": "2026-09-18T09:08:34Z",
       "category": "Economy"
-    },
-    {
-      "id": "8531bfab02135105a874ceb86a0da751",
-      "title": "(Asiad) S. Korea reaches men's basketball final",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918010600315",
-      "published_date": "2026-09-18T08:55:23Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c575fcdccfad93e9017d3bc23fccd650",
-      "title": "S. Korean won slightly weakens against U.S. dollar after BOJ's expected rate hike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918009000320",
-      "published_date": "2026-09-18T07:47:14Z",
-      "category": "Economy"
-    },
-    {
-      "id": "afa00dc085c13ec1045d483ad52ec391",
-      "title": "(2nd LD) Seoul stocks soar over 2 pct on eased inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007352320",
-      "published_date": "2026-09-18T07:41:59Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4248a6f0cf83e7966420881ce1d45029",
-      "title": "(LEAD) Seoul stocks soar over 2 pct on eased inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007351320",
-      "published_date": "2026-09-18T06:55:39Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c3eef5d11bcc94cd5d84302524ea22c9",
-      "title": "Seoul stocks soar over 2 pct on eased inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007300320",
-      "published_date": "2026-09-18T06:35:35Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7cece092097b40e36a6da12bfa32dbf9",
-      "title": "(URGENT) Seoul stocks soar over 2 pct on eased inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006700320",
-      "published_date": "2026-09-18T06:32:53Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9b06dcce501b49f695f804aa47987aeb",
-      "title": "Singer-actor IU donates 200 mln won on debut anniversary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007000315",
-      "published_date": "2026-09-18T06:17:58Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5dc4881b6c14d635de4e17ecb1aefee1",
-      "title": "SK Group chief pays over 800 mln won in court filing fees for property division appeal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006600315",
-      "published_date": "2026-09-18T06:09:33Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8bc7bd949584f2bf6b6f56567b276769",
-      "title": "Samsung Exynos chipset market share rises to 9 pct in Q2",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918006300320",
-      "published_date": "2026-09-18T05:41:11Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "id": "ae50864d43794ea1831a369112d30a49",
-      "title": "Korean film 'The Intern' debuts atop weekend box office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260921001100315",
-      "published_date": "2026-09-20T23:25:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4d42a9e7a2793839c92d5af86992d145",
-      "title": "(EDITORIAL from Korea Herald on Sept. 21)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260921000500315",
-      "published_date": "2026-09-20T21:56:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1b868d19200bc9678c0f152b5891be2b",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260921000400315",
-      "published_date": "2026-09-20T21:56:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "481fe79cccaf8ba6e42539884a3b6850",
-      "title": "(Asiad) S. Korean swimmers seek to defend relay title; football teams set for inter-Korean clash",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918007200320",
-      "published_date": "2026-09-20T21:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7d69aae954c94175d5bf7b2ac964a581",
-      "title": "(LEAD) (Asiad) Forward lifts S. Korea to men's hoops gold with sharpshooting, leadership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920006351320",
-      "published_date": "2026-09-20T15:11:49Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "264c592cd6f09874a35a638b7b3b4377",
-      "title": "(LEAD) (Asiad) Latvian-born hoops coach for S. Korea silences critics with gold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920005851320",
-      "published_date": "2026-09-20T15:05:55Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f2c4be28e916e7e747f874e5896a9f12",
-      "title": "(Asiad) Forward lifts S. Korea to men's hoops gold with sharpshooting, leadership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920006300320",
-      "published_date": "2026-09-20T14:17:43Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "033a4211675e8723269a3a4219cb05b0",
-      "title": "(Asiad) Latvian-born hoops coach for S. Korea silences critics with gold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920005800320",
-      "published_date": "2026-09-20T13:41:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4a667d91493c7e9addbfc97c1a15b1c1",
+      "id": "1b409c0914f29e4e77a9e6fd8c1ca6bf",
       "title": "(Asiad) medal standings",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20230924003986315",
-      "published_date": "2026-09-20T13:08:36Z",
+      "url": "https://en.yna.co.kr/view/AEN20230924003987315",
+      "published_date": "2026-09-21T13:45:14Z",
       "category": "Local Events"
     },
     {
-      "id": "09f2fb21e03e58fd6cddbe576e9f77ca",
-      "title": "(Asiad) S. Korea snatches 4 gold medals on 1st day after opening ceremony",
+      "id": "ab2cc0a308721429fd8f7ab6d70b4404",
+      "title": "(LEAD) (Asiad) S. Korea loses to Japan to drop to bronze medal match in women's volleyball",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920005700315",
-      "published_date": "2026-09-20T13:02:44Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011651315",
+      "published_date": "2026-09-21T13:39:28Z",
       "category": "Local Events"
     },
     {
-      "id": "9663405f65e08789aa3d490fca29577b",
-      "title": "(LEAD) (Asiad) S. Korea reaches semis in women's volleyball at Asian Games after win over Kazakhstan",
+      "id": "126b42ea4fd116522100db80a864a2b7",
+      "title": "(Asiad) S. Korea loses to Japan to drop to bronze medal match in women's volleyball",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004651320",
-      "published_date": "2026-09-20T12:35:43Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011600315",
+      "published_date": "2026-09-21T12:55:41Z",
       "category": "Local Events"
     },
     {
-      "id": "bb628c1688f1c10f0a826415617590e2",
-      "title": "(Asiad) S. Korean pentathletes show progress in adapting to new obstacle discipline",
+      "id": "89b80fd42c370264c17e6798af5ab14f",
+      "title": "(Asiad) Freestyle swimmer feels extra motivated after failing to defend title",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920005300320",
-      "published_date": "2026-09-20T12:27:59Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011300315",
+      "published_date": "2026-09-21T11:38:35Z",
       "category": "Local Events"
     },
     {
-      "id": "75c098c394943f38aaeccb91482d0b8e",
-      "title": "(Asiad) Inaugural men's teqball champion thanks mother for sacrifice",
+      "id": "b5a379c50103ab29bb6f5731dd9dc3cb",
+      "title": "(LEAD) (Asiad) S. Korea, N. Korea draw 1-1 in women's football at Asian Games",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920005100315",
-      "published_date": "2026-09-20T11:31:09Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921010451320",
+      "published_date": "2026-09-21T11:36:08Z",
       "category": "Local Events"
     },
     {
-      "id": "ec09e7b774fb12af1a807c4740144a47",
-      "title": "(Asiad) S. Korea takes 1 silver, 2 bronze medals on Day 1 of swimming",
+      "id": "a5af63431e196a2101982d621e9fcfb3",
+      "title": "(Asiad) N. Korean supporters dominate atmosphere at inter-Korean football match at Asian Games",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004900315",
-      "published_date": "2026-09-20T10:53:49Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011100320",
+      "published_date": "2026-09-21T11:10:57Z",
       "category": "Local Events"
     },
     {
-      "id": "c9bcecaacc47de71025480e78f294295",
-      "title": "(LEAD) (Asiad) Swimming silver medalist blames self for being 'amateurish' after missing out on gold",
+      "id": "2bf72da52e1589c0feed5ca515249daf",
+      "title": "(Asiad) S. Korea collects 5 medals in swimming on 2nd day",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004551315",
-      "published_date": "2026-09-20T10:36:33Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921011000315",
+      "published_date": "2026-09-21T11:06:17Z",
       "category": "Local Events"
     },
     {
-      "id": "e2e18af125c638638a6dbaef0ff41356",
-      "title": "(Asiad) Swimmer pleased with bronze in 1st race",
+      "id": "e69f33396e8a8c4a580237c997c46336",
+      "title": "(Asiad) Teenager overcomes nerves to grab 1st medal in pool",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004700315",
-      "published_date": "2026-09-20T10:29:13Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921010900315",
+      "published_date": "2026-09-21T10:44:44Z",
       "category": "Local Events"
     },
     {
-      "id": "9c67ae036c9f8013ee05dfb7b6236477",
-      "title": "(Asiad) S. Korea reaches semis in women's volleyball at Asian Games after win over Kazakhstan",
+      "id": "735361aef8164aab195a8afee9551d74",
+      "title": "(Asiad) Swimming champion determined to keep pursuing bigger goals",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004600320",
-      "published_date": "2026-09-20T10:25:31Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921010800315",
+      "published_date": "2026-09-21T10:39:52Z",
       "category": "Local Events"
     },
     {
-      "id": "635aae99c5324b572542e26d3f5866c2",
-      "title": "(Asiad) Swimming silver medalist blames self for being 'amateurish' after missing out on gold",
+      "id": "c1bb28139090b821b45165597ad70373",
+      "title": "(Asiad) S. Korea, N. Korea draw 1-1 in women's football at Asian Games",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920004500315",
-      "published_date": "2026-09-20T09:51:44Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921010400320",
+      "published_date": "2026-09-21T09:10:28Z",
       "category": "Local Events"
     },
     {
-      "id": "a25b3538d7aa3fe2eb1a03382fef5789",
-      "title": "(LEAD) (Asiad) Ban Hyo-jin wins bronze in women's 10m air rifle",
+      "id": "a10f975100dfa70d0a3f728cba8867dc",
+      "title": "(LEAD) Ex-military commanders get severe prison terms for martial law roles",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920003151315",
-      "published_date": "2026-09-20T09:03:43Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921008951315",
+      "published_date": "2026-09-21T08:07:20Z",
       "category": "Local Events"
     },
     {
-      "id": "f66d3bce42931c063de9fa29fadd35f6",
-      "title": "(Asiad) Ban Hyo-jin wins bronze in women's 10m air rifle",
+      "id": "69b4da8ee7339144809f2526d331b760",
+      "title": "Yonhap News Summary",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920003100315",
-      "published_date": "2026-09-20T06:38:03Z",
+      "url": "https://en.yna.co.kr/view/AEN20260921009700320",
+      "published_date": "2026-09-21T08:06:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2cabcf51eb034024e72ca0fcc57c679f",
+      "title": "Ex-military commanders get severe prison terms for martial law roles",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921008900315",
+      "published_date": "2026-09-21T07:30:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5edba102b2ae369f430219ba9cde94e2",
+      "title": "(Asiad) An Hyeon-gi takes bronze in wushu",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921008600315",
+      "published_date": "2026-09-21T07:05:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2ee28655780b1af64ba15a8ea107ee50",
+      "title": "Gov't plans 1.19 mln public sale, rental homes amid housing price pressures",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921006600320",
+      "published_date": "2026-09-21T07:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e88d0806a422a0c5df6d964c937a97ca",
+      "title": "Confirmation hearing report adopted for land minister nominee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921007200315",
+      "published_date": "2026-09-21T06:24:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "574b66227e30b71222a98ac193d4dfb2",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921002200315",
+      "published_date": "2026-09-21T05:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "21cc1e4e59fc4e6f20284114e23544c0",
+      "title": "(LEAD) Presidential chief of staff Kang Hoon-sik offers to resign",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921005651315",
+      "published_date": "2026-09-21T04:44:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8125de792832abc97ff7d649d3f85a84",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921005700315",
+      "published_date": "2026-09-21T04:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "cbd4b0ed4e9bd0c52882c8d81ca35523",
+      "title": "Presidential chief of staff Kang Hoon-sik offers to resign",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921005600315",
+      "published_date": "2026-09-21T04:13:32Z",
       "category": "Local Events"
     }
   ]
