@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-20T14:34:59Z",
+  "generated_at": "2026-09-21T00:37:30Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "cb2bf837a49b43e3e721c23e444f55ea",
+      "title": "N. Korea stays quiet on Sunday's missile launches",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921001000315",
+      "published_date": "2026-09-20T23:02:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "39a8660153f5609a97045158411eb9c2",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921000700315",
+      "published_date": "2026-09-20T21:56:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a18fa2b1782333138ee4971b4f584efc",
+      "title": "(EDITORIAL from Korea Times on Sept. 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921000600315",
+      "published_date": "2026-09-20T21:56:45Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "66f341aedd9215c4a27a6a2c0bcb3260",
       "title": "(LEAD) Gov't to brief Nat'l Assembly on 1st U.S.-bound investment project under summit deal",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260920002600320",
       "published_date": "2026-09-20T06:03:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b3bd9233ac95e7b7aba4a8d5070a3054",
-      "title": "(LEAD) (Asiad) Men's basketball team misses shootaround before final due to shuttle no-show",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002051315",
-      "published_date": "2026-09-20T04:26:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "493db28fc7dab72c1043c3d61fab27f6",
-      "title": "(2nd LD) (Asiad) Shin Ji-eun wins bronze in cycling for S. Korea's 1st medal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920001052315",
-      "published_date": "2026-09-20T04:24:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3011f45975017fd4ba16e35eb8163166",
-      "title": "(Asiad) Pentathlete Seong Seung-min refuses to rest on her laurels",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002300320",
-      "published_date": "2026-09-20T04:08:48Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,38 @@
   ],
   "Energy": [
     {
+      "id": "5e89fc81342ab30fab3804f84037e64d",
+      "title": "(LEAD) Seoul stocks open higher on chip gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921001351320",
+      "published_date": "2026-09-21T00:25:46Z",
+      "category": "Energy"
+    },
+    {
+      "id": "66c7db73ef6c26c6b047f153ecca9fdb",
+      "title": "(LEAD) Exports up 78 pct in first 20 days of Sept. on robust chip shipments",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921001751320",
+      "published_date": "2026-09-21T00:19:27Z",
+      "category": "Energy"
+    },
+    {
+      "id": "0f71a513a6d0e1a2c5ce249624098a4d",
+      "title": "Seoul stocks open higher on chip gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921001300320",
+      "published_date": "2026-09-21T00:04:06Z",
+      "category": "Energy"
+    },
+    {
+      "id": "a8e53f91ed8b37bb936eadf2f5578faf",
+      "title": "(URGENT) Seoul stocks open higher on chip gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921001200320",
+      "published_date": "2026-09-21T00:01:59Z",
+      "category": "Energy"
+    },
+    {
       "id": "7d9475543377d83e6a27217a2a7b3e6a",
       "title": "(LEAD) (Asiad) S. Korea wins Asian Games gold in team modern pentathlon event",
       "source": "Yonhap News Agency",
@@ -460,41 +492,25 @@
       "url": "https://en.yna.co.kr/view/AEN20260918001000320",
       "published_date": "2026-09-17T23:00:02Z",
       "category": "Energy"
-    },
-    {
-      "id": "f5db02f25d9b79ea4d69da88e0dc90eb",
-      "title": "Foreigners snap 7-month sell-offs of Korean stocks in Aug.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917008900320",
-      "published_date": "2026-09-17T21:00:13Z",
-      "category": "Energy"
-    },
-    {
-      "id": "971c9f50265dfda285c6991542e94691",
-      "title": "(Movie Review) 'The Assassin(s)' paints vivid snapshot of 1970s Korea in tribute to those who lived through it",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260917005000315",
-      "published_date": "2026-09-17T02:38:29Z",
-      "category": "Energy"
-    },
-    {
-      "id": "f465bc63f063233703277903ac258e8c",
-      "title": "S. Korea cannot afford to slow down AI development: science minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260916010200320",
-      "published_date": "2026-09-16T08:18:17Z",
-      "category": "Energy"
-    },
-    {
-      "id": "a0eec5c44251a85fb2c26554ca4c3170",
-      "title": "S. Korea, Kazakhstan elevate ties, agree to boost cooperation in crude oil, nuclear power",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260915010700315",
-      "published_date": "2026-09-15T12:38:17Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "4e74a84d2e55a51f8450ca9040943f67",
+      "title": "Exports up 78 pct in first 20 days of Sept.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921001700320",
+      "published_date": "2026-09-21T00:06:28Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8ec9ef7aa9d6e9d65e1fed9b0313592e",
+      "title": "(Asiad) Bus mix-up before Asiad final turns into source of motivation for S. Korean basketball team",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921000200320",
+      "published_date": "2026-09-20T22:42:23Z",
+      "category": "Economy"
+    },
     {
       "id": "5fcddbc1e4bd057cfc6403db5d6c0049",
       "title": "(LEAD) (Asiad) S. Korea beats Japan for men's basketball gold",
@@ -638,25 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20260918006300320",
       "published_date": "2026-09-18T05:41:11Z",
       "category": "Economy"
-    },
-    {
-      "id": "ea7f20509d01ca31b7e9075bf8b08768",
-      "title": "(Asiad) Veteran basketball forward says team overcame challenges in opening victory",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918005800315",
-      "published_date": "2026-09-18T04:22:37Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f8888001db0dabb02784e9e148752fbc",
-      "title": "(Asiad) Women's basketball coach says team in good shape despite missing stars",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260918005700315",
-      "published_date": "2026-09-18T04:21:53Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "ae50864d43794ea1831a369112d30a49",
+      "title": "Korean film 'The Intern' debuts atop weekend box office",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921001100315",
+      "published_date": "2026-09-20T23:25:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4d42a9e7a2793839c92d5af86992d145",
+      "title": "(EDITORIAL from Korea Herald on Sept. 21)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921000500315",
+      "published_date": "2026-09-20T21:56:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1b868d19200bc9678c0f152b5891be2b",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260921000400315",
+      "published_date": "2026-09-20T21:56:21Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "481fe79cccaf8ba6e42539884a3b6850",
+      "title": "(Asiad) S. Korean swimmers seek to defend relay title; football teams set for inter-Korean clash",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260918007200320",
+      "published_date": "2026-09-20T21:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7d69aae954c94175d5bf7b2ac964a581",
+      "title": "(LEAD) (Asiad) Forward lifts S. Korea to men's hoops gold with sharpshooting, leadership",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260920006351320",
+      "published_date": "2026-09-20T15:11:49Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "264c592cd6f09874a35a638b7b3b4377",
+      "title": "(LEAD) (Asiad) Latvian-born hoops coach for S. Korea silences critics with gold",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260920005851320",
+      "published_date": "2026-09-20T15:05:55Z",
+      "category": "Local Events"
+    },
     {
       "id": "f2c4be28e916e7e747f874e5896a9f12",
       "title": "(Asiad) Forward lifts S. Korea to men's hoops gold with sharpshooting, leadership",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260920003100315",
       "published_date": "2026-09-20T06:38:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5f5fc49ca401dc652ce60e127542134f",
-      "title": "BTS performs at iHeartRadio Music Festival in Las Vegas",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920002400315",
-      "published_date": "2026-09-20T05:07:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0d11f54d27acb585477273d7a6f88c8a",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920000400315",
-      "published_date": "2026-09-20T05:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c22f1db101088a5a32ce5a50741ce3d3",
-      "title": "Vietnamese professionals in S. Korea nearly double over 4 years",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920001100315",
-      "published_date": "2026-09-20T02:49:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f752c367db03ca52700977221d6e0ce2",
-      "title": "Unification ministry plans to send over 1,400 medical items to Pyongyang hospital",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920000700315",
-      "published_date": "2026-09-20T02:04:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "42dea56ca557c78c426193f5e0fc710a",
-      "title": "S. Korea ranks near bottom of OECD for income redistribution",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920000600320",
-      "published_date": "2026-09-20T01:33:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5a2368f819d14420d1827e5545224e0d",
-      "title": "Parental leave benefits for foreign workers double last year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260920000500315",
-      "published_date": "2026-09-20T01:20:49Z",
       "category": "Local Events"
     }
   ]
