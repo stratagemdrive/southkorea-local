@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-23T15:20:53Z",
+  "generated_at": "2026-09-24T00:57:20Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,94 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "53baf6e1280c5331970a638fe4e01ee6",
+      "title": "Ukraine recently sent 2 N. Korean POWs to S. Korea: Zelenskyy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924000800315",
+      "published_date": "2026-09-24T00:41:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c2aed0fa2489818a1486d3e9b59227ba",
+      "title": "(2nd LD) Trump gives Xi rare welcome at military base on eve of high-stakes summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924000352315",
+      "published_date": "2026-09-23T22:46:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cd0f0b019747de59dc695e2df34b1ecd",
+      "title": "(LEAD) Trump gives Xi rare welcome at military base on eve of high-stakes summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924000351315",
+      "published_date": "2026-09-23T22:29:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6a56c77d49a4506d1ad86bdefc3e0057",
+      "title": "Ukraine sends 2 North Korean POWs to South Korea: Zelensky",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/ukraine-sends-2-north-korean-pows-to-south-korea-zelensky/",
+      "published_date": "2026-09-23T22:23:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cc2293ebe800ceef6d83c573662dac30",
+      "title": "N. Korea test-fires upgraded multiple-rocket launcher shells",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924000400315",
+      "published_date": "2026-09-23T22:22:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c737dcdaad7326c7da4d6a3223dc6edf",
+      "title": "Trump gives Xi rare welcome at military base on eve of high-stakes summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924000300315",
+      "published_date": "2026-09-23T22:06:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "820ba1b95c3d86b37b8526c993fc0873",
+      "title": "Lee wraps up attendance at U.N. General Assembly, heads to Mexico for summit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923011800315",
+      "published_date": "2026-09-23T20:19:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f235a16c8b1d4744a59726ba07cd5707",
+      "title": "(LEAD) White House: Lee, Trump discussed shipbuilding cooperation, other topics during New York meeting",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924000251315",
+      "published_date": "2026-09-23T18:43:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "93ad3995376eaba394ff29b226b5d00d",
+      "title": "White House: Lee, Trump discussed shipbuilding cooperation, other topics during New York meeting",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924000200315",
+      "published_date": "2026-09-23T18:17:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e117f8c889488af8fafbacb10e88f785",
+      "title": "Will the New Yalu River Bridge finally open? Border traders point to early October",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/new-yalu-river-bridge-opening-october-2026/",
+      "published_date": "2026-09-23T17:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "09c1074cf21abfa7b6b893444efc1b04",
+      "title": "(LEAD) Lee pledges to double chip production in 5 yrs, build AI supply chains free of disruption",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923012151315",
+      "published_date": "2026-09-23T15:22:24Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "4eb31fbb97fc7246b3fa8da1786a3b93",
       "title": "Lee pledges to double chip production in 5 yrs, build AI supply chains free of disruption",
@@ -80,97 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260923010400315",
       "published_date": "2026-09-23T08:38:11Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "ed4559b32e66f7801a91069f3a064595",
-      "title": "(Asiad) Kim Seung-won takes bronze in women's 100m backstroke",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923010300315",
-      "published_date": "2026-09-23T08:27:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0f1a4ee908768de6383d52534f6fbaf2",
-      "title": "S. Korea, partner nations declare Hormuz disruption 'unacceptable,' vow to stand together",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923009100315",
-      "published_date": "2026-09-23T08:01:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "598f2fb282375713e4a786160f7d349c",
-      "title": "(Asiad) Shooting champion pinches herself after record-breaking run to gold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923008700315",
-      "published_date": "2026-09-23T07:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "244be182d8aa5c2e2f5468f832ed1478",
-      "title": "(Asiad) N. Korea's Ri Song-gum wins gold in weightlifting, Pyongyang's 1st gold at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923008600320",
-      "published_date": "2026-09-23T07:02:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cb0fe4b86badda147dbeb3a0b6ca7834",
-      "title": "(Asiad) Lee Ha-sung collects silver in wushu",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923007500315",
-      "published_date": "2026-09-23T06:22:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "81977f884ed31faa80f852f7499bfd9c",
-      "title": "(Asiad) S. Korea's Kim Young-chan wins bronze in Gran Turismo 7, 1st esports medal at 2026 Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923007100320",
-      "published_date": "2026-09-23T05:53:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5054c7fdf63542650ae3ae9e939abe04",
-      "title": "Joseph Kim on why North Korea is changing beyond Kim Jong Un",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/joseph-kim-on-why-north-korea-is-changing-beyond-kim-jong-un/",
-      "published_date": "2026-09-23T05:32:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a746c5fb304158e97d38ca9eb8490078",
-      "title": "Special counsel appeals acquittal of ex-President Yoon in perjury case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923005600315",
-      "published_date": "2026-09-23T05:02:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8c450cae02aa9ab3aab46fceb1f6ed28",
-      "title": "Top diplomats of S. Korea, Congo discuss energy, economic cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923006200315",
-      "published_date": "2026-09-23T05:00:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a5d20e77090d17d5320def49ed954a48",
-      "title": "(LEAD) (Asiad) Choo Ga-eun captures gold in women's 10m air pistol shooting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923006451315",
-      "published_date": "2026-09-23T04:37:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "57c90fc8a3bd74774fe5c18bbbab3b80",
-      "title": "(Asiad) Choo Ga-eun captures gold in women's 10m air pistol shooting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923006400315",
-      "published_date": "2026-09-23T04:21:30Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "1b1a07b4879d75058f3a9c6631fc49a8",
+      "title": "Defense minister floats 'better way' for military academy merger amid pushback",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923003100315",
+      "published_date": "2026-09-23T22:00:07Z",
+      "category": "Military"
+    },
     {
       "id": "815d9a59f1c3c1b5ec77a236f8c10b89",
       "title": "2 explosions occurred in DMZ blast; forensic analysis on mine fragments under way: military",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260921006151315",
       "published_date": "2026-09-21T06:26:31Z",
-      "category": "Military"
-    },
-    {
-      "id": "8922917573b15f738c36c8a71f909425",
-      "title": "3 military officers injured in unidentified explosion during operation at DMZ: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260921006100315",
-      "published_date": "2026-09-21T04:51:27Z",
       "category": "Military"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "2c737d77089719d3a53edfe89f7ff59b",
+      "title": "690 child abuse cases reported during Chuseok holiday in 2025",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923002500315",
+      "published_date": "2026-09-23T22:33:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "342f2b0ec1154f42b772abf408a4525c",
+      "title": "Korean film 'The Assassin(s)' on track to lead box office during Chuseok holiday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923002900315",
+      "published_date": "2026-09-23T22:30:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "dcc7f126ebd2c5b3ae2df2d46e814c02",
+      "title": "Prince Harry to send congratulatory video message for S. Korean sports event for wounded veterans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260922011500315",
+      "published_date": "2026-09-23T21:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9d5c1a1b1953e8423755f26ea5d617cf",
+      "title": "(Asiad) Yeo Seo-jeong leads Korea's gold medal hopes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260922005000320",
+      "published_date": "2026-09-23T21:00:01Z",
+      "category": "Local Events"
+    },
+    {
       "id": "6f381c3dd4d2cf9e705f09728f5d78f4",
       "title": "(Asiad) S. Korea adds gold medals in fencing, shooting, while defending champs fall short",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260923007000315",
       "published_date": "2026-09-23T06:04:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7e1a1034318e056599ef614795b7bbba",
-      "title": "(Asiad) S. Korea clobbers Thailand to reach next phase in baseball",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923006800315",
-      "published_date": "2026-09-23T05:22:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "99e7f29030e23f767c081a9eaa823487",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923001800315",
-      "published_date": "2026-09-23T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cfb2eaf2676a489049d30c8bbc1aef41",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923006500315",
-      "published_date": "2026-09-23T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "359ef94df68ba9b4228eab0d079de69b",
-      "title": "Chief justice rejects alleged procedural flaw in Supreme Court nomination",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923006100315",
-      "published_date": "2026-09-23T04:22:55Z",
       "category": "Local Events"
     }
   ]
