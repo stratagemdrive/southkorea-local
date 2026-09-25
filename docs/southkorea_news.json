@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-24T15:44:04Z",
+  "generated_at": "2026-09-25T01:00:19Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,118 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "9ef7b8c15c9b31cbbd85bd9a970a8da0",
+      "title": "N. Korean official says S. Korea to become target of 'collective punishment'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925001200320",
+      "published_date": "2026-09-25T00:16:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1eb6e83d543c80385fd700e28714c5f3",
+      "title": "Lee pledges to work harder to 'illuminate' every citizen's life in Chuseok message",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000600315",
+      "published_date": "2026-09-24T23:13:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bf8a8fd364de5cbd9e541e5f72c4dfb3",
+      "title": "Lee calls Mexico 'indispensable' partner amid growing global economic uncertainties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000500315",
+      "published_date": "2026-09-24T22:39:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9e51eec0555150a5e24eb33db0b7bcb7",
+      "title": "(4th LD) Xi says U.S., China reach new trade arrangement during summit with Trump: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924006054315",
+      "published_date": "2026-09-24T22:11:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d5c090bdec75f9093134f10553a3c156",
+      "title": "(3rd LD) Xi says U.S., China reach new trade arrangement during White House summit: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924006053315",
+      "published_date": "2026-09-24T21:47:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d87dbf2befc8d332a377723589c2346c",
+      "title": "(3rd LD) S. Korea, Mexico adopt joint action plan to expand cooperation in defense, crude oil, AI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000353315",
+      "published_date": "2026-09-24T21:01:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a3f18b8fd233f1ba2d9494820cf5e68a",
+      "title": "N. Koreans mark Chuseok with ancestor rites, folk games",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923007400315",
+      "published_date": "2026-09-24T21:00:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2773317406767ecc6d929b199660810e",
+      "title": "(2nd LD) S. Korea, Mexico adopt joint action plan to expand cooperation in defense, crude oil, AI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000352315",
+      "published_date": "2026-09-24T20:43:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "72dbc1747af98c9165c244ba3623ed46",
+      "title": "(LEAD) Lee, Sheinbaum hold summit to discuss deepening cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000351315",
+      "published_date": "2026-09-24T17:21:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f9a3155ae0f2777d4861b79818945197",
+      "title": "(LEAD) Lee says Ukraine disclosed transfer of 2 N.K. soldiers in breach of non-disclosure agreement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000251315",
+      "published_date": "2026-09-24T17:07:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "24fcf36895db3a01e2ad12136b30ad6e",
+      "title": "(LEAD) Trump, Xi stress friendship, shared interests, cooperation ahead of White House talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924006051315",
+      "published_date": "2026-09-24T16:49:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "25b546578012d7f92138af63dc261cca",
+      "title": "Lee pays respects to patriots of Mexico ahead of summit with Sheinbaum",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000300315",
+      "published_date": "2026-09-24T16:28:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b90373a3e2ac257165d528a9de84807b",
+      "title": "Lee says Ukraine disclosed transfer of 2 N.K. soldiers in breach of non-disclosure agreement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000200315",
+      "published_date": "2026-09-24T16:07:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4999fdf686efc06e167141fbafd5ece9",
+      "title": "Trump, Xi stress friendship, shared interests, cooperation ahead of White House talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924006000315",
+      "published_date": "2026-09-24T15:49:37Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5582fd40c8111cb1b9effa781a5aced3",
       "title": "North Korean province launches student tracking app, but glitches pile up",
@@ -55,118 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260924004851315",
       "published_date": "2026-09-24T10:33:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d080a80114d56869fa25627a2b48e8b2",
-      "title": "(LEAD) (Asiad) Cho Sung-jae races to bronze in men's breaststroke swimming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924004751315",
-      "published_date": "2026-09-24T10:12:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3fb25a8b5d065b9abccf3cfde4b0266d",
-      "title": "(LEAD) (Asiad) Park Si-eun claims silver in women's breaststroke swimming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924004651315",
-      "published_date": "2026-09-24T09:27:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d99eb2340fe89a4712390041f9e05369",
-      "title": "(Asiad) Kim Jun-woo shares silver medal in men's 800m freestyle swimming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924004800315",
-      "published_date": "2026-09-24T09:18:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "72216bf273310c6ac82d6c16b4d85608",
-      "title": "(Asiad) Cho Sung-jae races to bronze in men's breaststroke swimming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924004700315",
-      "published_date": "2026-09-24T09:05:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "74029a94b756e9d3346786b9c28e786b",
-      "title": "North Korea slams ‘unrealistic’ calls for denuclearization by US, ROK, Japan",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-slams-unrealistic-calls-for-denuclearization-by-us-rok-japan/",
-      "published_date": "2026-09-24T08:53:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "16da35e07ac6b44bf385bac497a01dc8",
-      "title": "(Asiad) Park Si-eun claims silver in women's breaststroke swimming",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924004600315",
-      "published_date": "2026-09-24T08:27:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d591f17fb7227f3ccc9e76f992135ba7",
-      "title": "(LEAD) (Asiad) S. Korea wins silver in mixed team skeet shooting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924003651315",
-      "published_date": "2026-09-24T08:05:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "41f0e2a078ce356d1e3b28b713f2a227",
-      "title": "(LEAD) (Asiad) Park Hyun-su wins bronze in men's rowing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924003751315",
-      "published_date": "2026-09-24T08:02:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "20b573804100fa8bbcd86a4ee4529d3e",
-      "title": "(Asiad) Park Hyun-su wins bronze in men's rowing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924003700315",
-      "published_date": "2026-09-24T07:15:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "533706b8cf03777ad5e65fbb6c63d0ed",
-      "title": "(Asiad) S. Korea wins silver in mixed team skeet shooting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924003600315",
-      "published_date": "2026-09-24T07:01:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "37cb7866a42cb9401af6e720b1db1c63",
-      "title": "(LEAD) N. Korea test-fires upgraded multiple-rocket launcher shells",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924000451315",
-      "published_date": "2026-09-24T05:02:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7e382dba35831ef6e12b46f44661baf3",
-      "title": "Lee says combining S. Korea's technology with Mexico's industrial base can create new growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924001600315",
-      "published_date": "2026-09-24T04:59:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c9748ed71c76a234e1b0e173efd8902b",
-      "title": "Kenneth Bae on surviving North Korean detention: North Korea Unpacked",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/kenneth-bae-on-surviving-north-korean-detention-north-korea-unpacked/",
-      "published_date": "2026-09-24T04:47:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "aef5cdf75a432d35af8de4c55732aaab",
-      "title": "S. Korea vows continued support for Ukraine in FM talks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924001500315",
-      "published_date": "2026-09-24T04:45:06Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,62 @@
   ],
   "Local Events": [
     {
+      "id": "c0613283ab4b85c39e8e042fee9a3d5d",
+      "title": "Suspected power bank fire breaks out on Da Nang-bound flight before departure",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925001400320",
+      "published_date": "2026-09-25T00:43:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "234896446d7a40ecab939eec114d26a8",
+      "title": "Highway congestion builds on Chuseok as S. Koreans travel to hometowns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925001300320",
+      "published_date": "2026-09-25T00:26:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "72a6eb96e6ee0a900e840a025ef115e6",
+      "title": "Only 3 researchers assigned to collect historical records linked to Korea's independence movement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923010500315",
+      "published_date": "2026-09-24T22:05:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7508bff8c027c4e65474a2345b070e5a",
+      "title": "Gov't weighs raising admission fees to palaces, royal tombs for 1st time in 20 years",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923005200315",
+      "published_date": "2026-09-24T21:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c434465839f74745b4794110bd05bf3f",
+      "title": "(Asiad) S. Korean epee team seeks to defend Asiad title on Chuseok",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260922005300320",
+      "published_date": "2026-09-24T21:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8c093cad754da886be2fda4f5dbc07ae",
+      "title": "Trump, Xi show apparent differences over AI guardrails at White House meeting",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925000400315",
+      "published_date": "2026-09-24T20:13:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c489abe100cdd426d956bf5f4ef4dd10",
+      "title": "(2nd LD) Trump, Xi stress friendship, shared interests at White House despite tensions over key issues",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260924006052315",
+      "published_date": "2026-09-24T18:35:16Z",
+      "category": "Local Events"
+    },
+    {
       "id": "e2d16e26cc0a74fa00bcb278b8c78288",
       "title": "(Asiad) medal standings",
       "source": "Yonhap News Agency",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260924004900315",
       "published_date": "2026-09-24T09:52:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "bd9b433f5220790065f8ac4891406c27",
-      "title": "Traffic clogged on highways as people travel for Chuseok",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924001900315",
-      "published_date": "2026-09-24T05:30:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cc7ee28fc363f4fa990caf2d380553ff",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924001800315",
-      "published_date": "2026-09-24T05:13:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b47c4690bf93a91dcbdf08788b94dc69",
-      "title": "(Asiad) Top S. Korean sports official blasts organizers for shoddy operations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924001700315",
-      "published_date": "2026-09-24T05:05:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "590c4e7f367214481fb512ddf355c375",
-      "title": "(Asiad) Injured swimmer pulls out of competition after racing in relay",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924001300315",
-      "published_date": "2026-09-24T03:17:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eab4011c3302ab360f517d1b2677a064",
-      "title": "(URGENT) S. Korea wins gold in men's kayak four-person 500m racing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260924001000320",
-      "published_date": "2026-09-24T03:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2c737d77089719d3a53edfe89f7ff59b",
-      "title": "690 child abuse cases reported during Chuseok holiday in 2025",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923002500315",
-      "published_date": "2026-09-23T22:33:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "342f2b0ec1154f42b772abf408a4525c",
-      "title": "Korean film 'The Assassin(s)' on track to lead box office during Chuseok holiday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923002900315",
-      "published_date": "2026-09-23T22:30:01Z",
       "category": "Local Events"
     }
   ]
