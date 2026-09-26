@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-25T15:45:03Z",
+  "generated_at": "2026-09-26T01:02:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "db6c4c5663c5404754d9c35c83358a51",
+      "title": "(LEAD) Lee calls for resumption of FTA negotiations with Mexico to elevate economic cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260926000451315",
+      "published_date": "2026-09-25T19:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "98a58d1d02f757e9f8d150cf26ebcbbf",
+      "title": "Lee calls for resumption of FTA negotiations with Mexico to elevate economic cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260926000400315",
+      "published_date": "2026-09-25T19:41:11Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "9212e3a8d9a40ffbcf8756f689da396e",
       "title": "N. Korea building new warships on both coasts: NK News",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260923007400315",
       "published_date": "2026-09-24T21:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2773317406767ecc6d929b199660810e",
-      "title": "(2nd LD) S. Korea, Mexico adopt joint action plan to expand cooperation in defense, crude oil, AI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925000352315",
-      "published_date": "2026-09-24T20:43:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "72dbc1747af98c9165c244ba3623ed46",
-      "title": "(LEAD) Lee, Sheinbaum hold summit to discuss deepening cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925000351315",
-      "published_date": "2026-09-24T17:21:22Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "28d39d968e661a50128fde261b052d7a",
+      "title": "No. of foreigners in S. Korea reaches 2.8 mln in Aug.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923002400315",
+      "published_date": "2026-09-25T22:05:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "48a6fc68efcf75f2a9864ced8363036a",
+      "title": "Inaugural 'World Korean Week' to bring thousands of overseas Koreans to Incheon next week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923003000315",
+      "published_date": "2026-09-25T22:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "35929eebb22a1558a701ed6f0062c86e",
+      "title": "(Asiad) New face emerges as S. Korea fails to match 2023 success",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260925006100315",
+      "published_date": "2026-09-25T22:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "483f32100fbf3f563416914c82b9bc69",
+      "title": "(Asiad) S. Korean sabre fencers target 4th straight Asiad team gold",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260922005500320",
+      "published_date": "2026-09-25T21:00:02Z",
+      "category": "Local Events"
+    },
+    {
       "id": "42d8d4f56e9a8098241d7bc786e2f9ce",
       "title": "(Asiad) medal standings",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260925000700320",
       "published_date": "2026-09-25T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ed1f46f82fe2e2208fa5a7dde52e5eda",
-      "title": "(LEAD) Lee reaffirms he will not seek reelection through constitutional revision",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925001551315",
-      "published_date": "2026-09-25T03:27:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "51a9b662a80dcc44b598694c5806c391",
-      "title": "(URGENT) S. Korea wins gold in men's kayak double 500m racing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925002400320",
-      "published_date": "2026-09-25T02:46:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "324d35dd1326f4b51041f277964165db",
-      "title": "Lee reaffirms he will not seek reelection through constitutional revision",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925001500315",
-      "published_date": "2026-09-25T01:08:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c0613283ab4b85c39e8e042fee9a3d5d",
-      "title": "Suspected power bank fire breaks out on Da Nang-bound flight before departure",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925001400320",
-      "published_date": "2026-09-25T00:43:23Z",
       "category": "Local Events"
     }
   ]
