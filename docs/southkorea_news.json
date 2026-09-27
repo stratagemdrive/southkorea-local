@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-26T14:54:59Z",
+  "generated_at": "2026-09-27T01:00:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "710fc05c5881ebc6a12a71a2c3ef64df",
+      "title": "U.S. issuance of nonimmigrant visas for S. Koreans falls by 8 pct",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260923003900315",
+      "published_date": "2026-09-26T21:00:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ebf75f9a5fa2cb2d60fb598e0e59b4f0",
+      "title": "Lee heads home after wrapping up state visit to Mexico",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260926000200315",
+      "published_date": "2026-09-26T16:55:17Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "e850f27d6f426a692921606984a373ab",
       "title": "Trump, Xi agree to establish AI communication channel, oppose tolls on int'l waterways: White House",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260925004400320",
       "published_date": "2026-09-25T07:48:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e22c691fabdffa2e3c28030d6040535a",
-      "title": "The strangest details Soviet archives reveal about 1970s North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/the-strangest-details-soviet-archives-reveal-about-1970s-north-korea/",
-      "published_date": "2026-09-25T07:03:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "602cad6ee51a1d32009dc18e55fb1bc2",
-      "title": "(2nd LD) Lee says Ukraine disclosed transfer of 2 N.K. soldiers in breach of non-disclosure agreement",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925000252315",
-      "published_date": "2026-09-25T06:08:20Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "c0a8e2408f851f53a2485f5be2cba436",
+      "title": "(Asiad) Baseball team goes for 5th consecutive gold; women's handball teams seeks revenge vs. Japan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260926007800315",
+      "published_date": "2026-09-26T21:00:01Z",
+      "category": "Energy"
+    },
+    {
       "id": "860e0e117eba66df63ea15ea64bb7095",
       "title": "(LEAD) (Asiad) S. Korea wins silver in women's foil team fencing at Asian Games",
       "source": "Yonhap News Agency",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260923002200320",
       "published_date": "2026-09-23T00:01:28Z",
-      "category": "Energy"
-    },
-    {
-      "id": "7c068f7cb01c6030d59ffe78ffb4d806",
-      "title": "(EDITORIAL from Korea Herald on Sept. 23)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923001300315",
-      "published_date": "2026-09-22T22:02:26Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,22 @@
   ],
   "Local Events": [
     {
+      "id": "6c7ba75850d00af120bf553ef07cddfc",
+      "title": "Number of S. Koreans with family in N. Korea down to less than 33,000",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260922009100315",
+      "published_date": "2026-09-26T21:03:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ee63fbfedb52fa1ebe1ae076b202ab4e",
+      "title": "(Asiad) Coach hopes women's hoops gold will inspire new generation of players",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260926008000315",
+      "published_date": "2026-09-26T14:55:45Z",
+      "category": "Local Events"
+    },
+    {
       "id": "7e50c42c20694cdba90ff6c36f1ffa54",
       "title": "(Asiad) medal standings",
       "source": "Yonhap News Agency",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260923002400315",
       "published_date": "2026-09-25T22:05:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "48a6fc68efcf75f2a9864ced8363036a",
-      "title": "Inaugural 'World Korean Week' to bring thousands of overseas Koreans to Incheon next week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923003000315",
-      "published_date": "2026-09-25T22:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "35929eebb22a1558a701ed6f0062c86e",
-      "title": "(Asiad) New face emerges as S. Korea fails to match 2023 success",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260925006100315",
-      "published_date": "2026-09-25T22:00:01Z",
       "category": "Local Events"
     }
   ]
