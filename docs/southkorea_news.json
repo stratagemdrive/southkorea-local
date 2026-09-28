@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-27T15:32:43Z",
+  "generated_at": "2026-09-28T01:16:40Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "024fdb88b1bfd45ef6e59cc6b2ce6713",
+      "title": "(Asiad) With 21 gold medals, S. Korea counting on more from archery, taekwondo in final week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928002100315",
+      "published_date": "2026-09-28T01:05:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "80503be4bd4052073beba1d9e94ca695",
+      "title": "Lee's approval rating rises for 2nd straight week to 37.9 pct: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928002000315",
+      "published_date": "2026-09-28T00:49:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6d461f5627532f1c6fd196ecbbed6778",
+      "title": "KAI, POSCO International team up for aerospace cooperation in Mexico",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928001800320",
+      "published_date": "2026-09-28T00:37:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9f89a14168bdd00f8fa30450dfd6ba6c",
+      "title": "Unification minister to visit Ireland, Northern Ireland, Germany from this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928001700315",
+      "published_date": "2026-09-28T00:31:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ae09363a674d225c548ececa9d068265",
+      "title": "Sculptures honoring N. Korean soldiers to be erected in Vietnam",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928000900315",
+      "published_date": "2026-09-27T23:19:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "944a18698805b3e8fbabec907680a51a",
+      "title": "(EDITORIAL from Korea Times on Sept. 28)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928000400315",
+      "published_date": "2026-09-27T22:08:22Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "85b2755ecc2bfb2c54f86f8ac524c184",
       "title": "(LEAD) S. Korea voices 'strong regret' over Ukraine's denial of nondisclosure pact on N.K. POWs",
@@ -120,57 +168,17 @@
       "url": "https://www.nknews.org/2026/09/new-russian-ambassador-arrives-in-north-korea/",
       "published_date": "2026-09-26T08:34:24Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "2f095b8b0e21f3c12cd756ddedc81743",
-      "title": "(3rd LD) Lee calls for resumption of trade pact negotiations with Mexico to elevate economic cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926000453315",
-      "published_date": "2026-09-26T07:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8b254948060fdd858cdba724b029a302",
-      "title": "(LEAD) (Asiad) Kim Ji-eun gets rifle bronze for S. Korea's 9th shooting medal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926001951315",
-      "published_date": "2026-09-26T07:12:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8b86b74a918cffd61756b09a8c9ff830",
-      "title": "(Asiad) Kim Ji-eun gets rifle bronze for S. Korea's 9th shooting medal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926001900315",
-      "published_date": "2026-09-26T05:13:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f57cef254f41dd34a538475aa2c041b7",
-      "title": "Number of int'l flight passengers up 10 pct this year despite hikes in oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926001100315",
-      "published_date": "2026-09-26T02:46:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8b8843a59feb01d7e8b73c158e15be37",
-      "title": "(2nd LD) Lee calls for resumption of trade pact negotiations with Mexico to elevate economic cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926000452315",
-      "published_date": "2026-09-26T01:45:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "db6c4c5663c5404754d9c35c83358a51",
-      "title": "(LEAD) Lee calls for resumption of FTA negotiations with Mexico to elevate economic cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926000451315",
-      "published_date": "2026-09-25T19:53:00Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "5f4793fcf8fdbe5d79a7ead8138ad016",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 28)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928000500315",
+      "published_date": "2026-09-27T22:08:38Z",
+      "category": "Military"
+    },
     {
       "id": "8307c8ebd23a357ccd98b260dde0b5e7",
       "title": "(LEAD) S. Korean military, U.N. Command conduct joint probe of DMZ blast site; further probe planned: JCS",
@@ -322,17 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260922009800315",
       "published_date": "2026-09-22T07:59:57Z",
       "category": "Military"
-    },
-    {
-      "id": "a125f80b7156b037f5d6de1021eb3f68",
-      "title": "(2nd LD) Land mine explodes at DMZ during military operation over suspected N. Korean minefield: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260922004952315",
-      "published_date": "2026-09-22T06:28:51Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "eb750f3167469439771aa08eaf390747",
+      "title": "LG Chem, Volkswagen to jointly develop sustainable mobility materials",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928001900320",
+      "published_date": "2026-09-28T00:50:28Z",
+      "category": "Energy"
+    },
     {
       "id": "4b397b1eb64ec1205b4e40c493acf8b7",
       "title": "(2nd LD) (Asiad) S. Korea captures gold in women's sabre fencing team event",
@@ -484,17 +492,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260923010651320",
       "published_date": "2026-09-23T10:42:18Z",
       "category": "Energy"
-    },
-    {
-      "id": "505a9e70b178e4d2fd945041a7b6be7c",
-      "title": "(Asiad) Park Ji-hee wins silver in women's individual foil fencing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260923010600320",
-      "published_date": "2026-09-23T09:06:04Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "1cedb43f5c2b8295ec9cc4e70328de54",
+      "title": "(LEAD) Seoul stocks open tad lower despite Wall Street gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928001151320",
+      "published_date": "2026-09-28T00:22:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "176ddaefb2129cb9ebd83447a3ecf5fa",
+      "title": "Seoul stocks open tad lower despite Wall Street gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928001100320",
+      "published_date": "2026-09-28T00:02:52Z",
+      "category": "Economy"
+    },
+    {
+      "id": "766567d5c8d02631212c1fa3eb7e28e3",
+      "title": "(URGENT) Seoul stocks open lower despite Wall Street gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928001000320",
+      "published_date": "2026-09-28T00:01:22Z",
+      "category": "Economy"
+    },
     {
       "id": "89e6d5a3567ac5f13e62c4ee265c2dcf",
       "title": "(Asiad) S. Korea rakes in 5 gold medals; baseball stars, teen skateboarder come through",
@@ -630,33 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20260926005400315",
       "published_date": "2026-09-26T12:13:38Z",
       "category": "Economy"
-    },
-    {
-      "id": "5fe7fc2b9094bacf8b25518afb9f2bcb",
-      "title": "(LEAD) (Asiad) S. Korea wins 4th consecutive gold in men's sabre team fencing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926003851320",
-      "published_date": "2026-09-26T10:48:55Z",
-      "category": "Economy"
-    },
-    {
-      "id": "3ea416525b01f5f02b72784deaf6478c",
-      "title": "(Asiad) S. Korea wins 4th consecutive gold in men's sabre team fencing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926003800320",
-      "published_date": "2026-09-26T10:26:06Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1d3d4ccf2d1026333ca7b8697c659240",
-      "title": "(LEAD) (Asiad) S. Korea wins gold in esports fighting games at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926003351320",
-      "published_date": "2026-09-26T09:18:18Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "27abc914a4d3e1488f329a50e1f284db",
+      "title": "TXT to return with new EP in November",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928002200315",
+      "published_date": "2026-09-28T01:10:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e07b0c184466c0f7e952a32fd6db6022",
+      "title": "(EDITORIAL from Korea Herald on Sept. 28)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928000300315",
+      "published_date": "2026-09-27T22:08:09Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e17dbfdb33364419a458a0feab86f185",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928000600315",
+      "published_date": "2026-09-27T22:06:50Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "25fde8adb0a0935b1ce1b196b846db39",
+      "title": "(Asiad) Olympic pistol champion targets 1st Asian Games gold",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260927001000315",
+      "published_date": "2026-09-27T21:00:07Z",
+      "category": "Local Events"
+    },
     {
       "id": "2c18819c71511e6c2930eee5355b0a67",
       "title": "(Asiad) Baseball star hoping to grow from up-and-down experience",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260922009100315",
       "published_date": "2026-09-26T21:03:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ee63fbfedb52fa1ebe1ae076b202ab4e",
-      "title": "(Asiad) Coach hopes women's hoops gold will inspire new generation of players",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926008000315",
-      "published_date": "2026-09-26T14:55:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7e50c42c20694cdba90ff6c36f1ffa54",
-      "title": "(Asiad) medal standings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20230924003992315",
-      "published_date": "2026-09-26T14:04:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fc801c188c45a86d19b47db5f32ccd18",
-      "title": "(Asiad) S. Korea rallies past China to reach baseball final",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926007600315",
-      "published_date": "2026-09-26T13:58:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "97f04e4bbd551e7793326e05de1ef4f2",
-      "title": "(Asiad) S. Korea ends worst table tennis campaign with 3 bronze medals",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926007500315",
-      "published_date": "2026-09-26T13:27:22Z",
       "category": "Local Events"
     }
   ]
