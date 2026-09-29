@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-28T18:31:26Z",
+  "generated_at": "2026-09-29T02:22:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,102 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "4f2e2a94ae37497fbe61308d3214c23c",
+      "title": "North Korean envoy denounces US for supporting ROK’s nuclear submarine ambitions",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/09/north-korean-envoy-denounces-us-for-supporting-roks-nuclear-submarine-ambitions/",
+      "published_date": "2026-09-29T02:10:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4e36e70dc8de17f921ed8c18a2b06f19",
+      "title": "Chief financial regulators from S. Korea, Japan agree on further cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929003500320",
+      "published_date": "2026-09-29T01:54:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "da4b98d965fccf68b13c4fef62642deb",
+      "title": "Actor named 'Net Zero' ambassador for carbon reduction",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929003400315",
+      "published_date": "2026-09-29T01:47:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f5b6e102b7af779df1b231b1b7410528",
+      "title": "N. Korea runs alleged secret prison at Beijing embassy: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929003100315",
+      "published_date": "2026-09-29T01:38:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dddbfd4f2199751c296ed41df7b61894",
+      "title": "Lee calls for thorough probe of mine blast, vows necessary measures",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929003200315",
+      "published_date": "2026-09-29T01:31:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4f41c559860cea6b5f575f97a225c97d",
+      "title": "Samsung SDI to showcase battery solutions for AI data centers in Singapore",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929002500320",
+      "published_date": "2026-09-29T00:45:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eae715ed61ed46b6a20ee7b6f4e99fcd",
+      "title": "Samsung Group to invest US$1 billion in AI infrastructure company Helix",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929001900320",
+      "published_date": "2026-09-29T00:01:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "272801f1b472e00c5eb381d920b34433",
+      "title": "N. Korea blames U.S. for 'worse crisis' in nuclear order, justifies its arsenal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929001700315",
+      "published_date": "2026-09-28T23:53:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f72e111f5a7decab93adfcae1acca455",
+      "title": "Nvidia CEO Huang receives this year's Van Fleet Award for contribution to S. Korea-U.S. relations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929000500315",
+      "published_date": "2026-09-28T22:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f47f0d2a32bd94cedd40e08ef29cf486",
+      "title": "(Asiad) Badminton star An Se-young goes for historic 2nd straight women's singles title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928011400315",
+      "published_date": "2026-09-28T21:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d98d1085954c19b3640b25cf3f5172b0",
+      "title": "South Hwanghae grain store managers escape punishment after hiking rice prices",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-prices-grain-store-donju-south-hwanghae/",
+      "published_date": "2026-09-28T19:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1e06c7817352ad15a7aa9b6c57062e5e",
+      "title": "Senior N.K. diplomat says Pyongyang's nuclear status can never be reversed 'in any circumstances'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929000200315",
+      "published_date": "2026-09-28T18:56:35Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "aee449c898da171a5a454452e117dd9b",
       "title": "Poor road conditions leave North Korean drivers paying for constant tire repairs",
@@ -72,105 +168,25 @@
       "url": "https://www.nknews.org/2026/09/vietnam-unveils-plaque-honoring-north-koreans-who-fought-in-vietnam-war/",
       "published_date": "2026-09-28T08:33:38Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "f5d86b8945f1155adf22da9e2559237c",
-      "title": "New Russian ambassador to N. Korea begins duties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928009500315",
-      "published_date": "2026-09-28T07:57:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "173d23020666c3e5a91a94c93d1216aa",
-      "title": "Less than 40 pct of S. Koreans say unification with N. Korea necessary: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928009000315",
-      "published_date": "2026-09-28T07:55:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c4a498165074927a4bc9d2339551732a",
-      "title": "ROK demands apology from Ukraine over North Korean POW transfer disclosure",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/rok-demands-apology-from-ukraine-over-north-korean-pow-transfer-disclosure/",
-      "published_date": "2026-09-28T07:26:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b57f656a3817fd6ce4c4e23228d6f438",
-      "title": "Russia’s new top envoy presents credentials, kicks off duty in North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/russias-new-top-envoy-presents-credentials-kicks-off-duty-in-north-korea/",
-      "published_date": "2026-09-28T06:41:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5d4f3237741d25551893a40bc7b91148",
-      "title": "(Asiad) Top-ranked shuttler An Se-young cruises into women's singles final",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928007100315",
-      "published_date": "2026-09-28T06:30:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e1a078a7a6af8740af8972214ea744e0",
-      "title": "1-yr prison term sought for PPP lawmaker for giving luxury bag to ex-first lady",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928007200315",
-      "published_date": "2026-09-28T06:22:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "45c9ae00ccc7f6a5e044cdacddf7e248",
-      "title": "North Korea falls to Spain on penalties in U-20 Women’s World Cup final",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/north-korea-falls-to-spain-on-penalties-in-u-20-womens-world-cup-final/",
-      "published_date": "2026-09-28T05:54:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1f807c555c97fa4756c6fdfca86d3309",
-      "title": "Space agency to finalize design of 1st navigation satellite for 2029 launch",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928006100320",
-      "published_date": "2026-09-28T05:08:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "46c3654eb18259ea38ed0b448fadda94",
-      "title": "Chief regulator vows to elevate capital market's global status",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928005700320",
-      "published_date": "2026-09-28T04:28:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5bd713b9437de1e38e6732d6ab9c3acb",
-      "title": "(LEAD) Finance minister, BOK chief stress coordination to address uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928002751320",
-      "published_date": "2026-09-28T03:14:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fa47d3682449f67dd63450f7d90a7659",
-      "title": "Data ministry to merge 2 institutes under public sector restructuring",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928001600320",
-      "published_date": "2026-09-28T03:00:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fb9f1b34654dfbad66cf8d908035aa0f",
-      "title": "Finance minister, BOK chief stress coordination to address uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928002700320",
-      "published_date": "2026-09-28T02:30:22Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "3c29bea22e4529a44dc8f300d5be42c1",
+      "title": "Cheong Wa Dae denies military inspection of mine blast site connected to Lee's U.N. remarks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929003000315",
+      "published_date": "2026-09-29T01:22:36Z",
+      "category": "Military"
+    },
+    {
+      "id": "63e24cc79e2d919ae0f2c940163fe347",
+      "title": "(EDITORIAL from The Korea Herald on Sept. 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929000700315",
+      "published_date": "2026-09-28T21:55:15Z",
+      "category": "Military"
+    },
     {
       "id": "4a36ad818c1c42ca5be959d8d2ad3b01",
       "title": "(2nd LD) N. Korean land mines highly likely cause of DMZ blast: S. Korean military",
@@ -313,22 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260927001200315",
       "published_date": "2026-09-27T04:33:42Z",
-      "category": "Military"
-    },
-    {
-      "id": "fa8310f823999e8ac1a6b681d6a3d826",
-      "title": "(LEAD) S. Korean military, U.N. Command conduct joint survey on DMZ blast site ahead of probe: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926004551315",
-      "published_date": "2026-09-26T11:50:12Z",
-      "category": "Military"
-    },
-    {
-      "id": "8f8e3c965ad3108af681628d5fe4bd92",
-      "title": "S. Korean military, U.N. Command conduct joint survey on DMZ blast site ahead of probe: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926004500315",
-      "published_date": "2026-09-26T11:13:29Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,46 @@
   ],
   "Economy": [
     {
+      "id": "6b3b29210198941114306e99d2344825",
+      "title": "Gov't, OECD to discuss budget policies, sustainable growth",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929002400320",
+      "published_date": "2026-09-29T01:30:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "90a630c3d2195a8bfba135289383a7de",
+      "title": "S. Korea's overseas direct investment up 32 pct in Q2",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929002300320",
+      "published_date": "2026-09-29T01:00:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "aff333991c7d64ebcc221876fac5b81b",
+      "title": "(LEAD) Seoul stocks open lower on inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929001551320",
+      "published_date": "2026-09-29T00:20:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "72244da194db32f41f9f094778f5affa",
+      "title": "Seoul stocks open lower on inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929001500320",
+      "published_date": "2026-09-29T00:02:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "5de137134a33557ecfebe3e629a7a6f7",
+      "title": "(URGENT) Seoul stocks open lower on inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929001600320",
+      "published_date": "2026-09-29T00:01:21Z",
+      "category": "Economy"
+    },
+    {
       "id": "eedafd0827a45fa88be5bc1356154ea6",
       "title": "(Asiad) S. Korea's Mo Su-min wins silver in kurash, 1st medal at Asian Games",
       "source": "Yonhap News Agency",
@@ -614,49 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20260927001900320",
       "published_date": "2026-09-27T06:17:58Z",
       "category": "Economy"
-    },
-    {
-      "id": "9a6b2b347824596c018467226a90e7aa",
-      "title": "(LEAD) (Asiad) S. Korea wins gold in equestrian dressage individual",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260927001851320",
-      "published_date": "2026-09-27T05:16:03Z",
-      "category": "Economy"
-    },
-    {
-      "id": "e9f3d7233d50e6f999d2867669a23fa0",
-      "title": "(Asiad) S. Korea wins gold in equestrian dressage individual",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260927001800320",
-      "published_date": "2026-09-27T04:14:37Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8df7a24d0a65d82aa33e9369b265ebb8",
-      "title": "(Asiad) Women's basketball captain speaks gold medal into existence",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926007900315",
-      "published_date": "2026-09-26T14:38:35Z",
-      "category": "Economy"
-    },
-    {
-      "id": "a2846e256e0a368cb2d35e2e69166d64",
-      "title": "(3rd LD) (Asiad) S. Korea wins women's basketball gold medal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926005553315",
-      "published_date": "2026-09-26T14:10:54Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c464107a19d18d972f3218433009dec2",
-      "title": "(Asiad) Men's fencing team, women's basketball team snatch gold medals; gamers capture 1st title",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260926007700315",
-      "published_date": "2026-09-26T14:03:53Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "e93dd92f7394246beed87bd8fe1604ca",
+      "title": "(URGENT) Lee calls for thorough probe of mine blast, vows necessary measures",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929002900315",
+      "published_date": "2026-09-29T01:16:44Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "1c6416fb17462f73cb06485593e40918",
+      "title": "FTC chief vows to 'restore justice' as court clears way for Coupang probe",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929002700320",
+      "published_date": "2026-09-29T00:57:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "09fd2c7e9ed451a88e0ffa373a870f4e",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Sept. 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929000900315",
+      "published_date": "2026-09-28T21:55:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "049a1f637f733a5b8c43d3bcd1d4118f",
+      "title": "(EDITORIAL from The Korea Times on Sept. 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929000800315",
+      "published_date": "2026-09-28T21:55:23Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a91307b50f3d4c4fd64260c6214b5942",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929000600315",
+      "published_date": "2026-09-28T21:55:07Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "adc56210630fa141a8a1d9863af33e0e",
+      "title": "Biz sentiment falls in September on rising costs: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260928008800320",
+      "published_date": "2026-09-28T21:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "637bc33a14ab5ec1901e54dd38437dce",
+      "title": "U.S. to restrict visa issuance to those impeding resolution of int'l parental child abduction: Rubio",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260929000300315",
+      "published_date": "2026-09-28T20:50:37Z",
+      "category": "Local Events"
+    },
     {
       "id": "e113a18424fd787093fbc79a3446b55e",
       "title": "Newly elected officials report average assets of 1.35 bln won",
@@ -759,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260928009600320",
       "published_date": "2026-09-28T08:08:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "989e37a9fca9cca7fdc88e20d3d62a6d",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928009700315",
-      "published_date": "2026-09-28T08:01:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0613d38f145ea13ac9115f4019d2ed5b",
-      "title": "(LEAD) Busan to launch rescue operation for canal-trapped shark 'Bukang-i'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928003451315",
-      "published_date": "2026-09-28T07:51:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3599742137e4e616666714e91be0fcab",
-      "title": "(Asiad) Kim Yeong-nam wins diving silver, denies 1-2 finish by China",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928007400315",
-      "published_date": "2026-09-28T06:30:04Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eefee678fcec3732d946887175836828",
-      "title": "Police to seek detention warrants for 4 Chinese men over restaurant vandalism",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928006500315",
-      "published_date": "2026-09-28T06:21:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5aa619ebd279ac3e5445c43bee4a6ef0",
-      "title": "(LEAD) (Asiad) S. Korea settles for pistol team silver following shooter's miscue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928005851315",
-      "published_date": "2026-09-28T06:04:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1b43bc83a3bf1bc1e08308761a082183",
-      "title": "Ive to return with new EP next month",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928006900315",
-      "published_date": "2026-09-28T05:49:54Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3166456bb0f52451a1b13c5f06c9a9c3",
-      "title": "Top investigator downplays concerns of expanded police role from prosecution reform",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928006600315",
-      "published_date": "2026-09-28T05:40:25Z",
       "category": "Local Events"
     }
   ]
