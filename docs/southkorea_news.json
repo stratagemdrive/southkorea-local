@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-09-30T16:42:55Z",
+  "generated_at": "2026-10-01T01:39:42Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "ef0db5241767c3e12993bc939e1a8b98",
+      "title": "N. Korea's Kim vows to bring bilateral ties to 'new strategic level' in letter to Xi",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002600315",
+      "published_date": "2026-10-01T00:18:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "43316083889128e0859c71d495dc2e08",
+      "title": "Unification minister says response to DMZ blast should not derail peace efforts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001001800315",
+      "published_date": "2026-09-30T23:32:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "162e7612761e2fbd0ff524e4d6a291a1",
+      "title": "(LEAD) Seoul, Washington pick Texas power plant as 1st project under strategic investment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000500320",
+      "published_date": "2026-09-30T23:11:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4b287e22a8ea372fb14d9803468fad18",
+      "title": "Seoul, Washington pick Texas power plant as 1st project under strategic investment",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000400320",
+      "published_date": "2026-09-30T23:08:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ad89642161812ff31cce9517dd9c514c",
+      "title": "North Korean soldiers cut winter firewood for their units and their officers’ homes",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-soldiers-firewood-teams-officers/",
+      "published_date": "2026-09-30T17:26:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "7f6b6ee1d2592ab4fe14ed10ed447ba5",
       "title": "Republican committee chief urges 'heightened vigilance' over S. Korea-China ties: report",
@@ -128,49 +168,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260930003852315",
       "published_date": "2026-09-30T07:17:26Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "2969cfd2ff2f6981cb74e3f29c5a8124",
-      "title": "Lee says self-reliant national defense is sovereignty itself",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930007500315",
-      "published_date": "2026-09-30T06:40:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bcc1778cd4854bb17d25def44c736736",
-      "title": "(Asiad) Archery medalist says is grateful to be back in sport after quitting as teenager",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930007100315",
-      "published_date": "2026-09-30T05:48:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2b943543cdc5dd347859bafab3549e91",
-      "title": "Korean American artist Christine Sun Kim named MacArthur Fellow",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930007000315",
-      "published_date": "2026-09-30T05:44:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "01335e582644a11659f31bb535d8acdd",
-      "title": "Lee visits soldiers injured by land mine in DMZ, pledges due compensation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930006800315",
-      "published_date": "2026-09-30T05:41:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3225d64b39574cb82382a637c696e8f0",
-      "title": "(Asiad) S. Korea grabs silver in mixed team event in compound archery",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930006700315",
-      "published_date": "2026-09-30T04:27:50Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "9a6bc0990254ad2b01eb99aa2c3842b6",
+      "title": "Armed Forces Day anniv. celebrated with display of advanced weapons",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260930009300315",
+      "published_date": "2026-10-01T01:00:02Z",
+      "category": "Military"
+    },
+    {
+      "id": "0bb4eb6cb8cfe201398f6b5e1b48275e",
+      "title": "(EDITORIAL from The Korea Times on Oct. 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001001500315",
+      "published_date": "2026-09-30T22:02:51Z",
+      "category": "Military"
+    },
+    {
+      "id": "e5e77f563713a238ebac65522c898f92",
+      "title": "(URGENT) Trump says S. Korea's U.S. investment plans include Texas power generation facility, 8 nuclear reactors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000700315",
+      "published_date": "2026-09-30T20:38:52Z",
+      "category": "Military"
+    },
     {
       "id": "2a41bb1ff7ea46fd4b87d3ec681c753c",
       "title": "Defense chief visits naval command center to inspect military readiness",
@@ -306,33 +330,121 @@
       "url": "https://en.yna.co.kr/view/AEN20260929008800315",
       "published_date": "2026-09-29T07:29:56Z",
       "category": "Military"
-    },
-    {
-      "id": "c5b9f43297d75566ed7b2f3a317aba31",
-      "title": "S. Korean military finds 1 N. Korean resin antipersonnel mine during on-site probe into DMZ blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929007800315",
-      "published_date": "2026-09-29T06:51:59Z",
-      "category": "Military"
-    },
-    {
-      "id": "65441145a657e9478c624cd1380eeed4",
-      "title": "(URGENT) S. Korean military finds 1 N. Korean resin antipersonnel mine during on-site inspection into DMZ blast on Tuesday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929007200315",
-      "published_date": "2026-09-29T06:25:48Z",
-      "category": "Military"
-    },
-    {
-      "id": "610db189c308b4bb8a26978bace47d81",
-      "title": "Cabinet passes special bill on introduction, operation of nuclear-powered subs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929006400315",
-      "published_date": "2026-09-29T05:59:09Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "af4fc5d5bc3902fb8a24551218b58e91",
+      "title": "(4th LD) Trump unveils S. Korea's investment plans for Alaska LNG project, Texas power plant, 8 nuclear reactors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000854315",
+      "published_date": "2026-10-01T01:22:49Z",
+      "category": "Energy"
+    },
+    {
+      "id": "9c7356cd20fa9b26e1c635d12c8f0858",
+      "title": "(3rd LD) Trump unveils S. Korea's investment plans for Alaska LNG project, Texas power plant, 8 nuclear reactors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000853315",
+      "published_date": "2026-10-01T01:15:12Z",
+      "category": "Energy"
+    },
+    {
+      "id": "a2b3f61841b3098d7499c7832329ce03",
+      "title": "(2nd LD) S. Korea's Sept. exports hit record US$120.9 bln on robust chip sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002752320",
+      "published_date": "2026-10-01T01:05:45Z",
+      "category": "Energy"
+    },
+    {
+      "id": "48ee937a1db93bda79bcfe787c4fd5c2",
+      "title": "(LEAD) S. Korea's Sept. exports hit record US$120.9 bln on robust chip sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002751320",
+      "published_date": "2026-10-01T00:42:26Z",
+      "category": "Energy"
+    },
+    {
+      "id": "aa21e42e733f5d4b5b87a78b420105b8",
+      "title": "Koo Kyo-hwan reveals marriage to director Yi Ok-seop",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002800315",
+      "published_date": "2026-10-01T00:34:42Z",
+      "category": "Energy"
+    },
+    {
+      "id": "087600efbdc2544dea3b2381a28bb11f",
+      "title": "(LEAD) Seoul stocks open lower on chip losses",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002151320",
+      "published_date": "2026-10-01T00:19:16Z",
+      "category": "Energy"
+    },
+    {
+      "id": "9c19b2515808ee9928deba2fe92252cc",
+      "title": "S. Korea's monthly exports hit US$120.9 bln in Sept. on record chip sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002700320",
+      "published_date": "2026-10-01T00:15:03Z",
+      "category": "Energy"
+    },
+    {
+      "id": "45ef1670349f5c69d95b7f82868e8369",
+      "title": "Seoul stocks open lower on chip losses",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002100320",
+      "published_date": "2026-10-01T00:03:03Z",
+      "category": "Energy"
+    },
+    {
+      "id": "8b2574148bc2b1f238d12c7f7aa4d8f2",
+      "title": "(URGENT) Seoul stocks open lower on chip losses",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002000320",
+      "published_date": "2026-10-01T00:01:29Z",
+      "category": "Energy"
+    },
+    {
+      "id": "475ce200f8199495c9e9b001a6557106",
+      "title": "(2nd LD) Trump unveils S. Korea's investment plans for Alaska LNG project, Texas power plant, 8 nuclear reactors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000852315",
+      "published_date": "2026-09-30T22:54:53Z",
+      "category": "Energy"
+    },
+    {
+      "id": "b315586ca06cc9649194d52254cb48be",
+      "title": "(LEAD) Trump unveils S. Korea's investment plans for Alaska LNG project, Texas power plant, 8 nuclear reactors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000851315",
+      "published_date": "2026-09-30T21:30:54Z",
+      "category": "Energy"
+    },
+    {
+      "id": "dff92bc7f2a3a1b256eee28fe98c4103",
+      "title": "(URGENT) Lutnick says S. Korean investment project includes US$22 billion gas-fired power plant in Texas",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001001100315",
+      "published_date": "2026-09-30T20:55:42Z",
+      "category": "Energy"
+    },
+    {
+      "id": "150e952cb4228f55637c68cb07e439c7",
+      "title": "(URGENT) Lutnick says S. Korea to invest US$120 billion to build 8 nuclear power plants",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001001000315",
+      "published_date": "2026-09-30T20:53:19Z",
+      "category": "Energy"
+    },
+    {
+      "id": "ad74538a34fcef0aa3ab79bde93bd37c",
+      "title": "(URGENT) Lutnick says S. Korea to invest over $50 billion for Alaska LNG project",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000900315",
+      "published_date": "2026-09-30T20:46:11Z",
+      "category": "Energy"
+    },
     {
       "id": "b504548b0f1344c4a8724dd9b842e6e2",
       "title": "Financial officials urge using surplus tax revenue to tackle inequality",
@@ -380,121 +492,49 @@
       "url": "https://en.yna.co.kr/view/AEN20260929010000315",
       "published_date": "2026-09-29T08:39:12Z",
       "category": "Energy"
-    },
-    {
-      "id": "ef6da377f72d8cf59ea3713e669d0475",
-      "title": "Seoul to expand renewable energy capacity to over 100 GW by 2030",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929007000320",
-      "published_date": "2026-09-29T06:23:49Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d0d0009a699d8ba4c7efb3c3c0ca4444",
-      "title": "(LEAD) Foreign ministry calls in Ukrainian envoy as Kyiv reveals transfer of N. Korean POWs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928011151315",
-      "published_date": "2026-09-28T10:45:10Z",
-      "category": "Energy"
-    },
-    {
-      "id": "0db917a20b319ce38004700f092043da",
-      "title": "Foreign ministry calls in Ukrainian envoy as Kyiv reveals transfer of N. Korean POWs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928011100315",
-      "published_date": "2026-09-28T10:16:12Z",
-      "category": "Energy"
-    },
-    {
-      "id": "da98e29645d774622bb0cbb02b97119e",
-      "title": "(URGENT) Foreign ministry calls in Ukrainian envoy as Kyiv reveals transfer of N. Korean POWs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928011000315",
-      "published_date": "2026-09-28T10:05:06Z",
-      "category": "Energy"
-    },
-    {
-      "id": "afff2b3c5469e0ebf12e6f103654f9e5",
-      "title": "Hanwha Ocean wins 680 bln-won order to build 2 LNG carriers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928009100320",
-      "published_date": "2026-09-28T07:51:01Z",
-      "category": "Energy"
-    },
-    {
-      "id": "75f27c81bb4f99ca10b063f7166ac0c4",
-      "title": "(2nd LD) Seoul stocks sink over 2.5 pct on chip losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928007352320",
-      "published_date": "2026-09-28T07:35:38Z",
-      "category": "Energy"
-    },
-    {
-      "id": "5830b4cd7b0cf0c17be9cf5619c496fd",
-      "title": "(LEAD) Seoul stocks sink over 2.5 pct on chip losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928007351320",
-      "published_date": "2026-09-28T06:58:41Z",
-      "category": "Energy"
-    },
-    {
-      "id": "93da4df54ed9f2118660f0b313832a25",
-      "title": "Seoul stocks sink over 2 pct on chip losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928007300320",
-      "published_date": "2026-09-28T06:34:39Z",
-      "category": "Energy"
-    },
-    {
-      "id": "69d16846977111c1b57974ff754a2c9d",
-      "title": "(URGENT) Seoul stocks sink over 2.5 pct on chip losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928007000320",
-      "published_date": "2026-09-28T06:33:09Z",
-      "category": "Energy"
-    },
-    {
-      "id": "42f0ead1b798235d8aaebdb571d0829b",
-      "title": "KOSPI sharply down late Mon. morning on chip profit-taking",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928005100320",
-      "published_date": "2026-09-28T02:31:59Z",
-      "category": "Energy"
-    },
-    {
-      "id": "eb750f3167469439771aa08eaf390747",
-      "title": "LG Chem, Volkswagen to jointly develop sustainable mobility materials",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260928001900320",
-      "published_date": "2026-09-28T00:50:28Z",
-      "category": "Energy"
-    },
-    {
-      "id": "4b397b1eb64ec1205b4e40c493acf8b7",
-      "title": "(2nd LD) (Asiad) S. Korea captures gold in women's sabre fencing team event",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260927002952315",
-      "published_date": "2026-09-27T14:19:24Z",
-      "category": "Energy"
-    },
-    {
-      "id": "3e3f00cad18312d668b74acea3a54ca5",
-      "title": "(LEAD) (Asiad) S. Korea captures gold in women's sabre fencing team event",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260927002951315",
-      "published_date": "2026-09-27T12:02:24Z",
-      "category": "Energy"
-    },
-    {
-      "id": "f4639a4387bfe3df6fd42120b56c0362",
-      "title": "(Asiad) S. Korea gets revenge on Japan, wins Asiad handball gold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260927003200320",
-      "published_date": "2026-09-27T12:00:22Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "510ff950d7a21358afb4ede964f752b1",
+      "title": "Finance minister expects exports to top US$1 tln this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001003000320",
+      "published_date": "2026-10-01T01:24:57Z",
+      "category": "Economy"
+    },
+    {
+      "id": "12c5427b66fb8c5946cbd4e94344f5d8",
+      "title": "(URGENT) S. Korea's monthly exports hit US$120.9 bln in September",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001002200320",
+      "published_date": "2026-10-01T00:01:28Z",
+      "category": "Economy"
+    },
+    {
+      "id": "286eee2609269b92b95429a253a1bea1",
+      "title": "(Asiad) Judo Olympic medalists go for 1st Asian Games titles; taekwondo competition to begin",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260930011000315",
+      "published_date": "2026-09-30T21:00:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "fbf71ad5f48077472d4241a08d93cac5",
+      "title": "Trump unveils S. Korea's plans for U.S. investment, including Alaska LNG project",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000800315",
+      "published_date": "2026-09-30T20:42:48Z",
+      "category": "Economy"
+    },
+    {
+      "id": "afee444ce417127cf7e3a4d64b29bee3",
+      "title": "(URGENT) Trump announces S. Korea's plans for investment in U.S., including Alaska LNG project",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001000600315",
+      "published_date": "2026-09-30T20:34:15Z",
+      "category": "Economy"
+    },
     {
       "id": "f941038f263bb9ca7a12b937cfd00f91",
       "title": "Hyundai Mobis signs 600 bln-won deal to sell lamp unit to France's OPmobility",
@@ -614,49 +654,33 @@
       "url": "https://en.yna.co.kr/view/AEN20260930001200320",
       "published_date": "2026-09-29T23:00:04Z",
       "category": "Economy"
-    },
-    {
-      "id": "f39578874d24a15d46ec6d6f41e7309c",
-      "title": "Corporate direct financing down in Aug. on decreased stock, debt sale",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929007100320",
-      "published_date": "2026-09-29T21:00:19Z",
-      "category": "Economy"
-    },
-    {
-      "id": "d168bf00928af5dd25e04f2054990252",
-      "title": "(2nd LD) Seoul stocks fall for 2nd day on inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929006952320",
-      "published_date": "2026-09-29T07:41:14Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5a481440593fbbc80b1679645a58dac2",
-      "title": "S. Korean won strengthens on dollar selling",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929009100320",
-      "published_date": "2026-09-29T07:23:52Z",
-      "category": "Economy"
-    },
-    {
-      "id": "cbbe3686c645247bfe6dd830314888ea",
-      "title": "Korea Exchange to implement 2-tier segmentation in KOSDAQ market next year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929008500320",
-      "published_date": "2026-09-29T07:03:09Z",
-      "category": "Economy"
-    },
-    {
-      "id": "40b4f893a256f24b0ebb57309cd2751c",
-      "title": "(LEAD) Seoul stocks fall for 2nd day on inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260929006951320",
-      "published_date": "2026-09-29T06:43:27Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "4678ba46f4d8ea84066804cbb4df5575",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001001600315",
+      "published_date": "2026-09-30T22:03:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "bdef059d124454381173547f2e2c7cc4",
+      "title": "(EDITORIAL from The Korea Herald on Oct. 1)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001001400315",
+      "published_date": "2026-09-30T22:02:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "51cbb5bc1c8f2d73f935dfc24da8d610",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001001300315",
+      "published_date": "2026-09-30T22:02:17Z",
+      "category": "Local Events"
+    },
     {
       "id": "85a4ab6f047a784a387a01ab14f0db00",
       "title": "2 U.S. lawmakers welcome Trump's efforts to restart dialogue with N. Korea's Kim",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260930006600315",
       "published_date": "2026-09-30T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b54499ba40e687f029ae8035fe061fdc",
-      "title": "(Asiad) Teen archer voices confidence in another medal after helping team to bronze",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930006300315",
-      "published_date": "2026-09-30T03:29:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5988ed9533032ae322290656ab257622",
-      "title": "Watchdog reviews Korean Air's alleged failure to maintain seat capacity",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930004300320",
-      "published_date": "2026-09-30T03:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3ab6ee08855fbd8955e0f6218a766357",
-      "title": "(URGENT) NIS says N.K. POWs arrived in S. Korea in mid-Sept., have no major health problems: lawmakers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930004200315",
-      "published_date": "2026-09-30T02:19:20Z",
       "category": "Local Events"
     }
   ]
