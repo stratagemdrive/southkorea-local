@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-01T17:17:39Z",
+  "generated_at": "2026-10-02T01:52:16Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "fbe2f7201e6080ceb64d7d4549bf8ba2",
+      "title": "S. Korea launches scaled-down prosecution, new investigation agency in major reform",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001500315",
+      "published_date": "2026-10-02T00:42:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0fd8a250bc707ec6f6c33c99de1d6dbd",
+      "title": "(Yonhap Feature) S. Korea's dog meat industry nearing end amid lingering legal loopholes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001006000320",
+      "published_date": "2026-10-02T00:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d5f581458d16aa897ff6ab5d82861c56",
+      "title": "N. Korea's FM calls for stronger ties with China in letter to Wang Yi",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001400315",
+      "published_date": "2026-10-01T23:51:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "52bdcf03edbdbf167932b6d623b4041e",
+      "title": "Hyundai, Kia post record U.S. sales in September",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001200320",
+      "published_date": "2026-10-01T23:05:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9427d3070da41f47620bbd1a76ca9ded",
+      "title": "President requests confirmation hearing for nominee to head new investigation agency",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001100315",
+      "published_date": "2026-10-01T23:02:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dca09338cf090b58c96535fc295f8e20",
+      "title": "Hyundai Motor unveils all-new Tucson in New York",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002000800320",
+      "published_date": "2026-10-01T22:54:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "693826fc7e5fe9ee995afe2a17abeac7",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002000600320",
+      "published_date": "2026-10-01T22:04:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0a20dbbd47fe8964d5b87bbc8c7b814a",
+      "title": "(EDITORIAL from The Korea Times on Oct. 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002000500320",
+      "published_date": "2026-10-01T22:04:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "27dda8f7c0bbf897754a3cf75eaea20f",
+      "title": "North Korea expands medical insurance as new hospitals rise in cities and counties",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-medical-insurance-hospitals-medicine-prices/",
+      "published_date": "2026-10-01T19:21:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "85d22341b005eb6ddd7733153fff4799",
       "title": "North Koreans shun paid Rodong Sinmun app but still pay for the paper edition",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261001006951315",
       "published_date": "2026-10-01T09:09:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5a3210e19f2cb8fe0b13d634873a8b81",
-      "title": "(Asiad) S. Korea's Yun Kyu-sung wins 2nd gold in taekwondo poomsae at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001012800320",
-      "published_date": "2026-10-01T08:56:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "154562532391b579601c752457a28c65",
-      "title": "(URGENT) S. Korea's Yun Kyu-sung wins 2nd gold in taekwondo poomsae at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001012700320",
-      "published_date": "2026-10-01T08:52:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "678a35bbc63178181a2ae57ab2e3bad0",
-      "title": "(LEAD) (Asiad) Kim Jong-ho wins men's individual gold in compound archery",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001008151315",
-      "published_date": "2026-10-01T08:11:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "018d241c1d850c3c24a48d380b2cc9e1",
-      "title": "(LEAD) (Asiad) S. Korea's Lee Gun-hyeok wins gold in men's rapid fire pistol shooting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001011251320",
-      "published_date": "2026-10-01T08:05:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a9441958ce3acbfb162ccf114c4c9c0b",
-      "title": "(LEAD) (Asiad) S. Korea's Jung Ha-eun wins gold in taekwondo poomsae",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001011451320",
-      "published_date": "2026-10-01T08:03:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f9bdc1112cced31e0150102d330c0d24",
-      "title": "Renault Korea's sales drop 24.7 pct in Sept. on weak demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001012400320",
-      "published_date": "2026-10-01T07:55:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5e4d669c8f3f9e5f7d56df1d51c320b2",
-      "title": "(LEAD) S. Korea expects faster progress in security talks with U.S. following investment announcement",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001009351315",
-      "published_date": "2026-10-01T07:48:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dfbf8df98f49a060f39203f0dbcf60f2",
-      "title": "S. Korea says in communication with Ukraine over N.K. POW transfer disclosure",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001011500315",
-      "published_date": "2026-10-01T07:47:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a951081522aced0b415b77cf4471b514",
-      "title": "GM Korea's Sept. sales surge 73.3 pct on strong exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001012000320",
-      "published_date": "2026-10-01T07:44:57Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,46 @@
   ],
   "Energy": [
     {
+      "id": "38a77258e7012174369aee707653b6da",
+      "title": "(3rd LD) Consumer prices up 2.9 pct in Sept., fall to 2 pct levels",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001053320",
+      "published_date": "2026-10-02T00:47:31Z",
+      "category": "Energy"
+    },
+    {
+      "id": "281cf22c0fa90a5c91b202d4efac67c8",
+      "title": "(2nd LD) Consumer prices up 2.9 pct in Sept., fall to 2 pct levels",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001052320",
+      "published_date": "2026-10-01T23:54:33Z",
+      "category": "Energy"
+    },
+    {
+      "id": "0f7d54e1022bc9c656f025c324ad8c5e",
+      "title": "(LEAD) Consumer prices up 2.9 pct in Sept., fall to 2 pct levels",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001051320",
+      "published_date": "2026-10-01T23:19:33Z",
+      "category": "Energy"
+    },
+    {
+      "id": "62773e9675f08fa554d005a61ea792f9",
+      "title": "Consumer prices up 2.9 pct in Sept., fall to 2 pct levels",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001000320",
+      "published_date": "2026-10-01T23:00:06Z",
+      "category": "Energy"
+    },
+    {
+      "id": "4319296d9063b2184644de826e2eee4a",
+      "title": "(URGENT) Consumer prices up 2.9 pct in Sept., fall to 2 pct levels",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002000900320",
+      "published_date": "2026-10-01T23:00:02Z",
+      "category": "Energy"
+    },
+    {
       "id": "e4314ee40698041590a34b121206edec",
       "title": "(2nd LD) Seoul stocks rise nearly 2 pct to end 3-day losing streak on chip gains",
       "source": "Yonhap News Agency",
@@ -452,49 +492,49 @@
       "url": "https://en.yna.co.kr/view/AEN20261001002000320",
       "published_date": "2026-10-01T00:01:29Z",
       "category": "Energy"
-    },
-    {
-      "id": "475ce200f8199495c9e9b001a6557106",
-      "title": "(2nd LD) Trump unveils S. Korea's investment plans for Alaska LNG project, Texas power plant, 8 nuclear reactors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001000852315",
-      "published_date": "2026-09-30T22:54:53Z",
-      "category": "Energy"
-    },
-    {
-      "id": "b315586ca06cc9649194d52254cb48be",
-      "title": "(LEAD) Trump unveils S. Korea's investment plans for Alaska LNG project, Texas power plant, 8 nuclear reactors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001000851315",
-      "published_date": "2026-09-30T21:30:54Z",
-      "category": "Energy"
-    },
-    {
-      "id": "dff92bc7f2a3a1b256eee28fe98c4103",
-      "title": "(URGENT) Lutnick says S. Korean investment project includes US$22 billion gas-fired power plant in Texas",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001001100315",
-      "published_date": "2026-09-30T20:55:42Z",
-      "category": "Energy"
-    },
-    {
-      "id": "150e952cb4228f55637c68cb07e439c7",
-      "title": "(URGENT) Lutnick says S. Korea to invest US$120 billion to build 8 nuclear power plants",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001001000315",
-      "published_date": "2026-09-30T20:53:19Z",
-      "category": "Energy"
-    },
-    {
-      "id": "ad74538a34fcef0aa3ab79bde93bd37c",
-      "title": "(URGENT) Lutnick says S. Korea to invest over $50 billion for Alaska LNG project",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001000900315",
-      "published_date": "2026-09-30T20:46:11Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "a981595ef213d7f1c590f070b0ab3521",
+      "title": "Gov't to consider further reducing Treasury bond issuance if necessary: finance minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002002100320",
+      "published_date": "2026-10-02T01:16:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "de62e0f591b1bfe699798bffc6cf3219",
+      "title": "OECD chief economist calls Future Fund 'wise policy choice': budget ministry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001300320",
+      "published_date": "2026-10-02T01:00:04Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3ea0ea89b90c2e53b49242fcdc5fca5c",
+      "title": "(LEAD) Seoul stocks open lower despite U.S. gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001751320",
+      "published_date": "2026-10-02T00:22:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e214dc17562e7b18af6c0398c74560b1",
+      "title": "Seoul stocks open lower despite U.S. gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001700320",
+      "published_date": "2026-10-02T00:02:34Z",
+      "category": "Economy"
+    },
+    {
+      "id": "19f58ec83ef54e81617f9d78b9875afb",
+      "title": "(URGENT) Seoul stocks open lower despite U.S. gains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002001600320",
+      "published_date": "2026-10-02T00:01:21Z",
+      "category": "Economy"
+    },
     {
       "id": "9b81d31418d3814e00bd273e79c3228f",
       "title": "Yuan loses ground against dollar as North Korean market prices keep falling",
@@ -614,49 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20261001003900320",
       "published_date": "2026-10-01T03:00:05Z",
       "category": "Economy"
-    },
-    {
-      "id": "740762ef320f690681eec5669398b8f1",
-      "title": "Seoul shares narrow losses late Thurs. morning amid inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001005000320",
-      "published_date": "2026-10-01T02:28:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "dda772d34408d6efc22f9be0b9fb4a73",
-      "title": "Doosan Enerbility-led consortium wins 840 bln-won plant deal in Vietnam",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001004400320",
-      "published_date": "2026-10-01T02:05:25Z",
-      "category": "Economy"
-    },
-    {
-      "id": "510ff950d7a21358afb4ede964f752b1",
-      "title": "Finance minister expects exports to top US$1 tln this year",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001003000320",
-      "published_date": "2026-10-01T01:24:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "12c5427b66fb8c5946cbd4e94344f5d8",
-      "title": "(URGENT) S. Korea's monthly exports hit US$120.9 bln in September",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001002200320",
-      "published_date": "2026-10-01T00:01:28Z",
-      "category": "Economy"
-    },
-    {
-      "id": "286eee2609269b92b95429a253a1bea1",
-      "title": "(Asiad) Judo Olympic medalists go for 1st Asian Games titles; taekwondo competition to begin",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930011000315",
-      "published_date": "2026-09-30T21:00:01Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "eeca9fa9b20a5e409a532c5fb5bb1287",
+      "title": "BTS named 'honorary guests' of Bogota ahead of Latin America tour kickoff",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002002400315",
+      "published_date": "2026-10-02T01:33:38Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d17fff6d2dc1c482b795c76d0902110f",
+      "title": "(EDITORIAL from The Korea Herald on Oct. 2)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002000400320",
+      "published_date": "2026-10-01T22:03:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fcd66b33f9ee11fb2647b62cc448501f",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002000300320",
+      "published_date": "2026-10-01T22:03:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ba84ee28a6b286b6283e213bec2686ec",
+      "title": "(Asiad) S. Korea potentially in for big day with competition nearing end",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261001006200315",
+      "published_date": "2026-10-01T21:00:15Z",
+      "category": "Local Events"
+    },
     {
       "id": "6ec39c3fa90b2342d4afc358d270e856",
       "title": "KBO tops 12 mln in attendance, nears single-season record",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261001005800315",
       "published_date": "2026-10-01T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d066d4ed6a7a1b4c3434045067c626c2",
-      "title": "(URGENT) S. Korea wins gold in men's team rapid fire pistol shooting at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001006400320",
-      "published_date": "2026-10-01T04:40:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ec1dcf455c544f2cb9fa5d16b3a4d82c",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001005900315",
-      "published_date": "2026-10-01T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6227af5161fd00551f4a1927f7af324a",
-      "title": "Six petrochemical companies indicted for price-fixing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001005300315",
-      "published_date": "2026-10-01T03:03:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "43e6ecb180c8e344f88a90cd757afd5a",
-      "title": "Online shopping sales up 7.3 pct in Aug. on food delivery services, leisure",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001002900320",
-      "published_date": "2026-10-01T03:00:15Z",
       "category": "Local Events"
     }
   ]
