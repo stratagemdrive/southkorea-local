@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-02T16:32:20Z",
+  "generated_at": "2026-10-03T01:32:34Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "68f47051f086c847566c8dd75de16a5f",
+      "title": "Cheong Wa Dae holds emergency security meeting on N. Korea's missile launch",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000900320",
+      "published_date": "2026-10-03T00:27:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "29f73f1f22a6d6a42e0d74a392f381a1",
+      "title": "North Korea fires ballistic missile toward East Sea",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korea-fires-ballistic-missile-toward-east-sea/",
+      "published_date": "2026-10-03T00:04:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c3a8d2af8ade643f258b874d7ba88a2f",
+      "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260930004900315",
+      "published_date": "2026-10-02T21:47:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "225e6e35161a9101d09f9ba4291a983b",
+      "title": "(URGENT) N. Korea fires unidentified projectile toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260930004600315",
+      "published_date": "2026-10-02T21:42:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fe2640d908e8c7b3e4a22762b75de040",
+      "title": "U.S. official says Trump does not view talks with N. Korea as 'concession'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000300315",
+      "published_date": "2026-10-02T19:04:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6391a859e778d559fd9b855859b46793",
+      "title": "Foreign language files land three North Korean youth league officials in custody",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongyang-youth-league-officials-arrested-foreign-files/",
+      "published_date": "2026-10-02T19:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d04f8c3ac57ca486320b1d925c9ed691",
+      "title": "White House official stresses shipbuilding cooperation with S. Korea, need to reward investors",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000200315",
+      "published_date": "2026-10-02T18:27:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "de4b083897348853a299eb567738d008",
+      "title": "Pyongsong orders young singles to resettle in North Korean farm villages",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/forced-rural-relocation-pyongsong-young-singles/",
+      "published_date": "2026-10-02T17:54:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "fc49dc3576f1ee3899fee6cf88da9700",
       "title": "(LEAD) Trump says S. Korea deal 'keeps getting better,' unveils US$8.4 billion oil recovery project",
@@ -104,73 +168,41 @@
       "url": "https://en.yna.co.kr/view/AEN20261002008851315",
       "published_date": "2026-10-02T08:42:15Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "ab8f27e107eabb2bac94efdd461eadcf",
-      "title": "(2nd LD) Lee warns of 'additional measures' if Ukraine refuses to apologize over N.K. POW transfer disclosure wrangle",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002002952315",
-      "published_date": "2026-10-02T07:50:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "173652edd1f0c3b655b278c0c7f67010",
-      "title": "Why North Korea could build a new bridge linking key port city to southern area",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/why-north-korea-could-build-a-new-bridge-linking-key-port-city-to-southern-area/",
-      "published_date": "2026-10-02T07:45:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e7dd74909b2454ef1401301925357344",
-      "title": "Defense chief highlights S. Korea-U.S. alliance, readiness on 1st visit to USFK base",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002008200315",
-      "published_date": "2026-10-02T07:30:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5ee7e8bec288ae51e3ef0ac6337f5cd5",
-      "title": "Lee, first lady meet citizens at traditional market",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002008100315",
-      "published_date": "2026-10-02T07:26:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e317f35f0ce73a2734f4c1f59339c416",
-      "title": "(URGENT) Seoul shares end higher on bargain-hunting amid uncertainties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002006100320",
-      "published_date": "2026-10-02T06:30:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2cbccee70d0df9a5975d809d1ab0332b",
-      "title": "18-month prison term sought for Seoul mayor in appellate political funds trial",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002006000315",
-      "published_date": "2026-10-02T06:21:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7273fe0947f2d2d43168fd763b40ddb1",
-      "title": "(Asiad) PGA Tour winner Kim Joo-hyung seizes 54-hole lead in men's golf",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002005700315",
-      "published_date": "2026-10-02T06:05:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2f8e49ceb25890c3e878b94dd54a8323",
-      "title": "(3rd LD) S. Korea launches scaled-down prosecution, new investigation agency in major reform",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002001553315",
-      "published_date": "2026-10-02T05:22:10Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "b84d3f217216aa18b66b45703836b1f2",
+      "title": "(2nd LD) N. Korea fires ballistic missile amid tensions over DMZ mine blast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000551315",
+      "published_date": "2026-10-03T01:04:51Z",
+      "category": "Military"
+    },
+    {
+      "id": "c856c2a5f8964671cccc00a0880988c9",
+      "title": "(URGENT) N. Korea's ballistic missile flew over 700 kilometers: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000800315",
+      "published_date": "2026-10-03T00:05:16Z",
+      "category": "Military"
+    },
+    {
+      "id": "67fa5dc9165503f91f7f7eea9b81d9c4",
+      "title": "(LEAD) N. Korea fires ballistic missile toward East Sea amid tensions over DMZ blast",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000500315",
+      "published_date": "2026-10-02T23:30:07Z",
+      "category": "Military"
+    },
+    {
+      "id": "0077555e1bed3ff74e7f2e9268e1ef81",
+      "title": "Pak Hui Chol graft case sets off purge of N. Korean military political officers",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/military-corruption-probe-political-officers-pak-hui-chol/",
+      "published_date": "2026-10-02T20:45:00Z",
+      "category": "Military"
+    },
     {
       "id": "92bf1ec81747b97eeb6db5101d014a42",
       "title": "DMZ land mine explosion should not be politicized: Unification Minister",
@@ -298,41 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20260930003500315",
       "published_date": "2026-09-30T01:35:52Z",
       "category": "Military"
-    },
-    {
-      "id": "6607d2687b04b27e45eeb351b5c775dc",
-      "title": "(URGENT) S. Korea says N. Korea's mine-laying 'blatant violation' of armistice, urges immediate stop to border fortification",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930003400315",
-      "published_date": "2026-09-30T01:35:32Z",
-      "category": "Military"
-    },
-    {
-      "id": "7b32870da0d2e7714397231bb53174ec",
-      "title": "(URGENT) U.N. Command finds Armistice Agreement violation over DMZ mine blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930002600315",
-      "published_date": "2026-09-30T00:38:35Z",
-      "category": "Military"
-    },
-    {
-      "id": "f9b9954b178581ff5c046d860f7d5c5d",
-      "title": "Late Australian Army officer named Korean War hero of Oct.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930002300315",
-      "published_date": "2026-09-30T00:25:37Z",
-      "category": "Military"
-    },
-    {
-      "id": "703097fe83c0764df4d91ce1aed97bb3",
-      "title": "‘Self-staged farce’: Kim Yo Jong denies North Korean role in DMZ mine blast",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/09/self-staged-farce-kim-yo-jong-denies-north-korean-role-in-dmz-mine-blast/",
-      "published_date": "2026-09-29T22:41:03Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "007ab6b3775e03136e39e5edd3831da9",
+      "title": "(LEAD) Trump threatens to 'charge' S. Korea 'more' if it rejects Alaska LNG project",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000451315",
+      "published_date": "2026-10-02T20:55:27Z",
+      "category": "Energy"
+    },
     {
       "id": "2674de2d6213db5dfc93e2411de33fa7",
       "title": "'The Assassin(s)' actors to skip BIFF events amid controversy over historical inaccuracies",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261001002751320",
       "published_date": "2026-10-01T00:42:26Z",
       "category": "Energy"
-    },
-    {
-      "id": "aa21e42e733f5d4b5b87a78b420105b8",
-      "title": "Koo Kyo-hwan reveals marriage to director Yi Ok-seop",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001002800315",
-      "published_date": "2026-10-01T00:34:42Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "ecb26521521ae7c5efc225692580aa9d",
+      "title": "Trump says he did not 'jump the gun' on S. Korean investment in Alaska",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003000400315",
+      "published_date": "2026-10-02T20:28:16Z",
+      "category": "Economy"
+    },
     {
       "id": "56d65426d5a6637a125af62fc1153412",
       "title": "(2nd LD) Regulator instructs financial firms to check security systems over series of cyberattacks on banks",
@@ -646,17 +654,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261002001600320",
       "published_date": "2026-10-02T00:01:21Z",
       "category": "Economy"
-    },
-    {
-      "id": "9b81d31418d3814e00bd273e79c3228f",
-      "title": "Yuan loses ground against dollar as North Korean market prices keep falling",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-market-prices-rice-corn-exchange-rate/",
-      "published_date": "2026-10-01T14:34:00Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "f3ed122b7d624663c0d00681a42cd9a7",
+      "title": "(Asiad) Men's football team goes for 4th straight title as medal race winds down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261002002300315",
+      "published_date": "2026-10-02T21:00:03Z",
+      "category": "Local Events"
+    },
     {
       "id": "1e1e3a1780c90b121f05d6ddafa399f1",
       "title": "(Asiad) medal standings",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261002004400315",
       "published_date": "2026-10-02T04:42:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "61ecf22c6bda87c58f983ccac7c1ba23",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002004600320",
-      "published_date": "2026-10-02T04:30:01Z",
       "category": "Local Events"
     }
   ]
