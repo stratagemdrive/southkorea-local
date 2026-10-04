@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-03T15:05:21Z",
+  "generated_at": "2026-10-04T02:13:13Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "39d15e7c8c400cf2650f08383370eaf5",
+      "title": "North Korea says hypersonic missile flew 1,000km, exceeding Seoul, Tokyo reports",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korea-says-hypersonic-missile-flew-1000km-exceeding-seoul-tokyo-reports/",
+      "published_date": "2026-10-04T02:06:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "225a20106c520ec332dbb506dba1c089",
+      "title": "(Asiad) Celtic winger Yang Hyun-jun lauded for mentorship in S. Korea's run to men's football gold",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004000400315",
+      "published_date": "2026-10-04T00:02:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "94c6ff5e57a4ce68eb448c146b51b23a",
+      "title": "(LEAD) N. Korea's Kim oversees hypersonic missile launch, calls for bolstering war deterrent",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004000351315",
+      "published_date": "2026-10-03T23:14:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "35555bd7c1ac776e00601affed7146e3",
+      "title": "N. Korea's Kim oversees intermediate-range missile launch, calls for bolstering war deterrent",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004000300315",
+      "published_date": "2026-10-03T22:14:17Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "40b0b32910beca86bcd98573dc78fcd9",
       "title": "(LEAD) (Asiad) Swansea City's Eom Ji-sung lifts S. Korea to gold with bookend goals",
@@ -136,41 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261003003200315",
       "published_date": "2026-10-03T08:29:41Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "b211c945377626a519834be0241eaeff",
-      "title": "(Asiad) PGA Tour winner Kim Joo-hyung captures men's golf gold medal, helps S. Korea win team silver",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002900315",
-      "published_date": "2026-10-03T07:16:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0526c4ab15b5e230824379ee86646e77",
-      "title": "(URGENT) PGA Tour's Kim Joo-hyung captures Asian Games gold medal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002800315",
-      "published_date": "2026-10-03T07:15:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "757221a3fe47f4ad505ff22d2324dd29",
-      "title": "(LEAD) (Asaid) S. Korea's Choi Ji-un wins gold in boys' dinghy sailing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002451320",
-      "published_date": "2026-10-03T06:00:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c68ac8a5cbe63a67212f72acffeca7ef",
-      "title": "(Asaid) S. Korea's Choi Ji-un wins gold in boys' dinghy sailing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002400320",
-      "published_date": "2026-10-03T05:15:39Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "9106f579c739ac9ca4ce664f4c54c191",
+      "title": "North Korea mocks Seoul, Tokyo over alleged failure to track missile",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korea-mocks-seoul-tokyo-over-alleged-failure-to-track-missile/",
+      "published_date": "2026-10-03T15:14:48Z",
+      "category": "Military"
+    },
     {
       "id": "76c494ccb848c04567bfd056444983a6",
       "title": "(Asiad) 9 overseas-based footballers among 20 members to earn military exemption with gold medal",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20260930003851315",
       "published_date": "2026-09-30T02:41:10Z",
-      "category": "Military"
-    },
-    {
-      "id": "f143ae76eb5a56a9208a5e3586058db2",
-      "title": "S. Korea demands apology from N. Korea over DMZ blast, urges halt to border fortification",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20260930003800315",
-      "published_date": "2026-09-30T01:56:49Z",
       "category": "Military"
     }
   ],
@@ -504,6 +504,14 @@
       "category": "Economy"
     },
     {
+      "id": "8b2f7a9cee2e1542289b9be22ef53038",
+      "title": "(Asiad) Football coach credits players for overcoming challenges to seize gold",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261003004800315",
+      "published_date": "2026-10-03T14:40:21Z",
+      "category": "Economy"
+    },
+    {
       "id": "806bddddbbbc25b96b061cb25d3f2a2f",
       "title": "(2nd LD) (Asiad) S. Korea's Song Da-bin wins gold in women's taekwondo at Asian Games",
       "source": "Yonhap News Agency",
@@ -646,17 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20261002004900320",
       "published_date": "2026-10-02T04:12:41Z",
       "category": "Economy"
-    },
-    {
-      "id": "cc65124313cbc144704e7a45a74be24e",
-      "title": "(LEAD) (Asiad) Ha Jee-min wins S. Korea's first gold in sailing at 2026 Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002004751320",
-      "published_date": "2026-10-02T04:04:15Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "81734b620454d72856fd22704a4aec9b",
+      "title": "(Asiad) Fencing double gold medalist voted S. Korean MVP",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004001600315",
+      "published_date": "2026-10-04T01:40:34Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c5b0ad13f549d20326da3a35686ea6de",
+      "title": "Hacking attempts targeting court network spike this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004001000315",
+      "published_date": "2026-10-04T01:03:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "aaa5b34e0adb334e5293a887ef6fe663",
+      "title": "Over 30 pct of arrest warrant requests rejected by prosecutors this year: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004000800315",
+      "published_date": "2026-10-04T00:59:31Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "149a6cf108d78fc1d5e1e86dee5d2861",
+      "title": "Police officer arrested for fabricating, distributing sexually exploitative images",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004000700315",
+      "published_date": "2026-10-04T00:44:55Z",
+      "category": "Local Events"
+    },
     {
       "id": "4c164d90f33828ab0485ffbb79b5142f",
       "title": "(Asiad) medal standings",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261002009500315",
       "published_date": "2026-10-02T11:01:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "805ee1c36b76488c2d7c1e3cd6fce1f3",
-      "title": "(Asiad) S. Korea picks up 2 silver medals in boxing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002009300315",
-      "published_date": "2026-10-02T10:23:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1d441d18b1158b6fe77e9ce4265edd34",
-      "title": "(Asiad) S. Korea wins 5 medals in judo at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002009200320",
-      "published_date": "2026-10-02T09:53:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a0daefedcfabaca981f1e6cee601ee5c",
-      "title": "(LEAD) (Asiad) S. Korea beat China to win women's football bronze",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002009051315",
-      "published_date": "2026-10-02T09:47:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d142c6a8dcc4f9e038f5175e6bbedd25",
-      "title": "(Asiad) S. Korea beat China to win women's football bronze",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002009000315",
-      "published_date": "2026-10-02T08:58:47Z",
       "category": "Local Events"
     }
   ]
