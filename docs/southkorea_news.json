@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-04T02:13:13Z",
+  "generated_at": "2026-10-04T15:41:59Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "4039428b9ee16dc9520a47ddf98b2da6",
+      "title": "Lee calls for breaking off from 'vicious cycle of hostility' for peace",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004003000315",
+      "published_date": "2026-10-04T14:10:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0856bb6c6afc8b1365a01a05063c5f33",
+      "title": "(2nd LD) N. Korea's Kim oversees hypersonic missile launch, calls for bolstering war deterrent",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004000352315",
+      "published_date": "2026-10-04T07:13:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a6a6f4dbdd88323cfdd3dfdf586d6f01",
+      "title": "(LEAD) Lee calls for thorough probe into personal data leaks at financial institutions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004002151315",
+      "published_date": "2026-10-04T06:17:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ddd7c986ad79a06abc5799454f8fa8bd",
+      "title": "Lee calls for thorough probe into personal data leaks at financial institutions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004002100315",
+      "published_date": "2026-10-04T05:11:25Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "39d15e7c8c400cf2650f08383370eaf5",
       "title": "North Korea says hypersonic missile flew 1,000km, exceeding Seoul, Tokyo reports",
@@ -135,38 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261003003800320",
       "published_date": "2026-10-03T10:06:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "338b0c07485d5217fc295ff810b5d3b3",
-      "title": "(2nd LD) (Asaid) S. Korea's Choi Ji-un wins gold in boys' dinghy sailing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002452320",
-      "published_date": "2026-10-03T09:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "db28916ae55a5aa74d0800fbffb4d150",
-      "title": "(Asiad) Inspired by Tiger Woods, Kim Joo-hyung does his thing, wins men's golf gold",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003003600315",
-      "published_date": "2026-10-03T09:13:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e5343301b8b67eff2f8c51bfe960d0e1",
-      "title": "(LEAD) (Asiad) PGA Tour winner Kim Joo-hyung captures men's golf gold medal, helps S. Korea win team silver",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002951315",
-      "published_date": "2026-10-03T08:55:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9ef7990dcde2eed0fc1acaf55281538d",
-      "title": "(Asiad) Gold medal secures military exemption, uninterrupted career for PGA Tour's Kim Joo-hyung",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003003200315",
-      "published_date": "2026-10-03T08:29:41Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "a3c9a844e0521ca34173473cd6ea74d4",
+      "title": "Personal data of some 24,000 KEPCO employees leaked",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004002800315",
+      "published_date": "2026-10-04T09:30:24Z",
+      "category": "Energy"
+    },
+    {
       "id": "701ffb6dcfca4f8dc2c3ffc97a0b20a7",
       "title": "(Asiad) S. Korea misses out on medals in women's golf individual, team events",
       "source": "Yonhap News Agency",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261001000853315",
       "published_date": "2026-10-01T01:15:12Z",
-      "category": "Energy"
-    },
-    {
-      "id": "a2b3f61841b3098d7499c7832329ce03",
-      "title": "(2nd LD) S. Korea's Sept. exports hit record US$120.9 bln on robust chip sales",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261001002752320",
-      "published_date": "2026-10-01T01:05:45Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,46 @@
   ],
   "Local Events": [
     {
+      "id": "c5dedcb6d1719c7f7f0ea4cc96da16dd",
+      "title": "(Asiad) medal standings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20230924003910315",
+      "published_date": "2026-10-04T10:30:06Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f9a1b9f01271b51074a6b0092d3948a8",
+      "title": "(Asiad) 20th Asian Games draw to conclusion with celebration of athletic feats",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004002900315",
+      "published_date": "2026-10-04T10:29:50Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "09a387cc914064660893e23889154575",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004000900315",
+      "published_date": "2026-10-04T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d49718b019b15fabd003afbe95c43237",
+      "title": "(Asiad) Nat'l sports chief says S. Korea must learn from experience in Nagoya",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004001800315",
+      "published_date": "2026-10-04T02:58:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d60ee45ec28895744b7542603b35702a",
+      "title": "Trump says he 'gets along great' with N. Korean leader at campaign rally",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004001700315",
+      "published_date": "2026-10-04T02:43:26Z",
+      "category": "Local Events"
+    },
+    {
       "id": "81734b620454d72856fd22704a4aec9b",
       "title": "(Asiad) Fencing double gold medalist voted S. Korean MVP",
       "source": "Yonhap News Agency",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261003001900315",
       "published_date": "2026-10-03T03:18:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "de953454fad1ba4d9b6655b9c109d17e",
-      "title": "(Asiad) Indian archers end South Korea's recurve reign; Oh Ye-jin vows to grow from losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002000320",
-      "published_date": "2026-10-03T03:16:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "54520f85949eff11e459ee98529ef8fa",
-      "title": "Top headlines in major S. Korean newspapers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003001100315",
-      "published_date": "2026-10-03T01:50:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f3ed122b7d624663c0d00681a42cd9a7",
-      "title": "(Asiad) Men's football team goes for 4th straight title as medal race winds down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002002300315",
-      "published_date": "2026-10-02T21:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1e1e3a1780c90b121f05d6ddafa399f1",
-      "title": "(Asiad) medal standings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20230924003998315",
-      "published_date": "2026-10-02T13:30:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "aded200b7db9b4ab5e5042d55101883b",
-      "title": "(Asiad) Esports legend Faker tells children to play games in moderation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261002009500315",
-      "published_date": "2026-10-02T11:01:18Z",
       "category": "Local Events"
     }
   ]
