@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-04T15:41:59Z",
+  "generated_at": "2026-10-05T01:22:18Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e3d5eb84e1962fa3a129a8320ab20bbc",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 5)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261005001000320",
+      "published_date": "2026-10-05T01:00:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6334ad53dd824aa0adabc6d0d44fd669",
+      "title": "Lee's approval rating dips after 2-week rise: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261005000700315",
+      "published_date": "2026-10-05T00:42:58Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "4039428b9ee16dc9520a47ddf98b2da6",
       "title": "Lee calls for breaking off from 'vicious cycle of hostility' for peace",
@@ -151,22 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261003004100315",
       "published_date": "2026-10-03T10:26:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "88f5f38a771de7daa35d307aa3e07743",
-      "title": "(Asiad) Seo Chae-hyun wins gold in sport climbing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003004000320",
-      "published_date": "2026-10-03T10:17:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e64735c569c456285e23d6e35c0b4e0c",
-      "title": "(URGENT) Seo Chae-hyun wins gold in sport climbing at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003003800320",
-      "published_date": "2026-10-03T10:06:45Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "e6bab6e50349c98bb5c1c34d3f1a1b4e",
+      "title": "Kia ranks 2nd in Jan.-Aug. auto sales in Britain on strong demand for Sportage SUV",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261005000900320",
+      "published_date": "2026-10-05T01:12:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "68f421d18f5e406f442c871d150d2a76",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261005000800320",
+      "published_date": "2026-10-05T00:45:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d4cd6c2a27796de7ecf31e4951ef552a",
+      "title": "(Asiad) Accommodation, transportation problems mar 2026 Aichi-Nagoya Asian Games",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004001100320",
+      "published_date": "2026-10-04T21:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "87af4ffb0b6149f9b6e67296e3370f2c",
+      "title": "(Asiad) S. Korea falls short of target as gap with Japan widens",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261004001900315",
+      "published_date": "2026-10-04T21:00:03Z",
+      "category": "Local Events"
+    },
+    {
       "id": "c5dedcb6d1719c7f7f0ea4cc96da16dd",
       "title": "(Asiad) medal standings",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261003002700320",
       "published_date": "2026-10-03T06:09:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "228a7f7dd039f8de3b7f419f5451b9c3",
-      "title": "(URGENT) Lee Woo-seok wins gold in men's individual recurve, his 2nd gold at Asian Games",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002600320",
-      "published_date": "2026-10-03T06:01:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e21a380ee4d1ccec059ef743485e3b34",
-      "title": "Shark returns to canal a day after 2nd rescue attempt",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003002500315",
-      "published_date": "2026-10-03T05:27:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "05ec7219b54ad87823ea8479b26f0c79",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003001000315",
-      "published_date": "2026-10-03T05:00:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7522bc2dd339f8d6a493d438f3028ab0",
-      "title": "PM Han underscores power of culture on National Foundation Day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261003001900315",
-      "published_date": "2026-10-03T03:18:47Z",
       "category": "Local Events"
     }
   ]
