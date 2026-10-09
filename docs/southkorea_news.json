@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-09T02:39:05Z",
+  "generated_at": "2026-10-09T17:22:08Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "e45842557cbdd43ec79851adc44fbcb2",
+      "title": "Over 70% of Americans approve defending South Korea in war against North: Poll",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/over-70-of-americans-approve-defending-south-korea-in-war-against-north-poll/",
+      "published_date": "2026-10-09T10:23:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8f4f739530f88e6efd14d4c88ceab95a",
+      "title": "Senior defense officials of S. Korea, Japan reaffirm cooperation against N. Korean threats",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009005300315",
+      "published_date": "2026-10-09T09:07:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5454431dfd79099da312af7bd98a83a8",
+      "title": "Seoul’s envoy recall over North Korean POW spat draws backlash in Ukraine, ROK",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/seouls-envoy-recall-over-north-korean-pow-spat-draws-backlash-in-ukraine-rok/",
+      "published_date": "2026-10-09T08:58:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c10441aaa9092dacec74004729c97df0",
+      "title": "South Korea tests hypersonic missile for first time, weeks after North",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/south-korea-tests-hypersonic-missile-for-first-time-weeks-after-north/",
+      "published_date": "2026-10-09T08:31:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "92551bcabf9e5fd96b6246a779fdfe6c",
+      "title": "North Korean smartphone stops working when taken to South, Chinese blogger says",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korean-smartphone-stops-working-when-taken-to-south-chinese-blogger-says/",
+      "published_date": "2026-10-09T08:28:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "28427cb1422121e3cac6e4611cb26f99",
+      "title": "(LEAD) Spy agency snub raises U.S. alliance concerns in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009003551315",
+      "published_date": "2026-10-09T07:33:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "45397b4ae051d260f21200e9310a70eb",
+      "title": "Spy agency snub raises U.S. alliance concerns in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009003500315",
+      "published_date": "2026-10-09T06:06:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5cc5d085a9a6358861f2a17759cda74d",
+      "title": "Suspected North Korean land mine washes ashore on South Korean island",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/suspected-north-korean-land-mine-washes-ashore-on-south-korean-island/",
+      "published_date": "2026-10-09T05:11:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "80404ce00efc979e77d413db582ec99c",
+      "title": "US again labels North Korea among world’s worst human traffickers",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/us-again-labels-north-korea-among-worlds-worst-human-traffickers/",
+      "published_date": "2026-10-09T03:05:54Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "19de98a9e953dd0fecb4f6abd1107e4e",
       "title": "(LEAD) Coupang services disrupted around midnight during update",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261008009000315",
       "published_date": "2026-10-08T13:17:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9070f854994538d61c1d247c75f84c9e",
-      "title": "(2nd LD) S. Korea conducts 1st test launch of hypersonic glide vehicle amid N.K. tensions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008008652315",
-      "published_date": "2026-10-08T12:16:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a02d5e63dbd1190bb64462eec615efe6",
-      "title": "(LEAD) S. Korea test-launches 1st hypersonic glide vehicle, attended by Lee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008008651315",
-      "published_date": "2026-10-08T09:25:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f6e89f36a07aa8a104dc45e4f34dead6",
-      "title": "South Korea recalls ambassador to Ukraine over North Korean POW spat",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/south-korea-recalls-ambassador-to-ukraine-over-north-korean-pow-spat/",
-      "published_date": "2026-10-08T09:07:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "44b7d26c05fa4b1b716fa67a3b5e868d",
-      "title": "US nonprofit cleared to send medical equipment for North Korean children",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/us-nonprofit-cleared-to-send-medical-equipment-for-north-korean-children/",
-      "published_date": "2026-10-08T09:01:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5dd16921b4463d64d451f4ba7236c1ae",
-      "title": "S. Korea test-launches 1st hypersonic glide vehicle, attended by Lee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008008600315",
-      "published_date": "2026-10-08T08:58:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "af748a3371152de2c835cdef665c5a00",
-      "title": "(LEAD) S. Korea to recall envoy to Ukraine amid dispute over disclosure of N.K. POWs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008008451315",
-      "published_date": "2026-10-08T08:51:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b0ea42ba3b1a3f14ff77e1e8c8996eca",
-      "title": "(URGENT) S. Korea test-launches 1st hypersonic glide vehicle, attended by Lee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008008500315",
-      "published_date": "2026-10-08T08:42:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bfae01ca72f4650b1bc5fa19d443bfb1",
-      "title": "(LEAD) Defense chief discusses shipbuilding cooperation with U.S. senator",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008004951315",
-      "published_date": "2026-10-08T08:36:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d76045d26dccc0eabb2c0c1354fb92ae",
-      "title": "S. Korea to recall envoy to Ukraine amid dispute over disclosure of N.K. POWs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008008400315",
-      "published_date": "2026-10-08T08:30:13Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "2badd84547297b37bae3a7b59e586dcb",
+      "title": "SK chief vows to speed up construction of new chip cluster in southwest",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009004000320",
+      "published_date": "2026-10-09T06:46:18Z",
+      "category": "Economy"
+    },
+    {
       "id": "f5c4fad58524383c5f6b909c6c0182d7",
       "title": "Industry ministry denies report of Lutnick's dissatisfaction with spy agency",
       "source": "Yonhap News Agency",
@@ -646,17 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20261007006452320",
       "published_date": "2026-10-07T07:40:07Z",
       "category": "Economy"
-    },
-    {
-      "id": "efe9f588c86aad20248a61479d1912b8",
-      "title": "S. Korean won keeps climbing against U.S. dollar",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261007008100320",
-      "published_date": "2026-10-07T07:36:22Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "a758e1e096d349f89951db99be36daf0",
+      "title": "(LEAD) Police expand team investigating recent hacking of financial institutions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009003651315",
+      "published_date": "2026-10-09T13:48:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a9fff697f8a2be085abe7400196bf737",
+      "title": "Bong Joon-ho's animated film 'Ally' to debut in S. Korea next July",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009005500315",
+      "published_date": "2026-10-09T10:41:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "678e06a6ef7aa13b85965c163382e006",
+      "title": "Police expand team investigating recent hacking of financial institutions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009003600315",
+      "published_date": "2026-10-09T06:42:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "23ebdb07c8fa82bec1ec6426dc41a7d1",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009001000320",
+      "published_date": "2026-10-09T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ca6f16e99cf283bb086d7d6619709776",
+      "title": "PM vows efforts to uphold value of Hangeul in AI era",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009003400315",
+      "published_date": "2026-10-09T04:59:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e84beb03bb0d4cf13b1d4a364571d328",
+      "title": "Indian man files petition to S. Korean rights watchdog for physical abuse during deportation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261009002400315",
+      "published_date": "2026-10-09T03:02:13Z",
+      "category": "Local Events"
+    },
     {
       "id": "975144584ba3b9d4aa42f8a4419c42d3",
       "title": "Sales of winter products surge at convenience stores amid chilly weather",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261008004300315",
       "published_date": "2026-10-08T04:56:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0ad79431a680feec2e957b73d41fc70e",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008003600320",
-      "published_date": "2026-10-08T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "07a1f13870d01d65b7dce29641dacab2",
-      "title": "Veterans ministry recommends local governments raise compensation for veterans",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008002700315",
-      "published_date": "2026-10-08T03:00:09Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "24cf2d6ec2382fbc2b9e4ae941ca11c5",
-      "title": "S. Korea's rice production projected to fall 0.6 pct in 2026: data ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008002300320",
-      "published_date": "2026-10-08T03:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3599438baefea3367bc185f4696384ab",
-      "title": "1 S. Korean player moves on, another eliminated in MLB postseason",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008002900315",
-      "published_date": "2026-10-08T02:26:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c162a9665aad1fb1275201afd3bca15f",
-      "title": "SCIA, police likely to face friction over unclear jurisdiction",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261007008700315",
-      "published_date": "2026-10-08T00:54:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a56c7344df8cdbe691dc9febe2f9fc8d",
-      "title": "1 postseason spot up for grabs as KBO regular season winds down",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008002100315",
-      "published_date": "2026-10-08T00:30:48Z",
       "category": "Local Events"
     }
   ]
