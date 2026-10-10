@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-10T01:58:41Z",
+  "generated_at": "2026-10-10T16:07:51Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "fa8a82d5cde40f42ac86b92c14c0ebea",
+      "title": "KBO's Eagles decide not to re-sign manager Kim Kyung-moon",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010001400315",
+      "published_date": "2026-10-10T07:10:56Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "489076aefbf7fc4fa6e16afd7446b99c",
       "title": "S. Korean ambassador to Ukraine returns home amid dispute over N.K. POW disclosure",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261009001400320",
       "published_date": "2026-10-09T00:26:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "73de8d99a2e6aaf724f72d4b634af4e2",
-      "title": "(EDITORIAL from The Korea Times on Oct. 9)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009000800320",
-      "published_date": "2026-10-09T00:06:33Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,30 @@
   ],
   "Local Events": [
     {
+      "id": "868f62ba8947c2f264c8cea953caecb8",
+      "title": "(LEAD) Ceiling material collapses in Daegu building, injures 38",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010001351315",
+      "published_date": "2026-10-10T12:39:26Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "fa4b45384e1ef5c81b5ff895bdd9ab12",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010001000320",
+      "published_date": "2026-10-10T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "de0d79c29cdad6ac65fa987e4b8802c7",
+      "title": "Ceiling material collapses in Daegu building, injures 38",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010001300315",
+      "published_date": "2026-10-10T04:31:56Z",
+      "category": "Local Events"
+    },
+    {
       "id": "a758e1e096d349f89951db99be36daf0",
       "title": "(LEAD) Police expand team investigating recent hacking of financial institutions",
       "source": "Yonhap News Agency",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261008004600315",
       "published_date": "2026-10-08T05:47:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9a151d74c583c29690420067f34febcd",
-      "title": "Top court upholds HSBC's acquittal in short-selling case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008004400315",
-      "published_date": "2026-10-08T05:06:30Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e12ba25612178e316e8b26c15ac1fd71",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008003400320",
-      "published_date": "2026-10-08T05:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c6bee45b63d4b732eea2bb8ddc0eef85",
-      "title": "Boy group Ateez to drop new EP next month",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008004300315",
-      "published_date": "2026-10-08T04:56:48Z",
       "category": "Local Events"
     }
   ]
