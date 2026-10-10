@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-09T17:22:08Z",
+  "generated_at": "2026-10-10T01:58:41Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "489076aefbf7fc4fa6e16afd7446b99c",
+      "title": "S. Korean ambassador to Ukraine returns home amid dispute over N.K. POW disclosure",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010000900315",
+      "published_date": "2026-10-10T01:39:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b2876716499b203b8b4fb97b19add0e7",
+      "title": "Parliamentary speaker Cho discusses energy, defense cooperation with Croatian president",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010000500320",
+      "published_date": "2026-10-10T01:16:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a4989881cd43c03fed3f0e5c8ca9e2fa",
+      "title": "N. Korea slams U.S. human trafficking report as grave provocation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010000400315",
+      "published_date": "2026-10-10T00:55:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "18072ada27de940e4c5845db9a635f23",
+      "title": "U.S. expects S. Korea to 'uphold' alliance standards amid intelligence cooperation concerns: senior official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261010000200315",
+      "published_date": "2026-10-09T21:46:31Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "e45842557cbdd43ec79851adc44fbcb2",
       "title": "Over 70% of Americans approve defending South Korea in war against North: Poll",
@@ -135,38 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261009000800320",
       "published_date": "2026-10-09T00:06:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3c5371d9ed4c852339f9321ac39b64f5",
-      "title": "(EDITORIAL from The Korea Herald on Oct. 9)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009000700320",
-      "published_date": "2026-10-09T00:06:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0408714c3158d3cff4329387582022ad",
-      "title": "N. Korean leader's sister again pushes back against Seoul's medical aid offer",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009000400315",
-      "published_date": "2026-10-08T22:25:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bb9d264854c5cff7d92520b683073f40",
-      "title": "S. Korea urges N. Korea to take 'responsible measures' over mine explosion incident at U.N.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009000500315",
-      "published_date": "2026-10-08T22:18:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e04ec9ded5a46bfcd780c6d8aeb1fb0b",
-      "title": "S. Korean military detonates suspected N. Korean land mine washed ashore on west coast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008009000315",
-      "published_date": "2026-10-08T13:17:28Z",
       "category": "Diplomacy"
     }
   ],
