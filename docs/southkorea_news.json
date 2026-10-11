@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-10T16:07:51Z",
+  "generated_at": "2026-10-11T01:24:12Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "c80d82bd3bd6bf5529d3570b9c4a0bcf",
+      "title": "Hyundai Motor's cumulative India sales set to top 10 mln vehicles this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011000700320",
+      "published_date": "2026-10-11T00:55:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "af00eb14a154ae799b3c24c08a016539",
+      "title": "(LEAD) N. Korea marks party anniversary on modest scale",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011000300315",
+      "published_date": "2026-10-10T22:21:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "641f31421a51963e20ca5d919be11a66",
+      "title": "N. Korea marks party anniversary on modest scale",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011000200315",
+      "published_date": "2026-10-10T21:54:43Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "fa8a82d5cde40f42ac86b92c14c0ebea",
       "title": "KBO's Eagles decide not to re-sign manager Kim Kyung-moon",
@@ -143,30 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261009002000315",
       "published_date": "2026-10-09T01:47:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "915795a4c9c2e89df2986820f145bd07",
-      "title": "N. Korea revs up festive mood ahead of party founding anniversary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009001800315",
-      "published_date": "2026-10-09T01:18:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3d6c55fe22403a29693e4e1f40c4012d",
-      "title": "Coupang services disrupted around midnight during update",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009001500320",
-      "published_date": "2026-10-09T00:37:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7064c3549e93a91e39bcdf538e87ed46",
-      "title": "Attackers unidentified in most hacking attacks on financial firms: lawmaker",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009001400320",
-      "published_date": "2026-10-09T00:26:21Z",
       "category": "Diplomacy"
     }
   ],
