@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-11T01:24:12Z",
+  "generated_at": "2026-10-11T16:34:43Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "a11c2a1327026c623eb5b991f81ef4d3",
+      "title": "Foreign ministry recommends S. Koreans in Saudi Arabia leave country amid Houthi attacks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011002900315",
+      "published_date": "2026-10-11T11:58:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "98fe20d60db523c768512b9d17e89169",
+      "title": "Rights groups call for release of 3 detained activists in Hong Kong, Thailand",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011002000315",
+      "published_date": "2026-10-11T07:24:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0a760d60ff5519c29dc0b7a38df406a0",
+      "title": "Lee vows to communicate more directly with public: official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011001700315",
+      "published_date": "2026-10-11T04:00:01Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "c80d82bd3bd6bf5529d3570b9c4a0bcf",
       "title": "Hyundai Motor's cumulative India sales set to top 10 mln vehicles this year",
@@ -143,30 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/10/us-again-labels-north-korea-among-worlds-worst-human-traffickers/",
       "published_date": "2026-10-09T03:05:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "19de98a9e953dd0fecb4f6abd1107e4e",
-      "title": "(LEAD) Coupang services disrupted around midnight during update",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009001551320",
-      "published_date": "2026-10-09T02:19:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "609529e7c3907ea5cfaf181910e7c95f",
-      "title": "Lee's approval rating remains at 37 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009002300315",
-      "published_date": "2026-10-09T02:09:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "01222c26e77428dac8cdcb40c1bf8493",
-      "title": "Lee hails Korean writing system as 'face' of country on 100th Hangeul Day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009002000315",
-      "published_date": "2026-10-09T01:47:41Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,22 @@
   ],
   "Economy": [
     {
+      "id": "2d920cc74309a286597039bd5615bda5",
+      "title": "Bank of Korea's returns on foreign assets near 17 tln won in 2025",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011001100320",
+      "published_date": "2026-10-11T02:33:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "034fa920c4f85a1061f5d032fe86ca57",
+      "title": "Banks mull higher cybersecurity spending after AI-linked hacking incidents: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011001000320",
+      "published_date": "2026-10-11T02:21:54Z",
+      "category": "Economy"
+    },
+    {
       "id": "2badd84547297b37bae3a7b59e586dcb",
       "title": "SK chief vows to speed up construction of new chip cluster in southwest",
       "source": "Yonhap News Agency",
@@ -638,25 +654,49 @@
       "url": "https://en.yna.co.kr/view/AEN20261007010500315",
       "published_date": "2026-10-07T13:48:07Z",
       "category": "Economy"
-    },
-    {
-      "id": "a9e161992acd457359d5d6b9fac41176",
-      "title": "Twins defeat Bears in regular-season finale at stadium set for demolition",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261007010400315",
-      "published_date": "2026-10-07T13:18:58Z",
-      "category": "Economy"
-    },
-    {
-      "id": "684788b18b82a4d12d720ce753a976b3",
-      "title": "(2nd LD) Seoul stocks down for 2nd day amid rising bond yields",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261007006452320",
-      "published_date": "2026-10-07T07:40:07Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "2d7c73f01edc260b45ea48ba0843d256",
+      "title": "Cheong Wa Dae says Lee ordered rescue operations for Daegu incident while on golf course",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011003200315",
+      "published_date": "2026-10-11T13:00:18Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2b8aaa29068e2bb029a1857881537fd5",
+      "title": "Battle for 3rd seed in KBO postseason comes down to regular-season finale",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011002800315",
+      "published_date": "2026-10-11T09:49:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ec1f4a06b134b0f68b6456d32163d1c4",
+      "title": "Yonhap News to co-host special exhibition on ancient Egyptian mummies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011001900315",
+      "published_date": "2026-10-11T05:10:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "13eed8ec02e83cc53a8ae4b2b6ef22ee",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011000900315",
+      "published_date": "2026-10-11T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8520907fd4c5352f932ed54e61ba1e7d",
+      "title": "Spy agency denies report U.S. only shares intelligence on N.K. missiles with S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261011000800315",
+      "published_date": "2026-10-11T02:26:48Z",
+      "category": "Local Events"
+    },
     {
       "id": "868f62ba8947c2f264c8cea953caecb8",
       "title": "(LEAD) Ceiling material collapses in Daegu building, injures 38",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261008008900315",
       "published_date": "2026-10-08T10:35:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1d83b73feabb71fc06d300fe5fbe9080",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008003651320",
-      "published_date": "2026-10-08T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dfb8ac86a5eb5f6fcf5d5f3642c2e9e3",
-      "title": "(LEAD) Top court upholds HSBC's acquittal in short-selling case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008004451315",
-      "published_date": "2026-10-08T07:18:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1eaea0577e496cf870f45b6377b1594c",
-      "title": "Religious cult, leader ordered to pay 370 mln won in damages to victims of sexual assault",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008004800315",
-      "published_date": "2026-10-08T06:50:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ec9c665b2f39b097572729e06ce50e56",
-      "title": "(LEAD) 1 S. Korean player moves on, another eliminated in MLB postseason",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008002951315",
-      "published_date": "2026-10-08T06:27:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "06d9b80056a07774dd4fe25a238204e4",
-      "title": "SCIA chief nominee vows to end 'politicization' of investigations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008004600315",
-      "published_date": "2026-10-08T05:47:03Z",
       "category": "Local Events"
     }
   ]
