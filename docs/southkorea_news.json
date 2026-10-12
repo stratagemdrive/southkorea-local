@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-11T16:34:43Z",
+  "generated_at": "2026-10-12T01:54:10Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "7d82f9a60d791b50d83e9e061fc4c713",
+      "title": "(URGENT) Cheong Wa Dae holds emergency meeting on N.K. missile launches",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012003100315",
+      "published_date": "2026-10-12T01:43:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c146a46a49caf4493a009f297da13eba",
+      "title": "FTC head vows stern action against unfair practices burdening people",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012000900320",
+      "published_date": "2026-10-12T01:19:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5676e0a633eb57628796ee43fcbe5e40",
+      "title": "North Korea appears to conduct fourth missile test in a month",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korea-appears-to-conduct-fourth-missile-test-in-a-month/",
+      "published_date": "2026-10-12T00:44:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b794c5240379b155b51405ccd97dc680",
+      "title": "Russian delegation visits Pyongyang to discuss cooperation on disaster management",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001900315",
+      "published_date": "2026-10-12T00:41:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dc60b0ee9ac7c0628209b7881ea18b1d",
+      "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012002100315",
+      "published_date": "2026-10-12T00:32:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "74168e4acbfc222914f4483633512c02",
+      "title": "(URGENT) N. Korea fires unidentified projectile toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260930004700315",
+      "published_date": "2026-10-12T00:23:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "db75cc3281de5ae053bc255e3d9cd952",
+      "title": "Lee's approval rating falls for 2nd straight week: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001300315",
+      "published_date": "2026-10-12T00:05:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "51608debb98212a47aa9fcac86f77136",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012000600315",
+      "published_date": "2026-10-11T22:07:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3f8845c5ba2c66efaaf1323e0f1aa4ba",
+      "title": "(EDITORIAL from The Korea Times on Oct. 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012000500315",
+      "published_date": "2026-10-11T22:07:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "86dd16202e0e6ab3c7d14b9238415eda",
+      "title": "(EDITORIAL from The Korea Herald on Oct. 12)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012000400315",
+      "published_date": "2026-10-11T22:06:58Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "a11c2a1327026c623eb5b991f81ef4d3",
       "title": "Foreign ministry recommends S. Koreans in Saudi Arabia leave country amid Houthi attacks",
@@ -88,89 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261010000400315",
       "published_date": "2026-10-10T00:55:51Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "18072ada27de940e4c5845db9a635f23",
-      "title": "U.S. expects S. Korea to 'uphold' alliance standards amid intelligence cooperation concerns: senior official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261010000200315",
-      "published_date": "2026-10-09T21:46:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e45842557cbdd43ec79851adc44fbcb2",
-      "title": "Over 70% of Americans approve defending South Korea in war against North: Poll",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/over-70-of-americans-approve-defending-south-korea-in-war-against-north-poll/",
-      "published_date": "2026-10-09T10:23:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8f4f739530f88e6efd14d4c88ceab95a",
-      "title": "Senior defense officials of S. Korea, Japan reaffirm cooperation against N. Korean threats",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009005300315",
-      "published_date": "2026-10-09T09:07:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5454431dfd79099da312af7bd98a83a8",
-      "title": "Seoul’s envoy recall over North Korean POW spat draws backlash in Ukraine, ROK",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/seouls-envoy-recall-over-north-korean-pow-spat-draws-backlash-in-ukraine-rok/",
-      "published_date": "2026-10-09T08:58:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c10441aaa9092dacec74004729c97df0",
-      "title": "South Korea tests hypersonic missile for first time, weeks after North",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/south-korea-tests-hypersonic-missile-for-first-time-weeks-after-north/",
-      "published_date": "2026-10-09T08:31:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "92551bcabf9e5fd96b6246a779fdfe6c",
-      "title": "North Korean smartphone stops working when taken to South, Chinese blogger says",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/north-korean-smartphone-stops-working-when-taken-to-south-chinese-blogger-says/",
-      "published_date": "2026-10-09T08:28:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "28427cb1422121e3cac6e4611cb26f99",
-      "title": "(LEAD) Spy agency snub raises U.S. alliance concerns in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009003551315",
-      "published_date": "2026-10-09T07:33:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "45397b4ae051d260f21200e9310a70eb",
-      "title": "Spy agency snub raises U.S. alliance concerns in S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009003500315",
-      "published_date": "2026-10-09T06:06:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5cc5d085a9a6358861f2a17759cda74d",
-      "title": "Suspected North Korean land mine washes ashore on South Korean island",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/suspected-north-korean-land-mine-washes-ashore-on-south-korean-island/",
-      "published_date": "2026-10-09T05:11:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "80404ce00efc979e77d413db582ec99c",
-      "title": "US again labels North Korea among world’s worst human traffickers",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/us-again-labels-north-korea-among-worlds-worst-human-traffickers/",
-      "published_date": "2026-10-09T03:05:54Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "c51011db5c44f896658977b93f33b22c",
+      "title": "(URGENT) N. Korea's ballistic missiles flew over 900 km: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012002900315",
+      "published_date": "2026-10-12T01:35:18Z",
+      "category": "Military"
+    },
+    {
+      "id": "6bd42a4be7a037711c6e3f74ad9e3432",
+      "title": "(URGENT) N. Korea fires multiple ballistic missiles from Pyongyang area toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012002500315",
+      "published_date": "2026-10-12T01:23:44Z",
+      "category": "Military"
+    },
     {
       "id": "839c584bd7ad805b3767964f69f5c7a6",
       "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 9)",
@@ -314,25 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261006000800315",
       "published_date": "2026-10-05T21:58:02Z",
       "category": "Military"
-    },
-    {
-      "id": "6d2aeb4f2eb814850b7cb64c66f5b2a8",
-      "title": "Ex-USFK commander warns time-based OPCON transfer could weaken deterrence against N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261006000200315",
-      "published_date": "2026-10-05T17:00:26Z",
-      "category": "Military"
-    },
-    {
-      "id": "e64cf7f4140e539da9757e801ae0465c",
-      "title": "(2nd LD) S. Korean military concludes N.K.-planted mines caused DMZ blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261005001252315",
-      "published_date": "2026-10-05T09:37:39Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "03737acbb676977fc4b29e2d2deb7fb4",
+      "title": "(LEAD) Exports double in first 10 days of October on chips",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001851320",
+      "published_date": "2026-10-12T00:21:51Z",
+      "category": "Energy"
+    },
     {
       "id": "048ed29d587245b58427faf910258db9",
       "title": "(Movie Review) Ambience takes center stage at BIFF opener 'The Table: Day and Night'",
@@ -484,17 +492,65 @@
       "url": "https://en.yna.co.kr/view/AEN20261006005500320",
       "published_date": "2026-10-06T04:50:26Z",
       "category": "Energy"
-    },
-    {
-      "id": "f5e92ba34b27e65e0e36f44084a98981",
-      "title": "Tesla tops imported car sales in S. Korea for 8th straight month in Sept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261006002800320",
-      "published_date": "2026-10-06T01:01:27Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "f26da943274979c7b45731fd8296a64b",
+      "title": "Finance minister urges preemptive action for supply chain stability",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012003000320",
+      "published_date": "2026-10-12T01:47:14Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0d63dc63709be22cd36173966f5d68f4",
+      "title": "S. Korea likely to continue solid growth driven by robust chip exports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012002600320",
+      "published_date": "2026-10-12T01:37:24Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0b4e31181f2ec16bf8bc22772592484e",
+      "title": "(LEAD) Seoul shares open lower on inflation, Mideast woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001251320",
+      "published_date": "2026-10-12T00:27:18Z",
+      "category": "Economy"
+    },
+    {
+      "id": "933f8dd3fb4988eefb4c071e8f77319f",
+      "title": "Exports double in first 10 days of October",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001800320",
+      "published_date": "2026-10-12T00:08:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c4733850a495ffa9b30c0680c6b51694",
+      "title": "Finance minister calls for diversification of trade network amid uncertainties",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001400320",
+      "published_date": "2026-10-12T00:05:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "b8e021e8562902d518d804b34715a62a",
+      "title": "Seoul shares open lower on inflation, Mideast woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001200320",
+      "published_date": "2026-10-12T00:03:31Z",
+      "category": "Economy"
+    },
+    {
+      "id": "e079a4c0a11a764ccedef55784075691",
+      "title": "(URGENT) Seoul shares open lower on inflation, Midest woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001100320",
+      "published_date": "2026-10-12T00:01:39Z",
+      "category": "Economy"
+    },
     {
       "id": "2d920cc74309a286597039bd5615bda5",
       "title": "Bank of Korea's returns on foreign assets near 17 tln won in 2025",
@@ -598,65 +654,33 @@
       "url": "https://en.yna.co.kr/view/AEN20261008005000320",
       "published_date": "2026-10-08T06:27:04Z",
       "category": "Economy"
-    },
-    {
-      "id": "65289902ce11a90eebb07cea5d457908",
-      "title": "Korean filmmakers urge politicians to let audiences judge amid 'The Assassin(s)' row",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008004700315",
-      "published_date": "2026-10-08T05:57:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "e9438d8ae84f9a78cb91992a41109356",
-      "title": "Seoul shares extend losses late Thurs. morning amid inflation worries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008003000320",
-      "published_date": "2026-10-08T02:37:08Z",
-      "category": "Economy"
-    },
-    {
-      "id": "5811f85ce84a34fbcb27f36082cf30aa",
-      "title": "Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008002000320",
-      "published_date": "2026-10-08T01:44:02Z",
-      "category": "Economy"
-    },
-    {
-      "id": "36e1d649f67139523b706fcb43485b59",
-      "title": "(LEAD) Seoul shares turn lower after opening up amid inflation worries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008001651320",
-      "published_date": "2026-10-08T00:43:38Z",
-      "category": "Economy"
-    },
-    {
-      "id": "351a3727382a3eb1dbcbc5a8270d43c4",
-      "title": "(2nd LD) Samsung's Q3 operating profit reaches new high of 107.4 tln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008000952320",
-      "published_date": "2026-10-08T00:10:50Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1a1899660aa57ff9928a49dd91d50ae3",
-      "title": "(LEAD) Samsung's Q3 operating profit reaches new high of 107.4 tln won",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008000951320",
-      "published_date": "2026-10-07T23:14:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "8c7f949ea77a4432bb43cfaec8cdb39a",
-      "title": "Twins pitcher earns KBO-leading 15th win, memory to last lifetime at historic stadium",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261007010500315",
-      "published_date": "2026-10-07T13:48:07Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "7e1035da08e15c37648a379904381272",
+      "title": "(LEAD) N. Korea fires multiple ballistic missiles toward East Sea: JCS",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012002700315",
+      "published_date": "2026-10-12T01:40:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9eaa9c3ff76b32e75316be3f153d25cf",
+      "title": "'The Assassin(s)' slips to No. 2 at weekend box office",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012001000315",
+      "published_date": "2026-10-11T23:45:48Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e73357997c27453a3c5aa0ffd437f670",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261012000300315",
+      "published_date": "2026-10-11T22:06:41Z",
+      "category": "Local Events"
+    },
     {
       "id": "2d7c73f01edc260b45ea48ba0843d256",
       "title": "Cheong Wa Dae says Lee ordered rescue operations for Daegu incident while on golf course",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261009000600320",
       "published_date": "2026-10-09T00:05:58Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ab632dfd28313bd534b50de4dd4b97b6",
-      "title": "U.S. keeps S. Korea in Tier 1 group for human trafficking elimination efforts for 3rd straight yr",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009000300315",
-      "published_date": "2026-10-08T19:36:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0ff6efd15fd91837949240631227bccb",
-      "title": "White House official accuses S. Korea of flooding U.S. with subsidized steel",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261009000200315",
-      "published_date": "2026-10-08T18:17:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6f9984d18099be98096eb0cf945c1eb6",
-      "title": "'Bedford Park' director tells Korean American story she wanted to see",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008008900315",
-      "published_date": "2026-10-08T10:35:44Z",
       "category": "Local Events"
     }
   ]
