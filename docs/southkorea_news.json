@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-13T18:01:07Z",
+  "generated_at": "2026-10-14T01:28:00Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "abdfed0ee0c03b4715df9a2052e621a9",
+      "title": "Edward Goldring on the logic behind North Korea’s elite purges",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/edward-goldring-on-the-logic-behind-north-koreas-elite-purges/",
+      "published_date": "2026-10-14T01:09:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2bbf2362cafb9527c409cfe51bec9f64",
+      "title": "Hyundai Motor Group to invest US$15.5 bln in India through 2032",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014002300320",
+      "published_date": "2026-10-14T00:53:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "008107ad3452905776fe3df2ad2bef31",
+      "title": "N. Korea vows no bargaining over nukes marking centennial of anti-imperialist union",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014001900315",
+      "published_date": "2026-10-14T00:22:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9566bc6f0768f3308d71e750e9092cf9",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014000900315",
+      "published_date": "2026-10-13T21:55:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "519aa1a4e189776c8d0faab237e69ecb",
+      "title": "(EDITORIAL from The Korea Times on Oct. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014000800315",
+      "published_date": "2026-10-13T21:55:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dd8f9eccd03f9d8bdbcc39e58685265d",
+      "title": "N. Korea gaining experience in troop deployment, sustaining military operations through Ukraine war: USFK chief",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014000300315",
+      "published_date": "2026-10-13T18:20:01Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "8cb3213093d27cc337a7aa84eae3a572",
       "title": "Hyesan lectures pit free socialist housing against capitalist bank loans",
@@ -120,57 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261013009000315",
       "published_date": "2026-10-13T07:02:14Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "5548e9dca70863a0f6a64614e016c535",
-      "title": "(LEAD) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013007551320",
-      "published_date": "2026-10-13T06:56:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a05db3ece48df8e9f2b5ef83edaf1773",
-      "title": "EU sanctions North Korean, Russian targets for supporting DPRK weapons programs",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/eu-sanctions-north-korean-russian-targets-for-supporting-dprk-weapons-programs/",
-      "published_date": "2026-10-13T06:53:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8190bf6e8f71f74316e0264526fa969f",
-      "title": "Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013007500320",
-      "published_date": "2026-10-13T06:36:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e72f174608899468d8035b1a0ce8355c",
-      "title": "(3rd LD) Lee stresses importance of U.S. alliance, says submissive stance should be shunned",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013004153315",
-      "published_date": "2026-10-13T06:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6288058828e093d532d95835b3875215",
-      "title": "(LEAD) Foreign, unification, defense ministries to relocate to Sejong by 2031",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013006951315",
-      "published_date": "2026-10-13T06:05:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a25801f9545870e9ea0fa65f0a6cef75",
-      "title": "Last off-limit mountain trail near Cheong Wa Dae to open to public after nearly 60 yrs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013007200315",
-      "published_date": "2026-10-13T05:48:44Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "e78a6b263ba4db8a2c76ac5e22d1b0be",
+      "title": "Hanwha, U.S. Army name U.S. version of K9 howitzer XM1776",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014000400315",
+      "published_date": "2026-10-13T20:21:27Z",
+      "category": "Military"
+    },
     {
       "id": "71951ba6ba999d735d8b0b9506b5cc04",
       "title": "(LEAD) N. Korea showcases Hwasong-20 ICBM, strategic weapons at new defense museum",
@@ -322,14 +330,6 @@
       "url": "https://en.yna.co.kr/view/AEN20261009000900320",
       "published_date": "2026-10-09T00:06:47Z",
       "category": "Military"
-    },
-    {
-      "id": "cbb052a9b090e2521dbe76b885996636",
-      "title": "(LEAD) Majority of Americans support S. Korea's nuclear-powered submarine project: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008000351315",
-      "published_date": "2026-10-08T16:33:41Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -476,25 +476,33 @@
       "url": "https://en.yna.co.kr/view/AEN20261007004700320",
       "published_date": "2026-10-07T03:00:02Z",
       "category": "Energy"
-    },
-    {
-      "id": "2624f587710fc03f749b1228fadc1500",
-      "title": "(LEAD) Seoul shares open lower despite falling oil prices, bond yields",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261007001551320",
-      "published_date": "2026-10-07T00:25:00Z",
-      "category": "Energy"
-    },
-    {
-      "id": "012a80d89104da336a11a5b1df440511",
-      "title": "Seoul shares open lower despite falling oil prices, bond yields",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261007001500320",
-      "published_date": "2026-10-07T00:09:02Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "b11e6ce279fb2cc45a9345749559bf81",
+      "title": "(LEAD) Seoul shares start higher despite Wall Street losses, AI concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014001551320",
+      "published_date": "2026-10-14T00:22:47Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c2fb20727e8b0faa944c598b581a9c03",
+      "title": "Seoul shares start higher despite Wall Street losses, AI concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014001500320",
+      "published_date": "2026-10-14T00:03:30Z",
+      "category": "Economy"
+    },
+    {
+      "id": "14e7e7d74d0cde90fc125234c55875fa",
+      "title": "(EDITORIAL from The Korea Herald on Oct. 14)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014000700315",
+      "published_date": "2026-10-13T21:55:32Z",
+      "category": "Economy"
+    },
     {
       "id": "c34819cb9c91a4e4190953b8daff53dc",
       "title": "New White House spokesperson says US$54 bln tied to Alaska gas project in S. Korean investment package",
@@ -630,33 +638,57 @@
       "url": "https://en.yna.co.kr/view/AEN20261012007400320",
       "published_date": "2026-10-12T07:36:16Z",
       "category": "Economy"
-    },
-    {
-      "id": "9da33fccac94b22bbd81b52d9055b964",
-      "title": "(LEAD) BOK chief says back-to-back rate hikes bought time to respond to financial risks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261012002651320",
-      "published_date": "2026-10-12T05:20:29Z",
-      "category": "Economy"
-    },
-    {
-      "id": "00b8442e5aeac34d164738f3eda67ce7",
-      "title": "BOK chief to attend G20, IMF-WBG meetings in Bangkok",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261012002000320",
-      "published_date": "2026-10-12T03:00:11Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4537e312574607cc0bd0a2539ad39ce8",
-      "title": "S. Korea's economic recovery yet to benefit households broadly: KDI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261012002200320",
-      "published_date": "2026-10-12T03:00:07Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "be7a8f7291ca66eea7dcfa19a485b250",
+      "title": "BTS' 'Arirang' hits 5 bln Spotify streams, topping 2026 releases",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014002400315",
+      "published_date": "2026-10-14T01:23:50Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7abceec49e95e200ad65a3cf807eea04",
+      "title": "Sales of short-term bonds rise 20.4 pct in Q3",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014002100320",
+      "published_date": "2026-10-14T00:38:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2b58c5b2c1718c723fb17f81920aa4d0",
+      "title": "(URGENT) Seoul shares start higher amid AI concerns",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014001400320",
+      "published_date": "2026-10-14T00:02:14Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c78f101c1dd03b4b7b25845768c326f2",
+      "title": "'Doctor X: Mafia in White' tops Netflix's weekly non-English TV chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014001200315",
+      "published_date": "2026-10-13T23:10:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8135a04b360cc3949363fc3ad4c623a9",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014000600315",
+      "published_date": "2026-10-13T21:55:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "32886c7348d057ec621dd3b436b44d93",
+      "title": "U.S. clamps down on N. Korean IT worker schemes affecting over 70 American firms",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261014001000315",
+      "published_date": "2026-10-13T21:47:49Z",
+      "category": "Local Events"
+    },
     {
       "id": "f69dad4401f08c85016467c7b7f9271f",
       "title": "(2nd LD) 8 injured in knife attack in Incheon; Lee calls for thorough probe",
@@ -767,54 +799,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261013005000315",
       "published_date": "2026-10-13T03:30:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6c2dee026a8edc15b1819291a7f69af8",
-      "title": "Seoul shares sharply down late Tue. morning on tech sell-off",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013005500320",
-      "published_date": "2026-10-13T02:27:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "386ddf986032f0b2c9b56e05cade1f92",
-      "title": "Drought conditions reported in 97 regions nationwide",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013004700315",
-      "published_date": "2026-10-13T02:08:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dd2cdec8a2e549957f7e5c2c711d765a",
-      "title": "Bond, CD issuance climbs 11.1 pct in Q3",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013003500320",
-      "published_date": "2026-10-13T01:29:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b203e04de2f5fb2d239666421b3bfe6d",
-      "title": "Seoul rivals going toe-to-toe to begin KBO postseason this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013003100315",
-      "published_date": "2026-10-13T01:14:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e47a41057d511bd614d80c7058d70cf7",
-      "title": "KRX activates sell-side sidecar for KOSPI on sharp fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013002400320",
-      "published_date": "2026-10-13T00:51:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7e87c8b5ce36d76171826ea11c95f2b5",
-      "title": "(Yonhap Interview) 2 years after breaking fans' hearts, Bears ace Benjamin hopes to make them happy this fall",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013002100315",
-      "published_date": "2026-10-13T00:49:28Z",
       "category": "Local Events"
     }
   ]
