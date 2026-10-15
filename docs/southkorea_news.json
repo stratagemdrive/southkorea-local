@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-14T15:43:36Z",
+  "generated_at": "2026-10-15T01:03:35Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,86 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "19959013559213196af64b921a25518c",
+      "title": "Samsung Electronics discusses future of next-generation networks with global partners",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015002500320",
+      "published_date": "2026-10-15T00:11:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "110b539d95f93eda14d89bb72060b29e",
+      "title": "Russia vows closer ties with N. Korea at diplomatic anniversary reception",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001300315",
+      "published_date": "2026-10-14T23:07:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e4c03dd855a094cfc5a092be3c9c2ea6",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001100315",
+      "published_date": "2026-10-14T22:05:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fff58384664d1212cc6605e6c82e6d3d",
+      "title": "(EDITORIAL from The Korea Times on Oct. 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001000315",
+      "published_date": "2026-10-14T22:04:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "202109a6ce4593ef1ce906b4387c7502",
+      "title": "(EDITORIAL from The Korea Herald on Oct. 15)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000900315",
+      "published_date": "2026-10-14T22:04:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1c69b98c8fe9cdf249c99341cfe69af2",
+      "title": "(LEAD) N. Korea tests 2 types of submarine-launched strategic cruise missiles: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000751315",
+      "published_date": "2026-10-14T21:53:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6ce3774f75508f0299ca51f6dc4a9508",
+      "title": "N. Korea tests 2 types of submarine-launched strategic cruise missiles: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000700315",
+      "published_date": "2026-10-14T21:21:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a036c2024181d3a66114961fe3d29427",
+      "title": "Hamhung teachers ordered to wear skirts during School Support Month",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/hamhung-teachers-ordered-wear-skirts-school-support-month/",
+      "published_date": "2026-10-14T20:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f38a8587c4e5b11a8504bbff1a6412e7",
+      "title": "N. Korea could bolster drone capabilities through workers at Russian factory: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000200315",
+      "published_date": "2026-10-14T17:52:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3f6bd9c9f7db190925919399b163b360",
+      "title": "North Korea’s largest power plant forces workers to pay for mandatory loyalty tours",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pukchang-power-plant-workers-pay-party-foundation-day-tours/",
+      "published_date": "2026-10-14T17:49:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "2374eed166abad9f712451b6dc79e379",
       "title": "North Korean workers sent to Russia with no say and no destination",
@@ -88,89 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261014009700315",
       "published_date": "2026-10-14T08:36:11Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "12373a014bfb1610de01eae99b17d7da",
-      "title": "Twins manager says players ready to erase regular-season disappointment with deep postseason run",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014008600315",
-      "published_date": "2026-10-14T07:56:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4c0ab96f608aa5a66e5480cc32b19ffc",
-      "title": "(LEAD) Kamala Harris faults Trump's tariffs, N.K. policy, calls for stronger alliance with S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014006451315",
-      "published_date": "2026-10-14T07:48:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c0d1a297a30991f1036d1fd3711b8424",
-      "title": "US announces sweeping crackdown on North Koreans working for American IT firms",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/us-announces-sweeping-crackdown-on-north-koreans-working-for-american-it-firms/",
-      "published_date": "2026-10-14T07:35:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7c8c480d595e69754f835eac074e4ea1",
-      "title": "S. Korea, Norway discuss ways to expand defense, tech cooperation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014008200315",
-      "published_date": "2026-10-14T07:19:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "86e84e230e07984ed4815cf27a258ddf",
-      "title": "US to drop charges against Sue Mi Terry, expert accused of aiding Seoul spies",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/us-to-drop-charges-against-sue-mi-terry-expert-accused-of-aiding-seoul-spies/",
-      "published_date": "2026-10-14T06:54:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "72ba7e437cd9d8599f734a7879024294",
-      "title": "FM Cho requests South Sudan to ensure safety of S. Korean troops, nationals",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014007400315",
-      "published_date": "2026-10-14T06:46:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "110c92512071c2b3daf39b49187ca904",
-      "title": "Russia reveals plans for feature film about North Korean troops in Kursk",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/russia-reveals-plans-for-feature-film-about-north-korean-troops-in-kursk/",
-      "published_date": "2026-10-14T06:45:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c69f7dd4141c4326c9c67915bdde8669",
-      "title": "Lee calls for restructuring social system to meet needs of changing population structure",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014006800315",
-      "published_date": "2026-10-14T06:45:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "06bdd6eaaacb12bb0473e5c6ae351ed4",
-      "title": "Parliamentary committee adopts resolution denouncing N. Korea over DMZ mine blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014006700315",
-      "published_date": "2026-10-14T06:41:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0f25e170479b1d30e77ed0b690ac600a",
-      "title": "Personal info presumed to have leaked from 16 financial institutions: regulator",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014006900320",
-      "published_date": "2026-10-14T06:37:37Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "694e0ac37a84fe48b5dbe9c5cf9e2373",
+      "title": "North Korea says it tested submarine-launched cruise missiles",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korea-says-it-tested-submarine-launched-cruise-missiles/",
+      "published_date": "2026-10-14T23:23:23Z",
+      "category": "Military"
+    },
+    {
+      "id": "0b7543a6efd78f929d153252cdde0b57",
+      "title": "(URGENT) N. Korea says tested 2 submarine-launched strategic cruise missiles Wednesday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000600315",
+      "published_date": "2026-10-14T21:14:02Z",
+      "category": "Military"
+    },
     {
       "id": "cf7933df68be827e84b84753a9117a0c",
       "title": "Kamala Harris slams Trump’s cuts to US-ROK drills on countering North Korea",
@@ -314,22 +330,6 @@
       "url": "https://en.yna.co.kr/view/AEN20261012005100315",
       "published_date": "2026-10-12T04:32:46Z",
       "category": "Military"
-    },
-    {
-      "id": "c51011db5c44f896658977b93f33b22c",
-      "title": "(URGENT) N. Korea's ballistic missiles flew over 900 km: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261012002900315",
-      "published_date": "2026-10-12T01:35:18Z",
-      "category": "Military"
-    },
-    {
-      "id": "6bd42a4be7a037711c6e3f74ad9e3432",
-      "title": "(URGENT) N. Korea fires multiple ballistic missiles from Pyongyang area toward East Sea: JCS",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261012002500315",
-      "published_date": "2026-10-12T01:23:44Z",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -436,33 +436,49 @@
       "url": "https://en.yna.co.kr/view/AEN20261008002400320",
       "published_date": "2026-10-08T01:05:14Z",
       "category": "Energy"
-    },
-    {
-      "id": "1eebfe3061cd757cb0c09887a951f408",
-      "title": "(LEAD) LG Energy Q3 operating profit up 25.7 pct on ESS demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008001451320",
-      "published_date": "2026-10-08T00:24:15Z",
-      "category": "Energy"
-    },
-    {
-      "id": "a801e546fbb0bd318e90b23881f95137",
-      "title": "Seoul shares open higher on tech gains despite high oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008001600320",
-      "published_date": "2026-10-08T00:07:02Z",
-      "category": "Energy"
-    },
-    {
-      "id": "0650ce1633550a464aa63edb41e3b378",
-      "title": "(URGENT) Seoul shares open higher on tech gains despite high oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261008001500320",
-      "published_date": "2026-10-08T00:02:18Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "de14fbb1e5e04aef9e533bafbcd6d384",
+      "title": "Taihan Cable wins 120 bln-won HVAC system order in U.S.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015002900320",
+      "published_date": "2026-10-15T00:41:04Z",
+      "category": "Economy"
+    },
+    {
+      "id": "d625203e5cf19c88a484e0f527bec93b",
+      "title": "(LEAD) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001851320",
+      "published_date": "2026-10-15T00:28:47Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f8373753b04579d530c4ab399df5112f",
+      "title": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001800320",
+      "published_date": "2026-10-15T00:04:31Z",
+      "category": "Economy"
+    },
+    {
+      "id": "db953058da0567cc36e6409bb17d8821",
+      "title": "(URGENT) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001700320",
+      "published_date": "2026-10-15T00:01:19Z",
+      "category": "Economy"
+    },
+    {
+      "id": "b2fc1e6aaf356856d0dae28289179244",
+      "title": "Trump claims again S. Korea to invest in Alaska LNG project under trade deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000400315",
+      "published_date": "2026-10-14T20:32:22Z",
+      "category": "Economy"
+    },
     {
       "id": "9f3d2f13d23edd1f2c8019afd3b194bb",
       "title": "Twins skipper sings praise of relievers, outfielder in KBO postseason victory",
@@ -582,49 +598,65 @@
       "url": "https://en.yna.co.kr/view/AEN20261014000700315",
       "published_date": "2026-10-13T21:55:32Z",
       "category": "Economy"
-    },
-    {
-      "id": "c34819cb9c91a4e4190953b8daff53dc",
-      "title": "New White House spokesperson says US$54 bln tied to Alaska gas project in S. Korean investment package",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014000200315",
-      "published_date": "2026-10-13T16:42:20Z",
-      "category": "Economy"
-    },
-    {
-      "id": "48105fcba398f7bb1eede3ef5abd6f10",
-      "title": "Samsung Chairman Lee Jae-yong to receive 2.6 tln won in shares from mother",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013010700320",
-      "published_date": "2026-10-13T09:18:13Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1235c231ed435e5dcddd0ddb10647fb2",
-      "title": "Presidential office forms task force for potential Lee-Trump golf outing",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013010500315",
-      "published_date": "2026-10-13T09:04:27Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ec2db95f17b557d19c4f57a61c7b6d78",
-      "title": "S. Korean won tumbles against U.S. dollar on foreign outflows",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013009300320",
-      "published_date": "2026-10-13T07:28:49Z",
-      "category": "Economy"
-    },
-    {
-      "id": "83299dfaa8f1582452d77ffcca2d13c0",
-      "title": "(URGENT) Seoul shares dip over 5 pct on tech sell-off on renewed AI, inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261013007400320",
-      "published_date": "2026-10-13T06:33:03Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "5a0b1dbbe69a6737ec105dcc2309fa80",
+      "title": "S. Korea's 1st nat'l sports museum opens in Seoul",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015003000315",
+      "published_date": "2026-10-15T00:48:39Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "d25fcde3fe69c04cd38eee4a6861b3a2",
+      "title": "KRX activates sell-side sidecar for KOSPI on sharp fall",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015002000320",
+      "published_date": "2026-10-15T00:14:11Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "41176427878ad36caa389918208a4800",
+      "title": "(URGENT) Bourse operator issues sell-side sidecar on KOSPI's sharp fall",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001900320",
+      "published_date": "2026-10-15T00:11:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c2e3fec4e2294f3fea8758555bfb7251",
+      "title": "FC Seoul on verge of clinching 1st S. Korean football title in 10 yrs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001600315",
+      "published_date": "2026-10-14T23:46:10Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "612ddb51f47dbfd659425bc7ed9e898c",
+      "title": "Lee Soo-man's new girl group A2O Lite tops Melon chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015001400315",
+      "published_date": "2026-10-14T23:42:58Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "adc06a63da256c235420bfea591da1f5",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000800315",
+      "published_date": "2026-10-14T21:58:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c1270afd90a43fe83230d109c96603af",
+      "title": "USFK chief says 'conditions have changed' while stressing requirements for OPCON transfer to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015000300315",
+      "published_date": "2026-10-14T19:17:42Z",
+      "category": "Local Events"
+    },
     {
       "id": "f52b287ef80b9229b5b15f376efd8674",
       "title": "(LEAD) Hyundai Motor expands production capacity in India",
@@ -727,62 +759,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261014004200315",
       "published_date": "2026-10-14T06:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "20ecbea9c937d0e945d9035b7510bd1e",
-      "title": "Rose to perform at LACMA's 2026 Art+Film Gala",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014005800315",
-      "published_date": "2026-10-14T05:10:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "78e67e91fcc98c29b11b22bdb214d139",
-      "title": "Special counsel raids election watchdog over alleged bidding corruption",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014005700315",
-      "published_date": "2026-10-14T05:05:19Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "31506baea2fc305ced216262aced7489",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014002000315",
-      "published_date": "2026-10-14T05:00:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d7b72da5f023b3f5c4490f0c618112ff",
-      "title": "Han Ji-min, Koo Kyo-hwan cast as married couple in upcoming disaster comedy film",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014005500315",
-      "published_date": "2026-10-14T04:41:41Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3929e14da9662c810e87095bcc4129ac",
-      "title": "(URGENT) Lee names National Tax Service chief as new chief of staff",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014005400315",
-      "published_date": "2026-10-14T04:33:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6b09074c523ab62dcc23e2ff0318ce31",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014005200315",
-      "published_date": "2026-10-14T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9ce65458f6aa940dd638e038235a73a4",
-      "title": "Fire breaks out at chemical company in Ulsan, forcing 7,000 workers nearby to evacuate",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014005000315",
-      "published_date": "2026-10-14T03:14:16Z",
       "category": "Local Events"
     }
   ]
