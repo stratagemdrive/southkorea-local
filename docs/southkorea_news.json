@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-15T15:31:03Z",
+  "generated_at": "2026-10-16T00:52:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "660ca7adba9b8d3835fdbab677e3eed0",
+      "title": "3 Samsung products named in TIME's Best Inventions of 2026 list",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016002200320",
+      "published_date": "2026-10-16T00:16:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c2b18c773b5f188d981b22f388c8934b",
+      "title": "N. Korea reports opening of new cross-border bridge with China",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001700315",
+      "published_date": "2026-10-16T00:00:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5c0575c38282380945783b06804f6070",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001000320",
+      "published_date": "2026-10-15T22:00:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6cb0e841518cd9e7bb92e25ee4583616",
+      "title": "Import prices rebound in Sept. on higher oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261015009000320",
+      "published_date": "2026-10-15T21:00:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a98c569d801b1a16ec6879aa42fa0614",
+      "title": "Defector families in North Korea turn away remittance brokers, threaten to report them",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/defector-families-in-north-korea-turn-away-remittance-brokers-threaten-to-report-them/",
+      "published_date": "2026-10-15T19:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "55f6bf1a9edb11f6cebdb17d6a26d956",
+      "title": "Rice prices climb again in North Korea as fresh corn drives grain prices down",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-rice-prices-rise-corn-yuan-fall/",
+      "published_date": "2026-10-15T17:57:00Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "d190e285f4dccc20ecff8ba690e196fe",
       "title": "New Yalu River Bridge opening sparks last-minute cargo surge on old crossing",
@@ -120,57 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261015006300315",
       "published_date": "2026-10-15T05:07:17Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "62d7ed4782fdeb0b3515ace99a364aaa",
-      "title": "Injured batting champion for Lions resumes training ahead of KBO postseason series",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015006200315",
-      "published_date": "2026-10-15T04:51:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9c457e9fbb4b3142653c518f06e96af8",
-      "title": "North Korea, China officially open long-delayed New Yalu River Bridge",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/north-korea-china-officially-open-long-delayed-new-yalu-river-bridge/",
-      "published_date": "2026-10-15T04:13:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "a5a253bfdae4c53aaecafb47e09ec71a",
-      "title": "Bosnian arms dealer gets prison time over plan to buy North Korean missiles",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/bosnian-arms-dealer-gets-prison-time-over-plan-to-buy-north-korean-missiles/",
-      "published_date": "2026-10-15T04:06:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1f68628cd70aa09b139807ef472c3cfc",
-      "title": "N. Korea, China open long-idle, cross-border bridge: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015005200315",
-      "published_date": "2026-10-15T03:03:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b9abc9f894042b0b17512e15fb62e5dd",
-      "title": "Lee vows proper honors, support for servicemembers disabled in action",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015005300315",
-      "published_date": "2026-10-15T02:45:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "dd18221c0d489eeafa1b7927fbe70521",
-      "title": "Lee's approval rating rebounds to 44 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015005100315",
-      "published_date": "2026-10-15T02:38:27Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "a2a9bcf392bc2e14661c61b62cdfbd29",
+      "title": "Bipartisan U.S. Senate bill seeks to reaffirm 'ironclad' nuclear deterrence commitment to S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016000200315",
+      "published_date": "2026-10-15T17:46:37Z",
+      "category": "Military"
+    },
     {
       "id": "b71381b8cde207b0c042fe570c9581dd",
       "title": "Defense ministry refutes Pyongyang's claim questioning Seoul's test of hypersonic glide vehicle",
@@ -322,17 +330,33 @@
       "url": "https://en.yna.co.kr/view/AEN20261013002700315",
       "published_date": "2026-10-13T00:59:38Z",
       "category": "Military"
-    },
-    {
-      "id": "15b8903b595056aae700f50a5d5e098c",
-      "title": "Kim Jong Un opens new weapons museum as North Korea claims missile test success",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/kim-jong-un-opens-new-weapons-museum-as-north-korea-claims-missile-test-success/",
-      "published_date": "2026-10-12T23:19:01Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "0c3026dd03d2503c1096c1a48d1e208f",
+      "title": "(LEAD) Seoul stocks open higher after 7-day losing streak",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001851320",
+      "published_date": "2026-10-16T00:28:49Z",
+      "category": "Energy"
+    },
+    {
+      "id": "d8ab0569bbb43ea28e57a82538cd1403",
+      "title": "Seoul stocks open higher after 7-day losing streak",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001800320",
+      "published_date": "2026-10-16T00:05:16Z",
+      "category": "Energy"
+    },
+    {
+      "id": "edef3641e9ba0dacb48f4c14f93fedaa",
+      "title": "SK hynix tops list of most sought-after firms among S. Korean job seekers: survey",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001500320",
+      "published_date": "2026-10-15T23:36:14Z",
+      "category": "Energy"
+    },
     {
       "id": "1cef4a458f915470e5e6d7ea54efa31e",
       "title": "S. Korea says conditions-based OPCON transfer 'never' possible if conditions keep changing",
@@ -423,6 +447,46 @@
     }
   ],
   "Economy": [
+    {
+      "id": "4c973c126378d95ce525b6eb7653475c",
+      "title": "(LEAD) S. Korea adds over 100,000 jobs for 3rd month in Sept.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001251320",
+      "published_date": "2026-10-16T00:01:54Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9396dca0678a1d4a76f2d4bca5e423aa",
+      "title": "(URGENT) Seoul stocks open higher after after 7-day losing streak",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001600320",
+      "published_date": "2026-10-16T00:01:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6e8172adc8bc63ff89819309b0472ca9",
+      "title": "(URGENT) S. Korea adds 113,000 jobs in Sept.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001300320",
+      "published_date": "2026-10-15T23:00:07Z",
+      "category": "Economy"
+    },
+    {
+      "id": "4b29a2da84a516f2a76940efa838ffa1",
+      "title": "S. Korea adds 113,000 jobs in Sept.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016001200320",
+      "published_date": "2026-10-15T23:00:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "d9f0595d16ee22cdea14b31363f9f2a2",
+      "title": "(EDITORIAL from The Korea Herald on Oct. 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016000800320",
+      "published_date": "2026-10-15T22:00:39Z",
+      "category": "Economy"
+    },
     {
       "id": "1a22bf2876df84d10bc13273f4d54c87",
       "title": "S. Korean, U.S. biz leaders call for support to accelerate Korean investment projects in U.S.",
@@ -542,49 +606,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261015001851320",
       "published_date": "2026-10-15T00:28:47Z",
       "category": "Economy"
-    },
-    {
-      "id": "f8373753b04579d530c4ab399df5112f",
-      "title": "Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015001800320",
-      "published_date": "2026-10-15T00:04:31Z",
-      "category": "Economy"
-    },
-    {
-      "id": "db953058da0567cc36e6409bb17d8821",
-      "title": "(URGENT) Seoul stocks open sharply lower on lingering concerns over AI, U.S. inflation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015001700320",
-      "published_date": "2026-10-15T00:01:19Z",
-      "category": "Economy"
-    },
-    {
-      "id": "b2fc1e6aaf356856d0dae28289179244",
-      "title": "Trump claims again S. Korea to invest in Alaska LNG project under trade deal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015000400315",
-      "published_date": "2026-10-14T20:32:22Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9f3d2f13d23edd1f2c8019afd3b194bb",
-      "title": "Twins skipper sings praise of relievers, outfielder in KBO postseason victory",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014010500315",
-      "published_date": "2026-10-14T14:14:05Z",
-      "category": "Economy"
-    },
-    {
-      "id": "b6904702c489488521b978313f6a37e1",
-      "title": "Dean delivers big blow for Twins in KBO postseason win on birthday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261014010400315",
-      "published_date": "2026-10-14T13:54:27Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "db166c8f3e66c825d5d2c8c7f3dc2526",
+      "title": "(EDITORIAL from The Korea Times on Oct. 16)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016000900320",
+      "published_date": "2026-10-15T22:00:46Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c1b4787f2e742f5e12e50fb38f69f56f",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016000700320",
+      "published_date": "2026-10-15T22:00:32Z",
+      "category": "Local Events"
+    },
     {
       "id": "024aa71c4af4f9961d1bf125e3351a6e",
       "title": "(LEAD) BIFF wraps up, draws more than 200,000 admissions",
@@ -727,22 +767,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261015005700315",
       "published_date": "2026-10-15T04:50:25Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a75592f000cddd654142458c26410ee2",
-      "title": "Special counsel says 30 local election commissions falsely entered voter turnout data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015005600315",
-      "published_date": "2026-10-15T04:39:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8c55e4d1a0b16980989f2c5af469e6a9",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015006100315",
-      "published_date": "2026-10-15T04:30:18Z",
       "category": "Local Events"
     }
   ]
