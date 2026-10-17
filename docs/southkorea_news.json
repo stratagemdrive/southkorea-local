@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-16T15:17:06Z",
+  "generated_at": "2026-10-17T00:53:52Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "bb63f0f09a60ad7e099c29ca081e138c",
+      "title": "North Korea tests new high-precision AI-equipped torpedo: state media",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korea-tests-new-high-precision-ai-equipped-torpedo-state-media/",
+      "published_date": "2026-10-16T22:29:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "06060b9745884a735a72c343ac60af49",
+      "title": "(LEAD) N. Korea conducts underwater test of new precision-guided torpedo using AI: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000751315",
+      "published_date": "2026-10-16T22:10:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5f11309000143d464965b93554fee894",
+      "title": "N. Korea conducts underwater test of new precision-guided torpedo: KCNA",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000700315",
+      "published_date": "2026-10-16T21:35:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f075407b218f86804855d2d3efc72e21",
+      "title": "(URGENT) N. Korea says it conducted new underwater torpedo test Thursday",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000600315",
+      "published_date": "2026-10-16T21:18:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bee387fe5df1863b77ddeb29cc33ea75",
+      "title": "(LEAD) S. Korea, U.S. hold first 2+2 meeting of finance, monetary policymakers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016008451320",
+      "published_date": "2026-10-16T21:03:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d81c6b92a4595ee14ff42ec1d44950d8",
+      "title": "Belarus belatedly opens embassy in North Korea: Minsk",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/belarus-belatedly-opens-embassy-in-north-korea-minsk/",
+      "published_date": "2026-10-16T20:55:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "52d6ae6c39247a66da4f8a2f55703d34",
+      "title": "North Korea searches fishing boats for hidden radios along its Yellow Sea coast",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-fishing-boats-radio-inspection-south-hwanghae/",
+      "published_date": "2026-10-16T17:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f25e3662929d7fe23d68505b7d4f6e2a",
+      "title": "S. Korean envoy condemns Houthi attacks, calls for stronger U.N. sanctions to block weapons supplies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000200315",
+      "published_date": "2026-10-16T16:13:45Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "66aee2625dedabb67a1f59921c4d7863",
       "title": "Pyongyang rejects Seoul's hypersonic test claims, justifies own arms buildup",
@@ -103,70 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261016006900315",
       "published_date": "2026-10-16T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c968a5294e46c29937528e39a05244a0",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016006800315",
-      "published_date": "2026-10-16T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6349670e7df835394ddfd14f49900ff2",
-      "title": "(LEAD) Lee calls for constitutional revision to reflect spirit of democratization",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016005951315",
-      "published_date": "2026-10-16T06:44:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "867ff3c8c5ed3951fb854ba3845b066e",
-      "title": "Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016006400320",
-      "published_date": "2026-10-16T06:36:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "18f5fe84718eb995374046193289b338",
-      "title": "(URGENT) Seoul stocks rebound over 2 pct on eased chip rout, Fed bets",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016006600320",
-      "published_date": "2026-10-16T06:33:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fd8d56795e260e59825d4f3c0206e8e6",
-      "title": "North Korean missile chief accuses South of faking hypersonic weapon test",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/north-korean-missile-chief-accuses-south-of-faking-hypersonic-weapon-test/",
-      "published_date": "2026-10-16T06:27:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2d9a39159af07f80cfeace2d1065a87a",
-      "title": "Special counsel seeks 30-yr term for ex-president over N.K. drone incursion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016006300315",
-      "published_date": "2026-10-16T05:55:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fe89ea6665e95bc02e90e087aecc05ab",
-      "title": "New Eagles manager says ready to look forward, build team into 'sustainable contender' in KBO",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016006100315",
-      "published_date": "2026-10-16T05:51:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "007b706b03cdf777f0525f1f735284d7",
-      "title": "Lee calls for constitutional revision to reflect spirit of democratization",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016005900315",
-      "published_date": "2026-10-16T05:38:15Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "1fe1d1af5ff23d13925579d92a40ad83",
+      "title": "U.S. senator hails Hanwha's role in revitalizing American shipbuilding industry",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000500315",
+      "published_date": "2026-10-16T19:53:15Z",
+      "category": "Energy"
+    },
+    {
       "id": "914c1c252be978dbf4129ab9270c4ad8",
       "title": "(URGENT) Lee calls for constitutional revision to reflect spirit of democratization",
       "source": "Yonhap News Agency",
@@ -447,6 +455,30 @@
     }
   ],
   "Economy": [
+    {
+      "id": "dad6f0107ef0179d55f5262a2a857a26",
+      "title": "Trump touts Hyundai's US$560-mln Georgia investment pledge at campaign rally",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000800315",
+      "published_date": "2026-10-16T21:56:56Z",
+      "category": "Economy"
+    },
+    {
+      "id": "21b548405c9aa98bed99bdd9a36ab3fc",
+      "title": "U.S. envoy highlights role of S. Korean investment in creating American jobs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000400315",
+      "published_date": "2026-10-16T18:47:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "fec1cd26b1a32eacd8dd27037b956f56",
+      "title": "Hyundai Motor to recall over 94,000 vehicles in U.S. over fire risk",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017000300315",
+      "published_date": "2026-10-16T17:55:32Z",
+      "category": "Economy"
+    },
     {
       "id": "69ad266eb64d20363027fe712b77520c",
       "title": "S. Korean won advances to 2-year high on Fed chief's outlook, foreign inflows",
@@ -582,33 +614,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261015007200320",
       "published_date": "2026-10-15T06:35:14Z",
       "category": "Economy"
-    },
-    {
-      "id": "e5df6545d636f3b4a21e75bfec9db220",
-      "title": "Hyundai Motor Group to allocate 20 pct of US$15.5 bln India investment to AI, new businesses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015006400320",
-      "published_date": "2026-10-15T05:26:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1575c4fc1c9c7a042394b520017ba09b",
-      "title": "Tech rout triggers trading halt for KOSPI stocks for 20 min.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015002800320",
-      "published_date": "2026-10-15T03:40:21Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c1781d44df553ffb88189a3cb9f64eca",
-      "title": "Household loans grow slowest in 7 months in Sept. on tighter rules, higher rates",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015003500320",
-      "published_date": "2026-10-15T03:01:20Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "6bc7da0b896c697d256d26f961414661",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017001300315",
+      "published_date": "2026-10-17T00:06:49Z",
+      "category": "Local Events"
+    },
     {
       "id": "888e11fc8294760eb9b30aa09149fdbe",
       "title": "Police release identity of Incheon stabbing suspect",
@@ -759,14 +775,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261016003000315",
       "published_date": "2026-10-16T01:40:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "db166c8f3e66c825d5d2c8c7f3dc2526",
-      "title": "(EDITORIAL from The Korea Times on Oct. 16)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016000900320",
-      "published_date": "2026-10-15T22:00:46Z",
       "category": "Local Events"
     }
   ]
