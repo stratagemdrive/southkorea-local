@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-17T14:05:29Z",
+  "generated_at": "2026-10-18T00:29:11Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "da2f22d03dee86c59129f0148cd83051",
+      "title": "Tigers starter eager to enjoy 'adrenaline rush' of 1st KBO postseason game",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017002000315",
+      "published_date": "2026-10-17T21:00:03Z",
+      "category": "Energy"
+    },
+    {
       "id": "556912e3a1a548ca0b6b01ff53876ce7",
       "title": "Twins manager says team due for win over rival in postseason",
       "source": "Yonhap News Agency",
@@ -463,6 +471,22 @@
     }
   ],
   "Economy": [
+    {
+      "id": "f63061b6c7f40e8168d548229bcec3f1",
+      "title": "(News Focus) Hyundai Motor steps up physical AI push amid Chinese competition, stock slump",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261016007500320",
+      "published_date": "2026-10-18T00:00:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "aebd6ed36f975b22cd1410efeee9fb8b",
+      "title": "(Yonhap Interview) DeepX eyes '1st mover' strategy in global physical AI market through partnerships with Intel, AMD",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017001500320",
+      "published_date": "2026-10-17T22:00:06Z",
+      "category": "Economy"
+    },
     {
       "id": "cd8980198172381096566ac4cd6889b2",
       "title": "Tigers manager banking on top of lineup to do damage in KBO postseason game",
@@ -606,25 +630,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261015008900320",
       "published_date": "2026-10-15T08:00:15Z",
       "category": "Economy"
-    },
-    {
-      "id": "e1a612eba8fa4b410889d8f4f5784653",
-      "title": "(2nd LD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015007252320",
-      "published_date": "2026-10-15T07:43:21Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f459c61bc1abe29c63bb84df74a8cb11",
-      "title": "(LEAD) Seoul shares crash over 7 pct on chip rout amid AI, inflation woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261015007251320",
-      "published_date": "2026-10-15T06:48:34Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "e1865f42a5185eafa5c26e8080930a3b",
+      "title": "Rookie embracing cleanup role in 1st KBO postseason",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261017002100315",
+      "published_date": "2026-10-17T21:01:01Z",
+      "category": "Local Events"
+    },
     {
       "id": "dd72dec41bbd4d60139c01540433a875",
       "title": "Lee pays tribute to firefighter killed in Bucheon factory fire",
@@ -775,14 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261016007000315",
       "published_date": "2026-10-16T07:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3adc0679a4d8d94d8edc6910e98e4d3b",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016001400320",
-      "published_date": "2026-10-16T05:00:02Z",
       "category": "Local Events"
     }
   ]
