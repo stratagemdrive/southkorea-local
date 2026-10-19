@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-18T14:20:16Z",
+  "generated_at": "2026-10-19T00:34:55Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "58ebf72e5792793418e65e4453ec3a7d",
+      "title": "Badminton star An Se-young sets record for most int'l women's singles titles",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019001800315",
+      "published_date": "2026-10-19T00:21:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e0b35513db3915ab56e7e58104e7fc79",
+      "title": "Lee's approval rating rebounds after 2-week decline: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019000800315",
+      "published_date": "2026-10-18T23:35:25Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "edd87e8e00bed76058f3420aa544fc30",
       "title": "(LEAD) An Se-young wins Denmark Open for 9th title of season",
@@ -151,22 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/10/belarus-belatedly-opens-embassy-in-north-korea-minsk/",
       "published_date": "2026-10-16T20:55:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "52d6ae6c39247a66da4f8a2f55703d34",
-      "title": "North Korea searches fishing boats for hidden radios along its Yellow Sea coast",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-fishing-boats-radio-inspection-south-hwanghae/",
-      "published_date": "2026-10-16T17:07:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f25e3662929d7fe23d68505b7d4f6e2a",
-      "title": "S. Korean envoy condemns Houthi attacks, calls for stronger U.N. sanctions to block weapons supplies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261017000200315",
-      "published_date": "2026-10-16T16:13:45Z",
       "category": "Diplomacy"
     }
   ],
@@ -468,17 +468,49 @@
       "url": "https://en.yna.co.kr/view/AEN20261012002800315",
       "published_date": "2026-10-12T07:00:02Z",
       "category": "Energy"
-    },
-    {
-      "id": "03737acbb676977fc4b29e2d2deb7fb4",
-      "title": "(LEAD) Exports double in first 10 days of October on chips",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261012001851320",
-      "published_date": "2026-10-12T00:21:51Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "b6d7cb50f0eae09a979d4e1136d43ee4",
+      "title": "(LEAD) Seoul stocks open sharply lower after U.S. tech sell-off",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019001051320",
+      "published_date": "2026-10-19T00:28:24Z",
+      "category": "Economy"
+    },
+    {
+      "id": "c16ec4261a7405d236d17de54ae5bcaa",
+      "title": "Seoul stocks open sharply lower after U.S. tech sell-off",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019001000320",
+      "published_date": "2026-10-19T00:05:42Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a139be38e2ee8f000d60d9e006983399",
+      "title": "(URGENT) Seoul stocks open lower after U.S. tech sell-off",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019000900320",
+      "published_date": "2026-10-19T00:02:20Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6d0f9cab39a6069dd983ccd7aa6fad14",
+      "title": "(EDITORIAL from The Korea Times on Oct. 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019000500315",
+      "published_date": "2026-10-18T22:01:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "ebf5907ff0819e64d69e0d1b5d8244a1",
+      "title": "(EDITORIAL from The Korea Herald on Oct. 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019000400315",
+      "published_date": "2026-10-18T22:00:59Z",
+      "category": "Economy"
+    },
     {
       "id": "7c5305ca13afa3d5ad87aa5bb5667392",
       "title": "AI boom sustains S. Korea's growth despite global headwinds: IMF official",
@@ -598,49 +630,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261016002900320",
       "published_date": "2026-10-16T01:47:55Z",
       "category": "Economy"
-    },
-    {
-      "id": "bdcdeef8ad2e576cfb3609896d5d7d79",
-      "title": "SK hynix showcases next-generation AI memory technologies beyond HBM",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016002500320",
-      "published_date": "2026-10-16T01:29:51Z",
-      "category": "Economy"
-    },
-    {
-      "id": "714a430cab65d4f81dff4d17420d916b",
-      "title": "Gov't vows stern action against unfair practices amid heightened stock market volatility",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016002800320",
-      "published_date": "2026-10-16T01:26:16Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4346fac6a070db10a88eb8b00674b93b",
-      "title": "Tigers, Twins set to renew KBO postseason rivalry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016002400315",
-      "published_date": "2026-10-16T01:03:10Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4c973c126378d95ce525b6eb7653475c",
-      "title": "(LEAD) S. Korea adds over 100,000 jobs for 3rd month in Sept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016001251320",
-      "published_date": "2026-10-16T00:01:54Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9396dca0678a1d4a76f2d4bca5e423aa",
-      "title": "(URGENT) Seoul stocks open higher after after 7-day losing streak",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016001600320",
-      "published_date": "2026-10-16T00:01:21Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "ee9f993f08cd17e23553c093bfe05132",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 19)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019000600315",
+      "published_date": "2026-10-18T22:01:15Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ef6e1c50cb45582fd1c7876d0bc117cb",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261019000300315",
+      "published_date": "2026-10-18T21:57:14Z",
+      "category": "Local Events"
+    },
     {
       "id": "a894f3dc977f025d55aca2af95c9bd90",
       "title": "(LEAD) Heavy downpours flood streets, cause damage nationwide",
@@ -783,22 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261017002700315",
       "published_date": "2026-10-17T08:07:18Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ec890b35c0b6f740e32d2833e55aa6b1",
-      "title": "Tigers defeat Twins to open KBO postseason series",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261017002600315",
-      "published_date": "2026-10-17T08:02:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f03b172963ace922d5c12afc550b7c5e",
-      "title": "Factory fire in Bucheon likely caused by oil vapor ignited by frictional heat: officials",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261017002400315",
-      "published_date": "2026-10-17T07:30:07Z",
       "category": "Local Events"
     }
   ]
