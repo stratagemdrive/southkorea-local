@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-19T00:34:55Z",
+  "generated_at": "2026-10-19T17:23:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "f2ac5a1fac86cd8cbf2567a52c0768a8",
+      "title": "Satellite data trace a drainage route from North Korea’s Pyongsan uranium plant to the Ryesong River",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongsan-uranium-plant-wastewater-pond-ryesong-river-satellite/",
+      "published_date": "2026-10-19T14:43:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ab2aa7c0b9a7c6bcdeaff30c6daba0b8",
+      "title": "Kim Yo Jong threatens restart of North Korean loudspeakers amid border tensions",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/kim-yo-jong-threatens-restart-of-north-korean-loudspeakers-amid-border-tensions/",
+      "published_date": "2026-10-19T10:24:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "e12b8d0db12a9a83f63980c6317a549a",
+      "title": "Suspected North Korean mine found in South Korean county, fourth this month",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/another-north-korean-mine-found-on-south-korean-island-fourth-in-last-month/",
+      "published_date": "2026-10-19T09:17:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "69ac5a66243fd266a27deff42e41dd1c",
+      "title": "US commander’s remarks on extent of South Korean territory draw fire in Seoul",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/us-commanders-remarks-on-extent-of-south-korean-territory-draw-fire-in-seoul/",
+      "published_date": "2026-10-19T08:21:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c2099a30f80fcaba2c1543538ee7d109",
+      "title": "ROK kicks off exercise on countering North Korea, postponed drills with US",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/rok-kicks-off-exercise-on-countering-north-korea-postponed-drills-with-us/",
+      "published_date": "2026-10-19T07:37:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "6a0afa50183c5e6d0f055fce4adc1070",
+      "title": "North Korea-China trade soared to $300M last month ahead of bridge opening: Data",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-korea-china-trade-soared-to-300m-last-month-ahead-of-bridge-opening-data/",
+      "published_date": "2026-10-19T06:12:57Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "58ebf72e5792793418e65e4453ec3a7d",
       "title": "Badminton star An Se-young sets record for most int'l women's singles titles",
@@ -119,54 +167,6 @@
       "source": "Daily NK",
       "url": "https://www.dailynk.com/english/hyesan-customs-reopens-china-national-day/",
       "published_date": "2026-10-17T00:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bb63f0f09a60ad7e099c29ca081e138c",
-      "title": "North Korea tests new high-precision AI-equipped torpedo: state media",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/north-korea-tests-new-high-precision-ai-equipped-torpedo-state-media/",
-      "published_date": "2026-10-16T22:29:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "06060b9745884a735a72c343ac60af49",
-      "title": "(LEAD) N. Korea conducts underwater test of new precision-guided torpedo using AI: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261017000751315",
-      "published_date": "2026-10-16T22:10:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5f11309000143d464965b93554fee894",
-      "title": "N. Korea conducts underwater test of new precision-guided torpedo: KCNA",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261017000700315",
-      "published_date": "2026-10-16T21:35:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f075407b218f86804855d2d3efc72e21",
-      "title": "(URGENT) N. Korea says it conducted new underwater torpedo test Thursday",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261017000600315",
-      "published_date": "2026-10-16T21:18:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bee387fe5df1863b77ddeb29cc33ea75",
-      "title": "(LEAD) S. Korea, U.S. hold first 2+2 meeting of finance, monetary policymakers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016008451320",
-      "published_date": "2026-10-16T21:03:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d81c6b92a4595ee14ff42ec1d44950d8",
-      "title": "Belarus belatedly opens embassy in North Korea: Minsk",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/belarus-belatedly-opens-embassy-in-north-korea-minsk/",
-      "published_date": "2026-10-16T20:55:12Z",
       "category": "Diplomacy"
     }
   ],
@@ -459,14 +459,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261013002900320",
       "published_date": "2026-10-13T01:04:34Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d4bbc8dd96624369891547b977f697c9",
-      "title": "Gov't finalizes 6th Suicide Prevention Basic Plan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261012002800315",
-      "published_date": "2026-10-12T07:00:02Z",
       "category": "Energy"
     }
   ],
