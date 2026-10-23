@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-22T15:48:29Z",
+  "generated_at": "2026-10-23T01:04:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "450145b5112af9bac7f691316147debe",
+      "title": "Hyundai Motor supplies 11 electric buses to Indonesia's Bali",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023002200320",
+      "published_date": "2026-10-23T00:28:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b2d72b31593c485a2ad347678c80ea44",
+      "title": "N. Korea likely planted 960,000 land mines along inter-Korean border since 2024: lawmakers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023002100315",
+      "published_date": "2026-10-23T00:24:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8f7158fec0a1f910bc9c3270004051ef",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000800315",
+      "published_date": "2026-10-22T22:07:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dc710f52222d9a356d7bc34addba551f",
+      "title": "Trump-Kim summit unlikely in near future amid N. Korean demands: U.S. experts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000300315",
+      "published_date": "2026-10-22T21:03:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8ebf755574d95f99a6953648c59be1d3",
+      "title": "S. Korea sends letter to UNSC urging N. Korea to take responsibility for DMZ mine blasts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000200315",
+      "published_date": "2026-10-22T19:46:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "ea5535866b2221917ff93c480e215150",
+      "title": "U.S. envoy highlights shipbuilding cooperation with S. Korea in visit to Samsung Heavy's Geoje shipyard",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261022012300315",
+      "published_date": "2026-10-22T18:11:45Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "56cb2a9953ae4c31d943b1a71e7bc3a3",
       "title": "North Koreans dodge style patrols as constitution enshrines the socialist lifestyle",
@@ -119,54 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261022007551315",
       "published_date": "2026-10-22T07:08:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ed91c6d2f146b96f49633c229a0595ff",
-      "title": "(LEAD) Seoul stocks slide over 3 pct on profit-taking amid persistent AI woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022008051320",
-      "published_date": "2026-10-22T07:07:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "148a8a27d16afe63949f3a05e9504dee",
-      "title": "Seoul stocks slide over 3 pct on profit-taking amid persistent AI woes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022008000320",
-      "published_date": "2026-10-22T06:35:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0440f0cc9b35cb106d8d80460a4359fc",
-      "title": "Hyundai, Kia's Sept. sales fall 1.7 pct in September amid model shortage",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022007700320",
-      "published_date": "2026-10-22T06:21:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "48404439a78f4bfafa65bb84887a9013",
-      "title": "North Korean, Russian prosecutors sign deal on combating terrorism, smuggling",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/north-korean-russian-prosecutors-sign-deal-on-combating-terrorism-smuggling/",
-      "published_date": "2026-10-22T06:01:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "daeea539a0552437a054bd7047cb4d19",
-      "title": "S. Korea to send letter to UNSC urging N. Korea to apologize for DMZ mine blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022007500315",
-      "published_date": "2026-10-22T05:59:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0b29eb69dc4f500a2e1e00050cf04161",
-      "title": "(URGENT) S. Korea to send letter to U.N. Security Council over N. Korean mine blast: foreign ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022007300315",
-      "published_date": "2026-10-22T05:44:42Z",
       "category": "Diplomacy"
     }
   ],
@@ -314,17 +314,49 @@
       "url": "https://en.yna.co.kr/view/AEN20261016006500315",
       "published_date": "2026-10-16T06:11:28Z",
       "category": "Military"
-    },
-    {
-      "id": "a2a9bcf392bc2e14661c61b62cdfbd29",
-      "title": "Bipartisan U.S. Senate bill seeks to reaffirm 'ironclad' nuclear deterrence commitment to S. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016000200315",
-      "published_date": "2026-10-15T17:46:37Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "794a42acc17ceca9fcbbfdd06875146d",
+      "title": "(LEAD) Seoul shares open sharply lower amid persistent AI woes, rising oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023001251320",
+      "published_date": "2026-10-23T00:19:59Z",
+      "category": "Energy"
+    },
+    {
+      "id": "7e3e08c3ae757ae420b116d59c4cc005",
+      "title": "Seoul shares open sharply lower amid persistent AI woes, rising oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023001200320",
+      "published_date": "2026-10-23T00:03:06Z",
+      "category": "Energy"
+    },
+    {
+      "id": "b16a1de02136590acb5fd4017511e34c",
+      "title": "(URGENT) Seoul shares open sharply lower amid persistent AI woes, rising oil prices",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023001100320",
+      "published_date": "2026-10-23T00:01:36Z",
+      "category": "Energy"
+    },
+    {
+      "id": "207c62d6cba5cf2bd1053d2dea246ffe",
+      "title": "(LEAD) SK hynix halts review of Solidigm U.S. IPO",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000951320",
+      "published_date": "2026-10-22T23:44:11Z",
+      "category": "Energy"
+    },
+    {
+      "id": "2478f986d86a6275036a63d05088ec69",
+      "title": "SK hynix halts review of Solidigm U.S. IPO",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000900320",
+      "published_date": "2026-10-22T23:16:43Z",
+      "category": "Energy"
+    },
     {
       "id": "c6c352b52239facbf822c232b02e8134",
       "title": "(LEAD) S. Korea raises cybersecurity alert level as PHP flaw sparks global security concerns",
@@ -444,49 +476,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261017001800315",
       "published_date": "2026-10-17T04:08:25Z",
       "category": "Energy"
-    },
-    {
-      "id": "1fe1d1af5ff23d13925579d92a40ad83",
-      "title": "U.S. senator hails Hanwha's role in revitalizing American shipbuilding industry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261017000500315",
-      "published_date": "2026-10-16T19:53:15Z",
-      "category": "Energy"
-    },
-    {
-      "id": "914c1c252be978dbf4129ab9270c4ad8",
-      "title": "(URGENT) Lee calls for constitutional revision to reflect spirit of democratization",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016005800315",
-      "published_date": "2026-10-16T05:33:02Z",
-      "category": "Energy"
-    },
-    {
-      "id": "0c3026dd03d2503c1096c1a48d1e208f",
-      "title": "(LEAD) Seoul stocks open higher after 7-day losing streak",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016001851320",
-      "published_date": "2026-10-16T00:28:49Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d8ab0569bbb43ea28e57a82538cd1403",
-      "title": "Seoul stocks open higher after 7-day losing streak",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016001800320",
-      "published_date": "2026-10-16T00:05:16Z",
-      "category": "Energy"
-    },
-    {
-      "id": "edef3641e9ba0dacb48f4c14f93fedaa",
-      "title": "SK hynix tops list of most sought-after firms among S. Korean job seekers: survey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261016001500320",
-      "published_date": "2026-10-15T23:36:14Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "a0fb8a87408e0d40df23d019ce3565a0",
+      "title": "(EDITORIAL from Korea Herald on Oct. 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000600315",
+      "published_date": "2026-10-22T22:06:34Z",
+      "category": "Economy"
+    },
+    {
+      "id": "da6026963602e449ac447cf8ecb25442",
+      "title": "Delinquency ratio on bank loans up for 2nd month in Aug.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261022006700320",
+      "published_date": "2026-10-22T21:00:10Z",
+      "category": "Economy"
+    },
     {
       "id": "7d98ae1dffbe13a12df12a8a0d15bfd4",
       "title": "S. Korean won strengthens against U.S. dollar after BOK holds key rate",
@@ -630,25 +638,41 @@
       "url": "https://en.yna.co.kr/view/AEN20261021007200315",
       "published_date": "2026-10-21T21:00:07Z",
       "category": "Economy"
-    },
-    {
-      "id": "000dc6295a193a08ad888ac4c0eb989d",
-      "title": "S. Korean won extends gains against U.S. dollar on strong exports",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261021009200320",
-      "published_date": "2026-10-21T07:13:52Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f03728f1e5440f1fe8320d929a7b1b60",
-      "title": "FTC chief acknowledges role of conglomerates in economic growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261021003600320",
-      "published_date": "2026-10-21T01:56:24Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "557518674de0d926bd9e60d48841861a",
+      "title": "Appeals court to rule on Seoul mayor's high-stakes political funds trial",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023001000315",
+      "published_date": "2026-10-23T00:01:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "93786464134f75a613bfa5ecde085655",
+      "title": "(EDITORIAL from Korea Times on Oct. 23)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000700315",
+      "published_date": "2026-10-22T22:06:54Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "849a4530a9d9e474a809309513ffe25e",
+      "title": "Old KBO rivals to duel for ticket to championship series",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261022009100315",
+      "published_date": "2026-10-22T22:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "3cc4d6b86db8208896ca50a23112d8aa",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261023000500315",
+      "published_date": "2026-10-22T21:58:50Z",
+      "category": "Local Events"
+    },
     {
       "id": "4c5e67ab5b5bcb94df666a7ff6b205fb",
       "title": "Court issues arrest warrant for suspect in patent firm arson attacks",
@@ -775,38 +799,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261022005700315",
       "published_date": "2026-10-22T03:22:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4c598149867a1fb59ccb10035171f0df",
-      "title": "(URGENT) Earlier back-to-back rate hikes give BOK time to assess conditions: Gov. Shin",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022004500320",
-      "published_date": "2026-10-22T02:25:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9fe88d5e0b029032e0db7075129f33fc",
-      "title": "Young Poong loses shareholder derivative suit against Korea Zinc",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022004200315",
-      "published_date": "2026-10-22T02:17:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "40ed532e9d3976d9633b69cf201d5d06",
-      "title": "Foreign tourist arrivals in S. Korea on track to exceed last year's total",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022004000315",
-      "published_date": "2026-10-22T02:12:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "678446705bd8d38972a6bbd7a3b45152",
-      "title": "Incheon stabbing suspect tests negative for psychopathy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022003800315",
-      "published_date": "2026-10-22T02:09:16Z",
       "category": "Local Events"
     }
   ]
