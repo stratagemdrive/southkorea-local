@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-23T15:39:11Z",
+  "generated_at": "2026-10-24T01:14:29Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,22 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "1482854d4fe51b59d8df22963ddad982",
+      "title": "N. Korea's Kim calls for 'strongest army' in speech for military meeting in Pyongyang",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024000800320",
+      "published_date": "2026-10-24T00:18:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0c4206cf019f7d856a601c5604ec098c",
+      "title": "U.N. official thanks S. Korea for helicopter donation to Kenya for peacekeeping operations",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024000400315",
+      "published_date": "2026-10-23T16:34:02Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "683af53db04b205264715a8ce7e95a38",
       "title": "German Chancellor Merz to visit S. Korea next week for summit with Lee",
@@ -152,25 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261023006300320",
       "published_date": "2026-10-23T06:34:16Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "a500c80607a2639ccbf164196e46e863",
-      "title": "Science minister vows to come up with pan-ministerial measures to regulate smart glasses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006200320",
-      "published_date": "2026-10-23T06:30:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c1c26b8e93b91ce1d15f4f4fddab9188",
-      "title": "Main opposition welcomes Seoul mayor's acquittal in political funds trial",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006100315",
-      "published_date": "2026-10-23T06:12:49Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "7a44a568ee0c682f972bd805ad756044",
+      "title": "U.S. Army activates air defense battalion in Guam amid N. Korean, Chinese missile threats: report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024000500315",
+      "published_date": "2026-10-23T18:54:15Z",
+      "category": "Military"
+    },
     {
       "id": "070199228f7cd305c7dbb491036f10a5",
       "title": "S. Korea donates 8 retired military helicopters to Kenya",
@@ -321,14 +329,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261019003700315",
       "published_date": "2026-10-19T02:25:38Z",
-      "category": "Military"
-    },
-    {
-      "id": "0b41166f86bfcbd7ec48d62b309ba44c",
-      "title": "1 KATUSA killed, 3 USFK soldiers injured in rollover crash in Daegu",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261019002400315",
-      "published_date": "2026-10-19T01:23:05Z",
       "category": "Military"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "d71b40caf8874e04b0500973997ab7a1",
+      "title": "U.S. Treasury Department proposes expanding tech investment restrictions to N. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024000200315",
+      "published_date": "2026-10-23T16:15:25Z",
+      "category": "Economy"
+    },
+    {
       "id": "e9458d043f5aa9ed3c85102c03d1aff8",
       "title": "Secret abortion pills leave Kaechon schoolgirl bleeding in the street",
       "source": "Daily NK",
@@ -646,17 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261022002700320",
       "published_date": "2026-10-22T01:00:02Z",
       "category": "Economy"
-    },
-    {
-      "id": "9bb90b6f5787b628d8dbf5dce93be27d",
-      "title": "BOK holds key rate steady at 3 pct after 2 consecutive rate hikes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022001300320",
-      "published_date": "2026-10-22T00:51:27Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "9ace500c3e8034676546aeaefec391a5",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024000900320",
+      "published_date": "2026-10-24T00:33:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "67dac2e229fea8d3396c88c3ac7807da",
+      "title": "Melania Trump secures localized Russia-Ukraine ceasefire for humanitarian aid: White House",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024000300315",
+      "published_date": "2026-10-23T16:15:54Z",
+      "category": "Local Events"
+    },
     {
       "id": "5a103ad0623df54f39684da56d71521f",
       "title": "Spy agency said to assess that social media rumors of N. Korean leader's death are false",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261023004300315",
       "published_date": "2026-10-23T03:02:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6b58ac5de3f6a7a24400741f9139f9a6",
-      "title": "Number of laying hens raised at local farms up in Q3",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023001400320",
-      "published_date": "2026-10-23T03:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "56ecd856527ee96f4dfefa3df853dd28",
-      "title": "Over 80 production houses, 95,000 people in S. Korea involved in Netflix content over past 10 yrs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023004100320",
-      "published_date": "2026-10-23T02:49:46Z",
       "category": "Local Events"
     }
   ]
