@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-24T01:14:29Z",
+  "generated_at": "2026-10-24T14:18:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,118 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "981caaf5abc80f2f4ae9530bffbce2b4",
+      "title": "(5th LD) N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001956320",
+      "published_date": "2026-10-24T12:26:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4f4af92fd320382117f9f3ce3771c638",
+      "title": "(URGENT) N. Korean leader Kim Jong-un leaves Dandong, seen off by China's top political adviser: Xinhua",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024005800320",
+      "published_date": "2026-10-24T11:22:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9fe226dada365629b6d9218c83aaf6c3",
+      "title": "With LPGA title on home soil in sight, Ryu Hae-ran ready to have fun",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024005700315",
+      "published_date": "2026-10-24T09:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "87ccd56e75e8a596613d60b6c55c1ea5",
+      "title": "(4th LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001955320",
+      "published_date": "2026-10-24T09:51:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "415b504fdfb8708275439dc589d4ccd6",
+      "title": "(3rd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001954320",
+      "published_date": "2026-10-24T08:42:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7d4a6a21b55f4c34662a7171ddd66fa7",
+      "title": "KBO saves leader out for Lions' postseason series due to injury",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024004700315",
+      "published_date": "2026-10-24T07:58:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "29b1fae683309ff8f00e5ae9f2740b33",
+      "title": "(2nd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001953320",
+      "published_date": "2026-10-24T07:41:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3816d079319727ce10c0dafab79b4574",
+      "title": "(URGENT) N. Korea's Kim appears to be planning to return home Saturday after visiting China's Dandong: ruling party source",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024002300320",
+      "published_date": "2026-10-24T07:39:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "eed3bfcaa552e80617c6c729824cb662",
+      "title": "(LEAD) N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001952320",
+      "published_date": "2026-10-24T06:34:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4cd6e2e997166915ed2fcbab4b4d0935",
+      "title": "North Korea’s Kim Jong Un visits Chinese border city of Dandong: Xinhua",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/north-koreas-kim-jong-un-visits-chinese-border-city-seoul/",
+      "published_date": "2026-10-24T06:26:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "942c083d8f18899bbeeefca2e0c159e0",
+      "title": "N. Korea's Kim arrives in China's Dandong via newly opened bridge: gov't source",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001951320",
+      "published_date": "2026-10-24T06:17:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "421d368a90c79793dd5dcd5e6ed63941",
+      "title": "Kim Jong Un rallies junior commanders to build ‘world’s strongest’ army",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/kim-jong-un-rallies-junior-commanders-to-build-worlds-strongest-army/",
+      "published_date": "2026-10-24T02:02:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5c20fe79623bdf019d21da0ec0ffa65b",
+      "title": "Wage talks between POSCO, unionized workers break down",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001200320",
+      "published_date": "2026-10-24T01:46:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "483475e2df7a571e23d794a87cf18312",
+      "title": "American aces to face each other in KBO postseason series opener",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001100315",
+      "published_date": "2026-10-24T01:25:28Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "1482854d4fe51b59d8df22963ddad982",
       "title": "N. Korea's Kim calls for 'strongest army' in speech for military meeting in Pyongyang",
@@ -55,118 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261023009500315",
       "published_date": "2026-10-23T08:16:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "65668ac7d078a7b9e24453e69a844143",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023009600315",
-      "published_date": "2026-10-23T08:16:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c2d57074bb09a97403fd159b4dedf828",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023009800315",
-      "published_date": "2026-10-23T08:15:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "81d98c91274981334c6662fb66305150",
-      "title": "Police investigating if North Korean IT worker infiltrated ROK organization",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/police-investigating-if-north-korean-it-worker-infiltrated-rok-organization/",
-      "published_date": "2026-10-23T08:03:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "af2a0a4f23ec5fbaf2cd569dba8c2897",
-      "title": "(News Focus) Acquittal puts Seoul mayor on path to potential presidential run",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023008400315",
-      "published_date": "2026-10-23T07:57:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e9e25938503f46ce3f5908dd0d1cc90b",
-      "title": "(2nd LD) S. Korea proposes military talks with N. Korea to ease tensions along border",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023005752315",
-      "published_date": "2026-10-23T07:45:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bc4a6f3afd375404649cd67e444014c5",
-      "title": "(LEAD) Main opposition hails Seoul mayor's acquittal in political funds trial; ruling party calls for appeal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006151315",
-      "published_date": "2026-10-23T07:42:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6af4855636a281b2fd2008a0f5a67136",
-      "title": "(2nd LD) Seoul stocks end tad higher on bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006452320",
-      "published_date": "2026-10-23T07:39:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b3cf94edfcc700bfa885a9bdd0ce5ca8",
-      "title": "Justin Bieber makes surprise visit to S. Korea after 13 years",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023008000315",
-      "published_date": "2026-10-23T07:17:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2952e098d6c6b1ea4accf224500ea32c",
-      "title": "How North Korea built its founding mythology around an obscure communist group",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/how-north-korea-built-its-founding-mythology-around-an-obscure-communist-group/",
-      "published_date": "2026-10-23T07:12:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f9ea2d318fde41b4d819fe49d88a85b7",
-      "title": "(LEAD) Seoul stocks end tad higher on bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006451320",
-      "published_date": "2026-10-23T06:59:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "221e1b6f741af66261b6523915e7ef66",
-      "title": "Lee urges reform of outdated regulations hampering growth of advanced industries",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023007700315",
-      "published_date": "2026-10-23T06:52:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5c3ee56e704ca8720d7d77977eaeba93",
-      "title": "(LEAD) S. Korea proposes military talks with N. Korea to resolve border location issue",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023005751315",
-      "published_date": "2026-10-23T06:50:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2e5fe1ffa36e6d57146f18577758729f",
-      "title": "Seoul stocks end tad higher on bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006400320",
-      "published_date": "2026-10-23T06:36:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ac377aaaa9c0a506c7d920500c3f5908",
-      "title": "(URGENT) Seoul stocks end tad higher on bargain hunting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006300320",
-      "published_date": "2026-10-23T06:34:16Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "6786f4b700f471191f433b3334f2932d",
+      "title": "Ryu Hae-ran builds 4-shot lead at LPGA event in S. Korea",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024005300315",
+      "published_date": "2026-10-24T08:12:03Z",
+      "category": "Energy"
+    },
+    {
       "id": "2870e447e01e26371678a6f1c8d2ce10",
       "title": "36-hole leader Ryu Hae-ran 'happy' with state of game at LPGA event: 'Everything is good for me.'",
       "source": "Yonhap News Agency",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261019005200320",
       "published_date": "2026-10-19T06:00:02Z",
       "category": "Energy"
-    },
-    {
-      "id": "f7b8947b65d22651fe9a1c29b8090b42",
-      "title": "Choi Hye-jin blows late lead, settles for 2nd place in LPGA event in Shanghai",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261018002500315",
-      "published_date": "2026-10-18T07:31:34Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "0974e5d06372be3782e4ed8c653136ef",
+      "title": "Investor deposits at brokerages plunge on stock market volatility",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001800320",
+      "published_date": "2026-10-24T04:11:34Z",
+      "category": "Economy"
+    },
     {
       "id": "d71b40caf8874e04b0500973997ab7a1",
       "title": "U.S. Treasury Department proposes expanding tech investment restrictions to N. Korea",
@@ -646,17 +654,49 @@
       "url": "https://en.yna.co.kr/view/AEN20261022001351320",
       "published_date": "2026-10-22T01:21:26Z",
       "category": "Economy"
-    },
-    {
-      "id": "c54b810a8a36fc57499314196a7e04cd",
-      "title": "Vice budget minister calls Future Fund 'fiscal innovation' for future growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022002700320",
-      "published_date": "2026-10-22T01:00:02Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "2ee06e55a6e39ffcfa1cef99938f956b",
+      "title": "FC Seoul boss Kim Gi-dong happy to deliver on championship promise",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024005600315",
+      "published_date": "2026-10-24T09:08:36Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "37b1cbd0361798eef46e9e8fc2aa5c72",
+      "title": "(LEAD) FC Seoul crowned K League 1 champions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024002051315",
+      "published_date": "2026-10-24T08:16:51Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ee87f09144bef0c77e3591b7f6af784f",
+      "title": "FC Seoul crowned K League 1 champions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024002000315",
+      "published_date": "2026-10-24T07:06:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f58d4bed87f6d6017cc27641dd1eb079",
+      "title": "(URGENT) N. Korea's Kim arrives in China's border city of Dandong via newly opened bridge",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001900320",
+      "published_date": "2026-10-24T06:03:55Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "f2b98d643305533b00168a037527708c",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261024001000320",
+      "published_date": "2026-10-24T05:00:00Z",
+      "category": "Local Events"
+    },
     {
       "id": "9ace500c3e8034676546aeaefec391a5",
       "title": "Top headlines in major S. Korean newspapers",
@@ -775,46 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261023005600315",
       "published_date": "2026-10-23T05:18:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "71bec1c6fe16a49e561847390de0352f",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023001500315",
-      "published_date": "2026-10-23T05:00:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "186007b2dd6cf37bfdb3f7f56d2d6126",
-      "title": "Arrest warrant sought for woman accused of killing own mother",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023004000315",
-      "published_date": "2026-10-23T04:56:10Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "4ad947bc2a4a8a1f8ef6af1a903bc14f",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023004700315",
-      "published_date": "2026-10-23T04:32:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1c2d3e4e8478a0f2b107c6e164b8f6bd",
-      "title": "Special counsel says deceased NEC official's note cites no coercion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023004400315",
-      "published_date": "2026-10-23T03:26:56Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8c56f80d2c5a3f8c44a98a766ced7d11",
-      "title": "Bereaved family members denounce labor inspection results on Coupang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023004300315",
-      "published_date": "2026-10-23T03:02:33Z",
       "category": "Local Events"
     }
   ]
