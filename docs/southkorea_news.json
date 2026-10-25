@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-24T14:18:58Z",
+  "generated_at": "2026-10-25T00:39:27Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,54 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "8819badf326449d7e6c0a3ec6c090b5d",
+      "title": "S. Korea's Q2 current account surplus ranks 2nd on robust chip exports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261025000800320",
+      "published_date": "2026-10-25T00:32:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4bf8b030b349bfed8a0c7a20e03544fd",
+      "title": "(News Focus) What's next for Trump's Korea policy after U.S. midterms? Experts assess alliance friction, N.K. diplomacy",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261025000700315",
+      "published_date": "2026-10-25T00:30:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b999bd288c689651d92814db866a512f",
+      "title": "Kim Jong Un says North Korea ‘inspired’ by China’s success in border city visit",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/10/kim-jong-un-says-north-korea-inspired-by-chinas-success-in-border-city-visit/",
+      "published_date": "2026-10-25T00:27:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0a5c7c1611e68cbdedad22fabdf47918",
+      "title": "(LEAD) N.K. leader vows to advance ties with China during surprise Dandong visit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261025000351315",
+      "published_date": "2026-10-25T00:11:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4779dd18dcfe36bcc58c4d59fdeb303c",
+      "title": "N. Korea reports leader Kim's surprise visit to China",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261025000300315",
+      "published_date": "2026-10-24T22:14:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3dbd94003061113180d1087fcc73d858",
+      "title": "(URGENT) N. Korea confirms leader Kim's Saturday visit to China",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261025000200315",
+      "published_date": "2026-10-24T21:49:20Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "981caaf5abc80f2f4ae9530bffbce2b4",
       "title": "(5th LD) N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
@@ -119,54 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261024001100315",
       "published_date": "2026-10-24T01:25:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1482854d4fe51b59d8df22963ddad982",
-      "title": "N. Korea's Kim calls for 'strongest army' in speech for military meeting in Pyongyang",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261024000800320",
-      "published_date": "2026-10-24T00:18:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0c4206cf019f7d856a601c5604ec098c",
-      "title": "U.N. official thanks S. Korea for helicopter donation to Kenya for peacekeeping operations",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261024000400315",
-      "published_date": "2026-10-23T16:34:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "683af53db04b205264715a8ce7e95a38",
-      "title": "German Chancellor Merz to visit S. Korea next week for summit with Lee",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023010100315",
-      "published_date": "2026-10-23T12:41:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "bbf06625fec0b9de4b4ba67403933d5c",
-      "title": "(LEAD) Lee calls for closer S. Korea-Japan supply chain cooperation at meeting with Japanese biz delegation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023002351315",
-      "published_date": "2026-10-23T12:04:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e5ee0cb5814aa31343124abfef193538",
-      "title": "Chinese officials visit North Korea to mark China’s entry into Korean War",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/chinese-officials-visit-north-korea-to-mark-chinas-entry-into-korean-war/",
-      "published_date": "2026-10-23T09:32:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "27fcd781ebfad4c8f237462e544f7316",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023009500315",
-      "published_date": "2026-10-23T08:16:34Z",
       "category": "Diplomacy"
     }
   ],
