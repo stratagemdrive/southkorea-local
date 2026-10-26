@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-25T14:53:26Z",
+  "generated_at": "2026-10-26T00:50:09Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "677f300f803f301e56a611923bbf80f3",
+      "title": "Tigers catcher hoping to recapture KBO postseason glory of 2024",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026001900315",
+      "published_date": "2026-10-26T00:34:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fca8b54dcca96571126a1f57bf28a542",
+      "title": "Samsung SDI's unit to supply ESS solutions to U.S. firm",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026001800320",
+      "published_date": "2026-10-26T00:24:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b85e7f9fd9dedd28a912d89c3b04e3fe",
+      "title": "Lee's approval rating falls to 35.3 pct after rebound: poll",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026001300315",
+      "published_date": "2026-10-25T23:52:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a9931d2104e1ac188a02b0e0bc079a52",
+      "title": "N. Korea sends letter to UNSC calling DMZ mine blast S. Korean fabrication",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026000900315",
+      "published_date": "2026-10-25T23:19:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b1a93fb3af8f9e2ccc3b4e01633ead9e",
+      "title": "(EDITORIAL from Korea Times on Oct. 26)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026000500315",
+      "published_date": "2026-10-25T22:06:35Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "95fc870bda87a01ab11578ea20c54ae4",
       "title": "(3rd LD) N.K. leader vows to advance ties with China during surprise Dandong visit",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261025000351315",
       "published_date": "2026-10-25T00:11:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4779dd18dcfe36bcc58c4d59fdeb303c",
-      "title": "N. Korea reports leader Kim's surprise visit to China",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261025000300315",
-      "published_date": "2026-10-24T22:14:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "3dbd94003061113180d1087fcc73d858",
-      "title": "(URGENT) N. Korea confirms leader Kim's Saturday visit to China",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261025000200315",
-      "published_date": "2026-10-24T21:49:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "981caaf5abc80f2f4ae9530bffbce2b4",
-      "title": "(5th LD) N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261024001956320",
-      "published_date": "2026-10-24T12:26:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4f4af92fd320382117f9f3ce3771c638",
-      "title": "(URGENT) N. Korean leader Kim Jong-un leaves Dandong, seen off by China's top political adviser: Xinhua",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261024005800320",
-      "published_date": "2026-10-24T11:22:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9fe226dada365629b6d9218c83aaf6c3",
-      "title": "With LPGA title on home soil in sight, Ryu Hae-ran ready to have fun",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261024005700315",
-      "published_date": "2026-10-24T09:55:00Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "ce0f5e617d304b725021df3e9a9ada14",
+      "title": "(EDITORIAL from Korea Herald on Oct. 26)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026000400315",
+      "published_date": "2026-10-25T22:06:19Z",
+      "category": "Energy"
+    },
+    {
       "id": "5608670ae7e6c8d21f7c0defa8f12c8d",
       "title": "2 S. Koreans finish as runners-up at LPGA event on home soil",
       "source": "Yonhap News Agency",
@@ -484,17 +492,41 @@
       "url": "https://en.yna.co.kr/view/AEN20261020006500320",
       "published_date": "2026-10-20T05:53:23Z",
       "category": "Energy"
-    },
-    {
-      "id": "df14cd6a0514a9af10045affcf0c07b6",
-      "title": "(EDITORIAL from The Korea Times on Oct. 20)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261020000900320",
-      "published_date": "2026-10-19T22:46:14Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "526ed5150526638b6514103025c32e2d",
+      "title": "(LEAD) Seoul stocks open lower ahead of earnings reports, Fed decision",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026001151320",
+      "published_date": "2026-10-26T00:24:41Z",
+      "category": "Economy"
+    },
+    {
+      "id": "59d898ddd4e90f6eeb575372aabcb819",
+      "title": "Seoul stocks open lower ahead of earnings reports, Fed decision",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026001100320",
+      "published_date": "2026-10-26T00:03:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "643a70e6e682e0a2ff622e3064e84d06",
+      "title": "(URGENT) Seoul stocks open lower ahead of earnings reports, Fed decision",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026001200320",
+      "published_date": "2026-10-26T00:01:17Z",
+      "category": "Economy"
+    },
+    {
+      "id": "2936a2b99c38c93e1d15b0ecd2aa79fc",
+      "title": "Korean won's nominal effective rate rises to 2-yr high",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026001000320",
+      "published_date": "2026-10-25T23:51:41Z",
+      "category": "Economy"
+    },
     {
       "id": "0bbac79080e8d4a21088ffe0cdd5d63e",
       "title": "Osong beauty expo draws nearly US$100 mln in export deals",
@@ -622,41 +654,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261022007000320",
       "published_date": "2026-10-22T05:46:10Z",
       "category": "Economy"
-    },
-    {
-      "id": "141010ac9963fdba819acd0dcdb31853",
-      "title": "(3rd LD) BOK holds rate at 3 pct after 2 straight hikes, signals continued tightening",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022001353320",
-      "published_date": "2026-10-22T04:08:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ff0d7aa821243308c3d6b911ce6785b4",
-      "title": "(URGENT) Recent stock market correction weighs on consumption: BOK Gov. Shin",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022006000320",
-      "published_date": "2026-10-22T02:56:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0ac9757eb41f70b3bf15d646fd7a9602",
-      "title": "(URGENT) Investment-focused fiscal spending compatible with monetary tightening: BOK Gov. Shin",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022005900320",
-      "published_date": "2026-10-22T02:51:53Z",
-      "category": "Economy"
-    },
-    {
-      "id": "34ddad45884ffc80f6af3b788223a323",
-      "title": "(URGENT) Strengthening won likely helps boost consumption in S. Korea: BOK Gov. Shin",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022005500320",
-      "published_date": "2026-10-22T02:33:30Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "3876cc8d90f8cfb9b44dde30eddd6f58",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 26)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026000600315",
+      "published_date": "2026-10-25T22:06:50Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "0ec8d693c190ca6dbe89626f0209859c",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261026000300315",
+      "published_date": "2026-10-25T22:06:05Z",
+      "category": "Local Events"
+    },
     {
       "id": "cca72a20111acb327b8ebed27016cc57",
       "title": "More Korean middle school students experience feelings of depression: data",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261023008700315",
       "published_date": "2026-10-23T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a83f12f9e2d0e469681b4dca13e06777",
-      "title": "(LEAD) Woori Financial Q3 net falls 16 pct on one-time factor",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023006651320",
-      "published_date": "2026-10-23T07:08:15Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "2c0210849fcb2debcaf0ddead6d39526",
-      "title": "(LEAD) Special counsel says deceased NEC official's note cites no coercion",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261023004451315",
-      "published_date": "2026-10-23T06:56:33Z",
       "category": "Local Events"
     }
   ]
