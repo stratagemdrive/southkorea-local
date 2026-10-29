@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-28T17:01:33Z",
+  "generated_at": "2026-10-29T01:59:47Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "c3f6c2a8345eaad46ac687e553786c0e",
+      "title": "(LEAD) Lee set to hold summit with German chancellor on economic cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001451315",
+      "published_date": "2026-10-29T01:54:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b7ce6fd86cab8dddb1e71f5720c5f437",
+      "title": "(2nd LD) Samsung Electronics posts record profit in Q3 on AI chip supercycle",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002652320",
+      "published_date": "2026-10-29T01:48:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3b9c57561945b483463ebbf36a5789d1",
+      "title": "KHNP ends talks with consortium on Czech nuclear plant construction contract",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029004400320",
+      "published_date": "2026-10-29T01:37:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bb29f92417e94b229e4fc1c205b3eeaf",
+      "title": "Lee offers condolences over deadly train crash in Spain",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029004700315",
+      "published_date": "2026-10-29T01:36:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "39a2dff7a9801c10eb8ba1c9d4226256",
+      "title": "(LEAD) Samsung Electronics posts record profit in Q3 on AI chip supercycle",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002651320",
+      "published_date": "2026-10-29T01:08:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "71a57f0d10b61c6e2cac8e69553a6ef1",
+      "title": "Transactions of repo loans rise 3.16 pct in Q3",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002900320",
+      "published_date": "2026-10-29T00:58:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "09b46b79d9637080829520ac7f0b71d9",
+      "title": "N. Korea promotes Sinuiju's night view after opening bridge to China",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002400315",
+      "published_date": "2026-10-29T00:44:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9161d2f020af78e64268f06ca69f15b0",
+      "title": "2 S. Koreans injured in deadly train collision in Spain",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002300315",
+      "published_date": "2026-10-29T00:29:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fbe4d90653db4644c734c74ab9ef04b3",
+      "title": "Lee set to hold summit with German chancellor on economic cooperation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001400315",
+      "published_date": "2026-10-28T23:42:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "02c4373b5810e4a2384d0f90aecc0f09",
+      "title": "S. Korea, Turkey unearth Hellenistic-era mosaic remains",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001300315",
+      "published_date": "2026-10-28T23:37:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "7be2bf602574414601d3b4df19e1b401",
+      "title": "(EDITORIAL from Korea Times on Oct. 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000900315",
+      "published_date": "2026-10-28T21:57:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "daf77d1d658810ba502c49bb50fe561f",
+      "title": "S. Korea, U.S., partners reaffirm N. Korea denuclearization goal, back sanctions enforcement",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000600315",
+      "published_date": "2026-10-28T21:28:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "86a6668855526b1bd442ffe686156894",
+      "title": "U.S. sanctions 10 individuals, entity over N. Korean IT worker fraud schemes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000400315",
+      "published_date": "2026-10-28T18:03:45Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "9947a7f49e69dad7982722fa6c8fb88a",
       "title": "Ruling party lawmaker voices regret over U.S. visa rejection",
@@ -63,110 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261028011800315",
       "published_date": "2026-10-28T09:35:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "36e9b3c972034c772dddbc4d3b454e91",
-      "title": "HD Hyundai says discussing potential order volume with U.S. Navy",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028011600315",
-      "published_date": "2026-10-28T08:58:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "7269cb25a600a05f88e8e697914e544c",
-      "title": "(2nd LD) Communications watchdog fines Google, Apple over in-app payment policies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028010052320",
-      "published_date": "2026-10-28T08:45:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "e4a4764edc6339fecab5ff3d337ed2f4",
-      "title": "Bonnie Jenkins on the future of North Korea diplomacy: North Korea Unpacked",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/bonnie-jenkins-on-the-future-of-north-korea-diplomacy-north-korea-unpacked/",
-      "published_date": "2026-10-28T08:25:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5ec510954039349d0106291a34fa22b0",
-      "title": "The elephant’s gambit: Why Seoul and Washington should ignore North Korea",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/the-elephants-gambit-why-seoul-and-washington-should-ignore-north-korea/",
-      "published_date": "2026-10-28T08:23:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "52520a367a3d6b060bd02dd6b7c880d2",
-      "title": "(LEAD) Communications watchdog fines Google, Apple over in-app payment policies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028010051320",
-      "published_date": "2026-10-28T08:13:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5d7f3fbd9424b8ca807267fc496b4f62",
-      "title": "US-ROK command could be ‘suboptimal’ after OPCON transfer: Ex-USFK commander",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/us-rok-command-could-be-suboptimal-after-opcon-transfer-ex-usfk-commander/",
-      "published_date": "2026-10-28T08:10:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4f5a4f3b30b1601ebc123061ca6ed0be",
-      "title": "(LEAD) Samsung C&T Q3 net falls 9.5 pct on FX losses",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028008451320",
-      "published_date": "2026-10-28T08:07:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "02b64fd0eabc679afd9d0b3f79f3b8a0",
-      "title": "Communications watchdog fines Google, Apple over in-app payment policies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028010000320",
-      "published_date": "2026-10-28T07:51:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "184d7fcd24cf2b59ac9fe770d4d0e52f",
-      "title": "(URGENT) Communications watchdog fines Google, Apple over in-app payment policies",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028009800320",
-      "published_date": "2026-10-28T07:33:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "49f54e6eb6baedb62c4769525ebf895a",
-      "title": "S. Korea accepts int'l arbitration in favor of Elliott in Samsung merger case",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028008800315",
-      "published_date": "2026-10-28T06:53:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "21f2780f528ba3e638c143d8fa15623c",
-      "title": "North Korean trade fair shows off foreign goods, but without foreign attendees",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/north-korean-trade-fair-shows-off-foreign-goods-but-without-foreign-attendees/",
-      "published_date": "2026-10-28T06:48:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "79a2210b373e3330d1e58bd15003ad94",
-      "title": "S. Korea bets on regional tourism to attract more foreign visitors",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028008300315",
-      "published_date": "2026-10-28T06:27:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2f12766a019bcbfdf5f0fec7fb78093b",
-      "title": "DP launches advisory body on foreign affairs, inter-Korean ties",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028008200315",
-      "published_date": "2026-10-28T06:17:02Z",
       "category": "Diplomacy"
     }
   ],
@@ -305,14 +305,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261022003700315",
       "published_date": "2026-10-22T02:06:22Z",
-      "category": "Military"
-    },
-    {
-      "id": "3362f5247ea35887b5b2c20d21eb51b5",
-      "title": "U.S. 8th Army chief stresses readiness for threats beyond Korean Peninsula: report",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261022000200315",
-      "published_date": "2026-10-21T19:22:50Z",
       "category": "Military"
     }
   ],
@@ -480,6 +472,110 @@
   ],
   "Economy": [
     {
+      "id": "a9c17d91484c7b3e66a9770337806605",
+      "title": "Gaon Cable wins 120 bln-won cable order in U.S.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029004900320",
+      "published_date": "2026-10-29T01:46:47Z",
+      "category": "Economy"
+    },
+    {
+      "id": "700f562fe17b0f2b81093a5eb98c193e",
+      "title": "Hong Jin-hwon awarded Korean Artist Prize 2026",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002800315",
+      "published_date": "2026-10-29T01:07:46Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a244a44011dd9a1b21206630dce95c6f",
+      "title": "Hyundai Motor to invest US$450 mln to expand Alabama plant",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002700320",
+      "published_date": "2026-10-29T01:00:18Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9f07769147ac6d6043d763ccad2f16dc",
+      "title": "S. Korea to conditionally ease diesel export restrictions amid stable crude supplies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029002500320",
+      "published_date": "2026-10-29T01:00:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "8087748f43d7752b524a21089c3be863",
+      "title": "(LEAD) Samsung SDI Q3 net profit jumps to 342.2 bln won on ESS deals",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001851320",
+      "published_date": "2026-10-29T00:47:02Z",
+      "category": "Economy"
+    },
+    {
+      "id": "518b3dc877b042ab275cb2f50ef88a42",
+      "title": "(LEAD) Seoul stocks open tad higher as Fed holds rates ahead of Samsung earnings report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001651320",
+      "published_date": "2026-10-29T00:20:53Z",
+      "category": "Economy"
+    },
+    {
+      "id": "a1282abf80403acc196271bfbec74ad6",
+      "title": "Seoul stocks open tad higher as Fed holds rates ahead of Samsung earnings report",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001600320",
+      "published_date": "2026-10-29T00:05:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3f514599e818a1a82c45359f29c2f874",
+      "title": "(URGENT) Seoul stocks open tad higher as Fed freezes rates ahead of Samsung earnings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001700320",
+      "published_date": "2026-10-29T00:01:38Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1b027b53ce2b074b5d241cda8381d3b5",
+      "title": "(3rd LD) Fed holds key interest rate steady; Warsh says inflation 'too high'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000353315",
+      "published_date": "2026-10-28T22:01:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "873d78cd8a0c5d7d0a333ee012136b25",
+      "title": "(2nd LD) Fed holds key interest rate steady; Warsh says inflation 'too high'",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000352315",
+      "published_date": "2026-10-28T20:29:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "4b25fada8161bc9cb3fb0557e87e71b6",
+      "title": "(LEAD) Fed holds key interest rate steady after last month's quarter-point hike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000351315",
+      "published_date": "2026-10-28T18:34:01Z",
+      "category": "Economy"
+    },
+    {
+      "id": "4ae67a445dcabc0d1bc85a68978bac55",
+      "title": "Fed holds key interest rate steady after last month's quarter-point hike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000300315",
+      "published_date": "2026-10-28T18:02:34Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9c6fa2671a4b5fc8b608ab34dae739f3",
+      "title": "(URGENT) Fed holds key interest rate steady after last month's quarter-point hike",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000200315",
+      "published_date": "2026-10-28T18:01:55Z",
+      "category": "Economy"
+    },
+    {
       "id": "991c1882a8db1843d23aabc13c626a74",
       "title": "Lotte Giants hire ex-manager as bench coach",
       "source": "Yonhap News Agency",
@@ -534,113 +630,97 @@
       "url": "https://en.yna.co.kr/view/AEN20261028006751320",
       "published_date": "2026-10-28T05:34:21Z",
       "category": "Economy"
-    },
-    {
-      "id": "180ae0a2b0f3702fc923a1be30175f65",
-      "title": "Foreign currency deposits rise to fresh record high in Sept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028003200320",
-      "published_date": "2026-10-28T03:00:10Z",
-      "category": "Economy"
-    },
-    {
-      "id": "28b4af4024039ea73fe547b57a884ee6",
-      "title": "Seoul stocks up nearly 6 pct Wed. morning on SK hynix earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028005500320",
-      "published_date": "2026-10-28T02:28:58Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7a36c441a4929f708d6f06809074aa91",
-      "title": "(LEAD) South Korean financial firms confirm data breach of customer data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028002751320",
-      "published_date": "2026-10-28T01:12:54Z",
-      "category": "Economy"
-    },
-    {
-      "id": "dbe2daa35e2e3d97feca1c71a24251bc",
-      "title": "Ruling party, gov't fail to agree on delay of cryptocurrency tax",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028002800315",
-      "published_date": "2026-10-28T00:48:06Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4c8d6c37145fa574dbb6380273d312d8",
-      "title": "(LEAD) Seoul stocks open sharply higher on revived AI optimism, SK hynix earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028001851320",
-      "published_date": "2026-10-28T00:21:34Z",
-      "category": "Economy"
-    },
-    {
-      "id": "14a5185009ef917873a26e41ce9e65b4",
-      "title": "Seoul stocks open sharply higher on revived AI optimism, SK hynix earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028001800320",
-      "published_date": "2026-10-28T00:02:52Z",
-      "category": "Economy"
-    },
-    {
-      "id": "bdbe4458a458a3a94aa8cce4f43262c0",
-      "title": "(URGENT) Seoul stocks open sharply higher on revived AI optimism, SK hynix earnings",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028001900320",
-      "published_date": "2026-10-28T00:01:17Z",
-      "category": "Economy"
-    },
-    {
-      "id": "51bac46e255675eb6fa2bb3f83d72f6e",
-      "title": "(URGENT) SK hynix announces additional 60 tln-won shareholder returns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028001700320",
-      "published_date": "2026-10-27T23:34:27Z",
-      "category": "Economy"
-    },
-    {
-      "id": "bb86303da592ce851d0866cefe0c11d0",
-      "title": "Instant photo kiosk featuring President Lee set to open at presidential house annex",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261027011500315",
-      "published_date": "2026-10-27T08:16:08Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f7ad1737e42445cdb0e3a474ae3c41a8",
-      "title": "S. Korean won inches down against U.S. dollar ahead of Fed meeting",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261027009900320",
-      "published_date": "2026-10-27T07:32:27Z",
-      "category": "Economy"
-    },
-    {
-      "id": "eb79442f04b936fee11cfcbcf4dc8816",
-      "title": "(LEAD) LG Innotek Q3 net down 25.8 pct on fluctuating exchange rate",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261027008651320",
-      "published_date": "2026-10-27T07:19:59Z",
-      "category": "Economy"
-    },
-    {
-      "id": "97e9b61ab27672946615c8145aa56f2c",
-      "title": "(LEAD) FTC to slap 20 bln-won fine on Samsung Electronics for misleading gaming ads",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261027003351320",
-      "published_date": "2026-10-27T05:58:10Z",
-      "category": "Economy"
-    },
-    {
-      "id": "ad0fbfd47915341e56b07cc76ef2266d",
-      "title": "(LEAD) GNI per capita 'almost certain' to reach US$40,000 in 2026: finance ministry",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261027003951320",
-      "published_date": "2026-10-27T05:42:11Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "7b35aadd5e3aaa18142e6fdb7c6a9706",
+      "title": "Gov't to designate new housing zones for over 76,000 homes near Seoul",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029003400320",
+      "published_date": "2026-10-29T01:17:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a64f2ff65eb0dbe4ca814a65ea8cc0be",
+      "title": "S. Korea to closely monitor impact of upcoming U.S. midterm elections",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029003100320",
+      "published_date": "2026-10-29T01:16:30Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "67f7e59dcc50600fd20f5b3bbbab7af4",
+      "title": "Rights commission calls for leniency for ex-Coupang workers indicted in 'blacklist' case",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029003300315",
+      "published_date": "2026-10-29T01:16:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7da41359f1c1b7952aaa21cdf4af4ebe",
+      "title": "(LEAD) Special counsel team removes local election ballots from handball arena",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001251315",
+      "published_date": "2026-10-29T01:03:33Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a7d52965953499b58c32d10a75603029",
+      "title": "Late singer Shin Hae-chul, BLACKPINK among 10 to receive cultural merit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001900315",
+      "published_date": "2026-10-29T00:08:49Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c99c5a0b67c0a1b3cb08de0686c0e516",
+      "title": "Special counsel team moves local election ballots to storage from handball arena",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001200315",
+      "published_date": "2026-10-28T23:15:24Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "06a225417046087ee7ac906205df645b",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Oct. 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029001000315",
+      "published_date": "2026-10-28T21:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "48a168860b80a5dfca5de53205f8cbd7",
+      "title": "(EDITORIAL from Korea Herald on Oct. 29)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000800315",
+      "published_date": "2026-10-28T21:57:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "76082f527a57cf56a9876654179fe91d",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261029000700315",
+      "published_date": "2026-10-28T21:57:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c9536d1eb40ddcc91fd41f88c3f0cbbe",
+      "title": "ABS issuance falls 5.7 pct in Q3",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261028007200320",
+      "published_date": "2026-10-28T21:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ee6d647ede234a61d7286b23221ded87",
+      "title": "Biz sentiment rises to over 4-yr high in Oct. on improved outlook: BOK",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261028011700320",
+      "published_date": "2026-10-28T21:00:03Z",
+      "category": "Local Events"
+    },
     {
       "id": "c6c2f9fcca5c152214ffe538a49ed781",
       "title": "6 S. Koreans suffer minor injuries in Spain train crash",
@@ -711,94 +791,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261028006200320",
       "published_date": "2026-10-28T04:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "04971035ee9f88915f20c79a24722ad3",
-      "title": "PM pledges S. Korea will take lead in climate crisis response",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028006300315",
-      "published_date": "2026-10-28T04:27:57Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "feb86c6594977785ed373df921db8fc4",
-      "title": "Births up 13 pct in Aug. to highest in 7 years",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028005400320",
-      "published_date": "2026-10-28T03:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "cc76990f66342688886cf7de17183d37",
-      "title": "Former USFK commanders raise concerns over command structure after OPCON transfer",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028003800315",
-      "published_date": "2026-10-28T01:44:22Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "61fc0b463efd4ad2a1ca2ac9d166ecd3",
-      "title": "(2nd LD) Special counsel launches inspection of local election ballots stored at Seoul handball arena",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028003051315",
-      "published_date": "2026-10-28T01:28:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "246b2be593253f6f1a2432b2648b3f75",
-      "title": "(LEAD) Special counsel launches inspection of local election ballots stored at Seoul handball arena",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028003000315",
-      "published_date": "2026-10-28T01:02:28Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "806f3941c695b5674d4848a1046669df",
-      "title": "Gov't to lift hoarding bans on urea, medical goods as supplies stabilize",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028001100320",
-      "published_date": "2026-10-28T01:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "030a1abe83fc072f2020621a1fe2b1e7",
-      "title": "KRX activates buy-side sidecar for KOSPI on sharp rise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028003100320",
-      "published_date": "2026-10-28T00:57:48Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "156f995dcba024a846fe08c643f51827",
-      "title": "(URGENT) KRX activates buy-side sidecar for KOSPI on sharp rise",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028002600320",
-      "published_date": "2026-10-28T00:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5e666e58a263a6e1847ca0ff69272d27",
-      "title": "Personal data of some 38,000 customers at Daishin Securities leaked",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028002700320",
-      "published_date": "2026-10-28T00:16:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "dbbe9314873e4a4c0158083a16e91b0d",
-      "title": "Right-handers going toe-to-toe in pivotal KBO postseason game",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028002200315",
-      "published_date": "2026-10-28T00:08:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b391563e3d47a214a200fb2626292d9d",
-      "title": "Gov't to carry out large-scale inspections into IT infrastructures amid recent hacking attacks",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028002100320",
-      "published_date": "2026-10-28T00:01:14Z",
       "category": "Local Events"
     }
   ]
