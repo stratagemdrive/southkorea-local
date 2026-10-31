@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-31T01:55:02Z",
+  "generated_at": "2026-10-31T15:57:51Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,62 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "51f896293d7492afdefaddff3c2347a4",
+      "title": "S. Korea's top diplomat discusses ties with German, Polish counterparts",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031003100320",
+      "published_date": "2026-10-31T13:16:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "68ad993c6fbb10dbc1578e5f5bf777ab",
+      "title": "KBO asks MLB to post All-Star slugger Roh Si-hwan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031003000315",
+      "published_date": "2026-10-31T11:01:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5688ae183aa3abb2021b7dcfc0ad59e6",
+      "title": "(LEAD) Lee visits southeastern province to inspect pilot basic income scheme",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031002551315",
+      "published_date": "2026-10-31T10:30:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3ad3226f6032f5d7f47ae4d388520832",
+      "title": "(LEAD) Samsung execs meet Open AI's Sam Altman to discuss AI transformation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031002651315",
+      "published_date": "2026-10-31T08:34:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "c673a96aab5704486998643fd241c0b7",
+      "title": "Samsung execs meet Open AI's Sam Altman to discuss AI transformation",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031002600315",
+      "published_date": "2026-10-31T06:22:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "2a0ce709e01eda3ff636d11c13193770",
+      "title": "Lee visits southeastern province to inspect pilot basic income scheme",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031002500315",
+      "published_date": "2026-10-31T05:09:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1a379c6a20adb0cbca2d551490b72e51",
+      "title": "Lee says multicultural family support resulting in 'reverse discrimination' cannot be justified",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031001500315",
+      "published_date": "2026-10-31T03:27:49Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5fbea130712ba7f4753993ff7699b1b7",
       "title": "N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure'",
@@ -111,62 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261030013300315",
       "published_date": "2026-10-30T14:06:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "d34fbe59d38d1216a41000988c6fe844",
-      "title": "North Korean trucks still missing from New Yalu River Bridge",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korean-trucks-still-missing-from-new-yalu-river-bridge/",
-      "published_date": "2026-10-30T13:53:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "47f81eb82740ee98f2e54ce58ed0f668",
-      "title": "(LEAD) Tigers beat Lions to stave off KBO postseason elimination",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030013051315",
-      "published_date": "2026-10-30T12:57:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5da03557c765ccd8fef8fdfed0ca585f",
-      "title": "Tigers beat Lions to stave off KBO postseason elimination",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030013000315",
-      "published_date": "2026-10-30T12:39:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6fd7fbba488b9539f17aa049a81e4fe6",
-      "title": "(LEAD) Check-in system at Incheon airport restored after hourslong disruption",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030010751315",
-      "published_date": "2026-10-30T09:03:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c16bbc70bd480c29e42a9c7a3cdb3a5b",
-      "title": "All the world’s a stage: Why North Korea put artillery on display at the border",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/all-the-worlds-a-stage-why-north-korea-put-artillery-on-display-at-the-border/",
-      "published_date": "2026-10-30T08:52:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "cc891189e6c850bae2bedf37ad32cdaf",
-      "title": "(Yonhap Interview) S. Korea, U.S. can make 'great' progress in SMRs: State Department official",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030010900320",
-      "published_date": "2026-10-30T08:38:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4e2fe92a402cdebc48794df6653cebd9",
-      "title": "US curbed intel sharing over Seoul’s disclosure of North Korean nuke site: NIS",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/us-curbed-intel-sharing-over-seouls-disclosure-of-north-korean-nuke-site-nis/",
-      "published_date": "2026-10-30T07:51:49Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,22 @@
   ],
   "Economy": [
     {
+      "id": "b9a7eec5313499ff9d739b28724174d1",
+      "title": "(LEAD) Up to 125,000 gather in Seoul's Hongdae area on Halloween; 30,000 in Itaewon: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031002951320",
+      "published_date": "2026-10-31T13:54:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "38634eff2d99652f42dfbf39fe258a4b",
+      "title": "120,000 gather in Seoul's Hongdae area for Halloween; 20,000 in Itaewon: data",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031002900320",
+      "published_date": "2026-10-31T10:53:08Z",
+      "category": "Economy"
+    },
+    {
       "id": "fb8f925610f535ae88fe5aee392b8ca6",
       "title": "Trader loses all her medicine after defying police",
       "source": "Daily NK",
@@ -638,25 +654,25 @@
       "url": "https://www.dailynk.com/english/north-korean-women-domestic-tourism-autumn-outings/",
       "published_date": "2026-10-29T19:25:00Z",
       "category": "Economy"
-    },
-    {
-      "id": "971d7b280913fc625a274a6fa7d88c6c",
-      "title": "North Korean rice prices top 50,000 won for first time",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-rice-prices-record-50000-won/",
-      "published_date": "2026-10-29T17:17:00Z",
-      "category": "Economy"
-    },
-    {
-      "id": "773a6d6b1c83754170d2ad152331a8a1",
-      "title": "Chinese agency claims it’s organizing youth tours to North Korea’s Wonsan resort",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/10/chinese-agency-claims-its-organizing-youth-tours-to-north-koreas-wonsan-resort/",
-      "published_date": "2026-10-29T09:57:15Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "c04bb7c8610e5b085bf9aa79fa71bbdf",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031000700315",
+      "published_date": "2026-10-31T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "6ada57b03a037a96bea03bf5a257cf4d",
+      "title": "Fishing boat catches fire off west coast, all 22 rescued",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261031001400315",
+      "published_date": "2026-10-31T01:52:53Z",
+      "category": "Local Events"
+    },
     {
       "id": "4bfe3b07ff3e49002db356169a05ad05",
       "title": "No drug-related violations found in special crackdown on eve of Halloween",
@@ -799,22 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261030009151315",
       "published_date": "2026-10-30T06:11:05Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "0aea7c875b50ab75f927a2f2e252662c",
-      "title": "Boynextdoor to launch 1st N. American tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030008900315",
-      "published_date": "2026-10-30T06:01:35Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "94de8e80adf01c8548e09047bbe08ab2",
-      "title": "(URGENT) Court acquits Rep. Kim Gi-hyeon of PPP over luxury gift to ex-first lady",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030009100315",
-      "published_date": "2026-10-30T05:59:58Z",
       "category": "Local Events"
     }
   ]
