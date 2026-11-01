@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-01T01:36:15Z",
+  "generated_at": "2026-11-01T17:01:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,110 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "d3a71e4b4dd4611b42909700728c86a4",
+      "title": "Turkish, East Timorese presidents to visit S. Korea this week for talks with Lee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101004100315",
+      "published_date": "2026-11-01T09:49:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0847e204387381b5b2a686f0f7a091a2",
+      "title": "Ageless wonder looking forward to yet another Korean Series trip with Lions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101004000315",
+      "published_date": "2026-11-01T09:28:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5d07956e8445e56b18d9ce512e32521c",
+      "title": "(LEAD) Lions beat Tigers to reach Korean Series",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101003651315",
+      "published_date": "2026-11-01T08:09:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f78b81f23457783502bbcae0b4e63558",
+      "title": "(LEAD) Trump says U.S. will talk to N. Korea if it is behind Binance hack",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000351315",
+      "published_date": "2026-11-01T07:55:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "bd4109080ea602ec81fb35de699e8d1a",
+      "title": "Lions beat Tigers to reach Korean Series",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101003600315",
+      "published_date": "2026-11-01T07:42:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b8ff7c82908c6c9eb89d5dcc5c32c183",
+      "title": "Samsung chief visits Advanced Package Lab in Japan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101003000320",
+      "published_date": "2026-11-01T07:29:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b0ab283f5306ecc237623beba4ba22e4",
+      "title": "Relatives from a family separated by the Korean War meet for first time in third country",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101002500315",
+      "published_date": "2026-11-01T07:16:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4d78e38bbff0a306a93ae1345b5e7517",
+      "title": "(LEAD) HD Hyundai Robotics partners with Palantir on AI solutions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101001351320",
+      "published_date": "2026-11-01T05:36:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "0da1a0a9a24fd2dcf41dc14c93981b03",
+      "title": "Lions manager tells players to have fun in do-or-die KBO postseason game",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101002400315",
+      "published_date": "2026-11-01T03:50:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "acfae14880eba40dba941aabb0eb7d31",
+      "title": "HD Hyundai Robotics partners with Palantir on AI solutions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101001300320",
+      "published_date": "2026-11-01T02:21:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "b2729df87637b3db96185316de98c06d",
+      "title": "FM Cho holds talks with EU, Britain, others at G20 meeting",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101001200315",
+      "published_date": "2026-11-01T02:14:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8f15db27be54c3f4e3702e1e88c856ea",
+      "title": "FM outlines S. Korea's position on DMZ mine blast at G20, calls for inter-Korean talks",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101001000315",
+      "published_date": "2026-11-01T02:12:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "d0f50d0ef6cf5b1cb3511bf64ec9baf8",
+      "title": "POSCO union to vote on tentative wage deal this week",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101001100320",
+      "published_date": "2026-11-01T01:52:03Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "28f625e370b532bf201c5a012d3dc6c5",
       "title": "(LEAD) N. Korea tests cluster bomb mountable on tactical ballistic missiles",
@@ -64,113 +168,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261031002551315",
       "published_date": "2026-10-31T10:30:48Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "3ad3226f6032f5d7f47ae4d388520832",
-      "title": "(LEAD) Samsung execs meet Open AI's Sam Altman to discuss AI transformation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031002651315",
-      "published_date": "2026-10-31T08:34:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c673a96aab5704486998643fd241c0b7",
-      "title": "Samsung execs meet Open AI's Sam Altman to discuss AI transformation",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031002600315",
-      "published_date": "2026-10-31T06:22:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2a0ce709e01eda3ff636d11c13193770",
-      "title": "Lee visits southeastern province to inspect pilot basic income scheme",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031002500315",
-      "published_date": "2026-10-31T05:09:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1a379c6a20adb0cbca2d551490b72e51",
-      "title": "Lee says multicultural family support resulting in 'reverse discrimination' cannot be justified",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031001500315",
-      "published_date": "2026-10-31T03:27:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5fbea130712ba7f4753993ff7699b1b7",
-      "title": "N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031001300315",
-      "published_date": "2026-10-31T01:38:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ffbe38d03e53d8f9cc3a62afa94a6711",
-      "title": "Ruling party lawmaker issued U.S. visa, days after refusal",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031001100315",
-      "published_date": "2026-10-31T00:54:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "6f4ecf40a72472e53db2cb353fe87363",
-      "title": "N. Korea reports on Swiss FM's visit following opening of diplomatic office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031001000315",
-      "published_date": "2026-10-31T00:33:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ec5ce914c3c47f9b632ff607800e74e5",
-      "title": "(2nd LD) S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000553315",
-      "published_date": "2026-10-31T00:02:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "df4495cb9cb023f4365f8419c95e53e8",
-      "title": "(LEAD) S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000552315",
-      "published_date": "2026-10-30T23:39:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "fd175629a69ff594ddbdebbc7f5cc91f",
-      "title": "S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000551315",
-      "published_date": "2026-10-30T23:32:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "269c9b551061fecc3054d1aeb765a8e1",
-      "title": "(URGENT) S. Korean, U.S., Japanese FMs reaffirm 'resolute commitment' to complete denuclearization of N. Korea",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000500315",
-      "published_date": "2026-10-30T23:23:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f24258829e127d0f67f3edfa5e52f867",
-      "title": "(2nd LD) N. Korean hackers blamed for record US$6.36 bln Binance cryptocurrency theft: U.S. firm",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000252315",
-      "published_date": "2026-10-30T21:13:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b7297403dab656f32e51fa8513e0705c",
-      "title": "S. Korean envoy to U.S. vows support for bilateral investment at Hyundai's Alabama plant",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000400315",
-      "published_date": "2026-10-30T19:33:40Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "99ab2c9b39d589befdf5a7d8e8679f70",
+      "title": "2 Air Force training aircraft collide mid-air in Sept.; no casualties reported",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101004500315",
+      "published_date": "2026-11-01T12:59:15Z",
+      "category": "Military"
+    },
+    {
+      "id": "102ba1866d11ab996e0aae7ad01ef6ca",
+      "title": "Lions manager hoping for better defense with team off to Korean Series",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101003900315",
+      "published_date": "2026-11-01T08:55:29Z",
+      "category": "Military"
+    },
     {
       "id": "105656ec2a51ff22cfe7e3d8990eec62",
       "title": "North Korea tests cluster warhead, plans military use by end of 2026",
@@ -314,25 +330,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261028005900315",
       "published_date": "2026-10-28T04:37:32Z",
       "category": "Military"
-    },
-    {
-      "id": "fdc236c3665d99e9229db8738aa6d62e",
-      "title": "State arms agency completes development of homegrown Marine attack helicopter",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028003400315",
-      "published_date": "2026-10-28T01:29:41Z",
-      "category": "Military"
-    },
-    {
-      "id": "9f43120cafa1b36078aad14002a68956",
-      "title": "Hanwha Defense USA to take control of Philly Shipyard in internal restructuring",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028000300315",
-      "published_date": "2026-10-27T18:36:58Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "a250576808c31c405730fe73a0da59b5",
+      "title": "(2nd LD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000952320",
+      "published_date": "2026-11-01T01:33:57Z",
+      "category": "Energy"
+    },
     {
       "id": "a8f7b711b77a11e64c1288fb559d04cf",
       "title": "(LEAD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales",
@@ -484,17 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261028003600315",
       "published_date": "2026-10-28T01:31:58Z",
       "category": "Energy"
-    },
-    {
-      "id": "b35eef95f5f76eb6e7b27fa5a73c5ddf",
-      "title": "(2nd LD)  SK hynix logs record profit in Q3 on AI chip supercycle",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028001652320",
-      "published_date": "2026-10-28T00:16:59Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "8aa4a6d5c681dc822cbd4d282acdb105",
+      "title": "Tigers skipper vows to come back stronger in '27 after KBO postseason exit",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101003800315",
+      "published_date": "2026-11-01T08:29:21Z",
+      "category": "Economy"
+    },
     {
       "id": "12c817ab31edd20836c3b697a4d3dfa9",
       "title": "(URGENT) S. Korea's monthly exports hit US$115.3 bln in October",
@@ -646,17 +654,41 @@
       "url": "https://en.yna.co.kr/view/AEN20261030001200320",
       "published_date": "2026-10-29T23:00:05Z",
       "category": "Economy"
-    },
-    {
-      "id": "39117620544228b66be75762c914e514",
-      "title": "Foreigners again sell Korean stocks in Sept.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261029014200320",
-      "published_date": "2026-10-29T21:00:01Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "2acb4aa439c2f6ef04b3718c57b36616",
+      "title": "(LEAD) Jurado pitches Lions to Korean Series with 2nd straight postseason gem",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101003751315",
+      "published_date": "2026-11-01T09:01:41Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "50260e1bb9594d3e051969d27acddd47",
+      "title": "Jurado pitches Lions to Korean Series with 2nd straight postseason gem",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101003700315",
+      "published_date": "2026-11-01T07:48:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7897b512782a4c2ab92a06d90d7b2cf3",
+      "title": "Tigers manager sticks to same lineup in KBO postseason elimination game",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101002800315",
+      "published_date": "2026-11-01T05:13:03Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5ebec8992f29bc7c8afd8485743f4881",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101002700315",
+      "published_date": "2026-11-01T05:00:01Z",
+      "category": "Local Events"
+    },
     {
       "id": "b9bfb93d42becdc6afe37943befb44db",
       "title": "FBI says N. Korea responsible for over US$6 bln crypto theft from Binance",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261030009700315",
       "published_date": "2026-10-30T07:01:53Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9fe18cf970cf765dbaa987761aa7f046",
-      "title": "(LEAD) Court acquits PPP lawmaker over luxury gift to ex-first lady",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030009152315",
-      "published_date": "2026-10-30T06:53:42Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "424e04a016870125cc4ed3302ed9578b",
-      "title": "(LEAD) Seoul shares dip over 3 pct on tech sell-off amid AI concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030008651320",
-      "published_date": "2026-10-30T06:52:14Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "f7dec70e29ef59aece9a546437f91bf6",
-      "title": "Seoul shares dip over 3 pct on tech sell-off amid AI concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030008600320",
-      "published_date": "2026-10-30T06:37:17Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "7520727a51238bc5636942e6c8d4c944",
-      "title": "(URGENT) Seoul shares dip over 3 pct on tech selloff amid AI concerns",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030008700320",
-      "published_date": "2026-10-30T06:34:06Z",
       "category": "Local Events"
     }
   ]
