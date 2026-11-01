@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-10-31T15:57:51Z",
+  "generated_at": "2026-11-01T01:36:15Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,38 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "28f625e370b532bf201c5a012d3dc6c5",
+      "title": "(LEAD) N. Korea tests cluster bomb mountable on tactical ballistic missiles",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000451315",
+      "published_date": "2026-11-01T01:32:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "54c571922a7d9f67b24b3dd04402b268",
+      "title": "N. Korea tests cluster bomb mountable on tactical ballistic missiles",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000400315",
+      "published_date": "2026-10-31T22:31:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "1d954661b2e2d7c564c89c52955564db",
+      "title": "(LEAD) Trump open to talks with N. Korean leader but no meeting scheduled: Rubio",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000251315",
+      "published_date": "2026-10-31T18:47:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "94d6c1856a1d9a851850cec34a662344",
+      "title": "Trump open to talks with N. Korean leader but no meeting scheduled: Rubio",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000200315",
+      "published_date": "2026-10-31T18:24:16Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "51f896293d7492afdefaddff3c2347a4",
       "title": "S. Korea's top diplomat discusses ties with German, Polish counterparts",
@@ -136,41 +168,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261031000400315",
       "published_date": "2026-10-30T19:33:40Z",
       "category": "Diplomacy"
-    },
-    {
-      "id": "7bc56cc111b9c8ae9ee9ce06e3b0919b",
-      "title": "(LEAD) N. Korean hackers blamed for record US$6.36 bln Binance cryptocurrency theft: U.S. firm",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000251315",
-      "published_date": "2026-10-30T18:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "228bed3ed15b859c9ea65ebfb852f3d3",
-      "title": "N. Korean hackers blamed for record US$6.36 bln Binance cryptocurrency theft: U.S. firm",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261031000200315",
-      "published_date": "2026-10-30T16:01:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "597c6d6994dba7abfeebd24d6af48e80",
-      "title": "Shock brigade thieves face public trial in Paekam",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-shock-brigade-theft-public-trial-paekam/",
-      "published_date": "2026-10-30T14:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5840a8c6f746a0ff0d95239db98d0b85",
-      "title": "Swiss FM briefs Seoul on Pyongyang trip after reopening diplomatic office",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030013300315",
-      "published_date": "2026-10-30T14:06:05Z",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "105656ec2a51ff22cfe7e3d8990eec62",
+      "title": "North Korea tests cluster warhead, plans military use by end of 2026",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/11/north-korea-tests-cluster-warhead-plans-military-use-by-end-of-2026/",
+      "published_date": "2026-11-01T01:18:18Z",
+      "category": "Military"
+    },
     {
       "id": "df118180b101fc838a70ca4ecad6b4da",
       "title": "Hanwha Defense USA wins US$269 mln U.S. Navy shipbuilding contract",
@@ -322,17 +330,25 @@
       "url": "https://en.yna.co.kr/view/AEN20261028000300315",
       "published_date": "2026-10-27T18:36:58Z",
       "category": "Military"
-    },
-    {
-      "id": "5ce224b9433469ddfe49fed749da1689",
-      "title": "N. Korean artillery deployed along western border not seen as new weapon system: S. Korean military",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261027005900315",
-      "published_date": "2026-10-27T03:08:07Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "a8f7b711b77a11e64c1288fb559d04cf",
+      "title": "(LEAD) S. Korea's monthly exports hit US$115.3 bln in Oct. on strong chip sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000951320",
+      "published_date": "2026-11-01T00:34:35Z",
+      "category": "Energy"
+    },
+    {
+      "id": "2e477149fd543bed05a559d86b3d97a6",
+      "title": "S. Korea's monthly exports hit US$115.3 bln in Oct. on record chip sales",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000900320",
+      "published_date": "2026-11-01T00:12:23Z",
+      "category": "Energy"
+    },
     {
       "id": "aa75aa62a6794dbbc3c8ffc6ddf14fde",
       "title": "Hanwha Systems wins SAR microsatellite constellation project",
@@ -476,25 +492,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261028001652320",
       "published_date": "2026-10-28T00:16:59Z",
       "category": "Energy"
-    },
-    {
-      "id": "5d61ef019a410d43f6db18295ad2a857",
-      "title": "(LEAD)  SK hynix logs record profit in Q3 on AI chip supercycle",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261028001651320",
-      "published_date": "2026-10-27T23:50:53Z",
-      "category": "Energy"
-    },
-    {
-      "id": "03696549648f5c06c539d08d2c3ca551",
-      "title": "(2nd LD) Seoul shares surge 3 pct on renewed AI optimism, easing oil prices",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261027007652320",
-      "published_date": "2026-10-27T07:42:11Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "12c817ab31edd20836c3b697a4d3dfa9",
+      "title": "(URGENT) S. Korea's monthly exports hit US$115.3 bln in October",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000700320",
+      "published_date": "2026-11-01T00:01:32Z",
+      "category": "Economy"
+    },
     {
       "id": "b9a7eec5313499ff9d739b28724174d1",
       "title": "(LEAD) Up to 125,000 gather in Seoul's Hongdae area on Halloween; 30,000 in Itaewon: data",
@@ -646,17 +654,17 @@
       "url": "https://en.yna.co.kr/view/AEN20261029014200320",
       "published_date": "2026-10-29T21:00:01Z",
       "category": "Economy"
-    },
-    {
-      "id": "7404b13d455cd7f93361846728729222",
-      "title": "North Korean women spend on leisure amid currency fears",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korean-women-domestic-tourism-autumn-outings/",
-      "published_date": "2026-10-29T19:25:00Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "b9bfb93d42becdc6afe37943befb44db",
+      "title": "FBI says N. Korea responsible for over US$6 bln crypto theft from Binance",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261101000300315",
+      "published_date": "2026-10-31T22:32:58Z",
+      "category": "Local Events"
+    },
     {
       "id": "c04bb7c8610e5b085bf9aa79fa71bbdf",
       "title": "Today in Korean history",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261030008700320",
       "published_date": "2026-10-30T06:34:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a9c3e876b76f24feb72b1a574eccd735",
-      "title": "Court acquits PPP lawmaker over luxury gift to ex-first lady",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261030009151315",
-      "published_date": "2026-10-30T06:11:05Z",
       "category": "Local Events"
     }
   ]
