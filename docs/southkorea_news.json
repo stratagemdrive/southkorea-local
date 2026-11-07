@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-06T17:49:51Z",
+  "generated_at": "2026-11-07T02:26:44Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,46 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "61aec8cd7a9dc98bac7659e2604d07bd",
+      "title": "Lions pitcher Chris Paddack: proud Texan with ice in veins",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000700315",
+      "published_date": "2026-11-07T00:13:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "65ee590cb0b2d5a1192d2bc2aa09b554",
+      "title": "(Yonhap Interview) New Italian trade commissioner sees K-food as gateway to broader bilateral trade",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261106010100320",
+      "published_date": "2026-11-07T00:00:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "015fb8b7217c747027d4b5ca75f076bd",
+      "title": "U.N. chief calls for restoration of inter-Korean communication channels amid DMZ tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000300315",
+      "published_date": "2026-11-06T21:13:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "aade39b643e87eb4e3a9acfe2f5bc3a1",
+      "title": "(LEAD) Trump names Stephen Miller new White House chief of staff after midterm defeat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000251315",
+      "published_date": "2026-11-06T20:31:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5395c92884b577648f3b4cd2a5e7236f",
+      "title": "Trump names Stephen Miller new White House chief of staff after midterm defeat",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000200315",
+      "published_date": "2026-11-06T20:23:13Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "f584ad56286c9eca46f03f5ce3799bc7",
       "title": "Firewood and coal prices double in Ryanggang province",
@@ -127,46 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261106007000315",
       "published_date": "2026-11-06T07:00:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9908416281d3dcd343a5e25b8752d2bc",
-      "title": "Key developments on North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106006800315",
-      "published_date": "2026-11-06T07:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0f0eda17d34579de051d20535b5d1d84",
-      "title": "Lee nominates head of defense procurement agency as new justice minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106009700315",
-      "published_date": "2026-11-06T06:45:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f902d3e36a15e857db12e0a7d9a31aff",
-      "title": "Lee vows efforts to restore honor of civilians killed in state violence during Korean War",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106008200315",
-      "published_date": "2026-11-06T06:33:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "5e58dc7e36de71330d3fdb5f838ae587",
-      "title": "Belarus’ top diplomat to North Korea makes first public appearance in Pyongyang",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/belarus-top-diplomat-to-north-korea-makes-first-public-appearance-in-pyongyang/",
-      "published_date": "2026-11-06T05:28:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0fc2c645aebe0718f024d21bd9924aad",
-      "title": "Presidential secretary for political affairs offers to resign",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007300315",
-      "published_date": "2026-11-06T05:26:55Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,30 @@
   ],
   "Local Events": [
     {
+      "id": "85fe471a66c09b2e4da3e1c3b6bf0ace",
+      "title": "Wiz star Hilliard taking advantage of rubber ball training during Korean Series",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000900315",
+      "published_date": "2026-11-07T00:33:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4438e2117f220dc4e4d190f71b76fff6",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000500315",
+      "published_date": "2026-11-07T00:01:22Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "970228d8e76c76100b60a9e2dd2c0d0c",
+      "title": "Mirae Asset says data breaches exposed customer, employee information",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000400315",
+      "published_date": "2026-11-06T23:14:30Z",
+      "category": "Local Events"
+    },
+    {
       "id": "f124cd92426a427f8a207ed2e2881458",
       "title": "Lions captain Koo Ja-wook delivers big hit with franchise legend watching",
       "source": "Yonhap News Agency",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261106005800320",
       "published_date": "2026-11-06T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "fcb858b330aa39edc0de81e766f424d4",
-      "title": "Kia to invest 3 tln won in Gwangju to build PBV mobility ecosystem by 2029",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106006300320",
-      "published_date": "2026-11-06T04:58:51Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "83d8325eac4478dad05b4cec2f24d3b8",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106004700315",
-      "published_date": "2026-11-06T04:30:01Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "ec7d22d0534794d1f542198c5fdc08dd",
-      "title": "(News Focus) AI rout prompts KOSPI to tumble below 5,000 after U.S. midterm elections",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106004400320",
-      "published_date": "2026-11-06T02:44:40Z",
       "category": "Local Events"
     }
   ]
