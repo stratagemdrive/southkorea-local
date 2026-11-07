@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-07T02:26:44Z",
+  "generated_at": "2026-11-07T16:45:58Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,78 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "5929d8463ab1e946c65588fe232903c1",
+      "title": "Nvidia CEO's daughter cancels planned visit to S. Korea: sources",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107003400315",
+      "published_date": "2026-11-07T13:20:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "f4b4889f35dcde620a64f2088be9f607",
+      "title": "POSCO union votes down tentative wage deal",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002500315",
+      "published_date": "2026-11-07T09:22:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "5abfec1b4c7c37aab07c3ca37dc68fb2",
+      "title": "(LEAD) Young pitchers help put Lions on brink of Korean Series title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002151315",
+      "published_date": "2026-11-07T09:15:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "a20cfbe1cc933ea0d60edd09258f5f71",
+      "title": "Lions manager not letting guard down despite taking commanding Korean Series lead",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002300315",
+      "published_date": "2026-11-07T09:13:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "34a85c5a04d5ad93f5b6875ba0356f76",
+      "title": "(LEAD) Lions beat Wiz to reach brink of Korean Series title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002051315",
+      "published_date": "2026-11-07T08:38:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8e16d1de0ffa8b74778cf64ce31c3280",
+      "title": "Young pitchers help put Lions on brink of Korean Series title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002100315",
+      "published_date": "2026-11-07T08:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "dd7d6743efd080d58fc84b54a7d08bd8",
+      "title": "Lions beat Wiz to reach brink of Korean Series title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002000315",
+      "published_date": "2026-11-07T08:22:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3827ad9e647012c6547c2884926fbba5",
+      "title": "N. Korean envoy holds 3rd high-level meeting in China",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107001800315",
+      "published_date": "2026-11-07T05:35:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4a9342235bad8f8d60983e45eaa39916",
+      "title": "Wiz manager demands more from star slugger with team trailing in Korean Series",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107001700315",
+      "published_date": "2026-11-07T04:11:48Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "61aec8cd7a9dc98bac7659e2604d07bd",
       "title": "Lions pitcher Chris Paddack: proud Texan with ice in veins",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261106011900315",
       "published_date": "2026-11-06T12:29:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "b382d18443e57a5479552455cf177892",
-      "title": "North Koreans fed up with folk remedies as colds spread",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-kaechon-respiratory-illness-cold-medicine/",
-      "published_date": "2026-11-06T12:08:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0a1e560b4c071b5d834eff6e9c735d5c",
-      "title": "Why a road link to Russia is North Korea’s newest ‘bridge to nowhere’",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/why-a-road-link-to-russia-is-north-koreas-newest-bridge-to-nowhere/",
-      "published_date": "2026-11-06T09:52:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4a65ae848dc17c093f9a4a6115938f1e",
-      "title": "North Korean wrestler suspended over suspected doping",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/north-korean-wrestler-suspended-over-suspected-doping/",
-      "published_date": "2026-11-06T09:44:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "434702082ed78c4585484e67b1dccc39",
-      "title": "How actor Lanny Joon brought Call of Duty’s North Korean character to life",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/how-actor-lanny-joon-brought-call-of-dutys-north-korean-character-to-life/",
-      "published_date": "2026-11-06T08:58:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "65dfcc6b5694fd8c109fe47e03b61e5b",
-      "title": "Nat'l Assembly passes special counsel bill on alleged fabricated indictments",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106010200315",
-      "published_date": "2026-11-06T08:55:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "29057730aa0822a6c472012ecfcb0f40",
-      "title": "(LEAD) Lee nominates head of defense procurement agency as new justice minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106009751315",
-      "published_date": "2026-11-06T07:11:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "2ea23276fa65c5c8feedaa65bfe6b987",
-      "title": "Unionized members at Samsung Biologics stage another partial strike",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106009800320",
-      "published_date": "2026-11-06T07:06:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "ea722fafc01f392935a87eb81f762aff",
-      "title": "Summary of external news of North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007200315",
-      "published_date": "2026-11-06T07:00:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0ab2c80b430f704fbb6383e9da50b74f",
-      "title": "Summary of domestic news in North Korea this week",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007000315",
-      "published_date": "2026-11-06T07:00:01Z",
       "category": "Diplomacy"
     }
   ],
@@ -496,6 +496,14 @@
   ],
   "Economy": [
     {
+      "id": "c990944bb66a895fd7d805223f22238e",
+      "title": "Lions to start homegrown ace in bid to clinch Korean Series title",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002200315",
+      "published_date": "2026-11-07T08:43:24Z",
+      "category": "Economy"
+    },
+    {
       "id": "95d0ef7d5cfbbb1f2ea40de37763949a",
       "title": "(LEAD) GOPAX suspends withdrawals, trading following hacking threats",
       "source": "Yonhap News Agency",
@@ -646,17 +654,57 @@
       "url": "https://en.yna.co.kr/view/AEN20261106001400320",
       "published_date": "2026-11-06T00:01:47Z",
       "category": "Economy"
-    },
-    {
-      "id": "4fc0b31dfbec4d9b4b995c640b973e1a",
-      "title": "Empty-handed farmers drive up rice prices",
-      "source": "Daily NK",
-      "url": "https://www.dailynk.com/english/north-korea-south-hwanghae-farm-workers-rice-prices-grain-procurement/",
-      "published_date": "2026-11-05T13:31:00Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "9c2579522450ca0ae9599448354c56f8",
+      "title": "Court issues arrest warrant for woman accused of stabbing doctor at hospital",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107003200315",
+      "published_date": "2026-11-07T10:56:40Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "908e50597c59924b8d0fab2fad2bb8d8",
+      "title": "Excitable Lions outfielder continues postseason breakout with big day",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107002600315",
+      "published_date": "2026-11-07T09:33:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "95b2de4ddfca4697e9df4cfcf811e2ee",
+      "title": "(LEAD) Personal info of some 39,000 leaked from Mirae Asset Securities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000451315",
+      "published_date": "2026-11-07T05:19:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9ff7694feb1181d6aec0ebd4d5e60488",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107000800315",
+      "published_date": "2026-11-07T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e122ba43f25b3c0bbd3645798b7eee41",
+      "title": "Lions manager benches injured catcher for 1st time in postseason",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107001500315",
+      "published_date": "2026-11-07T02:57:19Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5d0a90bfe420dc7504b4d923c4eda7f5",
+      "title": "Labor minister urges tougher action on industrial accidents",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261107001400315",
+      "published_date": "2026-11-07T02:28:49Z",
+      "category": "Local Events"
+    },
     {
       "id": "85fe471a66c09b2e4da3e1c3b6bf0ace",
       "title": "Wiz star Hilliard taking advantage of rubber ball training during Korean Series",
@@ -767,54 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261106008100315",
       "published_date": "2026-11-06T06:29:29Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "a55482eb26e4cc0788c6ce7c1e61a86c",
-      "title": "Korean auteur Lee Chang-dong vows to do best in Oscar race despite barriers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007900315",
-      "published_date": "2026-11-06T06:20:24Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "82197c98d1177c22c567c9e7739d8af6",
-      "title": "KNPA deputy chief nominated as new police chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007600315",
-      "published_date": "2026-11-06T05:48:44Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eb8278bf8fde85362616a5a83f29e0ca",
-      "title": "Nat'l conference of judges to be held this month amid calls for judicial independence",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106006400315",
-      "published_date": "2026-11-06T05:17:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "eb880b963b0c66c2b2b4e80f9667ce3a",
-      "title": "(LEAD) DP leader makes public apology over Shincheonji claim amid backlash from lawmakers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106004351315",
-      "published_date": "2026-11-06T05:07:36Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8f4d4fbc1e5614d926ce5a272232bfc3",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106001500315",
-      "published_date": "2026-11-06T05:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "92d7077ae4e42a805bcafe18b34a08be",
-      "title": "S. Korea, Netherlands hold 1st joint committee meeting on science, technology",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106005800320",
-      "published_date": "2026-11-06T05:00:02Z",
       "category": "Local Events"
     }
   ]
