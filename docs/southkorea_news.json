@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-07T16:45:58Z",
+  "generated_at": "2026-11-08T01:56:07Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "598344fd64bb5390762d2415827d1a73",
+      "title": "U.S. calls for coordinated action against N. Korean cyber threats following Binance hack",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261108000200315",
+      "published_date": "2026-11-07T19:12:11Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "5929d8463ab1e946c65588fe232903c1",
       "title": "Nvidia CEO's daughter cancels planned visit to S. Korea: sources",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261106012000315",
       "published_date": "2026-11-06T12:45:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1d05028faa6f3b2300bf2c866fec8206",
-      "title": "Lions ace Jurado throws Korean Series gem to continue strong postseason",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106011900315",
-      "published_date": "2026-11-06T12:29:23Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,22 @@
   ],
   "Energy": [
     {
+      "id": "1e1883253637a39cd9164508ebbcecfd",
+      "title": "S. Koreans' daily energy intake drops 11 pct in 10 yrs",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261108000900320",
+      "published_date": "2026-11-08T01:50:55Z",
+      "category": "Energy"
+    },
+    {
+      "id": "4bd699bd3b2777a6f46f0a6e09aee916",
+      "title": "S. Korea reviewing plan to expand label-free mandate to foreign-produced bottled water",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261108000700320",
+      "published_date": "2026-11-08T00:59:21Z",
+      "category": "Energy"
+    },
+    {
       "id": "858afd439ab63a1a219bda08894fa558",
       "title": "Lions manager not concerned about players' fatigue during postseason grind",
       "source": "Yonhap News Agency",
@@ -475,22 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261102002500315",
       "published_date": "2026-11-02T01:12:00Z",
-      "category": "Energy"
-    },
-    {
-      "id": "d7d3adea605c3e1e31081e1baff737c5",
-      "title": "(URGENT) Lee calls for 'growth for all' to ensure everyone shares benefits of growth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261102002400315",
-      "published_date": "2026-11-02T01:09:11Z",
-      "category": "Energy"
-    },
-    {
-      "id": "02281a591b8300ea29811146ed79e0fb",
-      "title": "(EDITORIAL from Korea JoongAng Daily on Nov. 2)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261102000600315",
-      "published_date": "2026-11-01T22:05:29Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,14 @@
   ],
   "Local Events": [
     {
+      "id": "edb51db57fcf7f5018bb2a7de5f7073f",
+      "title": "New elementary school enrollment to drop below 300,000 for 1st time amid low birth rate",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261108000800315",
+      "published_date": "2026-11-08T01:11:59Z",
+      "category": "Local Events"
+    },
+    {
       "id": "9c2579522450ca0ae9599448354c56f8",
       "title": "Court issues arrest warrant for woman accused of stabbing doctor at hospital",
       "source": "Yonhap News Agency",
@@ -807,14 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261106008000315",
       "published_date": "2026-11-06T06:55:33Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "be8bdd997d76361705058d226db16c9e",
-      "title": "Nearly half of S. Koreans say they do not trust courts: survey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106008100315",
-      "published_date": "2026-11-06T06:29:29Z",
       "category": "Local Events"
     }
   ]
