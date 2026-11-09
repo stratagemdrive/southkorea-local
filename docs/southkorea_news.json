@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-09T02:11:40Z",
+  "generated_at": "2026-11-09T21:19:05Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -10,167 +10,199 @@
   ],
   "Diplomacy": [
     {
-      "id": "c59577ac4424adf4133627d81a948081",
-      "title": "Hanwha Aerospace to conduct ship-based Chunmoo missile tests in U.S.",
+      "id": "d2eed414bc66a8df890769b5a65c1de4",
+      "title": "N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109002600320",
-      "published_date": "2026-11-09T01:23:50Z",
+      "url": "https://en.yna.co.kr/view/AEN20261110000500315",
+      "published_date": "2026-11-09T21:06:53Z",
       "category": "Diplomacy"
     },
     {
-      "id": "73831c39092360b189fffd0f73c7bff9",
-      "title": "Late Hyosung honorary chairman receives Korea-U.S. Friendship Award",
+      "id": "4e468f84dd3549335e53729de1d56ea9",
+      "title": "Chances of Trump-Kim summit 'go up' after U.S. midterms: expert",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109002100320",
-      "published_date": "2026-11-09T00:53:42Z",
+      "url": "https://en.yna.co.kr/view/AEN20261110000300315",
+      "published_date": "2026-11-09T19:33:26Z",
       "category": "Diplomacy"
     },
     {
-      "id": "325705d2e97ffc07f5994b1570202d7e",
-      "title": "Hyundai Motor's HTWO teams up with Air Liquide to expand hydrogen mobility in China",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109001800320",
-      "published_date": "2026-11-09T00:36:17Z",
+      "id": "ff237e0161240e274ea97f7bea8c9569",
+      "title": "Pyongyang tenants haul water up dark stairwells",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/pyongyang-power-shortage-high-rise-apartments-crackdown/",
+      "published_date": "2026-11-09T19:29:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "06d6e110f9685569ba9568ca019a7173",
-      "title": "Lee's approval rating falls to 35.9 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109001600315",
-      "published_date": "2026-11-09T00:17:23Z",
+      "id": "a83afcc978a85c88307a146341408460",
+      "title": "Soaring grain prices bury farm workers in debt",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-grain-prices-farm-workers-debt-north-hwanghae/",
+      "published_date": "2026-11-09T17:23:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "d7a995015d76366ba31884dfa9239fcc",
-      "title": "Innospace to launch upgraded suborbital rocket in Brazil on Nov. 29",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109001500320",
-      "published_date": "2026-11-09T00:14:47Z",
+      "id": "1b64d291784a4eae513ae6c6c3eaca67",
+      "title": "Pyongyang denies Binance hack, but its own spy disagrees",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korea-binance-hack-intelligence-officer/",
+      "published_date": "2026-11-09T14:56:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "fdf43a7408c5640df87dbc5a34c465e7",
-      "title": "Lions catcher Kang Min-ho celebrates 1st title of 23-year career",
+      "id": "c56a66158a9ca9867dfa8450de7f824b",
+      "title": "Top U.S. envoy says trust, communication key to alliance",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003700315",
-      "published_date": "2026-11-08T10:33:30Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109009800315",
+      "published_date": "2026-11-09T11:35:22Z",
       "category": "Diplomacy"
     },
     {
-      "id": "3752674f62cc4eb19e595124df457615",
-      "title": "(LEAD) Lions captain Koo Ja-wook voted Korean Series MVP after playing through injury",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003151315",
-      "published_date": "2026-11-08T10:21:38Z",
+      "id": "e9a32efb9d656cc9f09159a948e87a9e",
+      "title": "Ask a North Korean: Why do scientists get so little respect in the DPRK?",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/11/ask-a-north-korean-why-do-scientists-get-so-little-respect-in-the-dprk/",
+      "published_date": "2026-11-09T09:20:55Z",
       "category": "Diplomacy"
     },
     {
-      "id": "11e3e8a565163be1350b7a84c3729270",
-      "title": "(LEAD) Following dominant regular season, Wiz go out with whimper in Korean Series",
+      "id": "4cf6763c191e0c35dfd12787e9c154ff",
+      "title": "Wiz shortstop diagnosed with orbital fracture after being struck by batted ball in Korean Series game",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003051315",
-      "published_date": "2026-11-08T09:29:54Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109009500315",
+      "published_date": "2026-11-09T08:44:37Z",
       "category": "Diplomacy"
     },
     {
-      "id": "8b7aa7c67a439e60b91f4314c0b13ca3",
-      "title": "Lions captain Koo Ja-wook voted Korean Series MVP after playing through injury",
+      "id": "91d7d27b39d7d1235f3223b41d46ffee",
+      "title": "S. Korea's climate ambassador to join U.N. climate summit in Turkey as presidential envoy",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003100315",
-      "published_date": "2026-11-08T08:38:43Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109009400315",
+      "published_date": "2026-11-09T08:24:43Z",
       "category": "Diplomacy"
     },
     {
-      "id": "0dfdfb47f04e745bf80c0a49813e123c",
-      "title": "(LEAD) Lions defeat Wiz for 1st Korean Series title in 12 yrs",
+      "id": "13e73890233032055e3138c2110bda75",
+      "title": "Lee meets Uzbek Senate speaker, hails strategic ties between 2 countries",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002851315",
-      "published_date": "2026-11-08T08:34:03Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109009300315",
+      "published_date": "2026-11-09T08:24:14Z",
       "category": "Diplomacy"
     },
     {
-      "id": "6dfa65259e92004456441a45d56a43a1",
-      "title": "Following dominant regular season, Wiz go out with whimper in Korean Series",
+      "id": "0ffce8383ca3e329bd4263eb791c1a3d",
+      "title": "Deploying mine-hunting assets to anti-piracy unit meant to prepare for unseen threats: defense minister",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003000315",
-      "published_date": "2026-11-08T08:28:20Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109008800315",
+      "published_date": "2026-11-09T08:20:38Z",
       "category": "Diplomacy"
     },
     {
-      "id": "7815c03e9fd9c17439d55b70a715e414",
-      "title": "Lions defeat Wiz for 1st Korean Series title in 12 yrs",
+      "id": "271ff5f348cb01817619dfa39c253847",
+      "title": "(2nd LD) Stocks close lower as investors search for direction amid AI sector uncertainties",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002800315",
-      "published_date": "2026-11-08T08:07:25Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109006152320",
+      "published_date": "2026-11-09T07:44:31Z",
       "category": "Diplomacy"
     },
     {
-      "id": "76799501730f6463c9c9db7d5769bec3",
-      "title": "(LEAD) Badminton star An Se-young wins Korea Open for record-tying 11th int'l title",
+      "id": "6c31542ca3acf18ac15fb54126ad0711",
+      "title": "S. Korea manager hoping to see players grow at int'l baseball tournament in Tokyo",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002151315",
-      "published_date": "2026-11-08T06:50:50Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109007800315",
+      "published_date": "2026-11-09T07:26:15Z",
       "category": "Diplomacy"
     },
     {
-      "id": "f5d7e9c8a1091fb981c4c32ae10e1737",
-      "title": "Badminton star An Se-young wins Korea Open for record-tying 11th int'l title",
+      "id": "8c418bfa77c3cd15fab3b2672f57db40",
+      "title": "(LEAD) Stocks close lower as investors search for directions amid AI sector uncertainties",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002100315",
-      "published_date": "2026-11-08T05:35:22Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109006151320",
+      "published_date": "2026-11-09T07:03:24Z",
       "category": "Diplomacy"
     },
     {
-      "id": "174f3f40fcb24543a41e5a30ea9081d0",
-      "title": "U.S. reaffirms commitment to conditions-based OPCON transition to S. Korea: lawmaker",
+      "id": "4a54b2c8c0add64dfbb0e351cca9f214",
+      "title": "Stocks close lower as investors search for directions amid AI sector uncertainties",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002000315",
-      "published_date": "2026-11-08T05:28:28Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109006100320",
+      "published_date": "2026-11-09T06:35:49Z",
       "category": "Diplomacy"
     },
     {
-      "id": "632ff15f19350cd88d6215b6bf50d58e",
-      "title": "With Korean Series title in sight, Lions manager calls on players to keep having fun",
+      "id": "49a7432fee4911d945bf765ad3ff2084",
+      "title": "(URGENT) Stocks extend losing streak to 3rd consecutive session on AI uncertainties",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108001600315",
-      "published_date": "2026-11-08T02:54:35Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109006300320",
+      "published_date": "2026-11-09T06:34:26Z",
       "category": "Diplomacy"
     },
     {
-      "id": "598344fd64bb5390762d2415827d1a73",
-      "title": "U.S. calls for coordinated action against N. Korean cyber threats following Binance hack",
+      "id": "f5e39b767686143c856ecbd252814159",
+      "title": "Special counsel raids ballot counting machine companies over suspected collusion",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108000200315",
-      "published_date": "2026-11-07T19:12:11Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109006200315",
+      "published_date": "2026-11-09T06:23:00Z",
       "category": "Diplomacy"
     },
     {
-      "id": "5929d8463ab1e946c65588fe232903c1",
-      "title": "Nvidia CEO's daughter cancels planned visit to S. Korea: sources",
+      "id": "394fc1a72ad4fb770f42530177ba27b1",
+      "title": "N.K. official's Beijing visit meant to share Chinese party meeting results, maintain high-level exchanges: Seoul",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261107003400315",
-      "published_date": "2026-11-07T13:20:12Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109006000315",
+      "published_date": "2026-11-09T06:11:06Z",
       "category": "Diplomacy"
     },
     {
-      "id": "f4b4889f35dcde620a64f2088be9f607",
-      "title": "POSCO union votes down tentative wage deal",
+      "id": "0fe9078d4ad7a0c66266f9637ec620dd",
+      "title": "92 safety, labor violations found at food service firm Ourhome",
       "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261107002500315",
-      "published_date": "2026-11-07T09:22:51Z",
+      "url": "https://en.yna.co.kr/view/AEN20261109005900315",
+      "published_date": "2026-11-09T06:06:39Z",
       "category": "Diplomacy"
     },
     {
-      "id": "5abfec1b4c7c37aab07c3ca37dc68fb2",
-      "title": "(LEAD) Young pitchers help put Lions on brink of Korean Series title",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261107002151315",
-      "published_date": "2026-11-07T09:15:45Z",
+      "id": "9f8e5f4644b658ac484ddbe4f8c9d0b7",
+      "title": "US blacklists Seychelles-based crypto exchange over North Korean laundering",
+      "source": "NK News",
+      "url": "https://www.nknews.org/2026/11/us-blacklists-seychelles-based-crypto-exchange-over-north-korean-laundering/",
+      "published_date": "2026-11-09T05:49:13Z",
       "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "id": "9d921c58d87dc1944402c78e26a5a3e4",
+      "title": "IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261110000200315",
+      "published_date": "2026-11-09T15:41:41Z",
+      "category": "Military"
+    },
+    {
+      "id": "6cbe3f5a866cc48c444a31b4fff1dcc2",
+      "title": "Prison terms sought for ex-security officials for leaking THAAD-related intelligence",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109008500315",
+      "published_date": "2026-11-09T08:03:39Z",
+      "category": "Military"
+    },
+    {
+      "id": "4d3f3b0ab365420e24c2eb5ea4ab56a6",
+      "title": "(LEAD) Defense chief signals potential shift in plans to integrate military academies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004651315",
+      "published_date": "2026-11-09T07:19:41Z",
+      "category": "Military"
+    },
+    {
+      "id": "daa81987265eb834619d53356a970349",
+      "title": "Alumni leaders of 3 military academies reiterate opposition to integrated academy plan",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004600315",
+      "published_date": "2026-11-09T03:38:26Z",
+      "category": "Military"
+    },
     {
       "id": "a8d6df8fd67b03a2e608299b22e8fb56",
       "title": "(EDITORIAL from Korea JoongAng Daily on Nov. 9)",
@@ -298,41 +330,41 @@
       "url": "https://en.yna.co.kr/view/AEN20261105000200315",
       "published_date": "2026-11-04T17:16:26Z",
       "category": "Military"
-    },
-    {
-      "id": "43bc59b94adf034f8ca51bb8e130d077",
-      "title": "Navy stages maritime maneuver drills to hone operability",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261104004700315",
-      "published_date": "2026-11-04T02:15:30Z",
-      "category": "Military"
-    },
-    {
-      "id": "f0e2a78bb7fd3930bf79bc618702ba0c",
-      "title": "Military cadets set to embark on joint training cruise to boost interoperability",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261103005500315",
-      "published_date": "2026-11-03T02:23:43Z",
-      "category": "Military"
-    },
-    {
-      "id": "acb51df6dc4c0f9cc331b2f6beabf285",
-      "title": "N. Korea slams Japan's missile reinforcement, joint drills with U.S.",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261103004700315",
-      "published_date": "2026-11-03T01:31:50Z",
-      "category": "Military"
-    },
-    {
-      "id": "40f8913a41cd0fb43dc7ca893a322fdf",
-      "title": "Launch ceremony set for latest indigenously-built attack submarine",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261103003400315",
-      "published_date": "2026-11-03T00:54:10Z",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "id": "668118dfa76a70196a521c89b8c4c14f",
+      "title": "Jeon Do-yeon surprised by rave reviews for her 'Possible Love' role",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109008200315",
+      "published_date": "2026-11-09T07:55:46Z",
+      "category": "Energy"
+    },
+    {
+      "id": "153b29db7fe521baaf7c4a37dce45b73",
+      "title": "Kakao Mobility, Nvidia team up to develop Level 4 autonomous driving technology",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004400320",
+      "published_date": "2026-11-09T02:45:41Z",
+      "category": "Energy"
+    },
+    {
+      "id": "17e5a8247c61387cda79216be9a864f7",
+      "title": "Seoul stocks move up late Monday morning on chip rebound",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004100320",
+      "published_date": "2026-11-09T02:34:33Z",
+      "category": "Energy"
+    },
+    {
+      "id": "362ed6291c2bafbfc9794cadee9dd5c3",
+      "title": "SK hynix to expand U.S. workforce to deepen ties with key clients",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261108003900320",
+      "published_date": "2026-11-09T02:13:32Z",
+      "category": "Energy"
+    },
     {
       "id": "1e1883253637a39cd9164508ebbcecfd",
       "title": "S. Koreans' daily energy intake drops 11 pct in 10 yrs",
@@ -452,41 +484,65 @@
       "url": "https://en.yna.co.kr/view/AEN20261103001500320",
       "published_date": "2026-11-02T23:00:02Z",
       "category": "Energy"
-    },
-    {
-      "id": "6c71de7305684bc67ee4a9ae41900226",
-      "title": "(Yonhap Interview) S. Korea prepares launch of new SMR review system this month: nuclear watchdog chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261102012100320",
-      "published_date": "2026-11-02T21:00:03Z",
-      "category": "Energy"
-    },
-    {
-      "id": "c0afdddfe2746d4e4308e744ab90ed5b",
-      "title": "North Korean coal officials tour Chinese mining firm amid modernization drive",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/north-korean-coal-officials-tour-chinese-mining-firm-amid-modernization-drive/",
-      "published_date": "2026-11-02T08:22:59Z",
-      "category": "Energy"
-    },
-    {
-      "id": "57bda1d4fef15b6c512d7e54d8c5271e",
-      "title": "(LEAD) S-Oil Q3 net surges on higher refining, lubricants margins",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261102006351320",
-      "published_date": "2026-11-02T05:47:53Z",
-      "category": "Energy"
-    },
-    {
-      "id": "afdd9ad8c33ad4ebe0ba3b6652e2eb8a",
-      "title": "Seoul mayor says to review next year's marathons from 'scratch' after severe traffic disruptions",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261102007100315",
-      "published_date": "2026-11-02T05:46:37Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "26706eb61972a67ef31f5bff0d827a28",
+      "title": "(2nd LD) Nvidia, SKT, Rebellions to jointly establish heterogeneous computing system for AI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109005452320",
+      "published_date": "2026-11-09T09:47:21Z",
+      "category": "Economy"
+    },
+    {
+      "id": "3be0abf44eb08bdc419626e18c56ce98",
+      "title": "Samsung hosts Hyundai Motor Group executives for large-scale networking event",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109009000320",
+      "published_date": "2026-11-09T08:17:33Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9886517008543e00234ed8acb02d2230",
+      "title": "(LEAD) Nvidia, SKT, Rebellions to jointly establish heterogeneous computing system for AI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109005451320",
+      "published_date": "2026-11-09T07:52:09Z",
+      "category": "Economy"
+    },
+    {
+      "id": "799e03073bdd9a14a9f3f11a727cfde3",
+      "title": "S. Korean won strengthens on dollar sales, risk-taking mood",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109007700320",
+      "published_date": "2026-11-09T07:20:47Z",
+      "category": "Economy"
+    },
+    {
+      "id": "419a410706b3ee44dab19d8c75722c3d",
+      "title": "Nvidia, SKT, Rebellions to jointly establish heterogeneous computing system for AI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109005400320",
+      "published_date": "2026-11-09T05:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "id": "d3569e55d872905ad6311965cf12b86c",
+      "title": "S. Korean economy continues to post 'solid' growth amid AI investment: KDI",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109001700320",
+      "published_date": "2026-11-09T03:00:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "1ac694d7a819419e4be7b7e743027133",
+      "title": "HD Hyundai Heavy Industries secures 662.9 bln-won order for 2 LNG carriers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109003800320",
+      "published_date": "2026-11-09T02:09:39Z",
+      "category": "Economy"
+    },
     {
       "id": "f7ada25d6aed0b4c544f74d89ccbbac8",
       "title": "(LEAD) Seoul stocks buck gains on Wall Street to open lower",
@@ -590,65 +646,105 @@
       "url": "https://en.yna.co.kr/view/AEN20261106010300320",
       "published_date": "2026-11-06T07:36:42Z",
       "category": "Economy"
-    },
-    {
-      "id": "56fa51cd53d26deca4827d5d9457237a",
-      "title": "(2nd LD) Seoul stocks crash for 2nd day on AI rout after U.S. midterms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007852320",
-      "published_date": "2026-11-06T07:36:01Z",
-      "category": "Economy"
-    },
-    {
-      "id": "db38509e13d1ef3af1b876bfb11d127c",
-      "title": "(LEAD)(News Focus) KOSPI pummeled by AI investment fears, briefly dips below 5,000",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106004451320",
-      "published_date": "2026-11-06T07:23:55Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1c953d4b0f5347342a3174317b6e2df8",
-      "title": "(LEAD) Seoul stocks crash for 2nd day on AI rout after U.S. midterms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007851320",
-      "published_date": "2026-11-06T07:01:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "bf51a3b1b250e90f7ad7c66d699ee36d",
-      "title": "Seoul stocks crash for 2nd day on AI rout after U.S. midterms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007800320",
-      "published_date": "2026-11-06T06:34:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "11050f727ec3cd62a98274472d06b5e8",
-      "title": "(URGENT) Seoul stocks crash for 2nd day on AI rout after U.S. midterms",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106007500320",
-      "published_date": "2026-11-06T06:33:07Z",
-      "category": "Economy"
-    },
-    {
-      "id": "4d67e7857f149035e9915259bf764313",
-      "title": "(LEAD) More market stabilization measures in store to ease panic sell-offs: finance minister",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106002551320",
-      "published_date": "2026-11-06T03:10:43Z",
-      "category": "Economy"
-    },
-    {
-      "id": "986351d3a7296982a631a359c909be90",
-      "title": "Seoul stocks sharply down late Fri. morning on AI rout",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106004600320",
-      "published_date": "2026-11-06T02:31:12Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "6d65dbcdc83d6e75c3ad0c9a719e9339",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109008700315",
+      "published_date": "2026-11-09T08:03:37Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4f677cec45a6a519f7989a125df16d17",
+      "title": "Gov't to take responsibility for firefighters' safety: PM",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109008300315",
+      "published_date": "2026-11-09T07:53:13Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "919606b77fe4b91fed5e8d530d93771e",
+      "title": "(2nd LD) Lee vows to hire more firefighters, expand investment to ensure public safety",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004052315",
+      "published_date": "2026-11-09T06:42:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "5b889a5224fd042ea2001a97b286beab",
+      "title": "4 cheating cases using AI glasses caught at middle, high schools this year",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109005800315",
+      "published_date": "2026-11-09T06:41:43Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8afe8bced277adc29e47099d19510737",
+      "title": "Police chief nominee defends attendance at Cabinet meetings",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109005700315",
+      "published_date": "2026-11-09T05:52:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "be7c8c22bce8e5118d8793388cfb2bab",
+      "title": "Disgraced stem cell scientist loses citizenship after acquiring UAE nationality",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109005500315",
+      "published_date": "2026-11-09T05:31:53Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "239bbbe733024011d37af397ef614472",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109000700320",
+      "published_date": "2026-11-09T05:00:05Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "2f29b17286b8920a37b888ea8c37f148",
+      "title": "Yonhap News Summary",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004900320",
+      "published_date": "2026-11-09T04:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "ae5ea5e2e4333419e04e5ceaaa59bbc8",
+      "title": "Seoul Station Plaza designated as no-drinking zone",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109003600315",
+      "published_date": "2026-11-09T04:13:42Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a78e7af131220de6156487813f5b6a3c",
+      "title": "(LEAD) Lee vows to hire more firefighters, expand investment to ensure public safety",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004051315",
+      "published_date": "2026-11-09T02:59:28Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a73c41e3f55801d23e3acd1fc124310a",
+      "title": "Lee vows to hire more firefighters, expand investment to ensure public safety",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109004000315",
+      "published_date": "2026-11-09T02:39:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "383f7f36204e0b2a2235cc7fe7934daf",
+      "title": "PPP leaders gather outside Cheong Wa Dae to protest special counsel bill",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261109003700315",
+      "published_date": "2026-11-09T02:08:06Z",
+      "category": "Local Events"
+    },
     {
       "id": "1c36d4c17b41df81ea4c2c6fd417ba51",
       "title": "Justice minister nominee cautious on withdrawal of indictments against Lee",
@@ -711,102 +807,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261108003251315",
       "published_date": "2026-11-08T11:05:45Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "616e4bc2b2e2495895b46d6db45cb4aa",
-      "title": "(LEAD) Lions beat steep odds to capture Korean Series title",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002951315",
-      "published_date": "2026-11-08T09:55:46Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d8c8e6ab5b1f0e0b92451eb2bda51a44",
-      "title": "Lions pitcher Paddack proud of making good on championship promise: 'That was something special'",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003300315",
-      "published_date": "2026-11-08T09:47:26Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "be3d9cf4b14108313f4c727306c41e38",
-      "title": "PM vows to review support measures for firefighters",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003200315",
-      "published_date": "2026-11-08T08:47:52Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8ef07d37a96d069ef6bfa0d3eb27b9cc",
-      "title": "Lions beat steep odds to capture Korean Series title",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002900315",
-      "published_date": "2026-11-08T08:19:55Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "efc6e5f840d672774b41eb032dd26a5e",
-      "title": "92 pct of S. Korean firms in Vietnam wish to stay despite rising labor costs: survey",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108002200320",
-      "published_date": "2026-11-08T05:56:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "539bf542a2067b0b5186e1c12af7ffac",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108000500315",
-      "published_date": "2026-11-08T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "b9a37c727b1fd684acadbe0b9b19e9eb",
-      "title": "Wiz manager benches slumping slugger in do-or-die Korean Series game",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108001800315",
-      "published_date": "2026-11-08T04:31:32Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "3682d9b29fc7e21bbb88fa7584d50ed5",
-      "title": "Regular employment rises among older workers in Q3, falls among youth",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108001000315",
-      "published_date": "2026-11-08T02:45:39Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "edb51db57fcf7f5018bb2a7de5f7073f",
-      "title": "New elementary school enrollment to drop below 300,000 for 1st time amid low birth rate",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108000800315",
-      "published_date": "2026-11-08T01:11:59Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "9c2579522450ca0ae9599448354c56f8",
-      "title": "Court issues arrest warrant for woman accused of stabbing doctor at hospital",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261107003200315",
-      "published_date": "2026-11-07T10:56:40Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "908e50597c59924b8d0fab2fad2bb8d8",
-      "title": "Excitable Lions outfielder continues postseason breakout with big day",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261107002600315",
-      "published_date": "2026-11-07T09:33:47Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "95b2de4ddfca4697e9df4cfcf811e2ee",
-      "title": "(LEAD) Personal info of some 39,000 leaked from Mirae Asset Securities",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261107000451315",
-      "published_date": "2026-11-07T05:19:05Z",
       "category": "Local Events"
     }
   ]
