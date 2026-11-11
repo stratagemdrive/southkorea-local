@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-10T18:29:56Z",
+  "generated_at": "2026-11-11T02:21:02Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,70 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "9d910b783dc636b1fc1d469ca4c16ac7",
+      "title": "Netflix to launch new 'Class Wars' series with focus on music",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111003400315",
+      "published_date": "2026-11-11T02:02:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "513bb11c5368f94e114e449a121c2068",
+      "title": "Bus rams into 32 vehicles in Bundang, with 48 injured",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111003500315",
+      "published_date": "2026-11-11T01:59:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3630c7040902c57b848145cfcaf70ea1",
+      "title": "Justice minister nominee reiterates special counsel role over indictments against Lee",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111003000315",
+      "published_date": "2026-11-11T01:45:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "3dd1536eab4f2f36328a39485b355a8f",
+      "title": "(LEAD) FM Cho stresses mutual respect, trust as prerequisite for bilateral ties in talks with Ukrainian minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001552315",
+      "published_date": "2026-11-11T00:24:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "9afb68f8b8e84483204d4154f6e60c0e",
+      "title": "S. Korea ranks 10th place in global AI, digital competitiveness",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111002200320",
+      "published_date": "2026-11-11T00:16:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "cb1b6448612e2e87d8b16ce430dce782",
+      "title": "S. Korea to launch task force to tackle disparities",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001000320",
+      "published_date": "2026-11-11T00:00:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "348e1005047ec727fa95ddd87d2c14d0",
+      "title": "FM Cho stresses mutual respect, trust as prerequisite for bilateral ties in talks with Ukrainian minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001500315",
+      "published_date": "2026-11-10T23:52:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "4537d09be9b3f67e998588e3096ad678",
+      "title": "(2nd LD) S. Korean, U.S. FMs discuss N. Korea, bilateral issues in Paris",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261110010752315",
+      "published_date": "2026-11-10T19:06:08Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "7c7971e75ea4cda2d40be11615cab9ad",
       "title": "HRW urges U.N. to address N. Korean human rights situation alongside security issues",
@@ -20,6 +84,14 @@
     {
       "id": "0865f73b5703350b4dd3b55c55594d78",
       "title": "U.N. chief candidate stresses mediation over S. Korea's concerns over peninsula tensions",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111000200315",
+      "published_date": "2026-11-10T16:35:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "fe07ff6215ca529b520a7e1b89aa80d3",
+      "title": "U.N. chief candidate stresses mediation regarding S. Korea's concerns over peninsula tensions",
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261111000200315",
       "published_date": "2026-11-10T16:35:51Z",
@@ -95,78 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261110009100315",
       "published_date": "2026-11-10T07:56:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0d42ca6c59c36f30985d12ea72b8f1bf",
-      "title": "Russian visits to North Korea plateaued in first nine months, data shows",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/russian-visits-to-north-korea-plateaued-in-first-nine-months-data-shows/",
-      "published_date": "2026-11-10T07:29:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "292708ba66300d07d9dc9b5ed8f0a72f",
-      "title": "(LEAD) N. Korea rejects U.N. chief's call for inter-Korean dialogue after mine blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110007451315",
-      "published_date": "2026-11-10T07:22:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "48626d20fc78658fb8e4d9b905cd23b2",
-      "title": "Seoul Metro union threatens Nov. 25 general strike over wage, hiring disputes",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110008500315",
-      "published_date": "2026-11-10T07:17:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "535493593288b97d6d8dba83daf1b7f9",
-      "title": "(2nd LD) Top diplomats of S. Korea, France discuss ties, Ukraine war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110003152315",
-      "published_date": "2026-11-10T07:16:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c2f43a92f20720a4e927faa6bb834e5d",
-      "title": "South Korea rescued North Korean fishing boat adrift in East Sea this month",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/south-korea-rescued-north-korean-fishing-boat-adrift-in-east-sea-this-month/",
-      "published_date": "2026-11-10T07:13:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "c48a9e989a80b8d7c97e22d85d42f3be",
-      "title": "N. Korea rejects U.N. chief's call for inter-Korean dialogue after mine blast",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110007400315",
-      "published_date": "2026-11-10T06:36:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "f16aa8d57a42c2d103e6c2ec0fec8f97",
-      "title": "Veteran pianist Paik Kun-woo urges young musicians to seek wider musical world",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110006900315",
-      "published_date": "2026-11-10T06:18:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "70e84479de1da47f2c03601059603166",
-      "title": "Work on southern section of inter-Korean railway to resume soon: Seoul",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110006800315",
-      "published_date": "2026-11-10T06:12:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "8d631d3a3659db944aaaf0dcfbb2ea23",
-      "title": "(LEAD) Top diplomats of S. Korea, France discuss ties, Ukraine war",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110003151315",
-      "published_date": "2026-11-10T05:37:43Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,38 @@
   ],
   "Energy": [
     {
+      "id": "18c436cb88a9953a7566340ee86ba563",
+      "title": "Nat'l Assembly speaker vows push for constitutional revision, rules out Lee seeking 2nd term",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111004600315",
+      "published_date": "2026-11-11T02:11:43Z",
+      "category": "Energy"
+    },
+    {
+      "id": "684e5961b3957b2edf518bde45a2694b",
+      "title": "Revised regional currency swap arrangement takes effect",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001700320",
+      "published_date": "2026-11-11T01:00:03Z",
+      "category": "Energy"
+    },
+    {
+      "id": "dffe48391cb61dcac67562f6658e0d2c",
+      "title": "S. Korea to extend fuel tax cuts through Jan. to ease price burdens",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111000600320",
+      "published_date": "2026-11-11T00:00:07Z",
+      "category": "Energy"
+    },
+    {
+      "id": "51eb0b15b8b46e8042e0932315f6ac52",
+      "title": "Gov't to foster sensor, actuator, humanoid battery industries",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001600320",
+      "published_date": "2026-11-11T00:00:01Z",
+      "category": "Energy"
+    },
+    {
       "id": "d1cf8403f5282bc6e42df1a99d7ccb38",
       "title": "S. Korean won gains against U.S. dollar as oil prices slide",
       "source": "Yonhap News Agency",
@@ -460,25 +492,105 @@
       "url": "https://en.yna.co.kr/view/AEN20261104008400315",
       "published_date": "2026-11-04T07:30:49Z",
       "category": "Energy"
-    },
-    {
-      "id": "d53b6fdcac6426dd367b05cd192391fc",
-      "title": "Imported vehicle sales jump 29.3 pct in Oct. on strong EV demand",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261104006900320",
-      "published_date": "2026-11-04T06:37:17Z",
-      "category": "Energy"
-    },
-    {
-      "id": "af836f4932d9bbf7c9353a74ab2baf52",
-      "title": "Science ministry, AMD engage in follow-up discussions on AI chip partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261104003100320",
-      "published_date": "2026-11-04T00:54:22Z",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "id": "37e06c184c2f3806cef385905508880f",
+      "title": "Gov't to release growth forecasts 3 times per year: finance minister",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111002700320",
+      "published_date": "2026-11-11T00:39:45Z",
+      "category": "Economy"
+    },
+    {
+      "id": "30d079af5ab883048c965f8ffffb4eeb",
+      "title": "(LEAD) Seoul shares turn higher after weak start amid inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001951320",
+      "published_date": "2026-11-11T00:27:56Z",
+      "category": "Economy"
+    },
+    {
+      "id": "93e62f99cea713d5a87221742d69f924",
+      "title": "(LEAD) Exports more than double in 1st 10 days of Nov.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111002651320",
+      "published_date": "2026-11-11T00:26:25Z",
+      "category": "Economy"
+    },
+    {
+      "id": "893b53e11fe7364d3e30698ba7be5fac",
+      "title": "Exports more than double in 1st 10 days of Nov.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111002600320",
+      "published_date": "2026-11-11T00:15:15Z",
+      "category": "Economy"
+    },
+    {
+      "id": "67a4eb3eff90ffa8a8eb2000655ee7ab",
+      "title": "SK Group to hold CEO seminar to discuss 2027 business strategies",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111002100320",
+      "published_date": "2026-11-11T00:06:38Z",
+      "category": "Economy"
+    },
+    {
+      "id": "6aac5e9d9058dfbca6fe9559ebba21aa",
+      "title": "Seoul shares open lower on inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001900320",
+      "published_date": "2026-11-11T00:03:28Z",
+      "category": "Economy"
+    },
+    {
+      "id": "0478e759e7a899779e4d1347efb2e808",
+      "title": "(2nd LD) S. Korea adds 139,000 jobs in October, above 100,000 for 4th month",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001252320",
+      "published_date": "2026-11-11T00:01:26Z",
+      "category": "Economy"
+    },
+    {
+      "id": "f02bcc254fa4dfbe8c1fd868e1676456",
+      "title": "(URGENT) Seoul shares open lower on inflation woes",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001800320",
+      "published_date": "2026-11-11T00:01:22Z",
+      "category": "Economy"
+    },
+    {
+      "id": "53d2df8ccf1d703814eb979bd36e3df2",
+      "title": "(LEAD) S. Korea adds 139,000 jobs in October, above 100,000 for 4th month",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001251320",
+      "published_date": "2026-11-10T23:16:06Z",
+      "category": "Economy"
+    },
+    {
+      "id": "41f876f77560cdbd67086d20c52f4d56",
+      "title": "S. Korea adds 139,000 jobs in October, above 100,000 for 4th month",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001200320",
+      "published_date": "2026-11-10T23:00:08Z",
+      "category": "Economy"
+    },
+    {
+      "id": "9e3bf0173ffe2ffd7efe7496cc4aeca2",
+      "title": "(URGENT) S. Korea adds 139,000 jobs in Oct.",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001100320",
+      "published_date": "2026-11-10T23:00:04Z",
+      "category": "Economy"
+    },
+    {
+      "id": "81ee6d3da5fd2370bfc1f7f339e357f2",
+      "title": "(EDITORIAL from Korea Times on Nov. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111000800315",
+      "published_date": "2026-11-10T22:06:07Z",
+      "category": "Economy"
+    },
     {
       "id": "5f4585baa5689515b6d1ce8ff1e6cb85",
       "title": "Grain stores scramble the math on North Korea’s rice prices",
@@ -542,105 +654,65 @@
       "url": "https://en.yna.co.kr/view/AEN20261109005400320",
       "published_date": "2026-11-09T05:00:00Z",
       "category": "Economy"
-    },
-    {
-      "id": "d3569e55d872905ad6311965cf12b86c",
-      "title": "S. Korean economy continues to post 'solid' growth amid AI investment: KDI",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109001700320",
-      "published_date": "2026-11-09T03:00:22Z",
-      "category": "Economy"
-    },
-    {
-      "id": "1ac694d7a819419e4be7b7e743027133",
-      "title": "HD Hyundai Heavy Industries secures 662.9 bln-won order for 2 LNG carriers",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109003800320",
-      "published_date": "2026-11-09T02:09:39Z",
-      "category": "Economy"
-    },
-    {
-      "id": "f7ada25d6aed0b4c544f74d89ccbbac8",
-      "title": "(LEAD) Seoul stocks buck gains on Wall Street to open lower",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109000851320",
-      "published_date": "2026-11-09T00:29:30Z",
-      "category": "Economy"
-    },
-    {
-      "id": "603a6a5ce0d723209dfa144ba39b4fec",
-      "title": "Seoul stocks buck gains on Wall Street to open lower",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109000800320",
-      "published_date": "2026-11-09T00:04:46Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c56aa9c56e24870200fe8994579b5770",
-      "title": "(URGENT) Seoul stocks open lower, bucking gains on Wall Street",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109000900320",
-      "published_date": "2026-11-09T00:02:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "b6b21c521f2c0f83cc8a3c728cab1182",
-      "title": "(EDITORIAL from The Korea Times on Nov. 9)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109000500320",
-      "published_date": "2026-11-08T21:57:56Z",
-      "category": "Economy"
-    },
-    {
-      "id": "0c0ea2ffac86d613c894f4e371141a78",
-      "title": "(EDITORIAL from The Korea Herald on Nov. 9)",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109000400320",
-      "published_date": "2026-11-08T21:57:39Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c14806fb2160d6b74cb37e321142d891",
-      "title": "Homegrown ace delivers strong start for Lions in title-clinching game",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108003400315",
-      "published_date": "2026-11-08T10:09:57Z",
-      "category": "Economy"
-    },
-    {
-      "id": "7ce28c7cf4d113263929f2ec19d96887",
-      "title": "Samsung Electronics to become 1st local firm with cash assets of over 200 tln won: data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108001900320",
-      "published_date": "2026-11-08T05:20:05Z",
-      "category": "Economy"
-    },
-    {
-      "id": "9842a857246a0379e187432457973d99",
-      "title": "Kia expected to meet annual sales target for 1st time in 12 yrs: industry data",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261108001100320",
-      "published_date": "2026-11-08T02:49:47Z",
-      "category": "Economy"
-    },
-    {
-      "id": "c990944bb66a895fd7d805223f22238e",
-      "title": "Lions to start homegrown ace in bid to clinch Korean Series title",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261107002200315",
-      "published_date": "2026-11-07T08:43:24Z",
-      "category": "Economy"
-    },
-    {
-      "id": "95d0ef7d5cfbbb1f2ea40de37763949a",
-      "title": "(LEAD) GOPAX suspends withdrawals, trading following hacking threats",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261106011751320",
-      "published_date": "2026-11-06T13:03:18Z",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "id": "b23631689665981ef74da9dc2939203e",
+      "title": "MMCA exhibition to highlight iconic American modernist painter Georgia O'Keeffe",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111003200315",
+      "published_date": "2026-11-11T02:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "15fb87706d3b04b73f42c723932c582a",
+      "title": "'Dracula' featuring Jennie climbs to No. 3 on Billboard Hot 100",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111002800315",
+      "published_date": "2026-11-11T01:07:49Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "a7b6b4fb487bfbe1e17292261241399e",
+      "title": "'Dead-End Job' tops Netflix's non-English TV chart",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001400315",
+      "published_date": "2026-11-10T23:34:47Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "9fab3f7797bab47e35cf8284ea1f4731",
+      "title": "Fire breaks out again at shantytown in southern Seoul; no injuries reported",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111001300315",
+      "published_date": "2026-11-10T23:18:12Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "4dc2632185bbfc5fb630bedb17e30622",
+      "title": "(EDITORIAL from Korea JoongAng Daily on Nov. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111000900315",
+      "published_date": "2026-11-10T22:06:30Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "87f1a47f59021aa996faa48230e9d7f8",
+      "title": "(EDITORIAL from Korea Herald on Nov. 11)",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111000700315",
+      "published_date": "2026-11-10T22:05:52Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "c6cbdadeed0deff9b914ccd69fa63f3a",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261111000500315",
+      "published_date": "2026-11-10T22:01:16Z",
+      "category": "Local Events"
+    },
     {
       "id": "4a43bfd7e44abea1b74124c5109c23ac",
       "title": "(LEAD) Krafton's Q3 operating profit down over 35 pct despite sales increase",
@@ -743,62 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261110005800315",
       "published_date": "2026-11-10T02:59:37Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "80b3093d7843de5e36fa0a2e93fa2243",
-      "title": "Top court schedules another deliberation for ex-PM's martial law trial, raising likelihood of release",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110004400315",
-      "published_date": "2026-11-10T02:33:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "1076ba2b1fdffce71361e16badc72bfc",
-      "title": "(LEAD) N. Korea tests new torpedo, eyes early 2027 deployment",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110001251315",
-      "published_date": "2026-11-10T02:18:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c7105f4208762948cbce63618d7c703f",
-      "title": "Bond issuance rises in October",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110003500320",
-      "published_date": "2026-11-10T01:38:07Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "78968d080f8418686dee096408a6764f",
-      "title": "(LEAD) KT Q3 operating profit down amid data breach fallout, AI expenditures",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110002651320",
-      "published_date": "2026-11-10T01:36:21Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "e6cfc8140b40c0889200fc1760362516",
-      "title": "Stray Kids adds 25 more dates to ongoing world tour",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110003000315",
-      "published_date": "2026-11-10T00:58:08Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "d906812e3a763ab46db1e703eddff395",
-      "title": "Int'l Memorial Day for U.N. Korean War veterans to be held in Busan",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110002800315",
-      "published_date": "2026-11-10T00:34:27Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "176fc59ba9fe88867bbe9edf915d773d",
-      "title": "(LEAD) CJ Logistics Q3 net falls 25.5 pct on higher costs",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261110001551320",
-      "published_date": "2026-11-10T00:30:48Z",
       "category": "Local Events"
     }
   ]
