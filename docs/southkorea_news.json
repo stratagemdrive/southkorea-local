@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-14T02:47:17Z",
+  "generated_at": "2026-11-14T16:52:28Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,14 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "45dc25f79ba3057a247a28bc4381a2bb",
+      "title": "Beijing details N. Korean leader's China visit in FM talks with Seoul: official",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114001900315",
+      "published_date": "2026-11-14T05:04:07Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "443666f19ad5150d11224b973c21eac7",
       "title": "Actor Ko Kyung-pyo caught drunk driving after crashing into cleaning truck",
@@ -159,14 +167,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261113004900315",
       "published_date": "2026-11-13T05:50:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "4053905ca1590e6cbcb7fc6b276e2fca",
-      "title": "North Korea’s top diplomat denounces G7 for demanding denuclearization",
-      "source": "NK News",
-      "url": "https://www.nknews.org/2026/11/north-koreas-top-diplomat-denounces-g7-for-demanding-denuclearization/",
-      "published_date": "2026-11-13T04:41:50Z",
       "category": "Diplomacy"
     }
   ],
@@ -658,6 +658,30 @@
   ],
   "Local Events": [
     {
+      "id": "1d487199c23a880867d62b6b0adceda9",
+      "title": "S. Korea defeats Taiwan to reach final vs. Japan at regional baseball tournament",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114003400315",
+      "published_date": "2026-11-14T13:08:35Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "47d99bcfe2aaa13f5403f9defd2ef2b4",
+      "title": "ICT ministry to inspect domestic disruptions after Microsoft services outage",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114002000315",
+      "published_date": "2026-11-14T07:40:56Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "7594524efa1ecbb46ec8efc84b079289",
+      "title": "Today in Korean history",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114001000315",
+      "published_date": "2026-11-14T05:00:01Z",
+      "category": "Local Events"
+    },
+    {
       "id": "73dfba0e884bc3a631fc7402c78566de",
       "title": "(LEAD) Trump to meet Xi, Putin in China next week; no plans for N. Korea engagement: reports",
       "source": "Yonhap News Agency",
@@ -791,30 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261113004800315",
       "published_date": "2026-11-13T07:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "5e5abda84dc022b293725c1a43aefe49",
-      "title": "(URGENT) Seoul shares drop nearly 1 pct, erasing earlier gains following Nvidia jitters",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113005200320",
-      "published_date": "2026-11-13T06:35:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "962100290efded14538697ec1e749e70",
-      "title": "KAI, Indonesia's PTDI to expand KF-21 production partnership",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113005100320",
-      "published_date": "2026-11-13T06:20:06Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "8ce939566bead4647270a899f73bfea3",
-      "title": "(LEAD) Google complies with S. Korea's security requirements for high-precision map data: gov't",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113004251320",
-      "published_date": "2026-11-13T05:30:20Z",
       "category": "Local Events"
     }
   ]
