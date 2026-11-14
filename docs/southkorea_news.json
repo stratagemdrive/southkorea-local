@@ -1,6 +1,6 @@
 {
   "country": "southkorea",
-  "generated_at": "2026-11-13T18:25:16Z",
+  "generated_at": "2026-11-14T02:47:17Z",
   "categories": [
     "Diplomacy",
     "Military",
@@ -9,6 +9,30 @@
     "Local Events"
   ],
   "Diplomacy": [
+    {
+      "id": "443666f19ad5150d11224b973c21eac7",
+      "title": "Actor Ko Kyung-pyo caught drunk driving after crashing into cleaning truck",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114001200315",
+      "published_date": "2026-11-14T01:38:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "74b950f315f6c92c2afb289d50c9d652",
+      "title": "Three IT workers sent home from China as suspected defectors",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/north-korean-it-workers-china-recalled-defection-suspicion/",
+      "published_date": "2026-11-14T00:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "id": "8921d95dfedd946bb4898a2191f5a811",
+      "title": "Son Heung-min laments unrewarded effort against Saudi Arabia after 3-2 loss",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114000700315",
+      "published_date": "2026-11-13T18:22:51Z",
+      "category": "Diplomacy"
+    },
     {
       "id": "14f9df60076d1c5855582dad44fa28c2",
       "title": "(2nd LD) FM Cho urges China to play 'constructive role' in bringing N. Korea back to dialogue",
@@ -143,30 +167,6 @@
       "source": "NK News",
       "url": "https://www.nknews.org/2026/11/north-koreas-top-diplomat-denounces-g7-for-demanding-denuclearization/",
       "published_date": "2026-11-13T04:41:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "0f168e26d85cb4e92069a9e85c24b4d2",
-      "title": "Former presidential security official named new KOICA chief",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113003000315",
-      "published_date": "2026-11-13T02:05:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "9ac713e1cad16294b547670cf87408cc",
-      "title": "Hyundai Motor partners with Socar, Apex Mobility to advance autonomous driving",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113002900320",
-      "published_date": "2026-11-13T01:55:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "id": "1f94f655bf5dee0995293782cdf6b57d",
-      "title": "Lee's approval rating falls back below 40 pct: poll",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113002700315",
-      "published_date": "2026-11-13T01:53:03Z",
       "category": "Diplomacy"
     }
   ],
@@ -334,6 +334,14 @@
   ],
   "Energy": [
     {
+      "id": "835af316375a3fad6c55faf437747958",
+      "title": "Meth-fueled knife fight in Hamhung shrugged off by police",
+      "source": "Daily NK",
+      "url": "https://www.dailynk.com/english/hamhung-crystal-meth-knife-fight-police/",
+      "published_date": "2026-11-13T20:16:00Z",
+      "category": "Energy"
+    },
+    {
       "id": "d2d77c9c2858dba8f476d9c991607aa7",
       "title": "Coach says S. Korea must improve 'in every aspect' following loss to Saudi Arabia",
       "source": "Yonhap News Agency",
@@ -483,14 +491,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261110004600320",
       "published_date": "2026-11-10T02:35:43Z",
-      "category": "Energy"
-    },
-    {
-      "id": "668118dfa76a70196a521c89b8c4c14f",
-      "title": "Jeon Do-yeon surprised by rave reviews for her 'Possible Love' role",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261109008200315",
-      "published_date": "2026-11-09T07:55:46Z",
       "category": "Energy"
     }
   ],
@@ -658,6 +658,38 @@
   ],
   "Local Events": [
     {
+      "id": "73dfba0e884bc3a631fc7402c78566de",
+      "title": "(LEAD) Trump to meet Xi, Putin in China next week; no plans for N. Korea engagement: reports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114001151315",
+      "published_date": "2026-11-14T01:30:02Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "8b247fcbae38de346060912cbfab33ee",
+      "title": "Trump to meet Xi, Putin in China next week; no plans for N. Korea engagement: reports",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114001100315",
+      "published_date": "2026-11-14T00:50:20Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "02ffb9160ff385a215f9f8b5fe64b233",
+      "title": "Top headlines in major S. Korean newspapers",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114000900315",
+      "published_date": "2026-11-14T00:10:27Z",
+      "category": "Local Events"
+    },
+    {
+      "id": "e214d250c688190c4fe64afe18c28234",
+      "title": "(LEAD) Nat'l football team submits another lackluster performance in loss to Saudi Arabia",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261114000451315",
+      "published_date": "2026-11-13T18:52:44Z",
+      "category": "Local Events"
+    },
+    {
       "id": "cbd0c8eca2be2ef3cf6243fc4baa68ea",
       "title": "Trump sees OPCON transition as potential path to U.S. troop withdrawal from Korea: experts",
       "source": "Yonhap News Agency",
@@ -783,38 +815,6 @@
       "source": "Yonhap News Agency",
       "url": "https://en.yna.co.kr/view/AEN20261113004251320",
       "published_date": "2026-11-13T05:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "df31685aa4038c04abdd56ba705c5e75",
-      "title": "S. Korea urges Japan to face full history of Sado mine during separate memorial",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113004300315",
-      "published_date": "2026-11-13T05:14:12Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "560262b7211b62e781cf69d76f54c979",
-      "title": "Google complies with S. Korea's security requirements for high-precision map data: gov't",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113004200320",
-      "published_date": "2026-11-13T05:02:03Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "6b7d4f58ef30623137199d42dc8eeb53",
-      "title": "Today in Korean history",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113002200320",
-      "published_date": "2026-11-13T05:00:02Z",
-      "category": "Local Events"
-    },
-    {
-      "id": "c4c13d265d070460127aef284fffba92",
-      "title": "Yonhap News Summary",
-      "source": "Yonhap News Agency",
-      "url": "https://en.yna.co.kr/view/AEN20261113004100320",
-      "published_date": "2026-11-13T04:05:23Z",
       "category": "Local Events"
     }
   ]
